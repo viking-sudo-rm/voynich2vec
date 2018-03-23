@@ -1,0 +1,1929 @@
+<f71r>           {$I=Z $Q=K $P=A}
+# Last edited on 1998-10-29 18:30:05 by stolfi
+#
+# Identification:
+#
+#   Title: "Aries light"
+#   Page: f71r = KA (Rene) = p135 (Stolfi)
+#   Folio: f71
+#   Panels: f71r
+#   Bifolio: bK1 = f71+f72
+#   Quire: K (Rene) = XI (Beinecke)
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: green,yellow,blue,red (Reeds)
+#
+# Description:
+#
+#   A circular diagram defined by six faint mechanically drawn
+#   concentric circles, forming three narrow bands. The two outer bands
+#   each contain a ring of text, broken by a decorated section in each
+#   band, at 10:00.
+#
+#   In the center there is an animal resembling a beardless goat,
+#   light-colored, nibbling at a bush, standing on a scalloped (rocky ?)
+#   ground. below it is a non-voynich word "ab*i*l".
+#
+#   In the space between the inner and middle bands there are 5
+#   nymphs, and 10 more in the space between the middle and outer band.
+#   Each nymph is standing inside an upright barrel, with a star or
+#   flower next to her head. Some stars have tails (or stems); some nymphs
+#   are holding their stars, by a ray or by the tail, others are
+#   pointing at them, some have their both hands on the hips. All but one of
+#   the nymphs are heavily dressed, and none have salient breasts or visible
+#   nipples.
+#
+#   There is a label clockwise from each nymph.
+#
+# Comments
+#
+#   Presumably, the "notched square" devices at 10:30 may be the "start
+#   here" mark of the circular text bands.
+#
+#   The goat is drawn better than the dark Aries (f70v1), and its legs
+#   bend the right way, unlike those of the light Aries (f71r). The
+#   nymphs (and the barrels), on the other and, are even worse than
+#   those of dark Aries.
+#
+#
+## <f71r.R1> {}
+# circular text
+# Last edited on 1998-12-09 18:17:15 by stolfi
+#
+# Outer ring
+# Transcribed starting from decorated square at 10:30
+#
+<f71r.R1.1;H>      
+olkeeody.okody.okchedy.oky.eey.okeodar.okeoky.oteody.oto.otol.oteey.ar.ykooar.ai
+in.aekeeey.okeo!keo!keody.okeodar.chy.s.aiin.oto!keoar.or.ar.al.otol.al.shckhey.
+oteeeodar.oteody.otol.aiin.shoekey.sal.al.ald.cheeokseo.q!orky.choly=
+<f71r.R1.1;U>      
+olkeeody.okody.okeeedy.oky,eey.okeodar.okeoky.oteody.oko.okol.okeey,ar.ykodar.ai
+in.oekeeey.okeo,keo,keody.okeodar.chy.s,aiin.oto,keoar.os.ar,al.otol.al.shckh!y.
+oteeeodar.oteody.otal,aiin.shoekey.rol,al,ald.ch*,oteeo.**o**y.choly=
+#
+## <f71r.S1> {}
+# panel f71r, Aries light, star labels
+# Last edited on 1998-12-09 18:26:08 by stolfi
+#
+# Outer band of nymphs
+# All with vertical barrels
+# Transcribed clockwise from 10:30, after decorated square
+#
+# 10:30
+<f71r.S1.1;H>      oteos.arar=
+<f71r.S1.1;K>      oteos!arar={was <f71r.06A;K>}
+<f71r.S1.1;V>      oteos.arar={Grove's #2, dressed}
+#
+# 11:00
+<f71r.S1.2;H>      okldam=
+<f71r.S1.2;K>      okldam={was <f71r.07A;K>}
+<f71r.S1.2;V>      okldam={Grove's #3, dressed}
+#
+# 00:15
+<f71r.S1.3;H>      oteoaldy=
+<f71r.S1.3;K>      oteoaldy={was <f71r.08A;K>}
+<f71r.S1.3;V>      oteoaldy={Grove's #4, dressed}
+#
+# 01:15
+<f71r.S1.4;H>      oteolar=
+<f71r.S1.4;K>      oteolar={was <f71r.09A;K>}
+<f71r.S1.4;V>      oteolar={Grove's #5, dressed}
+#
+# 02:15
+<f71r.S1.5;H>      okeoaly=
+<f71r.S1.5;K>      okeoaly={was <f71r.10A;K>}
+<f71r.S1.5;V>      okeoaly={Grove's #6, dressed}
+#
+# 03:15
+<f71r.S1.6;H>      otaleky=
+<f71r.S1.6;K>      otaleky={was <f71r.11A;K>}
+<f71r.S1.6;V>      otaleky={Grove's #7, dressed}
+#
+# 05:00
+<f71r.S1.7;H>      otalsar=
+<f71r.S1.7;K>      opalrar={was <f71r.12A;K>}
+<f71r.S1.7;V>      opalsar={Grove's #8, dressed}
+#
+# 06:15
+<f71r.S1.8;H>      chsary=
+<f71r.S1.8;K>      cheary={was <f71r.13A;K>}
+<f71r.S1.8;V>      cheary={Grove's #9, dressed}
+#
+# 07:30
+<f71r.S1.9;H>      oteo!tey.sary=
+<f71r.S1.9;K>      oteo.tey.sary={was <f71r.14A;K>}
+<f71r.S1.9;V>      oteo!tey.sary={Grove's #10, dressed}
+#
+# 09:00
+<f71r.S1.10;H>     otalaly=
+<f71r.S1.10;K>     otalaly={was <f71r.15A;K>}
+<f71r.S1.10;V>     otalaly={Grove's #1, dressed}
+#
+## <f71r.R2> {}
+# circular text
+# Last edited on 1998-12-09 18:20:07 by stolfi
+#
+# Middle ring of text
+# Transcribed starting from the decorated qaure at 10:00
+#
+<f71r.R2.1;H>      
+oteody.o!teos.ockhey.oteesa!ey.lsheotey.okal!ody.shs.shey.oteey.otechar.che!kal.
+okody.eeedy.oteodal.!!okol.lkchol.daiin.okeeees.ykees.al.okchy.otey.oteoshaly-
+{gap}o=
+<f71r.R2.1;U>      
+oteody.o*teor.ockhey.otchechey.lsheod!y.okal,ody.shs.shey.oteey.otechar.checkal.
+otody.eeedy.oteodal.chokol.lkchol.daiin.okchees.ykees,al,okeey.otey.oteoshaly-
+{gap}o=
+#
+## <f71r.S2> {}
+# panel f71r, Aries light, star labels
+# Last edited on 1998-12-09 18:26:20 by stolfi
+#
+# Inner band of nymphs 
+# All with vertical barrels
+# Transcribed clockwise from 11:00, after decorated square
+# 
+# 11:00
+<f71r.S2.1;H>      otol.chdy=
+<f71r.S2.1;K>      otol!chdy={was <f71r.01A;K>}
+<f71r.S2.1;V>      otol!chdy={Grove's #2, dressed}
+#                  
+# 01:15            
+<f71r.S2.2;H>      otoloaram=
+<f71r.S2.2;K>      otoloaram={was <f71r.02A;K>}
+<f71r.S2.2;V>      otoloaram={Grove's #3, dressed}
+#                  
+# 03:15            
+<f71r.S2.3;H>      oteeol=
+<f71r.S2.3;K>      ote*ol={was <f71r.03A;K>}
+<f71r.S2.3;V>      oteeol={Grove's #4, dressed}
+#                  
+# 06:15            
+<f71r.S2.4;H>      otolchd=
+<f71r.S2.4;K>      otolchd={was <f71r.04A;K>}
+<f71r.S2.4;V>      otolchd={Grove's #5, dressed}
+#                  
+# 09:00            
+<f71r.S2.5;H>      otal.dar=
+<f71r.S2.5;K>      otal!gar={was <f71r.05A;K>}
+<f71r.S2.5;V>      otal!dar={Grove's #1, naked}
+#
+## <f71r.R3> {}
+# circular text, inner ring
+# Last edited on 1998-12-28 00:20:50 by stolfi
+#
+# Transcribed starting from the wider gap at 10:00
+#
+<f71r.R3.1;H>      
+oteeol.otal.chs.char.cheky.chetshy.okeeody.oteey.chekeen.okeol=
+<f71r.R3.1;U>      
+oteeol.otal,chs.char.cheky.chetshy.okeeody.oteey.cheku!!.okeol=
+#
+<f71v>           {$I=Z $Q=K $P=B}
+# Last edited on 1998-10-29 18:31:33 by stolfi
+#
+# Identification:
+#
+#   Title: "Taurus light"
+#   Page: f71v = KB (Rene) = p136 (Stolfi)
+#   Folio: f71
+#   Panels: f71v
+#   Bifolio: bK1 = f71+f72
+#   Quire: K (Rene) = XI (Beinecke)
+#   
+#   Newbold calls this folio 79.
+#
+#   Roe, 8th September 1993
+#   Machine translated from a transcription in Bennett notation of 26/04/90
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: red(lots),green(some) (Reeds)
+#
+# Description:
+#
+#   Three concentric rings of text, bounded by faint mechanically drawn
+#   circles. A wider gap in the outer ring at 10:30 may be the 
+#   starting place.
+#
+#   In the centre is a horned animal feeding from a manger. Below the
+#   bull is the word ``May'' in the Roman alphabet.
+#
+#   Between the inner ring of text and the middle ring are five human
+#   figures or "nymphs", each standing in a barrel, waist deep,
+#   holding a star. One is naked, four are clothed. The barrel at
+#   00:00 is ribbed.
+#
+#   Between the middle ring and the outer ring are 10 human figures,
+#   each in a barrel, waist deep, holding a star. Two are naked, eight
+#   are clothed.
+#
+#   Most figures have visible breasts. Some have hats. All figures have
+#   their right hand inside the barrel.
+#
+#   Clockwise from each figure there is a short label.
+#
+# Comments:
+#
+#   The animal at the center is probably a bull, the astrological
+#   symbol for Taurus. Taurus is April 20th to May 20th.
+#
+#   The general appearance of the page is light, in contrast to the
+#   dark Taurus, f72r1.
+#
+## <f71v.R1> {}
+# Outer ring of text
+# Last edited on 1998-12-19 19:13:52 by stolfi
+#
+# The photograph in Newbold is cropped, so part of this word ring isn't visible
+# Other reproductions are OK.
+#
+# Transcribed clockwise from wider gap at 10 o'clock
+#
+<f71v.R1.1;H>      
+osheo.parar.oteeodaiin.she.ateey.daiin.oteokeey.dal.al.oteey.teey.dy.otchy.keey.
+shseor.ochey.****.****eodal.sheeolody.alody.cheol.otar.otam.oteodar.chpchy.cpar.
+al.aiin.oteochor.okeodaly.oteey.teeey.okeey.ke!or.or.arol.cheols.okaikaly-
+<f71v.R1.1;C>      
+oshe*.parar.oteeodaiin.she.ateey.daiin.oteokeey.dal.al.oteey.teey.dy.otchy.keey.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%alody.cheal.otar.otam.oteadar.chpchy.opar.
+al.aiin.oteoshor.okeodaly.oteey.teeey.oteey.kee*r.or.arol.cheols.ota*kaly-
+#
+## <f71v.S1> {}
+# panel f71v, Taurus light, outer ring of star labels
+# Last edited on 1998-12-09 18:28:17 by stolfi
+#
+# Transcription starting at 10 o'clock, going clockwise
+#
+<f71v.S1.1;H>      char.orom=
+<f71v.S1.1;C>      char.orol=
+<f71v.S1.1;K>      char.oroj={was <f71v.06A;K>}
+<f71v.S1.1;V>      char.arom={Grove's #2, dressed}
+#
+<f71v.S1.2;H>      chfaly=
+<f71v.S1.2;C>      chpaly=
+<f71v.S1.2;K>      chfaly={was <f71v.07A;K>}
+<f71v.S1.2;V>      chfaly={Grove's #3, dressed}
+#
+<f71v.S1.3;H>      okolar=
+<f71v.S1.3;C>      okolar=
+<f71v.S1.3;K>      okolar={was <f71v.08A;K>}
+<f71v.S1.3;V>      otolar={Grove's #4, dressed}
+#
+<f71v.S1.4;H>      otchody=
+<f71v.S1.4;C>      otchody=
+<f71v.S1.4;K>      otchody={was <f71v.09A;K>}
+<f71v.S1.4;V>      otchody={Grove's #5, dressed}
+#
+<f71v.S1.5;H>      olcphy=
+<f71v.S1.5;C>      olcphy=
+<f71v.S1.5;K>      alcphy={was <f71v.10A;K>}
+<f71v.S1.5;V>      alcphy={Grove's #6, dressed}
+#
+<f71v.S1.6;H>      otaiin=
+<f71v.S1.6;C>      otaiin=
+<f71v.S1.6;K>      otaiin={was <f71v.11A;K>}
+<f71v.S1.6;V>      otaiin={Grove's #7, dressed}
+#
+<f71v.S1.7;H>      okaraiin=
+<f71v.S1.7;C>      okaraiin=
+<f71v.S1.7;K>      okaraiin={was <f71v.12A;K>}
+<f71v.S1.7;V>      okaraiin={Grove's #8, naked}
+#
+<f71v.S1.8;H>      okar.ar.aly=
+<f71v.S1.8;C>      *kar.ar!aly=
+<f71v.S1.8;K>      otar.ar.aly={was <f71v.13A;K>}
+<f71v.S1.8;V>      etar.ar.aly={Grove's #9, naked}
+#
+<f71v.S1.9;H>      opalar.am.da!n=
+<f71v.S1.9;C>      opalar.am.diin=
+<f71v.S1.9;K>      opalar.am.ga!n={was <f71v.14A;K>}
+<f71v.S1.9;V>      opalar.am.da!n={Grove's #10, partly dressed}
+#
+<f71v.S1.10;H>     opalor.ar=
+<f71v.S1.10;C>     opalor!ar=
+<f71v.S1.10;K>     opalar.ar={was <f71v.15A;K>}
+<f71v.S1.10;V>     opalar.ar={Grove's #1, dressed}
+#
+#
+## <f71v.R2> {}
+# Middle ring of text
+# Last edited on 1998-11-27 17:55:32 by stolfi
+#
+# Transcription starting at 10 o'clock, going clockwise
+#
+<f71v.R2.1;H>      
+okol.sheeor.chal.oteeos.al.shsky.okalar.ar.okeo.dar.oty.oto.kaiin.chey.tol.otchr
+.chtos.cheor.shepchol.otor.sheo.shopcho.ar.aly.okeo.cheey.otal.al.shldy.otaly.
+<f71v.R2.1;C>      
+okol.sheeor.chal.oteeos.al.sheky.okalar.ar.okeo.dar.oty.oto.kaiin.chey.tol.okchr
+.chtor.cheor.shepchol.otor.sheo.shopcho.ar.aly.okey.cheey.otal.al.sh*dy.otaly.
+#
+## <f71v.S2> {}
+# panel f71v, inner ring of names
+# All with vertical barrels
+# Transcription starting at 10 o'clock, going clockwise
+#
+<f71v.S2.1;H>      ofacfom=
+<f71v.S2.1;C>      opaepom=
+<f71v.S2.1;K>      ofa*fom={was <f71v.01A;K>}
+<f71v.S2.1;V>      ofacfom={Grove's #2, dressed}
+#
+<f71v.S2.2;H>      otalody=
+<f71v.S2.2;C>      otalody=
+<f71v.S2.2;K>      otalody={was <f71v.02A;K>}
+<f71v.S2.2;V>      otalody={Grove's #3, dressed}
+#
+<f71v.S2.3;H>      otalaiin=
+<f71v.S2.3;C>      otalaiin=
+<f71v.S2.3;K>      otalaiin={was <f71v.03A;K>}
+<f71v.S2.3;V>      otalaiin={Grove's #4, dressed}
+#
+<f71v.S2.4;H>      otar.shor=
+<f71v.S2.4;C>      otar.shor=
+<f71v.S2.4;K>      otar.shar={was <f71v.04A;K>}
+<f71v.S2.4;V>      otar.shar={Grove's #5, naked}
+#
+<f71v.S2.5;H>      sholshdy=
+<f71v.S2.5;C>      sholshdy=
+<f71v.S2.5;K>      sholshgy={was <f71v.05A;K>}
+<f71v.S2.5;V>      cholcsdy={Grove's #1, dressed}
+#
+## <f71v.R3> {}
+# Inner ring of text
+# Last edited on 1998-12-09 18:27:47 by stolfi
+#
+# Transcription starting at 10:30, going clockwise
+<f71v.R3.1;H>      
+kal.okeey.okeosar.otaiin.chkeeal.okal.cheekaiin.okaiin.okchor.dar.oteey.
+<f71v.R3.1;C>      
+kal.okeey.okeosar.otaiin.chkeeal.okal.cheekaiin.okaiin.okshor.dar.oteey.
+#
+<f72r1>          {$I=Z $Q=K $P=C}
+# Last edited on 1998-10-29 18:37:13 by stolfi
+#
+# Identification:
+#
+#   Title: "Taurus dark"
+#   Page: f72r1 = KC (Rene) = p137 (Stolfi)
+#   Folio: f72
+#   Panels: f72r1
+#   Bifolio: bK1 = f71+f72
+#   Quire: K (Rene) = XI (Beinecke)
+#
+#   This page is the innermost recto panel of an eight-panel fold-out.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: dark-red,green(little),yellow(stars) (Reeds)
+#
+# Description:
+#
+#   Three concentric rings of text, bounded by faint mechanically drawn
+#   circles. There is no obvious starting place.
+#
+#   In the centre is a horned animal feeding from a manger. Below the
+#   bull is the word ``May'' in the Roman alphabet.
+#
+#   Between the inner ring of text and the middle ring are 6 human
+#   figures or "nymphs", each holding a star. Five are standing in a
+#   barrel, waist deep; a sixth one is peeking from behind the barrel
+#   at 08:30. All have the right hand inside the barrel, except for
+#   the small one at 08:30 (right hand behind barrel) and the one at
+#   02:00 (right hand resting on the barrel's edge). The figure inside
+#   the 08:30 barrel is holding a smaller star, lower and closer to
+#   her than the other figures.
+#
+#   Between the middle ring and the outer ring are 10 human figures,
+#   standing.  The one at 00:00 is in frontal view, all others are 
+#   in 3/4 view, between frontal and facing clockwise.  The one at 
+#   02:30 has the right arm straight back and down; all the others
+#   have the right hand on their hips.
+#
+#   All the figures are naked. Most have visible breasts. Some have
+#   hats, some have long hair.
+#
+#   Clockwise from each figure there is a short label.
+#
+# Comments:
+#
+#   The general appearance of the page is dark, in contrast to the
+#   light Taurus, f71v.
+#
+#   The animal at the center is probably a bull, the astrological
+#   symbol for Taurus. Taurus is April 20th to May 20th.
+#
+#   [Stolfi] I count 16 nymphs in this page, but other people give the
+#   total as 15. Presumably they are not counting the smaller nymph
+#   without barrel.
+#
+#   It looks as if the artist decided to add one more figure at the
+#   last minute, and had to improvise...
+#
+#
+## <f72r1.R1> {}
+# Outer ring of text
+# Last edited on 1998-12-09 18:30:19 by stolfi
+#
+# No obvious starting place, but words seem to change
+# size abruptly at 10:45
+#
+# Transcribed clockwise from letter size discontinuity at 10:30
+# 
+<f72r1.R1.1;H>     
+o!koiin.oteeo.ckhey.cholo.cheol.olchear.al.oteey.chedal.oteedy.okeodaly.cheol.ch
+okeol.cheolk!y.okaiis.okeedy.sheoltey.cheor.aiin.ydal.okochey.sho.okalshey.shol.
+chalaiin.chekeol.kol.otos.ar.aiin.otar.otam.chotam.sal.okeo.dar.ar.adal.dar.okee
+as.aiin.oteey.
+<f72r1.R1.1;U>     
+o,kaiin.oteeo,cthey.chlol.cheol.olcheor.al.oteey.chedal.oteedy.okeodaly.sh!ol.ch
+okeol.ch*****y.*!!**s.okeedy.ch**ltey.cheor.aiin.ydal.okochey.sho.okalshey.shol,
+chalaiin.chekeol,kol.otor,ar,aiin.otam.otam.chotam,ral.oteo,dar.ar,adal.dar.okee
+os.aiin.oteey.
+#
+## <f72r1.S1> {}
+# panel f72r1, Taurus dark, labels on outer band of nymphs/stars
+# Last edited on 1998-12-09 18:33:13 by stolfi
+#
+# Transcribed clockwise from 10:15
+#
+# 10:15
+<f72r1.S1.1;H>     oshodody=
+<f72r1.S1.1;K>     oshodady={was <f72r1.06A;K>}
+<f72r1.S1.1;Q>     oshodody={was <f72r1.06A;K>}
+<f72r1.S1.1;V>     oshodady={Grove's #1, no barrel}
+#                  
+# 11:15            
+<f72r1.S1.2;H>     chdaiir!sainy=
+<f72r1.S1.2;K>     chdaiir.dainy={was <f72r1.07A;K>}
+<f72r1.S1.2;V>     chdaiir.dainy={Grove's #2, no barrel}
+#                  
+# 00:15            
+<f72r1.S1.3;H>     oaiin.ar.ary=
+<f72r1.S1.3;K>     oaiin.ar.ary={was <f72r1.08A;K>}
+<f72r1.S1.3;V>     oaiin.ar.ary={Grove's #3, no barrel, male frontal}
+#                  
+# 01:15            
+<f72r1.S1.4;H>     okalam=
+<f72r1.S1.4;K>     okalam={was <f72r1.09A;K>}
+<f72r1.S1.4;V>     okalam={Grove's #4, no barrel}
+#
+# 02:00
+<f72r1.S1.5;H>     ytal.shda=
+<f72r1.S1.5;K>     ytal!shdy={was <f72r1.10A;K>}
+<f72r1.S1.5;V>     ytal!shdy={Grove's #5, no barrel}
+#
+# 03:00
+<f72r1.S1.6;H>     char.al!f=
+<f72r1.S1.6;K>     char.alif={was <f72r1.11A;K>}
+<f72r1.S1.6;V>     char.alef={Grove's #6, no barrel}
+#
+# 04:15
+<f72r1.S1.7;H>     otaraldy=
+<f72r1.S1.7;K>     otaraldy={was <f72r1.12A;K>}
+<f72r1.S1.7;V>     otaraldy={Grove's #7, no barrel}
+#
+# 05:30
+<f72r1.S1.8;H>     otaiin.otain=
+<f72r1.S1.8;K>     otaiin.otain={was <f72r1.13A;K>}
+<f72r1.S1.8;V>     otaiin.otain={Grove's #8, no barrel}
+#
+# 07:30
+<f72r1.S1.9;H>     otalef.as.ainam=
+<f72r1.S1.9;K>     otalef.ys.ainam={was <f72r1.14A;K>}
+<f72r1.S1.9;V>     otalef.as.ainam={Grove's #9, no barrel}
+#
+# 08:45
+<f72r1.S1.10;H>    ochol.charam=
+<f72r1.S1.10;K>    ochol!sharam={was <f72r1.15A;K>}
+<f72r1.S1.10;V>    ochol.sharam={Grove's #10, no barrel}
+#
+## <f72r1.R2> {}
+# Middle ring of text
+# Last edited on 1998-12-28 00:24:15 by stolfi
+#
+# Transcribed clockwise from extra-wide gap at 09:00
+# 
+<f72r1.R2.1;H>     
+oteodar.ytey.otey.shetey.chokshor.okalal.otaiin.sheol.aiin.o!taiin.chetey.cheolo
+r.oteo!teeody.otor.chokaiin.okaiin.al.alo.cheedy.oteor!ar.cheky.chokal.otas.al.o
+!qokar-{gap}
+<f72r1.R2.1;U>     
+oteodar.ytey.otey.shetey.chokshor.okalal.otaiin.sheol!aiin.o,taiin.chetey.cheolo
+r.oteo,te**dy.otor.chokaiin.okaiin.al,alo.cheedy.otear,ar.cheky.chotal.otar.al,o
+,qota*-{gap}
+#
+## <f72r1.S2> {}
+# panel f72r1, Taurus dark, labels on inner band of nymphs/stars
+# Last edited on 1998-12-09 18:33:26 by stolfi
+#
+# Transcribed clockwise from 10:00
+# 
+# 10:00
+<f72r1.S2.1;H>     ofaralar=
+<f72r1.S2.1;K>     ofaralar={was <f72r1.01A;K>}
+<f72r1.S2.1;V>     ofaralar={Grove's #1, vert. barrel, dressed}
+#  
+# 00:30
+<f72r1.S2.2;H>     otchoshy=
+<f72r1.S2.2;K>     otchoshy={was <f72r1.02A;K>}
+<f72r1.S2.2;V>     otchoshy={Grove's #2, vert. barrel}
+#           
+# 02:30
+<f72r1.S2.3;H>     otchdal=
+<f72r1.S2.3;K>     otchdal={was <f72r1.03A;K>}
+<f72r1.S2.3;V>     otchdal={Grove's #3, vert. barrel}
+#        
+# 05:00
+<f72r1.S2.4;H>     okeey.ary=
+<f72r1.S2.4;K>     okeey.ary={was <f72r1.04A;K>}
+<f72r1.S2.4;V>     okeey!ary={Grove's #4, vert. barrel}
+#         
+# 07:30
+<f72r1.S2.5;H>     otainy=
+<f72r1.S2.5;K>     otainy={was <f72r1.05A;K>}
+<f72r1.S2.5;V>     otainy={Grove's #5, vert. barrel}
+#
+## <f72r1.R3> {}
+# Inner ring of text
+# Last edited on 1998-12-09 18:32:50 by stolfi
+#
+# Transcribed clockwise from wider gap at 11:00
+# 
+<f72r1.R3.1;H>     oteeols.yroly-
+{gap}okees.al.aiin.okeor.chol.o.o!teos.aiin.chal.otaiin.otchor.chckhy-{gap}
+<f72r1.R3.1;U>     oteeols.aroly-
+{gap}okees.al,aiin.okeor.chol.o.o,teos.aiin.shal.otaiin.otchor.chcthy-{gap}
+#
+<f72r2>          {$I=Z $Q=K $P=D}
+# Last edited on 1998-10-29 21:02:31 by stolfi
+#
+# Identification:
+#
+#   Title: "Gemini"
+#   Page: f72r2 = KD (Rene) = p138 (Stolfi)
+#   Folio: f72
+#   Panels: f72r2
+#   Bifolio: bK1 = f71+f72
+#   Quire: K (Rene) = XI (Beinecke)
+#
+#   This page is the central recto panel of an eight-panel fold-out.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: green,blue(dress_on_center) (Reeds)
+#
+# Description:
+#
+#   Three concentric rings of text, bounded by faint mechanically drawn
+#   circles. A short radial stroke at 10:30 in the inner ring may be the 
+#   starting place.
+#
+#   In the centre there are two human figures, apparently a man and a woman,
+#   holding each other hands---left in left, below, and right in right, above.
+#   The man wears a wide hat, a shirt with long narrow sleeves,
+#   ring collar, simple belt, a skirt with trimmed edge reaching below the knee, 
+#   and boots.  The woman wears an elaborate draped dress, with ring collar,
+#   broad sleeves with wrist bands, a small bonnet with long hair or a veil 
+#   hanging down her back, and a skirt that drags on the floor.  Between
+#   the two figures is a word in the latin alphabet (``Jony'' according to 
+#   Robert Firth.
+#
+#   Between the inner ring of text and the middle ring are 9 naked
+#   human figures or "nymphs", all female, each standing with the
+#   right hand on her hip, holding a star with her left.
+#
+#   Between the middle ring and the outer ring there are 16 nymphs,
+#   standing, each holding a star with the left hand. Four are clothed,
+#   the rest is naked. Most are definitely women (with visible breasts);
+#   the rest are probably women, or could be. Three of the figures two
+#   of them clothed) are standing on top of horizontal cylinders,
+#   resembling the ones on f70v2. Usualy the right hand is resting on
+#   the hip, but in a couple of cases the right arm is drooping by the
+#   victim's side, or straight down and back, and one figure (at 04:00)
+#   has the arms streched out horizontally.
+#
+#   Standing on top of the diagram, outside the text circle, are another 5
+#   naked women, right hand on the hip, each holding a star.
+#
+#   All figures are drawn in 3/4 view, between frontal and clockwise-facing.
+#   Some of the figures are walking. Some of the figures have hats.
+#
+#   Clockwise from each figure there is a short label.
+#
+# Comments:
+#
+#   The sign of Gemini, the Twins, has sometimes been represented by a 
+#   man and woman. Gemini is ??? to ???.
+#
+## <f72r2.S0> {}
+# panel 72r2, Gemini, labels on star/nymphs outside the diagram
+# Last edited on 1998-11-27 23:47:34 by stolfi
+#
+# Transcribed left to right
+#
+<f72r2.S0.1;H>     ofchdady=
+<f72r2.S0.1;K>     ofchdagy={was <f72r2.26A;K>}
+<f72r2.S0.1;Q>     ofchdajy={was <f72r2.26A;K>}
+<f72r2.S0.1;V>     ofchdamy={Grove's #1, carpet}
+#         
+<f72r2.S0.2;H>     oklairdy=
+<f72r2.S0.2;K>     oklairgy={was <f72r2.27A;K>}
+<f72r2.S0.2;V>     oklairdy={Grove's #2}
+#         
+<f72r2.S0.3;H>     okaram=
+<f72r2.S0.3;K>     okaram={was <f72r2.28A;K>}
+<f72r2.S0.3;V>     okaram={Grove's #3}
+#         
+<f72r2.S0.4;H>     okairy=
+<f72r2.S0.4;K>     okairy={was <f72r2.29A;K>}
+<f72r2.S0.4;V>     okairy={Grove's #4}
+#         
+<f72r2.S0.5;H>     okeolar=
+<f72r2.S0.5;K>     okealar={was <f72r2.30A;K>}
+<f72r2.S0.5;V>     okeolar={Grove's #5}
+#
+## <f72r2.R1> {}
+# Outer ring of text
+# Last edited on 1998-12-09 18:34:28 by stolfi
+#
+# Transcribed clockwise from wider gap at 09:15,
+# above starless nymph.
+#
+<f72r2.R1.1;H>     
+otais.otees.oteos.aiin.okeo.daiin.okeey.cheo!keodal.cheol.okeol.olcthhy.oteeykee
+y.tey.okalaiin.okalchal.chey-
+{fold}al.okeey.daiin.otar.al.ch!taiin.otseey.qooeel.ckhal.chekaiin.otaiin.chy.d.
+r.aiin.al.y.sho.chekaiin.otedo*.qokeodal.saiin-{gap}
+<f72r2.R1.1;U>     
+ot**r.otchs.oteor.aiin.okeo,daiin.okoly.chey,keodol,ch!ol.okeol.olcthey.oteeykee
+y!tey.okalaiin.okalchal,chey-
+{fold}**!!!!!*.daiin.ota**!!.chota**!.ok***y.***eol.ckhal.chekaiin.okaiin,chy.d,
+r,aiin,al.!!cho.chekaiin.otedal.qokeodal.s*!*r-{gap}
+#
+## <f72r2.S1> {}
+# panel 72r2, Gemini, star labels on outer band of stars/nymphs inside diagram
+# Last edited on 1998-12-24 21:51:57 by stolfi
+#
+# Transcribed clockwise from 10:30 (nymph with stretched left arm)
+#
+# Weirdos:
+#
+#  &an  = <a> and <n> run together
+#      
+# 10:30
+<f72r2.S1.1;H>     otar!aldy=
+<f72r2.S1.1;K>     otar!algy={was <f72r2.10A;K>}
+<f72r2.S1.1;V>     otar.aldy={Grove's #1, no barrel}
+#
+# 11:00
+<f72r2.S1.2;H>     okalar=
+<f72r2.S1.2;K>     okalar={was <f72r2.11A;K>}
+<f72r2.S1.2;V>     okalar={Grove's #2, no barrel}
+#
+# 00:00
+<f72r2.S1.3;H>     okal=
+<f72r2.S1.3;K>     okal={was <f72r2.12A;K>}
+<f72r2.S1.3;V>     okal={Grove's #3, no barrel}
+#
+# 00:45
+<f72r2.S1.4;H>     okaly=
+<f72r2.S1.4;K>     okaly={was <f72r2.13A;K>}
+<f72r2.S1.4;V>     okaly={Grove's #12, 3rd carpet, dressed, male?}
+#
+# 01:15
+<f72r2.S1.5;H>     okal=
+<f72r2.S1.5;K>     okal={was <f72r2.14A;K>}
+<f72r2.S1.5;V>     okal={Grove's #5, male}
+#
+# 02:00
+<f72r2.S1.6;H>     okeey.ary=
+<f72r2.S1.6;K>     okeey.ary={was <f72r2.15A;K>}
+<f72r2.S1.6;V>     okeey.ary={Grove's #6, no barrel}
+#
+# 03:00
+<f72r2.S1.7;H>     oteeary=
+<f72r2.S1.7;K>     oteeary={was <f72r2.16A;K>}
+<f72r2.S1.7;V>     oteeary={Grove's #7, no barrel}
+#
+# 04:00
+<f72r2.S1.8;H>     otair.dy=
+<f72r2.S1.8;K>     okair.gy={was <f72r2.17A;K>}
+<f72r2.S1.8;V>     otair.gy={Grove's #8, no barrel}
+#
+# 05:15
+<f72r2.S1.9;H>     okair!cham=
+<f72r2.S1.9;K>     okair.cham={was <f72r2.18A;K>}
+<f72r2.S1.9;V>     okair!cham={Grove's #9, no barrel}
+#
+# 06:15
+<f72r2.S1.10;H>    okeal=
+<f72r2.S1.10;K>    okeal={was <f72r2.19A;K>}
+<f72r2.S1.10;V>    oteal={Grove's #10, 1st carpet}
+#
+# 06:45
+<f72r2.S1.11;H>    otarar!!!!=
+<f72r2.S1.11;K>    otarer!!!!={was <f72r2.20A;K>}
+<f72r2.S1.11;V>    otar*{&an}={Grove's #11, 2nd carpet, dressed, male?}
+#
+# 07:15
+<f72r2.S1.12;H>    okaly=
+<f72r2.S1.12;K>    okaly={was <f72r2.21A;K>}
+<f72r2.S1.12;V>    okaly={Grove's #4, no barrel}
+#
+# 08:00
+<f72r2.S1.13;H>    orary=
+<f72r2.S1.13;K>    onary={was <f72r2.22A;K>}
+<f72r2.S1.13;V>    arary={Grove's #13, dressed, female}
+#
+# The nymph at 08:30 is not labeled; it would have been <f72r2.S1.14>
+# {Grove's #14, dressed, male?}
+#
+# 09:00
+<f72r2.S1.15;H>    okyd=
+<f72r2.S1.15;K>    okyd={was <f72r2.24A;K>}
+<f72r2.S1.15;V>    okyd={Grove's #15, possible male}
+#
+# 09:30
+<f72r2.S1.16;H>    otolam=
+<f72r2.S1.16;K>    otolam={was <f72r2.25A;K>}
+<f72r2.S1.16;V>    otalam={Grove's #16, possible male}
+#
+## <f72r2.R2> {}
+# Outer ring of text
+# Last edited on 1998-12-09 18:34:56 by stolfi
+#
+# Transcribed clockwise from letter size discontinuity at 10:00
+# That place is marked by a single radial stroke -- modern or original?
+#
+<f72r2.R2.1;H>     
+oteey.tey.teodal.chokaly.ol.cheol.y!aiin.oteodaiin.shokal.otey.otaiin.otal.y.dal
+.okaly.dalchdy.cseteeey.okal.shey.qoteeody.sheycthy.chotal.chees.otoees.aiin-
+<f72r2.R2.1;U>     
+oteey.teo.teodal.chokaly.ol,cheol,*,aiin.oteodaiin.shok**.o***.otaiin.otal!y,*al
+.otaly.dalchd*.csctheey.okal.csey.qotchody.cseycthy.chotal.cha!s.ot***s.aiir-
+#
+## <f72r2.S2> {}
+# panel 72r2, Gemini, star labels on inner band of stars/nymphs
+# Last edited on 1998-12-09 18:37:46 by stolfi
+#
+# Transcribed clockwise starting from 11:00
+#
+# 11:00
+<f72r2.S2.1;H>     otal=
+<f72r2.S2.1;K>     otal={was <f72r2.01A;K>}
+<f72r2.S2.1;V>     otal={Grove's #1, no barrel}
+#
+# 00:00
+<f72r2.S2.2;H>     salal=
+<f72r2.S2.2;K>     salal={was <f72r2.02A;K>}
+<f72r2.S2.2;V>     salal={Grove's #2, no barrel}
+#
+# 00:45
+<f72r2.S2.3;H>     okam=
+<f72r2.S2.3;K>     okam={was <f72r2.03A;K>}
+<f72r2.S2.3;V>     okam={Grove's #3, no barrel}
+#
+# 02:00
+<f72r2.S2.4;H>     otalshy=
+<f72r2.S2.4;K>     otalshy={was <f72r2.04A;K>}
+<f72r2.S2.4;V>     otalshy={Grove's #4, no barrel}
+#
+# 03:30
+<f72r2.S2.5;H>     okal!dy=
+<f72r2.S2.5;K>     okal.dy={was <f72r2.05A;K>}
+<f72r2.S2.5;V>     okal!dy={Grove's #5, no barrel}
+#
+# 04:30
+<f72r2.S2.6;H>     chosar=
+<f72r2.S2.6;K>     chosar={was <f72r2.06A;K>}
+<f72r2.S2.6;V>     chosan={Grove's #6, no barrel}
+#
+# 06:30
+<f72r2.S2.7;H>     otam=
+<f72r2.S2.7;K>     otam={was <f72r2.07A;K>}
+<f72r2.S2.7;V>     otam={Grove's #7, no barrel}
+#
+# 07:15
+<f72r2.S2.8;H>     ainaly=
+<f72r2.S2.8;K>     ainaly={was <f72r2.08A;K>}
+<f72r2.S2.8;Q>     ainaly={was <f72r2.08A;K>}
+<f72r2.S2.8;V>     ainaly={Grove's #8, no barrel}
+#
+# 08:45
+<f72r2.S2.9;H>     okar.cham=
+<f72r2.S2.9;K>     okar!chaj={was <f72r2.09A;K>}
+<f72r2.S2.9;Q>     okar!chag={was <f72r2.09A;K>}
+<f72r2.S2.9;V>     okar.cham={Grove's #9, no barrel}
+#
+## <f72r2.R3> {}
+# Inner ring of text
+# Last edited on 1998-12-09 18:35:16 by stolfi
+#
+# No obvious starting place
+# Transcribed clockwise from change in "vertical" direction at 00:30
+#
+<f72r2.R3.1;H>     
+otees.chs.chchs.ar.yly.kaly.dar.otchey.okaiin.ola.in.dy.otoa!r.air.aloy.okaiin.
+<f72r2.R3.1;U>     
+otees.**s.chchs,al,aly.kyly.dar.otchey.okaiin.olaiin.*y.otochs.air,alo*.okaii*.
+#
+<f72r3>          {$I=Z $Q=K $P=E}
+# Last edited on 1998-10-31 01:45:09 by stolfi
+#
+# Identification:
+#
+#   Title: "Cancer"
+#   Page: f72r3 = KE (Rene) = p139 (Stolfi)
+#   Folio: f72
+#   Panels: f72r3, f72r4
+#   Bifolio: bK1 = f71+f72
+#   Quire: K (Rene) = XI (Beinecke)
+#
+#   This page spans the two outermost recto panels of an eight-panel
+#   fold-out. (The outermost panel is about 1/3 the width of a normal
+#   one.)
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: ??? (Reeds)
+#
+# Description:
+#
+#   (Beware that the scanned image is upside down.)
+#
+#   Four concentric rings of text (units "C1" through "C4", from
+#   outside in), bounded by eight faint mechanically drawn circles,
+#   roughly centered on the page. Circles 5 and 6 (from the outside)
+#   are spaced apart almost twice as much as the other pairs. The
+#   outermost text ring runs over the crease on the left side of the
+#   panel, and into the diagram of f72r2; for that reason the text is
+#   interrupted between 08:00 and 10:00. The middle ring of text has a
+#   decorated "notched square" at 09:00, and the innermost text ring
+#   has a wider word break at 08:55.
+#
+#   In the centre there is a pair of lobster-like creatures seen from
+#   above. The one at the top is light-colored and facing East, the
+#   bottom one is dark and facing West. Below them is a non-Voynichese
+#   word, in a heavier hand than the other text in the page.
+#
+#   The rings of text delimit three circular bands, containing (from
+#   outside in) respectively 12, 11, and 7 human figures or "nymphs",
+#   i.e. 30 in total. There is a label just clockwise of each figure
+#   (text units "Z", "Y", "X", from outside in).
+#
+#   Some figures are hardly visible due to the poor copy quality. All
+#   figures seem to be naked, except for occasional headgear (hat,
+#   bonnet, diadem, and one crown). They are standing (radially, with
+#   the head outwards), in 3/4 view (between frontal and facing
+#   clockwise). Some have visible breasts, some don't. Most are
+#   holding a star with the right hand; the left hand is generally on
+#   the hip. Some stars have "tails".
+#
+#   The following table summarizes the nymph and star attributes. Here
+#   "cw" means clockwise, "ccw" counterclockwise. The "brst" column
+#   says whether the figure has visible female breasts.
+#
+#      band    label place  tail dir brst  notes
+#      ------- ----- -----  ---- --- ----  ------------------------------
+#      outer   Z.1   10:00  yes  cw  ?     
+#      outer   Z.2   10:30  yes  cw  yes   
+#      outer   Z.3   11:00  yes  cw  no    right hand holding ring?
+#      outer   Z.4   00:00  no   cw  no         
+#      outer   Z.5   00:45  no   cw  no         
+#      outer   Z.6   01:30  yes  cw  yes   
+#      outer   Z.7   02:15  yes  cw  yes   
+#      outer   Z.8   03:45  yes  cw  yes   
+#      outer   Z.9   05:00  yes  cw  yes   
+#      outer   Z.10  06:15  yes  cw  yes   
+#      outer   Z.11  07:00  no   cw  yes   
+#      outer   Z.12  08:00  yes  cw  ?     
+#
+#      middle  Y.1   10:00  yes  ccw no    
+#      middle  Y.2   11:00  yes  cw  yes   
+#      middle  Y.3   00:00  no   cw  ?          
+#      middle  Y.4   01:00  no   cw  no         
+#      middle  Y.5   01:45  yes  cw  yes   
+#      middle  Y.6   02:30  no   cw  ?     
+#      middle  Y.7   03:15  ?    cw  yes   
+#      middle  Y.8   05:00  yes  cw  yes   
+#      middle  Y.9   06:30  yes  cw  yes   
+#      middle  Y.10  08:00  yes  cw  yes   
+#      middle  Y.11  08:45  ?    cw  yes   
+#
+#      inner   X.1   09:30  no   cw  yes   
+#      inner   X.2   10:30  no   cw  yes   
+#      inner   X.3   00:00  no   cw  yes   
+#      inner   X.4   01:15  no   cw  ?          
+#      inner   X.5   03:05  yes  cw  yes   crowned
+#      inner   X.6   06:00  yes  cw  yes   
+#      inner   X.7   07:30  yes  cw  yes   
+#
+# Comments:
+#
+#   The two lobsters are probably a symbol for Cancer.
+#   Cancer is July 7 to August 11 (?).
+#
+#   Note the switch from two bands of nymphs + overflow (as in f72r2)
+#   to three bands of figures.
+#
+#   The decorated square suggests the text rings are to be read 
+#   starting at 09:00 or so.
+#
+## <f72r3.R1> {}
+# outermost text ring
+# Last edited on 1998-12-09 18:45:29 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Starting from gap at 09:00 (where the ring runs into panel f72r2).
+#
+<f72r3.R1.1;H>     
+ok{fold}eey.cheky.oteo.ykeey.chedaiin.okeeol.cheeor.chocthar.ar.oteody.oteedy.ok
+eolaiin.oteey.okar!ar.***{fold}*dy-
+{gap}sheol.al.alaiiin.okeos.olaiin.okos.okeo*ar.otes.sar.aiin.chekaithhy.chokees
+.oteedy.chekar.okar.ch*.ches.os.oiin.okeeey.cheey.ches.oteody.cheal.dy.shocthy.c
+hoteey.ereoly.oheol.sheey.chorain={fold}
+<f72r3.R1.1;U>     
+ok{fold}**y.choky.okes.ykeey.chedaiin.okeeol.che*or.*orchear.a*.otchdy.!!!!!!!o*
+eolaiin.oteey.okar,or!!!!{fold}!!!-
+{gap}sheol.al.araiiin.okeor.alaiin.o*or***.opey.chokar.ot***.**.**ar.**ar.**-
+{fold}**r.**r.**.***!!!!!!!!!!!!!!!!!!!!!!!!!!.ch**!.***s.o*.ody.cheal!dy.chocth
+y.chs.*!!*.**ol!.ch*ol.sh*!!.*oraii*={fold}
+#
+## <f72r3.S1> {}
+# Labels on stars, Cancer, outer ring
+#Last edited on 1998-12-11 13:00:57 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Numbers by John Grove, from 09:00
+#
+# 10:00
+<f72r3.S1.1;H>     ykolairol=
+<f72r3.S1.1;V>     ykalairal={Grove's #1, star with tail}
+<f72r3.S1.1;U>     ykalairal=
+#                  
+# 10:30            
+<f72r3.S1.2;H>     olkalaiin=
+<f72r3.S1.2;V>     olkalaiin={Grove's #2, male?, star with tail}
+<f72r3.S1.2;U>     olkalaiin=
+#                  
+# 11:00            
+<f72r3.S1.3;H>     olalsy=
+<f72r3.S1.3;V>     olalsy={Grove's #3, male?, right hand holding ring?, star 
+with tail}
+<f72r3.S1.3;U>     olalsy=
+#                  
+# 00:00            
+<f72r3.S1.4;H>     or.aiin.am=
+<f72r3.S1.4;V>     or!aiin!am={Grove's #4, male?}
+<f72r3.S1.4;U>     or!aiin,am=
+#                  
+# 00:45            
+<f72r3.S1.5;H>     os.as.sheeen=
+<f72r3.S1.5;V>     os!ar!sheee*={Grove's #5, male?}
+<f72r3.S1.5;U>     or,ar!sheee*=
+#                  
+# 01:30            
+<f72r3.S1.6;H>     otos!aiin=
+<f72r3.S1.6;V>     otaneaiin={Grove's #6, star with tail}
+<f72r3.S1.6;U>     oto*saiin=
+#                  
+# 02:15            
+<f72r3.S1.7;H>     opoiisooin.al.aes=
+<f72r3.S1.7;V>     opaiiinain!al.yes={Grove's #7, star with tail}
+#                  
+# 03:45            
+<f72r3.S1.8;H>     ypaiin.aloly=
+<f72r3.S1.8;V>     ypaiin.alaly={Grove's #8, star with tail}
+#                  
+# 05:00            
+<f72r3.S1.9;H>     oteey.daiin=
+<f72r3.S1.9;V>     otchy.daiin={Grove's #9, star with tail}
+<f72r3.S1.9;U>     otchy,daiin=
+#                  
+# 06:15            
+<f72r3.S1.10;H>    oeeeodaiin=
+<f72r3.S1.10;V>    oee!odaiin={Grove's #10, star with tail}
+<f72r3.S1.10;U>    oee!odaiin=
+#                  
+# 07:00            
+<f72r3.S1.11;H>    ofsholdy=
+<f72r3.S1.11;V>    ofsholdy={Grove's #11}
+<f72r3.S1.11;U>    ofsholdy=
+#                  
+# 08:00            
+<f72r3.S1.12;H>    opoeey.okaiin=
+<f72r3.S1.12;V>    ot!eey.okaiin={Grove's #12, star with tail}
+#
+#
+## <f72r3.R2> {}
+# second-outermost text ring
+# Last edited on 1998-12-11 13:57:55 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Starting from notched square at 09:00
+#
+<f72r3.R2.1;H>     
+otochedy.otal.okoey.sheedy.oteodar.ykeolal.ya.r.oteos.cheo!l!aiin.ykeeoly.otaiin
+.shear.oiin.or-
+{fold}o*.*o*a!.sheokeor.ote!ody.!!!oekes.otees.!!oeteos.dotsey.se**or{fold}.oteo
+l.shol.cheem.okeody.sheol.shey!.shey!!sy.sho!!.teey.cheor.yoeteey.okeeoy.chy.oke
+eo.ykoly=
+<f72r3.R2.1;U>     
+!!!***dy.oto*.okchy.che**y.oteodar.ykeolol.*air.oteos.cheo,l,aiin.okeealy.otaiin
+.shear.*ain.*!-
+{fold}!!!ke!a*.cheo.*ar.oteeody.**.o***!.ot**.*!!!!!!!**.ot**!!!!!!!!{fold}.oteo
+l.chol.**!!*.o**!!*.ch***.ch*a*.cheo*.s*.chot*.***!!!!!!!.o**.***.*!!!!!!!!*.oke
+eo.ytoly=
+#
+## <f72r3.S2> {}
+# Labels on stars, Cancer, middle
+# Last edited on 1998-12-11 13:01:32 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Numbers by John Grove, from 09:00
+#
+# 10:00
+<f72r3.S2.1;H>     olfsheoral=
+<f72r3.S2.1;V>     olfsheoral={Grove's #1, facing left, male?, star with tail}
+#
+# 11:00
+<f72r3.S2.2;H>     or.alkam=
+<f72r3.S2.2;V>     ar!alkam={Grove's #2, star with tail}
+<f72r3.S2.2;U>     ar!alkam=
+#
+# 00:00
+<f72r3.S2.3;H>     ytairal=
+<f72r3.S2.3;V>     ytairal={Grove's #3, male?}
+<f72r3.S2.3;U>     ytairal=
+#
+# 01:00
+<f72r3.S2.4;H>     oeees.aiin=
+<f72r3.S2.4;V>     oeees!aiin={Grove's #4, male?}
+<f72r3.S2.4;U>     oeees!aiin=
+#
+# 01:45
+<f72r3.S2.5;H>     ory=
+<f72r3.S2.5;V>     ory={Grove's #5, star with tail}
+<f72r3.S2.5;U>     ***=
+#
+# 02:30
+<f72r3.S2.6;H>     ochey.fydy=
+<f72r3.S2.6;V>     oshey.fydy={Grove's #6}
+<f72r3.S2.6;U>     oshey.fydy=
+#
+# 03:15
+<f72r3.S2.7;H>     ofais.o.s!eesaly=
+<f72r3.S2.7;V>     of**!!!.sheesaly={Grove's #7}
+<f72r3.S2.7;U>     ***!!!!!!!!!!!ly=
+#
+# 05:00
+<f72r3.S2.8;H>     ykairaiin.oiral=
+<f72r3.S2.8;V>     ykairaiin.airal={Grove's #8, star with tail}
+<f72r3.S2.8;U>     ***!!!!!!!!!ral=
+#
+# 06:30
+<f72r3.S2.9;H>     okala!r=
+<f72r3.S2.9;V>     okalair={Grove's #9, star with tail}
+<f72r3.S2.9;U>     okal!!!=
+#
+# 08:00
+<f72r3.S2.10;H>    orara=
+<f72r3.S2.10;V>    orary={Grove's #10, star with tail}
+<f72r3.S2.10;U>    ***r*=
+#
+# 08:45
+<f72r3.S2.11;H>    oeaiin.olaikhy=
+<f72r3.S2.11;V>    olaiin.olackhy={Grove's #11}
+<f72r3.S2.11;U>    olaiin.olackhy=
+#
+## <f72r3.R3> {}
+# third text ring, from outside in
+# Last edited on 1998-12-09 18:51:22 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Starting from wider gap at 09:00
+#
+<f72r3.R3.1;H>     
+oteey.arary.eeer.chem.shses.opchol!al!aiin.oteeor.am.sheal.otaipchy.oteees.ar.am
+.olaiin.otedas.olol.!choty.oteol.sheshdy.chedy.chedy.dy.shes.eedy.sheol.ch!y.ckh
+ol-
+<f72r3.R3.1;U>     
+ot**y.ar!!!!!!!.***.***.***.opchol,al,aiin.otchor,am.sheal.okaipshy.oteees!ar,am
+.olaiin.o**d**.olor.*choty.***!!.sh**!do.ch***.chedy.dy.!**r.**d*.cheol.***y.s!h
+ol-
+#
+## <f72r3.S3> {}
+# Labels on stars, Cancer, inner ring
+# Last edited on 1998-11-28 05:20:31 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Numbers by John Grove, from 09:00
+#
+# 09:00
+<f72r3.S3.1;H>     oletal=
+<f72r3.S3.1;V>     oletal={Grove's #1}
+#
+# 10:30
+<f72r3.S3.2;H>     opalal=
+<f72r3.S3.2;V>     opalal={Grove's #2}
+#
+# 00:00
+<f72r3.S3.3;H>     yfary=
+<f72r3.S3.3;V>     ypary={Grove's #3}
+<f72r3.S3.3;U>     ypary=
+#
+# 01:15
+<f72r3.S3.4;H>     osaiisal=
+<f72r3.S3.4;V>     osaiiral={Grove's #4, male?}
+#
+# 03:05
+<f72r3.S3.5;H>     ytoar.shor=
+<f72r3.S3.5;V>     ytoar.shar={Grove's #5, crowned, 1st star with tail}
+#
+# 06:00
+<f72r3.S3.6;H>     octho=
+<f72r3.S3.6;V>     octho={Grove's #6, 2nd star with tail}
+#
+# 07:30
+<f72r3.S3.7;H>     oral=
+<f72r3.S3.7;V>     aral={Grove's #7, 3rd star with tail}
+#
+## <f72r3.R4> {}
+# fourth (innermost) text ring
+# Last edited on 1998-12-09 18:52:05 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Starting from wider gap at 09:00
+#
+<f72r3.R4.1;H>     
+okeo!s.aiin.olaiin.oraiin.octheol.arl.okeeody.ote!os.aiin.!koly-
+<f72r3.R4.1;U>     
+oke***,!**n.ola*!!.oraiin.octheol.***.**!!!!*.ot**o*.a**!.*tol!-
+#
+<f72v3>          {$I=Z $Q=K $P=F}
+# Last edited on 1998-10-09 03:24:25 by stolfi
+#
+# Identification:
+#
+#   Title: "Leo"
+#   Page: f72v3 = KF (Rene) = p140 (Stolfi)
+#   Folio: f72
+#   Panels: f72v4, f72v3
+#   Bifolio: bK1 = f71+f72
+#   Quire: K (Rene) = XI (Beinecke)
+#
+#   This page spans the two outermost verso panels of an eight-panel
+#   fold-out. (The outermost panel is about 1/3 the width of a normal
+#   one.)
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: ??? (Reeds)
+#
+# Description:
+#
+#   [To be checked and completed]
+#
+#   Three concentric rings of text, deimited by six faint mechanically
+#   drawn circles. The outer and inner rings have wider word gaps 
+#   at 08:45. (The middle ring crosses a fold at that point).
+#
+#   In the centre is an animal resembling a lioness, facing west. The
+#   animal has a very short and sparse mane, and a long tail ending in
+#   a tuft of hair. The tail curved down, between or behind the rear
+#   legs, then up behind body, and then forward. The right front paw
+#   is lifted and points West. The animal has a muzzle similar to that
+#   of the nibbling animal in f???, and is showing a longish, narrow,
+#   pointed tongue.
+#
+#   Below the lion is a non-Voynichese word, possibly "augst" in
+#   lowercase Latin letters. There may be a dot over the first leg of
+#   the "u". The "s" looks like an uncrossed "f" with a straight
+#   descender. The "t" looks like an EVA "c".
+#
+#   The three rings of text define two bands containing human figures
+#   (12 in the inner band, 18 in the outer one), all naked, in 3/4
+#   view (between frontal and facing clockwise). Each figure holds a
+#   star with the left hand. The right hand is generally on the hip.
+#
+#   All the figures are naked. Most have visible breasts and 
+#   shoulder-long hair.
+#
+#   Clockwise from each figure there is a short label.
+#
+# Comments:
+#
+#   The animal at the center is probably a lion, the astrological
+#   symbol for Leo. Leo is ??? to ???.
+#
+## <f72v3.R1> {}
+# outer ring of text
+# Last edited on 1998-12-28 00:31:06 by stolfi
+#
+# Transcribed clockwise from wider gap at 08:45
+#
+<f72v3.R1.1;H>     
+soees.otchs.otedar.oteody.oteodal.oteos.ote*k**{fold}.*eody.sheokay.sheody.shedy
+keyl.eteody!s.okoleeolar.okeey.shedy.otey.sho.shol.teody.okol*{fold}**.yklede*y.
+okechly.olaiin.shokche**.{fold}!lol.chopchey.teey.teoda.cher.okecheay.otechol.ch
+sor.cheey.daein.o!yteiedar.chr{fold}.!!!cthy.otycheedy.oteeol!y.chokory-
+<f72v3.R1.1;U>     
+!doar.otchs.otedar.oteody.oteodal.oteos.ot***{fold}!!!**ody.**okeey.sheody.shedy
+keal.cheody,r.okoleeolar.okeey.shedy.okey,sho.shol.teody.okol*{fold}!!.*keed*!y.
+okechdy.olaiin.shokee!dy.{fold}chol.chopchey.teey,teody.ch*r.okechedy.otcheal.ch
+eor.cheey.da**n.o,yte!edar.***{fold}.sh*cthy.otycheedy.oteeoldy.chokory-{gap}
+#
+## <f72v3.S1> {}
+# Labels on stars, Leo, outer ring
+# Last edited on 1998-12-09 19:28:30 by stolfi
+#
+# Numbers by John Grove
+#
+# Weirdos:
+#
+#  &ol  = <l> above <o>?
+#
+# transcribed clockwise from 10:00
+#
+<f72v3.S1.1;H>     ok*olo{fold}=
+<f72v3.S1.1;V>     okealy{fold}={Grove's #1}
+<f72v3.S1.1;U>     okeal*{fold}=
+#
+<f72v3.S1.2;H>     ogeom=
+<f72v3.S1.2;V>     osham={Grove's #2}
+<f72v3.S1.2;U>     o**am=
+#
+<f72v3.S1.3;H>     oreeey=
+<f72v3.S1.3;V>     orchey={Grove's #3}
+<f72v3.S1.3;U>     orchey=
+#
+# star with tail
+<f72v3.S1.4;H>     okam=
+<f72v3.S1.4;V>     ykam={Grove's #4}
+<f72v3.S1.4;U>     ykam=
+#
+# star with tail
+<f72v3.S1.5;H>     okey=
+<f72v3.S1.5;V>     okey={Grove's #5}
+<f72v3.S1.5;U>     okey=
+#
+<f72v3.S1.6;H>     oteeeody=
+<f72v3.S1.6;V>     otcheody={Grove's #6, star with tail}
+<f72v3.S1.6;U>     otcheody={star with tail}
+#
+<f72v3.S1.7;H>     okyeeshy=
+<f72v3.S1.7;V>     okyeeshy={Grove's #7}
+<f72v3.S1.7;U>     okyeeshy=
+#
+<f72v3.S1.8;H>     **!!!!!!!ofaiin=
+<f72v3.S1.8;V>     ol*{&ol}.ofaiin={Grove's #8}
+<f72v3.S1.8;U>     **y!!!!!.ofaiin=
+#
+<f72v3.S1.9;H>     okoly=
+<f72v3.S1.9;V>     okaly={Grove's #9}
+<f72v3.S1.9;U>     okaly=
+#
+<f72v3.S1.10;H>    otoly=
+<f72v3.S1.10;V>    otaly={Grove's #10}
+<f72v3.S1.10;U>    otoly=
+#
+<f72v3.S1.11;H>    ofalals=
+<f72v3.S1.11;V>    ofalals={Grove's #11, star with tail}
+<f72v3.S1.11;U>    ofalals={star with tail}
+#
+<f72v3.S1.12;H>    reeeos.ocfhey=
+<f72v3.S1.12;V>    sheeos.ocfhey={Grove's #12}
+<f72v3.S1.12;U>    sheeas.ocfhey=
+#
+# no breasts
+<f72v3.S1.13;H>    daiin.chcpy=
+<f72v3.S1.13;V>    daiin.chefy={Grove's #13, male?}
+<f72v3.S1.13;U>    daiin.chepy=
+#
+<f72v3.S1.14;H>    oteey.dchyr=
+<f72v3.S1.14;V>    oteey.deeyl={Grove's #14}
+<f72v3.S1.14;U>    oteey.deey*=
+#
+# no breasts
+<f72v3.S1.15;H>    cheolpy=
+<f72v3.S1.15;V>    cheal!!={Grove's #15, male?}
+<f72v3.S1.15;U>    cheal**=
+#
+<f72v3.S1.16;H>    okeeol=
+<f72v3.S1.16;V>    okeeol={Grove's #16}
+<f72v3.S1.16;U>    okeeol=
+#
+<f72v3.S1.17;H>    okaly=
+<f72v3.S1.17;V>    okaly={Grove's #17}
+<f72v3.S1.17;U>    okaly=
+#
+<f72v3.S1.18;H>    okaldy=
+<f72v3.S1.18;V>    okaldy={Grove's #18}
+<f72v3.S1.18;U>    okaldy=
+#
+## <f72v3.R2> {}
+# middle ring of text
+# Last edited on 1998-12-09 19:24:09 by stolfi
+#
+# Transcribed clockwise from wider gap(?) at 08:45
+#
+<f72v3.R2.1;H>     
+!!!!!!!!!!shos.{fold}otchy.!**eody.cheokey.okeoekol.oteos.aiin.yal.eeedy.okeos.a
+ly.shy.oka!y.okeeey.okeedal!y.cholairy.oke!!.chees!y.okeeol.chey.otey.aldy.chdy.
+del.ok*eoloky.oty.aiin.cheis.otoly{fold}.ok****.etoteear-
+<f72v3.R2.1;U>     
+*t***.***.!***.{fold}***!!.**eeody.cheokeo.okeoekal.oteor,aiin.yol,eeedy.okeos,a
+ly!shy.okeey.okeeey.okeedal,y.cholairy.okedy.chees,y.okeeol.chey.okey,aldy.chdy,
+dal.oksholoky.oty.aiin.cha!s.oteey{fold}.**!!!*.*t**!*.*-
+#
+## <f72v3.S2> {}
+# Labels on stars, Leo, inner ring
+# Last edited on 1998-12-09 19:28:50 by stolfi
+#
+# Numbers by John Grove
+# Transcribed clockwise from 10:30
+#
+<f72v3.S2.1;H>     otoly.yty=
+<f72v3.S2.1;V>     otaly.yty={Grove's #1, coloured star}
+#                  
+<f72v3.S2.2;H>     sholeey=
+<f72v3.S2.2;V>     sholeey={Grove's #2, star with tail}
+#                  
+<f72v3.S2.3;H>     oky=
+<f72v3.S2.3;V>     oky={Grove's #3}
+#                  
+<f72v3.S2.4;H>     chcthhy=
+<f72v3.S2.4;V>     chcth!y={Grove's #4}
+#                  
+<f72v3.S2.5;H>     loly=
+<f72v3.S2.5;V>     laly={Grove's #5}
+#                  
+<f72v3.S2.6;H>     oeemy=
+<f72v3.S2.6;V>     oeedy={Grove's #6}
+#                  
+<f72v3.S2.7;H>     odair.an=
+<f72v3.S2.7;V>     odair.an={Grove's #7, decorative crown}
+#                  
+<f72v3.S2.8;H>     okary=
+<f72v3.S2.8;V>     okary={Grove's #8, star with tail}
+#                  
+<f72v3.S2.9;H>     oecs.aiin=
+<f72v3.S2.9;V>     o*cs!aiin={Grove's #9}
+#                  
+<f72v3.S2.10;H>    oteesod=
+<f72v3.S2.10;V>    oteesed={Grove's #10, star with tail}
+#                  
+<f72v3.S2.11;H>    epal=
+<f72v3.S2.11;V>    of*l={Grove's #11}
+#                  
+<f72v3.S2.12;H>    otaly=
+<f72v3.S2.12;V>    ot*ly={Grove's #12}
+#
+## <f72v3.R3> {}
+# inner ring of text
+# Last edited on 1998-12-09 19:24:29 by stolfi
+#
+# Transcribed clockwise from wider gap(?) at 08:45
+#
+<f72v3.R3.1;H>     
+okes!err.or.cskesol.okeol.yiin.cholal.ykeso!darar.oleeo.dy.shedy.soear.aldy.oteo
+r.cheor-
+<f72v3.R3.1;U>     
+okos,chr,or,chkeeol.okeol!aiin.cholal.ykeeo,darar.oleeo!dy.shedy.solar,aldy.oteo
+r,cheor-
+#
+<f72v2>          {$I=Z $Q=K $P=G}
+# Last edited on 1998-10-09 07:39:41 by stolfi
+#
+# Identification:
+#
+#   Title: "Virgo"
+#   Page: f72v2 = KG (Rene) = p141 (Stolfi)
+#   Folio: f72
+#   Panels: f72v2
+#   Bifolio: bK1 = f71+f72
+#   Quire: K (Rene) = XI (Beinecke)
+#
+#   This page is the central verso panel of n eight-panel fold-out.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: ??? (Reeds)
+#
+# Description:
+#
+#   [To be checked and completed]
+#
+#   Six faint, mostly concentric, mechanically drawn circles delimit
+#   three rings of text. The outer ring crosses the fold into page
+#   f72v3, and runs under that page's diagram, so the text is
+#   interrupted between 08:30 and 09:30. There are notable gaps on the
+#   other two rings at about 09:30.
+#
+#   The two outermost circles are not exactly concentric, and the 
+#   third one doesn't quite close on itself (at 06:30).
+#
+#   Inside the inner circle there is a woman (with breasts) standing,
+#   wearing a long pleated dress with flaring sleeves, and a hat or
+#   hat-like hairdo.  With her right hand she is holding a star, by its tail; 
+#   the left hand is empty and half-stretched forward. At her feet there
+#   is a tuft of grass and a daisy-like flower. Above the flower
+#   is a word in a dark, different script (possibly "septe~br" with the 
+#   tilde over the "e").
+#
+#   Between the bands of text, there are two bands of naked figures
+#   ("nymphs"), 12 in the inner one, 18 in the outer one. Most of them
+#   are clearly female, but some have undefined sex (no breasts but also
+#   no genitals).  The inner ring figure at 04:00 is smaller and is
+#   standing on a tub or platform of some sort.
+#
+#   Each nymph is holding or pointing to a star, some by its tail ---
+#   except for the inner nymph at 00:30, who is just looking at the
+#   star, and the inner nymph at 01:30, who has no star. There is 
+#   a label under each star.
+#
+# Comments:
+#
+#   The gaps at 09:30 suggest the text should be read starting from there.
+#
+#   The way f72v3 overlaps f72v2 indicates that they were drawn in
+#   that order.
+#
+#   Rene [27 Mar 1996] observes similarities between the zodiac
+#   symbols in the VMs and those in a 1440 german manuscript [1]. Says
+#   in particular that Virgo in that manuscript holds a flower and not
+#   a star.
+#
+#   Adams Douglas [28 Mar 1996] thinks the star held by the
+#   symbol-woman is Spica, the brightest star in Virgo, usually on the
+#   her head or a sceptre.
+#
+# References:
+#
+# [1] Manuscript Palat. Lat. 1369.  Samples in [2].
+#
+# [2] Fritz Saxl, book about astronomical and astrological images in medieval 
+# manuscripts.
+#
+## <f72v2.R1> {}
+# Outer ring of text, starting from wide gap at 09:00 (on the crease)
+# Last edited on 1998-12-19 19:14:47 by stolfi
+#
+<f72v2.R1.1;H>     
+ataseos.oty.oteos.oty.chotey.dchy.chopchy.otycoyl.ctheol.shey.tchols.choraiin.ch
+ekaiphy.!!!!!!oteeos.yly.oksedy.cseo.cthey.***eck*y*.ge*****eem.cth***s.okeeel.o
+ke!dy.cheos.okeeor.cheey.okeey.tchy.cheeey.ekeolol.sheeoeky.oekeeor.aiin.olal.ol
+al.kair.okolraiin-
+<f72v2.R1.1;U>     
+*toschs.oty.oteos.oty.chotey.dchy.chopchy.otoch**.cth**l,shey.tchols.choraiin.ch
+eka!**y.d****.o*chod.aly.*****!.****.****!.****%%%%%%%%%%%%%%%%%%%%%%%%.****!!.*
+***ly.cheos.okchor.cheey.okeey.!!!!!cheeey.ckholol.sheeo*!y.oekeeor!aiin.olal,!!
+!!!kair.okolraiin-
+#
+## <f72v2.S1> {}
+# Labels on stars, Virgo, outer ring
+# Last edited on 1998-12-11 13:01:56 by stolfi
+#
+# Numbers by John Grove, starting from 10:00
+# "U" transcription by J. stolfi from unidentified scan.
+#
+# star with tail, no breasts
+<f72v2.S1.1;H>     oeedey=
+<f72v2.S1.1;V>     oeedey={Grove's #1, male?}
+<f72v2.S1.1;U>     oeedey=
+#
+# no breasts
+<f72v2.S1.2;H>     oeeo.daiin=
+<f72v2.S1.2;V>     oeeo.daiin={Grove's #2, male?}
+<f72v2.S1.2;U>     oeeo.daiin=
+#
+<f72v2.S1.3;H>     okeoram=
+<f72v2.S1.3;V>     okeoram={Grove's #3}
+<f72v2.S1.3;U>     okeoram=
+#
+# star with tail
+<f72v2.S1.4;H>     air!olm=
+<f72v2.S1.4;V>     air.aim={Grove's #4}
+<f72v2.S1.4;U>     air.a*m=
+#
+# star with tail
+<f72v2.S1.5;H>     oshesy=
+<f72v2.S1.5;V>     ocsesy={Grove's #5}
+<f72v2.S1.5;U>     ocsesy=
+#
+# star with tail
+<f72v2.S1.6;H>     okeory=
+<f72v2.S1.6;V>     okeosy={Grove's #6}
+<f72v2.S1.6;U>     okeory=
+#
+# star with tail, no breasts
+<f72v2.S1.7;H>     cheoekcy=
+<f72v2.S1.7;V>     cheoekry={Grove's #7, male?}
+#
+# star with tail
+<f72v2.S1.8;H>     eeoeety=
+<f72v2.S1.8;V>     ***!!!!={Grove's #8, male?, unreadable}
+#
+<f72v2.S1.9;H>     sheoeky=
+<f72v2.S1.9;V>     csedeky={Grove's #9}
+<f72v2.S1.9;U>     sh***ky=
+#
+<f72v2.S1.10;H>    oteodar=
+<f72v2.S1.10;V>    oteodar={Grove's #10}
+<f72v2.S1.10;U>    otchdar=
+#
+<f72v2.S1.11;H>    ofchdy!sd=
+<f72v2.S1.11;V>    opchdy!sd={Grove's #11}
+<f72v2.S1.11;U>    opchdy.s*=
+#
+# star with tail
+<f72v2.S1.12;H>    o!eeod=
+<f72v2.S1.12;V>    oteeed={Grove's #12}
+<f72v2.S1.12;U>    oteeod=
+#
+<f72v2.S1.13;H>    yteody=
+<f72v2.S1.13;V>    yteody={Grove's #13}
+<f72v2.S1.13;U>    yteody=
+#
+<f72v2.S1.14;H>    okeody=
+<f72v2.S1.14;V>    okeody={Grove's #14}
+<f72v2.S1.14;U>    okeody=
+#
+<f72v2.S1.15;H>    okeoldy=
+<f72v2.S1.15;V>    okeoldy={Grove's #15}
+<f72v2.S1.15;U>    okeoldy=
+#
+<f72v2.S1.16;H>    ykeeol=
+<f72v2.S1.16;V>    ykeeos={Grove's #16}
+<f72v2.S1.16;U>    ykeeor=
+#
+<f72v2.S1.17;H>    opaiin!ar=
+<f72v2.S1.17;V>    opaiin!ar={Grove's #17}
+<f72v2.S1.17;U>    opaiin.ar=
+#
+<f72v2.S1.18;H>    eeeoloy=
+<f72v2.S1.18;V>    cheoldy={Grove's #18}
+<f72v2.S1.18;U>    cheoldy=
+#
+## <f72v2.R2> {}
+# Middle ring of text, starting from wider gap at 09:30
+# Last edited on 1998-12-09 19:09:29 by stolfi
+#
+<f72v2.R2.1;H>     
+otees.ody.otey.otchos.sheot*.yteed.dchsaiin.shol.okches.air.am.shey.qokeodal.ote
+otey.oteoldy.oteal!chedy.chotal.al.okal.cheol.sar!aiin.cheokaidy.sa!ndy.otol.chs
+kar.alteol.oltar.or-
+<f72v2.R2.1;U>     
+otees!ody.otey.otchar.sheot*.yteeg.dchsaiin.shol.okeees.air.am.shey.qokeodal.ote
+otey.oteoldy.oteal,chedy.chotal,al.okal,cheol.sar,aiin.cheok*aly.sairdy.otol.che
+kar.alteol.oltar.ar-
+#
+## <f72v2.S2> {}
+# Labels on stars, Virgo, inner ring
+# Last edited on 1998-12-09 19:12:12 by stolfi
+#
+# Numbers by John Grove, starting from 11:00
+# "U" transcription by J. stolfi from unidentified scan.
+#
+# no breasts
+<f72v2.S2.1;H>     okaiin=
+<f72v2.S2.1;V>     okaiin={Grove's #1, male?}
+<f72v2.S2.1;U>     okaiin=
+#                  
+<f72v2.S2.2;H>     oekeol=
+<f72v2.S2.2;V>     ockhol={Grove's #2}
+<f72v2.S2.2;U>     ockhol=
+#                  
+# star with tail
+<f72v2.S2.3;H>     oeedy=
+<f72v2.S2.3;V>     oeedy={Grove's #3}
+<f72v2.S2.3;U>     oeedy=
+#                
+# no star
+<f72v2.S2.4;H>     opalg=
+<f72v2.S2.4;V>     opalg={Grove's #4}
+<f72v2.S2.4;U>     opalg=
+#                  
+# no breasts, star with tail?
+<f72v2.S2.5;H>     okeeom=
+<f72v2.S2.5;V>     okeeog={Grove's #5, male?}
+<f72v2.S2.5;U>     okeeog=
+#                  
+<f72v2.S2.6;H>     olkar=
+<f72v2.S2.6;V>     olkar={Grove's #6}
+<f72v2.S2.6;U>     olkar=
+#                  
+# standing on tub?
+<f72v2.S2.7;H>     oeedaly=
+<f72v2.S2.7;V>     oeedaly={Grove's #7}
+<f72v2.S2.7;U>     oeedaly=
+#                  
+<f72v2.S2.8;H>     cheos.sh*s=
+<f72v2.S2.8;V>     cheos!!!y!={Grove's #8}
+<f72v2.S2.8;U>     cheos!!!y!=
+#                  
+<f72v2.S2.9;H>     ofc!hea!y=
+<f72v2.S2.9;V>     ofc!heeey={Grove's #9}
+<f72v2.S2.9;U>     ofc!hee!y=
+#                  
+<f72v2.S2.10;H>    yteedy=
+<f72v2.S2.10;V>    yteedy={Grove's #10}
+<f72v2.S2.10;U>    yteedy=
+#                  
+<f72v2.S2.11;H>    oraiin=
+<f72v2.S2.11;V>    araiin={Grove's #11}
+<f72v2.S2.11;U>    oraiin=
+#                  
+<f72v2.S2.12;H>    okeo.rar=
+<f72v2.S2.12;V>    okeo!rar={Grove's #12}
+<f72v2.S2.12;U>    okeo!rar=
+#
+## <f72v2.R3> {}
+# Inner ring of text, starting from wider gap at 09:00
+# Last edited on 1998-12-28 00:33:45 by stolfi
+#
+<f72v2.R3.1;H>     
+otaiin.otshedy.chokeedy.otes.al.al.ar.chetolain.sheodaly.sheokey.okealy.s!any-
+<f72v2.R3.1;U>     
+*t****.otshedy.choke!dy.otes.al!al!ar.chetalain.sheodaly.sheokey.okealy.r,aly-
+#
+<f72v1>          {$I=Z $Q=K $P=H}
+# Last edited on 1998-10-09 03:25:19 by stolfi
+#
+# Identification:
+#
+#   Title: "Libra"
+#   Page: f72v1 = KH (Rene) = p142 (Stolfi)
+#   Folio: f72
+#   Panels: f72v1
+#   Bifolio: bK1 = f71+f72
+#   Quire: K (Rene) = XI (Beinecke)
+#
+#   This page is the innermost verso panel of an eight-panel fold-out.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: yellow(stars) (Reeds)
+#
+# Description:
+#
+#   [To be checked and completed]
+#
+#   Six faint, mostly concentric, mechanically drawn circles delimit
+#   three rings of text. The outer ring runs right up to the binding
+#   gutter on the right. There may be a wider word gap at 09:00 (but
+#   the image is very poor there). A radial stroke cuts across the
+#   middle ring at 08:30 (may be a modern scribble).
+#
+#   The two circles that delimit the inner ring of text are quite 
+#   irregular.
+#
+#   Inside the inner ring there is a two-plate balance scale,
+#   slightly offset to the right. The beam is a narrow rectangular
+#   ruler, with a darker stripe running down its middle. The pivot is
+#   not visible, but seems to be fixed at the bottom of an upright
+#   rectangular frame, with a handle or ring on top (partly hidden
+#   under the innermost text ring). A narrow triangular pointer rises
+#   from the beam's midpoint up to the top of the supporting frame. An
+#   object resembling a sliding counterweight seems to be resting over
+#   the beam, a little to the left of the pivot. Each end of the beam
+#   has a thin horizontal extension, from whose tip there hangs a
+#   hemispherical cup with thick walls, supported by three or four
+#   straight threads or wires.
+#
+#   Below the scale there is a single word in non-Voynich script,
+#   apparently "oct~ebre" in lowercase Latin cursive (with a
+#   tilde or macron over the "te").
+#
+#   Between the bands of text, there are two bands of naked figures
+#   ("nymphs"), 10 in the inner one, 20 in the outer one. Most of them
+#   are clearly female (visible breasts, long hair).  All nymphs are naked,
+#   mostly in 3/4 view (between frontal and facing clockwise).
+#
+#   A hole in the vellum, less than 5mm across, covers a small segment
+#   of the middle ring. at 03:00. The preceding word runs up to the
+#   hole, but is apparently whole. A nymph in the inner band, at
+#   03:15, also has the hair squeezed against the hole.
+#
+#   The outer nymph at 12:15 wears a crown, consisting of a ring of
+#   flaring triangular points, each with a dot; and a dome with double
+#   outline, topped by a spike or cross (too small to tell).
+#
+#   Each nymph is holding or pointing to a star.
+#
+#   There is a Voynichese label just clockwise of each nymph.
+#
+# Comments:
+#
+#   The scale is the standard symbol for the sign of Libra.
+#   Libra is from ??? to ???.
+#
+#   The stroke at 08:30, if original, suggests that the text should be
+#   read starting from there.
+#
+#   The way f72v3 overlaps f72v2 indicates that they were drawn in
+#   that order.
+#
+#   The drawing of the balance is very accurate in all details, in
+#   spite of the relatively crude perspective and technique. It looks
+#   as if the author was very familiar with the instrument. I suspect
+#   that the model may be more appropriate for a druggist than for a
+#   grocer.
+#
+#   The details of the drawings around the hole suggest that the
+#   hole was already there when the drawing was made.
+#
+## <f72v1.R1> {}
+# outer text ring
+# Last edited on 1998-12-19 19:15:33 by stolfi
+#
+# No obvious starting place;
+# Transcribed clockwise from unreadable area at left
+#
+<f72v1.R1.1;H>     
+!!!!!otar.air.chpaly.oteody.okchesal.otear.alshey.oleealy.sh*etey.oteos.alal.dal
+s.alchol.ytolaiin.ydaiin.chotar.ytal.oto.shoty.otey.okchedyly.shdary.sar.ote!dy.
+oto.r!ar.shedy.!opshey!tey.opairaly.choshydy.otar.cheedy.otalaiin.cheeky.okalar.
+ysr*y.s.ok*s*t*.oteos.alar.
+<f72v1.R1.1;U>     
+***.**lor,air.chpaly.oteody.okchedal.otear.alshey.oleealy.sh*!key.oteas.alal.dal
+s,alchol.ytolaiin.ydaiin.chotar.ytal.oto.shoty.otey.okched**y.chd**!.dar.oteedy.
+oto!r.*r.shedy,*opshry,tey.opa!raly.ch*shydy.ot**.**!!!*.**!!!!!*.**!!!*.*!!!**.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+#
+## <f72v1.S1> {}
+# Labels on stars, Libra, outer ring
+# Last edited on 1998-12-09 18:59:32 by stolfi
+#
+# Numbers by John Grove
+#
+# Weirdos:
+#
+#
+<f72v1.S1.1;H>     oeeoty=
+<f72v1.S1.1;V>     oeeaty={Grove's #1}
+#
+<f72v1.S1.2;H>     octhy=
+<f72v1.S1.2;V>     octhy={Grove's #2}
+#
+<f72v1.S1.3;H>     oteoly=
+<f72v1.S1.3;V>     oteoly={Grove's #3}
+#
+<f72v1.S1.4;H>     okeoly=
+<f72v1.S1.4;V>     okeoly={Grove's #4}
+#
+<f72v1.S1.5;H>     oeees=
+<f72v1.S1.5;V>     oeees={Grove's #5}
+#
+<f72v1.S1.6;H>     ocf{&F}shy=
+<f72v1.S1.6;V>     ocf!!!!shy={Grove's 6, or possibly the queen}
+#
+<f72v1.S1.7;H>     oees=
+<f72v1.S1.7;V>     oees={Grove's #7, or possibly the queen}
+#
+<f72v1.S1.8;H>     okeeoly=
+<f72v1.S1.8;V>     okeealy={Grove's #8}
+#
+<f72v1.S1.9;H>     odal=
+<f72v1.S1.9;V>     o*al={Grove's #9}
+#
+<f72v1.S1.10;H>    aiinod=
+<f72v1.S1.10;V>    aiinod={Grove's #10}
+#
+<f72v1.S1.11;H>    odody=
+<f72v1.S1.11;V>    odamy={Grove's #11}
+#
+<f72v1.S1.12;H>    oteod=
+<f72v1.S1.12;V>    oteod={Grove's #12}
+#
+<f72v1.S1.13;H>    yteod=
+<f72v1.S1.13;V>    yteo!={Grove's #13}
+#
+<f72v1.S1.14;H>    okchedy=
+<f72v1.S1.14;V>    okchody={Grove's #14}
+#
+<f72v1.S1.15;H>    okyl=
+<f72v1.S1.15;V>    okal={Grove's #15}
+#
+<f72v1.S1.16;H>    ytaly=
+<f72v1.S1.16;V>    ytaly={Grove's #16}
+#
+<f72v1.S1.17;H>    ocheos=
+<f72v1.S1.17;V>    oeeeos={Grove's #17}
+#
+<f72v1.S1.18;H>    oteofy=
+<f72v1.S1.18;V>    oteofy={Grove's #18}
+#
+<f72v1.S1.19;H>    cheoepy=
+<f72v1.S1.19;V>    cheoepy={Grove's #19}
+#
+<f72v1.S1.20;H>    ykee!dy=
+<f72v1.S1.20;V>    ykeeodg={Grove's #20}
+#
+## <f72v1.R2> {}
+# middle ring of text
+# Last edited on 1998-12-09 18:57:41 by stolfi
+#
+# No obvious starting place.
+# Transcribed clockwise from radial stroke at 08:30
+# (which may be a modern scribble...)
+#
+<f72v1.R2.1;H>     
+otar!iir.otol!topar.oteol.aiin.ofas.al.otshedy.ofalar.alshdy.chpar.aiin.okaly.ok
+ar-{hole}yaly.opcheolfy.op!ar.cheoekey.otol!opaiin.shaldy.chepchy.atey.tear-
+{stroke}
+<f72v1.R2.1;U>     
+otar,iir.otol,topar.oteal,aiin,ofar,al.otshedy.ofalar.alshdy.chpar,aiin.okaly.ok
+a*-{hole}yaly.ofcheolfy.op**r.chechkey.otal,opaiin.shaldy.chepchy.otey,t**r-
+{stroke}
+#
+## <f72v1.S2> {}
+# Labels on stars, Libra, inner ring
+# Last edited on 1998-12-08 09:32:54 by stolfi
+#
+# Numbers by John Grove
+#
+<f72v1.S2.1;H>     oeeoly=
+<f72v1.S2.1;V>     oeeoly={Grove's #1}
+#
+<f72v1.S2.2;H>     okady=
+<f72v1.S2.2;V>     okydy={Grove's #2}
+#
+<f72v1.S2.3;H>     okeey=
+<f72v1.S2.3;V>     okeey={Grove's #3}
+#
+<f72v1.S2.4;H>     oiiny=
+<f72v1.S2.4;V>     oiiny={Grove's #4}
+#
+<f72v1.S2.5;H>     oeey=
+<f72v1.S2.5;V>     oeey={Grove's #5}
+#
+<f72v1.S2.6;H>     okedy=
+<f72v1.S2.6;V>     okedy={Grove's #6}
+#
+<f72v1.S2.7;H>     ypain=
+<f72v1.S2.7;V>     ypaim={Grove's #7}
+#
+<f72v1.S2.8;H>     okalair=
+<f72v1.S2.8;V>     okalair={Grove's #8}
+#
+<f72v1.S2.9;H>     oeeody=
+<f72v1.S2.9;V>     oeeody={Grove's #9}
+#
+<f72v1.S2.10;H>    okeol=
+<f72v1.S2.10;V>    okeol={Grove's #10}
+#
+## <f72v1.R3> {}
+# inner ring of text
+# Last edited on 1998-12-09 18:58:29 by stolfi
+#
+# Transcribed clockwise from slightly wider gap at 09:00
+#
+<f72v1.R3.1;H>     
+otal!al.dalal.ykeols.oteo!s.aiin.y!otoam.oteey.saiin.oteoos.am.
+<f72v1.R3.1;U>     
+otol,al.dalal.ykeols.oteo,s,aiin.*,otoam.oteey,saiin.o!eeor,am.
+#
+

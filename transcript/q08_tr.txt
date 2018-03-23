@@ -1,0 +1,1800 @@
+<f57r>           {$I=H $Q=H $P=A $L=B $H=2}
+# Last edited on 1998-10-07 22:49:41 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f57r = HA (Rene) = p111 (Stolfi)
+#   Folio: f57
+#   Panels: f57r
+#   Bifolio: bH1 = f57+f66
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+# Attributes:
+#
+#   Language: B (Currier)
+#   Hand: 2 (Currier)
+#   Subsets: H (Rene), heb (Stolfi)
+#   Subject: herbal
+#   Colors: blue,green (Reeds)
+#
+# Description:
+#
+# Comments:
+#
+#
+## <f57r.P> {}
+# text
+# Last edited on 1998-12-08 02:14:23 by stolfi
+#
+<f57r.P.1;H>       
+poeeo.ckhey.odai!n.cheop.sheody.shocfhey.dy.sheep.cheody.yodam-
+<f57r.P.1;C>       
+poeeo!ckhey.odai!n.cheop.sheody.shocfhey.dy.sheep.sheody.!odam-
+<f57r.P.1;F>       
+poeeo.ckhey.odaiin.cheop.sheody.shocph!y.dy.sheep.che*dy.yodam-
+#
+<f57r.P.2;H>       
+daiir.air.chety.cheo.ckhy.chockhy.cheotey.shkchey.s.odaiin.shey-
+<f57r.P.2;C>       
+daiir.air.chety.cheo.ckhy.chockhy.cheotey.shkchey.s.odaiin.shey-
+<f57r.P.2;F>       
+dai!r.a!r.chety.cheo.ckhy.checkhy.cheotey.shkchey.s.odaiin.shey-
+#
+<f57r.P.3;H>       
+qykeeody.cheooky.qokeody.sheey.okeody.cheody.cheeody.chee!keody-
+<f57r.P.3;C>       
+qokeeody.cheo!ky.qokeody.sheey.okeody.cheody.cheeody.chee!keody-
+<f57r.P.3;F>       
+qokeeody.cheooky.qokeody.cheey.okeody.cheody.che*!dy.cheo.kchdy-
+#
+<f57r.P.4;H>       
+dchos.cheocthy.cheody.qotchody.octhody.okeeody.chteody.cheody.s-
+<f57r.P.4;C>       
+deeos.cheocthy.cheody.qoteeody.octhody.okeeody.chteody.cheody.s-
+<f57r.P.4;F>       
+dchos.cheocthy.cheody.qotchody.octhody.okeeody.chteody.cheody!s-
+#
+<f57r.P.5;H>       qokcho.daiin.cheeo!dam=
+<f57r.P.5;C>       qokeeo.daiin.cheeo!dam=
+<f57r.P.5;F>       qokcho.daiin.cheeo.dam=
+#
+<f57r.P.6;H>       tsheodal.okam.chckhey.okchdy.doctho.opchey.dy.kodai!n.oforam-
+<f57r.P.6;C>       tcheodal.okam.chckhey.okchdy.doctho.opchey.dy.kedaiin.oforam-
+<f57r.P.6;F>       tcheodar.okam.chckhey.okchdy.doctho.opchey.dy.kedaiin.oforam-
+#
+<f57r.P.7;H>       daiis.sheedy.qokeedy.chctey-{plant}otchod.shekey.tedy.okoldm-
+<f57r.P.7;C>       daiir.sheedy.qokeedy.chetey-{plant}oteeod.shekey.tedy.okaldg-
+<f57r.P.7;F>       daiin.sheedy.qokeedy.chetey-{plant}ote!od.shekey.tedy.okaldm-
+#
+<f57r.P.8;H>       tai!r.sheedy.lchedy.ckhchdy-{plant}okchy.chedy.dal.qokedam-
+<f57r.P.8;C>       tai!r.sheedy.ochedy.ckheedy-{plant}okchy.chedy.dal.qokedam-
+<f57r.P.8;F>       taiin.she!dy.*chedy.ok!e!dy-{plant}okchy.chedy.dal.qoked*m-
+#
+<f57r.P.9;H>       odair.sheeo.ckhy.sar.al.daii!dy-
+{plant}dcheckhey.daiin.chedy.cthedy-
+<f57r.P.9;C>       odair.sheeo.ckhy.sar.al.daii!jy-
+{plant}dcheckhey.daiin.chedy.cthedy-
+<f57r.P.9;F>       odair.sheeo!ckhy.sar.al.daiindy-
+{plant}dcheckhey.daiin.chedy.cthedy-
+#
+<f57r.P.10;H>      qoctchey.kedy.shedaiin-{plant}s.cheos.ykeos.qcth!hy.tcfhy-
+<f57r.P.10;C>      qoetchey.kedy.shedaiin-{plant}s!cheos.ykeos.acthe!y.tcfhy-
+<f57r.P.10;F>      qo!cthey.kedy.shedaiin-{plant}s!ch!os.ykeos.qcthchy.tcfhy-
+#
+<f57r.P.11;H>      dshedy.ctechy.cphedom={plant}
+<f57r.P.11;C>      d!aedy.ctheey.cphedam={plant}
+<f57r.P.11;F>      dshedy.!techy.cphedam={plant}
+#
+<f57v>           {$I=C $Q=H $P=B}
+# Last edited on 1998-10-09 02:36:50 by stolfi
+#
+# Identification:
+#
+#   Title: "The 4 times 17 sequence"
+#   Page: f57v = HB (Rene) = p112 (Stolfi)
+#   Folio: f57
+#   Panels: f57v
+#   Bifolio: bH1 = f57+f66
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+# Attributes:
+#
+#   Language: B (Currier)
+#   Hand: 2 (Currier)
+#   Subsets: C (Rene), cos (Stolfi)
+#   Subject: cosmological
+#   Colors: tan (Reeds)
+#
+# Description:
+#
+#   A circular diagram. 
+#
+#   Eight concentric mechanically drawn circles delimit four text
+#   rings, which are divided into 4 quadrants by straight lines in
+#   the NE, NW, SW, and SE directions. The lines are drawn with ruler,
+#   but do not quite meet at the center (They may be modern additions
+#   to the copy). there is an isolated word outside the outer circle.
+#
+#   At the center is a simple rosette, with 4 short and 4 long rounded
+#   lobes, with a circle and a dot in the middle.
+#
+#   Inside the inner circle there are four naked human figures,
+#   visible from the chest up, heads towards the center.
+#   Two are male, two female; two are seen mostly from the front
+#   two mostly from the back; two have both arms raised, two have 
+#   only one.  Here are the combinations:
+#
+#     North:  male,   back,  two arms straight in "V".
+#     West:   female, front, one arm straight at 45 degrees.
+#     South:  female, back,  two arms straight in "V".
+#     East:   male,   front, one arm forward then bent up, holding a ball.
+#
+#   There are 8 words inside the inner circle. Four of them radiate
+#   from the rosette, roughly along the diagonal lines.  The other
+#   four are tangential (but with straight baselines), to be read
+#   in the clockwise direction; it is not clear whether they
+#   label the four figures, or the spaces between them.
+#
+# Comments:
+#
+#
+## <f57v.T> {}
+# Single word outside circle, just clockwise of the NW radial line.
+# Last edited on 1998-08-07 15:03:23 by stolfi
+#
+# "V" transcription by J.Grove
+# "U" transcription by J.Stolfi from unidentified scan.
+#
+<f57v.T.1;H>       dairol=
+<f57v.T.1;V>       dairol=
+<f57v.T.1;U>       dairal=
+#
+## <f57v.R1> {}
+# Outer band of text, starting from the NW line.
+# Last edited on 1998-12-08 02:17:07 by stolfi
+#
+# "V" transcription by J.Grove
+# "U" transcription by J.Stolfi from unidentified scan.
+#
+# The "peeeee" may be "pe.ee.e.e"
+#
+<f57v.R1.1;H>      
+v.sa.l.y.soe!os.v!s.ar.okees.o.d.socfchees.l!g.sos.okey.defo.f!o.rkedam.sh.ofol.
+sar.ddal.yty.s.y.daiis.oteo.dsh.dy.dkals.ety.fchcho.a.r.ofaiin.dal.karody.a!r.ok
+chy.daram.qokar.okal.okal.d!.o.l.shkeal.dyd!as.o.k.sher.saiin.
+<f57v.R1.1;V>      
+v.sa.l.y.saeeos.v!s.ar.okees.o.d.soefchees.l!d.sos.okey.defo.f.o.rkedam.sh.ofol.
+sar.ddal.yty.s.y.daiir.otey.dsh!dy.dkalr.oty.peeeee.a.r.opaiin.dal.karody.v!r.ok
+eey.daram.qokar.okal.okal.d*.o.l.shkeal.dydchs.o.t.sher.saiin.
+<f57v.R1.1;U>      
+v.sa,l,y.sae!ar.v,r.yr.okees.a.d.roefchees.l,m.sor.okey.defo.f,o.rkedam.sh.ofol.
+rar.ddal.yty.s.y.daiir.otey.dsh!dy.dkalr.oty.peoch*.a.r.opaiin.dal.karody.v,r.ok
+eey.daram.qokar.okal.okal.d!.o.l.shkeal.dydchs.o,k.sher.saiin.
+#
+## <f57v.R2> {}
+# Second ring of text  (17 character sequence X 4), clockwise from NW
+# Last edited on 1998-12-24 21:06:14 by stolfi
+#
+# "V" Transcription by John Grove, edited by J.Stolfi
+# "U" transcription by J. Stolfi from unidentified scan.
+#
+# Asterisks are "weirdoes".  Note that the repetition
+# is not perfect: 
+#  "I" in the first period becomes "c" in the rest,
+#  "j" in the first period becomes "m" in the rest,
+#  "f" in the first two periods becomes "d" in the other two.
+#
+#  &169 = "Lo^" with "o" above the "L"
+#  &170 = like "h" with top detached
+#  &171 = gallows with three loops
+#  &172 = upside-down lambda
+#  &I   = first half of "ih"
+#
+# The {|} marks the period boundaries 
+# First period:
+#
+<f57v.R2.1;H>      o-l-d-r-v-x-k-k-f-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-
+*{&172}-{|}o-l-d-r-v-x-k-m-f-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-
+d-r-v-x-k-k-p-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-d-r-v-x-k-k-p-
+*{&169}-t-r-*{&169}-*{&171}-y-c!!!!-r!!!!!!-n-
+<f57v.R2.1;V>      o-l-d-r-v-x-k-m-f-*{&169}-t-r-*{&170}-*{&171}-y-*{&I}-
+*{&172}-{|}o-l-d-r-v-x-k-m-f-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-
+d-r-v-x-k-m-p-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-d-r-v-x-k-m-p-
+*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}!!-
+<f57v.R2.1;U>      o-l-j-r-v-x-k-m-f-*{&169}-t-r-*{&170}-*{&171}-y-*{&I}-
+*{&172}-{|}o-l-d-r-v-x-k-m-f-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-
+d-r-v-x-k-m-p-*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}-{|}o-l-d-r-v-x-k-m-p-
+*{&169}-t-r-*{&170}-*{&171}-y-c!!!!-*{&172}!!-
+## <f57v.R3> {}
+# Third ring 
+# Last edited on 1998-12-08 02:21:13 by stolfi
+#
+# "V" transcription by John Grove
+# "U" transcription by J. stolfi from unidentified scans.
+#
+# &172 = upside down lambda
+#
+<f57v.R3.1;H>      
+daiin.otey.ofchey.shes.o.d.okchod!!.o.l.okeeol.dkedar.o!f.aros.s.y.chedaiin.k.ec
+hty.x.doe!dal.vo.tchor.cs.tedas.dal.*{&172}.daiin.aiin.otyl.daro.v=
+<f57v.R3.1;V>      
+daiin.otey.ofchey.shes.o.d.okchod.l.o.l!!keeol.dkedar.o!f.aros.r.y.chedaiin.k.ch
+ety.x.docodal.vo.tchor.sh.tedar.dal.*{&172}.daiin.aiin.otal.daro.v=
+<f57v.R3.1;U>      
+daiin.otey.ofchey.shes.o.d.okchod.l.o.l!!keeol.dkedar.o,f.aros.r.y.chedaiin.k.ch
+ety.x.docodal.vo.tchor.sh.tedar.dal.*{&172}.daiin.aiin.otal.daro.v=
+#
+## <f57v.R4> {}
+# Inner ring of text, clockwise from the wide NW gap.
+# Last edited on 1998-12-08 09:59:07 by stolfi
+#
+# "V" translation by John Grove
+# "U" tranlation by J. stolfi from unidentified scan.
+#
+# Weirdos:
+#
+#   &170 = like "h" with top detached (#13 of the 17-element sequence)
+#   &171 = gallows with three loops (#14 of the 17-element sequence)
+#   &I   = first half of "ih" (#16 of the 17-element sequence)
+#   &^   = top half of "y"
+#
+# The notation {#NN} means item NN of the 17-element sequence, i.e. 
+<f57v.R2.NN;V>
+#
+# The first "o" actually lies just before the NW radial line
+#
+<f57v.R4.1;H>      
+o.v.l.r.m.aiin.d.*{&170}.c!!!!.f.s.y.l.k.x.l.r.*{&171}.ar.o.s.*!!!!.t.l.s!!!.d.y
+.!!ar.teodar.otodar.sheky.otchody.x!s!l=
+<f57v.R4.1;V>      
+o.v.l.r.m.aiin.d.*{&170}.c!!!!.f.s.y.l.k.x.l.r.*{&171}!ar.o.r.*!!!!.t.l.s{?}.d.y
+.d!ar.teodar.otadal.shcky!oteeody.x.r.l=
+<f57v.R4.1;U>      
+o.v.l.r.m.aiin.d.*{&170}.c{&I}.f.r.y.l.k.x.l.r.*{&171},ar.o,r.*{&^}.t.l.s!!!.d.y
+.d,ar.teodar.otadal.sheky.otchody.x.r.l=
+#
+## <f57v.X> {}
+# Labels: human figures inside inner circle
+# Last edited on 1998-12-08 09:22:28 by stolfi
+#
+# "V" transcription by John Grove
+# "U" transcription by J.Stolfi from unidentified scan
+#
+# southern side facing away
+<f57v.X.1;H>       olkchdal=
+<f57v.X.1;V>       olkchdal=
+<f57v.X.1;U>       olkchdal=
+#
+# eastern side facing forward, holding round object
+<f57v.X.2;H>       oparairdly=
+<f57v.X.2;V>       oparairdly=
+<f57v.X.2;U>       oparairdly=
+#
+# western side facing forward
+<f57v.X.3;H>       otardaly=
+<f57v.X.3;V>       otardaly=
+<f57v.X.3;U>       otardaly=
+#
+# northern side facing away
+<f57v.X.4;H>       otodarod=
+<f57v.X.4;V>       otodaram=
+<f57v.X.4;U>       otodaram=
+#
+## <f57v.Y> {}
+# Labels: four directions?
+# Last edited on 1998-12-08 09:59:55 by stolfi
+#
+# "V" transcription by John Grove
+# "U" trancription by J.Stolfi from unidentified scan
+#
+# northeast (towards the "otodaram" nymph)
+<f57v.Y.1;H>       oralaror=
+<f57v.Y.1;V>       aralarar=
+<f57v.Y.1;U>       ara*arar=
+#
+# southeast (towards the "oparairdly" nymph)
+<f57v.Y.2;H>       okchoy=
+<f57v.Y.2;V>       okeely=
+<f57v.Y.2;U>       oka!ly=
+#
+# southwest  (towards the "olkchdal" nymph)
+<f57v.Y.3;H>       ocfhor.okear=
+<f57v.Y.3;V>       o!fhal.okear=
+<f57v.Y.3;U>       ocfhor.okear=
+#
+# northwest  (towards the "otardaly" nymph)
+<f57v.Y.4;H>       ackaldy=
+<f57v.Y.4;V>       alkaldy=
+<f57v.Y.4;U>       alkaldy=
+#
+<f58r>           {$I=T $Q=H $P=C $L=A}
+# Last edited on 1998-10-09 02:38:46 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f58r = HC (Rene) = p113 (Stolfi)
+#   Folio: f58
+#   Panels: f58r
+#   Bifolio: bH2 = f58+f65
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: ? (Currier)
+#   Subsets: T (Rene), str (Stolfi)
+#   Subject: stars
+#   Colors: yellow(stars) (Reeds)
+#
+# Description:
+#
+#   The page contains three long text blocks with 14.5, 9.7, 15.7
+#   lines, with clear gaps between them. There are hints of paragraph
+#   breaks inside each block, but they are not evident. The three
+#   paragraphs are left- and right-justified, except that the first
+#   three lines are indented as if making space for an ornate capital.
+#
+#   There are three stars in the left margin, with 6, 7, and 7 points,
+#   respectively. Each star is positioned just above the corresponding
+#   paragraph. The last two starts have a small circular core.
+#  
+# Comments:
+#
+#
+## <f58r.P> {}
+# text
+# Last edited on 1998-12-19 19:04:03 by stolfi
+#
+# One 6-pointed star above first line
+#
+<f58r.P.1;H>       
+{indent}kor.cholfy.shopchy.otoralchy.chofchol.sholy.otaly.dal.m-
+<f58r.P.1;F>       
+{indent}kor.cholfy.shopchy.otoralchy.chofchol.sholy.otaly.dal!m-
+#
+<f58r.P.2;H>       {indent}dshodal.or.ckhy.olchear.char.tal.ytal.ytar.olchokal-
+<f58r.P.2;F>       {indent}dshodal.or.ckhy.olchear.char.tal.ytal.ytar.olchokal-
+#
+<f58r.P.3;H>       {indent}ykechod.dalal!dam.ytam.choty.otchy.otaly.shoty.s-
+<f58r.P.3;F>       {indent}ykechod.dalal.dam.ytam.choty.otchy.otaly.shoty.s-
+#
+<f58r.P.4;H>       dshor.cholar.aiin.shalom.shaly.dalchy.oteom.dal.sholalam-
+<f58r.P.4;F>       dshor.sholar.aiin.shalom.shaly.dalchy.oteom.dal.sholalam-
+#
+<f58r.P.5;H>       qor.dchairam.otar.otar.char.ar.al.char.arary.ytalar.cham-
+<f58r.P.5;F>       qor.dchairam.otar.otar.char.ar.al.char.arary.ytalar.cham-
+#
+<f58r.P.6;H>       torchey.otaiin.chary.oteory.otal.dalchor.ykeey.choltam-
+<f58r.P.6;F>       torchey.otaiin.chary.oteory.otal.dalchor.ykeey.choltam-
+#
+<f58r.P.7;H>       
+saiin.chol!keey.dal.shom.shol!teol.ytalody.otey.cheoly.o.tchy-
+<f58r.P.7;F>       
+saiin.chol.keey.dal.shom.shol.teol.ytalody.otey.cheoly.o!tchy-
+#
+<f58r.P.8;H>       toleeshal.oleeam.dalor.chy.oteodchy.yteochy.otey.kal.dy.alam-
+<f58r.P.8;F>       toleeshal.oleeam.dalor.chy.oteodchy.yteochy.otey.kal.dy.alam-
+#
+<f58r.P.9;H>       sholaiin.chey.yteo!daiin.qoar.aiin.arary.sheey.daiin.ealam-
+<f58r.P.9;F>       sholaiin.chey.yteo.daiin.qoar.aiin.arary.sheey.daiin.ealam-
+#
+<f58r.P.10;H>      tal.ar.am.shar.chepchey.otar.aldy.otal.cheam.qokaiin.ote.ry-
+<f58r.P.10;F>      tal.ar.am.shar.chepchey.otar.aldy.otal.cheam.qokaiin.ote!ry-
+#
+<f58r.P.11;H>      qocphody.qokalam.chairal.qoct!aiin.otalal.dalor.orar-
+<f58r.P.11;F>      qocphody.qokalam.chairal.qocthaiin.otalal.dalor.orar-
+#
+<f58r.P.12;H>      shoar.ar.choldal.otalchal.dal.choldy.okalys.airaldy.shar-
+<f58r.P.12;F>      shoar!ar.choldal.otalchal.dal.choldy.okalys.a!raldy.shar-
+#
+<f58r.P.13;H>      ytar.sheear.cheoldy.ykeol.cheal.cheody.chal.chaiin.ol.oly-
+<f58r.P.13;F>      ytar.sheear.cheoldy.qkeol.cheal.cheody.chal.chaiin.ol.oly-
+#
+<f58r.P.14;H>      sharam.okair.chckaiin.ytchaly.dal.chal.ykal.okalal.oly.chal-
+<f58r.P.14;F>      sharam.okair.chekaiin.qtchaly.dal.chal.ykal.okalal.oly.chal-
+#
+<f58r.P.15;H>      dy.r.chal.qopaiim.cholaly.dy.shedy=
+<f58r.P.15;F>      daiir.shal.qopaim.cholaly.dy.shedy=
+#
+<f58r.P.16;H>      {7pt 
+star}typchey.ar.air.ytashy.qotyshey.pchdy.dshaly.pydaly.choky.opy-
+<f58r.P.16;F>      {7pt 
+star}typchey.ar.air.ytashy.qotyshey.pchdy.dshaly.pydaly.choky.opy-
+#
+<f58r.P.17;H>      
+ysholshy.qotoly.daiin.ykal.dalchdy.qoky.dal.ytchody.s.olaraly-
+<f58r.P.17;F>      
+ysholshy.qotoly.daiin.ykal.dalchdy.qoky.dal.ytchody.s!olaraly-
+#
+<f58r.P.18;H>      
+darar.shol.cholraly.cholaiin.odaiin.chaly.dalar.aiin.okal.otal-
+<f58r.P.18;F>      
+darar.shol.cholraly.cholaiin.odaiin.chaly.dalar.aiin.okal.otal-
+#
+<f58r.P.19;H>      todal.qotey.chaly.dal.qokaldy.otary.okalal.csees.chal.ochaly-
+<f58r.P.19;F>      todal.qotey.chaly.dal.qokaldy.otary.okalal.shees.chal.achaly-
+#
+<f58r.P.20;H>      
+ysheockhy.oleeey.oleesey.olaiin.olkeal.daldy.otalar.ar.arodaim-
+<f58r.P.20;F>      
+ysheockhy.oleeey.oleesey.alaiin.olkeal.daldy.otalar.ar.aroda*m-
+#
+<f58r.P.21;H>      
+tcheos.ycheor.sheain.okey.qotaily.daiin.chy.cholkar.olkeol.oty-
+<f58r.P.21;F>      
+tcheos.ycheor.sheain.okey.qotaly.daiin.chy.chol.kar.olkeol.oty-
+#
+<f58r.P.22;H>      dcholy.ytar.chol.dal.qoaiir.chalolky.osal.chotam.chal.olseeg-
+<f58r.P.22;F>      dcholy.qtar.chol.dal.qoainr.chalolky.osal.chotam.chal.olseem-
+#
+<f58r.P.23;H>      shol.aleedy.chotar.okeal.sheody.qokal!char.otal.choky.sar-
+<f58r.P.23;F>      shol.aleedy.chotar.okeal.cheody.qokal.char.otal.choky.sar-
+#
+<f58r.P.24;H>      ta!zain.oteeor.okeal.ar.otalor.cheoekar.cheky.otakar-
+<f58r.P.24;F>      ta*eiin.oteeor.okeal.ar.otalor.cheoekar.cheky.otakar-
+#
+<f58r.P.25;H>      oar.cheekey.oteeoaly.otar.alkar.or.aldar=
+<f58r.P.25;F>      oar.checkhy.oteeoaly.otar.alkar.or!aldar=
+#
+<f58r.P.26;H>      {8pt 
+star}kshar.shoky.opcheear.ofadai!n.opsheolaiin.opydaiin.podaiir-
+<f58r.P.26;F>      {8pt 
+star}kshar.shoky.opcheear.ofadaiin.opsheolaiin.opydaiin.podaiir-
+#
+<f58r.P.27;H>      
+yteor.oty.chal!tar.ar.sheeetchy.tal.al.chear.chear.char.ar.am-
+<f58r.P.27;F>      
+yteor.oty.chal.tar.ar.sheeetchy.tal.al.chear.chear.char.ar!am-
+#
+<f58r.P.28;H>      ysheal!kai!r.odalaly.dalal.chy.s.air.shokar.olaldy.okalody-
+<f58r.P.28;F>      ysheal.kaiin.odalaly.dalal.chy.s!air.shokar.olaldy.okalody-
+#
+<f58r.P.29;H>      
+odalar.cheor.sar.alol.daly.cheom.chor.ar.aldam.chal.cheal.somy-
+<f58r.P.29;F>      
+odalar.cheor.sar.alol.daly.cheom.chor.ar.aldam.chal.cheal.som*-
+#
+<f58r.P.30;H>      ytor.ar.alom.qokalor.chdy.dair.chody.cheol.okolchy.otaldy-
+<f58r.P.30;F>      ytor.ar.alom.qokalor.chdy.dair.chody.cheol.okolchy.otaldy-
+#
+<f58r.P.31;H>      odshchol.taiin.okalor.chol.olekar.otarchol.chol.kam.qokal-
+<f58r.P.31;F>      odshchol.taiin.okalor.chol.olekar.otarchol.chol.kam.qokal-
+#
+<f58r.P.32;H>      oqotaly.qokaiin.chtaldy.qoky.dar.al.choltaly.qokaldy-
+<f58r.P.32;F>      oqotal%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%taly.qokaldy-
+#
+<f58r.P.32a;H>     schocthhy.dalols.qokalos.cheor.oekeody.qokaly.qokar.dy-
+<f58r.P.32a;F>     schocthey.dalols.qokalos.cheor.oekeody.qokaly.qokar.dy-
+#
+<f58r.P.33;H>      ys.sheol.chokey.dalol.shokalol.qokaly.kaldy.ytaipom-
+<f58r.P.33;F>      ys!sheol.chokey.dalol.shokalol.qokaly.kaldy.ytaipam-
+#
+<f58r.P.34;H>      dtor.sheol.qokor.sharal.ckhol.sholar.aiin.sheoctham-
+<f58r.P.34;F>      dtor.sheol.qokor.sharal.ckhol.sholar.aiin.sheoctham-
+#
+<f58r.P.35;H>      skaiin.shokal.chockhy.qoky.chcthy.ykeeshy.shoekar-
+<f58r.P.35;F>      skaiin.shokal.chockhy.qoky.ch!tey.ykeesey.shoekar-
+#
+<f58r.P.36;H>      opolkeor.olchocfhy.cphol.chypaldy.cholols.chkaiin.olfcham-
+<f58r.P.36;F>      opolkeor.olchocfhy.cphol.chypaldy.cholols.chkaiin.olfcham-
+#
+<f58r.P.37;H>      sysheos.okaly.cheos.otey.ykar.ls.aiin.okaiin.ytol!kal-
+<f58r.P.37;F>      sysheos.okaly.cheos.otey.ykar.ls.aiin.okaiin.ytol.kal-
+#
+<f58r.P.38;H>      dtshol.dytal.okar.olol.sheol.qockhy.qokaly.salol.dalam-
+<f58r.P.38;F>      dtshol.dytal.okar.olol.sheol.qockhy.qokaly.salol.dalam-
+#
+<f58r.P.39;H>      yroleeey.arairaly.pchody.tshaly.alols.ykaly.kar.aram-
+<f58r.P.39;F>      yroleeey.arairaly.pchody.tshaly.alols.ykaly.kar.aram-
+#
+<f58r.P.40;H>      dchol.chokal.saiin.dal.okals!alchey=
+<f58r.P.40;F>      dchol.chokal.saiin.dal.okals.alchey=
+#
+<f58v>           {$I=T $Q=H $P=D $L=A}
+# Last edited on 1998-10-09 02:40:27 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f58v = HD (Rene) = p114 (Stolfi)
+#   Folio: f58
+#   Panels: f58v
+#   Bifolio: bH2 = f58+f65
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: ? (Currier)
+#   Subsets: T (Rene), str (Stolfi)
+#   Subject: stars
+#   Colors: ??? (Reeds)
+#
+# Description:
+#
+#   Text only: four paragraphs (with 21.0, 5.8, 4.3, and 5.7 lines,
+#   respectively). Below the first paragraph there is a centered
+#   title, which may be simply the last line of the paragraph.
+# 
+#   There is a six-pointed star with tail (perhaps a flower?) in the
+#   top left corner, right next to the top edge, with the tail ending
+#   on the first baseline, just to the left of the first character.
+#
+#
+## <f58v.P1> {}
+# Text, above title
+# Last edited on 1998-12-27 22:57:19 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+# 6pt star above first line
+#
+<f58v.P1.1;H>      {star 
+tail}tol.shokchy.opaiin.opaiin.chofaly.ypar.ypal.opal.opaldaiin-
+<f58v.P1.1;U>      {star 
+tail}tol.shokchy.opaiin.opaiin.chofaly.ypar.ypal.opal.opaldaiin-
+#
+<f58v.P1.2;H>      
+dair.or.sheaiin.tair.y.qotalody.saiin.okeody.qotair.ar.alor.orky-
+<f58v.P1.2;U>      
+dair.ar.oshaiin.tair.y.qotalojy.saiin.okeody.qotair.ar,alor.orky-
+#
+<f58v.P1.3;H>      todal.qotain.sho.ckheey.qokeol.okey.qokalchal.daly.ar.aim-
+<f58v.P1.3;U>      todal.qotain.sho!ckheey.qokeol.okey.qokalchal.daly.ar,aim-
+#
+<f58v.P1.4;H>      
+or.aiin.okair.y.dair!al.qokal.qokaiin.qokaly.okar.olkaly.okal-
+<f58v.P1.4;U>      
+or,aiin.okair,y.dair,al.qokal.qokaiin.qokaly.okar.olkaly.okal-
+#
+<f58v.P1.5;H>      faiir.ofaror.qotaiin.sholy.qotaiin.yqokaly.okal.qokaly.okaly-
+<f58v.P1.5;U>      faiir.ofasar.qotaiin.sholy.qotaiin.yqokaly.okal.qokaly.okaly-
+#
+<f58v.P1.6;H>      
+qokair.or.aly.shor.daiin.choly.dal.ykaiin.org.fchey.okaly.oky-
+<f58v.P1.6;U>      
+qokair.ar,aly.shos.daiin.choly.dal.ykaiin.org.fchey.okaly.oky-
+#
+<f58v.P1.7;H>      y.daiin.qokeey.qokar.lchedy.qokalor.sheols.oteor.aiin.cheky-
+<f58v.P1.7;U>      y.daiin.qokeey.qokar.lchedy.qokalor.sheols.oteor,aiin.cheky-
+#
+<f58v.P1.8;H>      
+taiin.ckhey.daldy.qokair.alar.ytal.aiin.otaiin.ykaiin.ykaly.dam-
+<f58v.P1.8;U>      
+taiin.ckhey.daldy.qokair.alar.ytal,aiin.otaiin.ykaiin.ykaly.dam-
+#
+<f58v.P1.9;H>      
+s!alal.qolaiin.chockhey.tcholy.qokaiin.qokaiin!os.orcheey.olaly-
+<f58v.P1.9;U>      
+s,alal.qolaiin.chockhey.tcholy.qokaiin.qokaiin,os.orcheey.olaly-
+#
+<f58v.P1.10;H>     ykair.shey.key.ctholy.qotalom.qokal!.qokaiin.okal.okaldy.ory-
+<f58v.P1.10;U>     ykair.shey,key.ctholy.qotalor.qokals.qokaiin.okal.okaldy.ory-
+#
+<f58v.P1.11;H>     tchol!shol.tor.qokair!or.y.ykaiin.dory.okaiir.chodaiin.otals-
+<f58v.P1.11;U>     tchol,shol.tar.qokair,oj.y,ykaiin.dory.okaiir.chodaiin.otals-
+#
+# The last "p" below is extra wide
+<f58v.P1.12;H>     
+oreeey.cheekey.cheal.qokey.chedal.dy.tolair.opchey.poaly.cfhy-
+<f58v.P1.12;U>     
+oreeey.cheekey.cheal.qokey.chedal,dy.tolair.opchey.poaly.cfhy-
+#
+<f58v.P1.13;H>     qoeear.alkeain.ytal.chor.alor.okal.chcthy.tal.ck{&K}shy.kar-
+<f58v.P1.13;U>     qoeear.alkeain.ytal.chos.alor.ykal.chotey.tal.ck{&K}shy.kar-
+#
+<f58v.P1.14;H>     shar.air.alos.chol.oeear.sho.qotal.chol.talar.tar.ar.opam-
+<f58v.P1.14;U>     shar.air.alos.chol.oeear.sho.qotal.chol.talar.tar.ar!opam-
+#
+<f58v.P1.15;H>     qotoiin.otal.ar!al.s.air.qoal.talchos.okal.cho.ytam.dam-
+<f58v.P1.15;U>     qotoiin.otal.ar,al.r.air.qoal.talchos.okal.cho.otam.dam-
+#
+<f58v.P1.16;H>     ykaiin.qokair.okaly.qokal.chaly.cheockhey.olaly.tal!dar.al-
+<f58v.P1.16;U>     ykaiin.qokair.ykaly.qokal.chaly.cheocthey.olaly,tal,dar,al-
+#
+<f58v.P1.17;H>     daiin.al!al.dal.qokiir.otal.chodol.qokeal.cheol.chos.okeeam-
+<f58v.P1.17;U>     daiin.al,al,dal.qoka!r.otal.chodal.qokeal.cheol.chos.okeeam-
+#
+<f58v.P1.18;H>     taiin.chal.sheal.qockhy.dar.aiin.ockhey.qokeey.qoaiin.aral-
+<f58v.P1.18;U>     taiin.chol.sheal.qockhy.dar.aiin.ockhey.qokeey.qoaiin.aral-
+#
+<f58v.P1.18a;H>    okair.chokal.cheoldy.qokor.olkam.cheol.dar.chokeey.okalchy-
+<f58v.P1.18a;U>    okain.chokal.sheoldy.qokar.olkam.cheol.dar.eeokeey.okalchy-
+#
+<f58v.P1.19;H>     tolain.ar.ykeain.qokeey.otal.chol.okal.ar.chety.chkalar.ol-
+<f58v.P1.19;U>     tolain.ar.ykeain.qokeey.otal.chol.okal.ar.chety.chkalar,ol-
+#
+<f58v.P1.20;H>     olain.olalor.odaiin.qotais.otal.qokal.dai!r.oishy.otam=
+<f58v.P1.20;U>     olain.olalor.odaiin.qetair.otal.qokal.daiin.o*shy.otam=
+#
+## <f58v.T> {}
+# title - centered
+# Last edited on 1998-12-08 10:28:59 by stolfi
+#
+<f58v.T.21;H>      okar.sheey.shekealy=
+<f58v.T.21;V>      okar.sheey.shekealy=
+<f58v.T.21;U>      okar.sheey.shekealy=
+#
+## <f58v.P2> {}
+# Text, below title
+# Last edited on 1998-12-27 22:57:54 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f58v.P2.22;H>     
+pchshy.sheoltey.shopolchedy.sheol!keal.qokar.aldaiin.qokalar.dal-
+<f58v.P2.22;U>     
+pchshy.sheoltey.shopalchedy.sheol,keal.qokar.aldaiin.qokalar.dal-
+#
+<f58v.P2.23;H>     
+qokal.daiin.qokal.cham.qokal!cheol.okor!air.ain!ar!als.okom.daly-
+<f58v.P2.23;U>     
+qokal.daiin.qokal.chem.qokal,cheal.okor,air.ain,ar,als.okam.daly-
+#
+<f58v.P2.24;H>     qotain.okeor.sheey.qokeol.okeoly.qokaly.qokair!or.tas.y!kal-
+<f58v.P2.24;U>     qotain.okeor.shchy.qokeol.okealy.qokaly.qokair,or,tar.y,kal-
+#
+<f58v.P2.25;H>     ykaly.qokal.ol.ar.qokeos.okal!ar.oko!s.al.shekar.qokair.alam-
+<f58v.P2.25;U>     ykoly.qokal,ol,al.qokeos.okal,ar.oko,s,al.shekar.qotair,alam-
+#
+<f58v.P2.26;H>     
+qokar.s.aiin.al.y.qokchedy.qoekaly.odaiin.qokar.chos.alaiin.om-
+<f58v.P2.26;U>     
+qokar.s.aiin.al.y.qokchedy.qoetaly.odaiin.qokar.chor,alaiin!om-
+#
+<f58v.P2.27;H>     ycheo.ckhy.okey.okal.otaly.okaldy.okeor.sheey=
+<f58v.P2.27;U>     ycheo!ckhy.okey.okal.okaly.okaldy.okeor.sheey=
+#
+<f58v.P2.28;H>     
+polal.keeo.oleeckhey.dalar.ykeeody.choar.ck!!!!!!har.yfair.ylam=
+<f58v.P2.28;U>     
+polol.keeo.oleeckhey.dalar.ykeeody.choar.ck{&176}har.yfair.alam=
+#
+<f58v.P2.29;H>     daiin.sheoikhy.ykey.sheky.qokal.qokeey.okain.okar.ol.dam-
+<f58v.P2.29;U>     daiin.sheockhy.ykey.shoky.qotal.qokeey.okain.ykar.ol,dam-
+#
+<f58v.P2.30;H>     tcheor.chor.kar.okal.qokeey.qotal.shol.qokain.ar.oetalchg-
+<f58v.P2.30;U>     t**eor.chor,kar.okal.qokeey.qokal.shol.qotain.ar.oetalchg-
+#
+<f58v.P2.31;H>     psheey.qoty.qokar.qokey.ky.ykar.cheal.otal.kol.olchedy-
+<f58v.P2.31;U>     psheey.qoty.qokar.qokey.ky.ykar.cheal.otal.kol.olchedy-
+#
+<f58v.P2.32;H>     qoais.chol.ar.chey=
+<f58v.P2.32;U>     qoair.chol!ar.shey=
+#
+<f58v.P2.33;H>     tolsheo.keo!ar.qofcheol.dar.aiphey.opchal.shockhy.okaly-
+<f58v.P2.33;U>     tolsheo.keo,ar.qofcheal.dar.acphey.opchal.shockhy.okaly-
+#
+<f58v.P2.34;H>     daiin.otain.okain.chhy.okeey.qokeeos.olar.sheo.daly.dalychs-
+<f58v.P2.34;U>     daiin.otain.okain.chey.okeey.qokeeos.olar.sheo.daly.dalychs-
+#
+<f58v.P2.35;H>     tcheody.okeor.ockhy.qokal.okal.shokey.qokeey.dalas-
+<f58v.P2.35;U>     tcheody.okeor.ockhy.qokal.okal,shotey.qokeey.dalar-
+#
+<f58v.P2.36;H>     olkeey.okar.ar.choky.otair.otol.chokey.cheeky.dalar-
+<f58v.P2.36;U>     olkeey.okar.ar.choky.otair.otol.chokey.cha!ty.dalar-
+#
+<f58v.P2.37;H>     ykeeody.qokar.qoky.keey.qokol.okol.okor.cheky.sy!dy-
+<f58v.P2.37;U>     ykeeody.qokar.qoky.keey.qokal.okol.okor.cheky.ry,dy-
+#
+<f58v.P2.38;H>     o!shor.qokain.okam.shear.sher.sarols=
+<f58v.P2.38;U>     o,shor.qokain.okam.shear.cher.sarols=
+#
+<f59r>           {$I=M $Q=H $P=I}
+# Last edited on 1998-10-10 07:48:15 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f59r = HI (Rene) = p??? (Stolfi)
+#   Folio: f59
+#   Panels: f59r
+#   Bifolio: bH3 = f59+f64
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f59v>           {$I=M $Q=H $P=J}
+# Last edited on 1998-10-10 07:47:48 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f59v = HJ (Rene) = p??? (Stolfi)
+#   Folio: f59
+#   Panels: f59v
+#   Bifolio: bH3 = f59+f64
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f60r>           {$I=M $Q=H $P=K}
+# Last edited on 1998-10-09 02:46:01 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f60r = HK (Rene) = p??? (Stolfi)
+#   Folio: f60
+#   Panels: f60r
+#   Bifolio: bH4 = f60+f63
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f60v>           {$I=M $Q=H $P=L}
+# Last edited on 1998-10-09 02:46:37 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f60v = HL (Rene) = p??? (Stolfi)
+#   Folio: f60
+#   Panels: f60v
+#   Bifolio: bH4 = f60+f63
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f61r>           {$I=M $Q=H $P=M}
+# Last edited on 1998-10-09 02:47:05 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f61r = HM (Rene) = p??? (Stolfi)
+#   Folio: f61
+#   Panels: f61r
+#   Bifolio: bH5 = f61+f62
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f61v>           {$I=M $Q=H $P=N}
+# Last edited on 1998-10-09 02:47:25 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f61v = HN (Rene) = p??? (Stolfi)
+#   Folio: f61
+#   Panels: f61v
+#   Bifolio: bH5 = f61+f62
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f62r>           {$I=M $Q=H $P=O}
+# Last edited on 1998-10-09 02:47:59 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f62r = HO (Rene) = p??? (Stolfi)
+#   Folio: f62
+#   Panels: f62r
+#   Bifolio: bH5 = f61+f62
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f62v>           {$I=M $Q=H $P=P}
+# Last edited on 1998-10-09 02:48:18 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f62v = HP (Rene) = p??? (Stolfi)
+#   Folio: f62
+#   Panels: f62v
+#   Bifolio: bH5 = f61+f62
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f63r>           {$I=M $Q=H $P=Q}
+# Last edited on 1998-10-09 02:48:36 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f63r = HQ (Rene) = p??? (Stolfi)
+#   Folio: f63
+#   Panels: f63r
+#   Bifolio: bH4 = f60+f63
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f63v>           {$I=M $Q=H $P=R}
+# Last edited on 1998-10-10 03:53:48 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f63v = HR (Rene) = p??? (Stolfi)
+#   Folio: f63
+#   Panels: f63v
+#   Bifolio: bH4 = f60+f63
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), unk (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f64r>           {$I=M $Q=H $P=S}
+# Last edited on 1998-10-09 02:48:54 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f64r = HS (Rene) = p??? (Stolfi)
+#   Folio: f64
+#   Panels: f64r
+#   Bifolio: bH3 = f59+f64
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f64v>           {$I=M $Q=H $P=T}
+# Last edited on 1998-10-09 02:49:11 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f64v = HT (Rene) = p??? (Stolfi)
+#   Folio: f64
+#   Panels: f64v
+#   Bifolio: bH3 = f59+f64
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Comments:
+#
+#   Folios 59 thru 64 are missing.
+#
+<f65r>           {$I=H $Q=H $P=E}
+# Last edited on 1998-12-25 04:40:54 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f65r = HE (Rene) = p115 (Stolfi)
+#   Folio: f65
+#   Panels: f65r
+#   Bifolio: bH2 = f58+f65
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+# Attributes:
+#
+#   Language: ? (Currier), A (Stolfi guess)
+#   Hand: ? (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: brown,green (Reeds)
+#
+# Description:
+#
+#   One plant takes up most of the page, stretching out to all four
+#   edges.
+# 
+#   The only text is a 3-word label, to the left of the plant,
+#   level with the base of the stem.
+#
+## <f65r.L> {}
+# labels next to plant
+# Last edited on 1998-12-08 10:33:04 by stolfi
+#
+<f65r.L.1;H>       otaim.dam.alam=
+<f65r.L.1;V>       otaim.dam.alam=
+#
+<f65v>           {$I=H $Q=H $P=F}
+# Last edited on 1998-12-25 04:41:19 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f65v = HF (Rene) = p116 (Stolfi)
+#   Folio: f65
+#   Panels: f65v
+#   Bifolio: bH2 = f58+f65
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Appears as Plate II in Newbold facing p44.
+#   Transcribed 7 Dec 91 by Gillogly, 9 dec 91 by Reeds, 13 Dec 91 Gillogly.
+#
+# Attributes:
+#
+#   Language: ? (Currier), A (Stolfi guess)
+#   Hand: ? (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: blue,green (Reeds)
+#   Plant: 115 (Petersen)
+#
+# Description:
+#
+#   One plant with many roots, branches and flowers, stretching to all
+#   four edges of the page.
+#
+#   A little below mid-page there are two paragraphs, with 3.7 and 3.9 lines,
+#   interrupted by the plant's stem.
+#
+## <f65v.P> {}
+# text
+# Last edited on 1998-12-08 10:37:04 by stolfi
+#
+<f65v.P.1;H>       cphy.fchecfhy.dy-{plant}dchepain.shety.qopy.fol.chpdy-
+<f65v.P.1;C>       cphy.fchecfhy.dy-{plant}dchepain.shety.qopy.fol.chpdy-
+#
+<f65v.P.2;H>       daiin.sheek.l.ody-{plant}yteo.qop*!.air.cheoteey.dalam-
+<f65v.P.2;C>       daiin.sheek.l.ody-{plant}yteo.qops!.air.cheoteeo.dalom-
+<f65v.P.2;D>       daiin.sheek.l.ody-{plant}yteo.qopr*.air.cheoteey.dalam-
+<f65v.P.2;U>       daiin.sheek.l.ody-{plant}yteo.qops!.air.cheotchy.dalam-
+#
+<f65v.P.3;H>       ytal.cheot.shky.y-{plant}!eas.cheody=
+<f65v.P.3;C>       ytal.cheot.shky.y-{plant}*sas.cheody=
+<f65v.P.3;U>       ytal.cheot!shky.y-{plant}!*as.cheody=
+#
+<f65v.P.4;H>       toeedy.otor.shedy-{plant}yteey.sheody.qokesd.yfchey-
+<f65v.P.4;C>       toeedy.otor.shedy-{plant}yteey.sheody.qokshd.yfchey-
+#
+<f65v.P.5;H>       dshedy.okeody.qokd-{plant}shckhy.choky.chokeody.oke!y.dy-
+<f65v.P.5;C>       dshedy.okeody.qokd-{plant}shckhy.choky.chokeody.oke.y!dy-
+<f65v.P.5;U>       dshedy.okeody.qokd-{plant}shckhy.choky.chokeody.oke!y.dy-
+#
+<f65v.P.6;H>       qo.ytchey.shckhh.cphy-{plant}ykchhdy.chedy.shckhdy=
+<f65v.P.6;C>       qo.ytchey.shckhe!cphy-{plant}ykchedy.chedy.shckhdy=
+<f65v.P.6;U>       qo.ytchey.shckh*!cphy-{plant}ykchedy.chedy.shckhdy=
+#
+<f66r>           {$I=T $Q=H $P=G $L=B}
+# Last edited on 1998-12-25 04:43:06 by stolfi
+#
+# Identification:
+#
+#   Title: "Three-column table"
+#   Page: f66r = HG (Rene) = p117 (Stolfi)
+#   Folio: f66
+#   Panels: f66r
+#   Bifolio: bH1 = f57+f66
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Brumbaugh Yale Lib Gaz p352
+#   Roe, 3 Sept 93, transcribed from BL microfilm
+#
+# Attributes:
+#
+#   Language: B (Currier)
+#   Hand: ? (Currier)
+#   Subsets: T (Rene), unk (Stolfi)
+#   Subject: unknown (text only)
+#   Colors: ??? (Reeds)
+#
+# Description:
+#
+#   The text is laid out in 3 columns. For each line:
+#
+#     The left-most column contains either a single Voynich ``word'' or is 
+blank.
+#     The middle column contains a single single ``character'' or a ligature.
+#     The right column contains a line of what appears to be normal Voynich 
+text.
+#
+#   The text on the right is laid out in paragraphs i.e. most lines are about 
+the
+#   same length, occasionally there is a shorter line (with blank space to the
+#   right) followed by some vertical blank space before the next paragraph
+#   starts.
+#
+#   In the top right hand corner there is a number "66" in ordinary numerals.
+#
+#   In the bottom left hand corner, there is a picture of a woman
+#   lying down on her back (dead?). To the left of the woman are two
+#   circles and a cylinder. Above her are four words in Voynich text.
+#   To the far left are four words in a different hand and a different
+#   alphabet. To me they look like:
+#
+#       v
+#   Den  mv<illegible>
+#      der
+#
+#   In the bottom right hand corner there is a symbol that looks like a number 2
+#   on its side.
+#
+#   Here is a schematic layout of the text. Let
+# 
+#    L: left hand column
+#    M: second column
+#    R: right hand text
+#    W: text above female figure
+#
+#   Alignment of the three columns:
+#
+#         L1  M1  R1
+#
+#             M2  R2
+#
+#         L2  M3  R3
+#
+#             M4  R4
+#
+#         L3  M5  R5
+#
+#             M6  R6
+#
+#             M7  R7 =
+#
+#
+#         L4  M8  R8
+#
+#             M9  R9
+#
+#         L5  M10 R10
+#
+#             M11 R11
+#
+#             M12 R12
+#         L6
+#             M13 R13 =
+#
+#
+#             M14 R14
+#         L7
+#             M15 R15
+#
+#             M16 R16
+#
+#         L8  M17 R17 =
+#
+#             M18
+#
+#         L9  M19 R18
+#
+#             M20 R19
+#
+#             M21 R20 =
+#
+#
+#         L10 M22 R21
+#
+#             M23 R22
+#
+#         L11 M24 R23
+#
+#             M25
+#                 R24
+#         L12 M26 
+#                 R25
+#             M27 
+#             M28
+#                 R26
+#         L13 M29
+#                 R27
+#             M30
+#                 R28
+#             M31
+#         L14     R29
+#             M32 
+#                 R30
+#             M33
+#         L15     R31
+#             M34
+#                 R32 =
+#
+#
+#         W
+#
+#   A strip of paper, about 1cm at its widest, was torn off 
+#   along the bottom edge of the page, from near the center until the 
+#   SE corner.
+#
+## <f66r.L> {}
+# single words along left-hand column
+# Last edited on 1998-12-27 23:14:04 by stolfi
+# 
+# "U" transcription by J.Stolfi from unidentified scan.
+#
+<f66r.L.1;H>       rary=
+<f66r.L.1;C>       rary=
+<f66r.L.1;F>       rary=
+<f66r.L.1;U>       sary=
+#
+<f66r.L.2;H>       rals=
+<f66r.L.2;C>       sals=
+<f66r.L.2;F>       rals=
+<f66r.L.2;U>       salr=
+#
+<f66r.L.3;H>       qor=
+<f66r.L.3;C>       qon=
+<f66r.L.3;F>       qor=
+<f66r.L.3;U>       qor=
+#
+<f66r.L.4;H>       dara=
+<f66r.L.4;C>       dary=
+<f66r.L.4;F>       dary=
+<f66r.L.4;U>       dary=
+#
+<f66r.L.5;H>       ykcol=
+<f66r.L.5;C>       ykeol=
+<f66r.L.5;F>       ykeol=
+<f66r.L.5;U>       ykeol=
+#
+<f66r.L.6;H>       syly=
+<f66r.L.6;C>       daly=
+<f66r.L.6;F>       syly=
+<f66r.L.6;U>       syly=
+#
+<f66r.L.7;H>       salf!!!!!!!!!!!!!!=
+<f66r.L.7;C>       salf!!!!!!!!!!!!!!=
+<f66r.L.7;F>       salf!!!!!!!!!!!!!!=
+<f66r.L.7;U>       salf{straight arm}=
+#
+<f66r.L.8;H>       f!!!!!!!!!!!!ary=
+<f66r.L.8;C>       f!!!!!!!!!!!!ary=
+<f66r.L.8;F>       f!!!!!!!!!!!!ary=
+<f66r.L.8;U>       f{hooked arm}ary=
+#
+<f66r.L.9;H>       qotesy=
+<f66r.L.9;C>       qotesy=
+<f66r.L.9;F>       qotesy=
+<f66r.L.9;U>       qotesy=
+#
+<f66r.L.10;H>      ykaly=
+<f66r.L.10;C>      ykaly=
+<f66r.L.10;F>      ykaly=
+<f66r.L.10;U>      ykal*=
+#
+<f66r.L.11;H>      daoly=
+<f66r.L.11;C>      d!yly=
+<f66r.L.11;F>      d!oly=
+<f66r.L.11;U>      d!oly=
+#
+<f66r.L.12;H>      raiin=
+<f66r.L.12;C>      saiin=
+<f66r.L.12;F>      saiin=
+<f66r.L.12;U>      saiin=
+#
+<f66r.L.13;H>      qokal=
+<f66r.L.13;C>      qokal=
+<f66r.L.13;F>      qokal=
+<f66r.L.13;U>      qokal=
+#
+<f66r.L.14;H>      qolsa=
+<f66r.L.14;C>      qolsa=
+<f66r.L.14;F>      qols*=
+<f66r.L.14;U>      qolsa=
+#
+<f66r.L.15;H>      raral=
+<f66r.L.15;C>      raral=
+<f66r.L.15;F>      raral=
+<f66r.L.15;U>      raral=
+#
+## <f66r.M> {}
+# panel f66r, letters/symbols along middle column
+# Last edited on 1998-12-27 23:33:21 by stolfi
+# 
+# "U" transcription by J.Stolfi from unidentified scan.
+#
+# Weirdos
+#
+#   &172 = upside down lambda.
+#   &195 = like an EVA <I> with an upturned serif at the right end.
+#
+<f66r.M.1;H>       y=
+<f66r.M.1;C>       y=
+<f66r.M.1;F>       y=
+<f66r.M.1;U>       y=
+#
+<f66r.M.2;H>       o=
+<f66r.M.2;C>       o=
+<f66r.M.2;F>       o=
+<f66r.M.2;U>       o=
+#
+<f66r.M.3;H>       s=
+<f66r.M.3;C>       s=
+<f66r.M.3;F>       s=
+<f66r.M.3;U>       s=
+#
+<f66r.M.4;H>       sh=
+<f66r.M.4;C>       sh=
+<f66r.M.4;F>       sh=
+<f66r.M.4;U>       sh=
+#
+<f66r.M.5;H>       y=
+<f66r.M.5;C>       y=
+<f66r.M.5;F>       y=
+<f66r.M.5;U>       y=
+#
+<f66r.M.6;H>       d=
+<f66r.M.6;C>       d=
+<f66r.M.6;F>       d=
+<f66r.M.6;U>       d=
+#
+<f66r.M.7;H>       o=
+<f66r.M.7;C>       o=
+<f66r.M.7;F>       o=
+<f66r.M.7;U>       o=
+#
+<f66r.M.8;H>       f=
+<f66r.M.8;C>       f=
+<f66r.M.8;F>       p=
+<f66r.M.8;U>       f=
+#
+<f66r.M.9;H>       *=
+<f66r.M.9;C>       *=
+<f66r.M.9;F>       o=
+<f66r.M.9;U>       *=
+#
+<f66r.M.10;H>      x=
+<f66r.M.10;C>      x=
+<f66r.M.10;F>      x=
+<f66r.M.10;U>      x=
+#
+<f66r.M.11;H>      air=
+<f66r.M.11;C>      air=
+<f66r.M.11;F>      air=
+<f66r.M.11;U>      air=
+#
+<f66r.M.12;H>      d=
+<f66r.M.12;C>      d=
+<f66r.M.12;F>      d=
+<f66r.M.12;U>      d=
+#
+<f66r.M.13;H>      sh=
+<f66r.M.13;C>      sh=
+<f66r.M.13;F>      sh=
+<f66r.M.13;U>      sh=
+#
+<f66r.M.14;H>      y=
+<f66r.M.14;C>      y=
+<f66r.M.14;F>      y=
+<f66r.M.14;U>      y=
+#
+<f66r.M.15;H>      f!!!!!!!!!!!!!!=
+<f66r.M.15;C>      f!!!!!!!!!!!!!!=
+<f66r.M.15;F>      f!!!!!!!!!!!!!!=
+<f66r.M.15;U>      f{straight arm}=
+#
+<f66r.M.16;H>      f!!!!!!!!!!!!=
+<f66r.M.16;C>      f!!!!!!!!!!!!=
+<f66r.M.16;F>      f!!!!!!!!!!!!=
+<f66r.M.16;U>      f{hooked arm}=
+#
+<f66r.M.17;H>      y=
+<f66r.M.17;C>      y=
+<f66r.M.17;F>      y=
+<f66r.M.17;U>      y=
+#
+<f66r.M.18;H>      o=
+<f66r.M.18;C>      o=
+<f66r.M.18;F>      !=
+<f66r.M.18;U>      o=
+#
+<f66r.M.19;H>      d=
+<f66r.M.19;C>      d=
+<f66r.M.19;F>      d=
+<f66r.M.19;U>      d=
+#
+<f66r.M.20;H>      r=
+<f66r.M.20;C>      s=
+<f66r.M.20;F>      r=
+<f66r.M.20;U>      r=
+#
+<f66r.M.21;H>      f=
+<f66r.M.21;C>      t=
+<f66r.M.21;F>      f=
+<f66r.M.21;U>      f=
+#
+<f66r.M.22;H>      c=
+<f66r.M.22;C>      c=
+<f66r.M.22;F>      e=
+<f66r.M.22;U>      c=
+#
+<f66r.M.23;H>      r{&172}=
+<f66r.M.23;C>      *!!!!!!=
+<f66r.M.23;F>      *!!!!!!=
+<f66r.M.23;U>      r{&172}=
+#
+<f66r.M.24;H>      x=
+<f66r.M.24;C>      x=
+<f66r.M.24;F>      x=
+<f66r.M.24;U>      x=
+#
+<f66r.M.25;H>      t=
+<f66r.M.25;C>      t=
+<f66r.M.25;F>      t=
+<f66r.M.25;U>      t=
+#
+<f66r.M.26;H>      o=
+<f66r.M.26;C>      o=
+<f66r.M.26;F>      o=
+<f66r.M.26;U>      o=
+#
+<f66r.M.27;H>      *{&195}=
+<f66r.M.27;C>      *!!!!!!=
+<f66r.M.27;F>      r!!!!!!=
+<f66r.M.27;U>      *{&195}={or &172}
+#
+<f66r.M.28;H>      l=
+<f66r.M.28;C>      l=
+<f66r.M.28;F>      l=
+<f66r.M.28;U>      l=
+#
+<f66r.M.29;H>      r=
+<f66r.M.29;C>      r=
+<f66r.M.29;F>      r=
+<f66r.M.29;U>      r=
+#
+<f66r.M.30;H>      t=
+<f66r.M.30;C>      t=
+<f66r.M.30;F>      t=
+<f66r.M.30;U>      t=
+#
+<f66r.M.31;H>      o=
+<f66r.M.31;C>      o=
+<f66r.M.31;F>      o=
+<f66r.M.31;U>      o=
+#
+<f66r.M.32;H>      x=
+<f66r.M.32;C>      x=
+<f66r.M.32;F>      x=
+<f66r.M.32;U>      x=
+#
+<f66r.M.33;H>      p=
+<f66r.M.33;C>      p=
+<f66r.M.33;F>      p=
+<f66r.M.33;U>      p=
+#
+<f66r.M.34;H>      d=
+<f66r.M.34;C>      d=
+<f66r.M.34;F>      d=
+<f66r.M.34;U>      d=
+#
+#
+## <f66r.R> {}
+# panel f66r, text on right hand of page
+# Last edited on 1998-12-08 10:51:39 by stolfi
+#
+# Weirdos:
+#
+#  &I" = <i> with right ligature and plume above it.
+#
+<f66r.R.1;H>       
+pdaiin.oteedy.opchedy.chap.chef!chy!.shddy.ypcher.cholpchd.okedals-
+<f66r.R.1;C>       
+pdaiin.oteedy.opchedy.!!!!!chef!chil.shddy.ypches.eeolp**d.okedals-
+<f66r.R.1;F>       
+pdaiin.oteedy.opchedy.chyp.chef!chy!.shddy.ypcher.cholpchd.oke!als-
+#
+<f66r.R.2;H>       rair.shekey.qokeedar.okal.okedy.qokeedy.qokal.okedy.qokshd-
+<f66r.R.2;C>       soir.shekey.qokeedar.okal.okedy.!!!!!!!!qokal.okedy.qokshd-
+<f66r.R.2;F>       rair.shekey.qokeedar.okal.okedy.qokeedy.qokal.okedy.qokshd-
+#
+<f66r.R.3;H>       
+ykshedy.chody.cthdy.qokees.cheeo.okcho.dy.chekeey.chedy.chckhy-
+<f66r.R.3;C>       
+ykshedy.!!!!!!ckhdy.qokees.cheeo.okcho.dy.chekeey.chedy.chckhy-
+<f66r.R.3;F>       
+ykshedy.chady.cthdy.qokees.cheeo.okcho.dy.chekeey.chedy.chckhy-
+#
+<f66r.R.4;H>       
+shdy.qotedy.chdy.chedy.qotedal.chcfheor.ykeedy.dar.qotey.kol.ar-
+<f66r.R.4;C>       
+shdy.qotedy.chdy.chedy.qotedy!.chcpheor.yka!dy.dar.**tey.k*!!ar-
+<f66r.R.4;F>       
+shdy.qotedy.chdy.chedy.qotedal.chcpheor.yteedy.dar.qotey.kal.ar-
+#
+<f66r.R.5;H>       qokeeody.qokeody.qokeody.qokar.sheky.qokeeody.okedy.kodary-
+<f66r.R.5;C>       **keeody.qokeody.qokeody.qokar.sheky.qokeeody.okedy.kodary-
+<f66r.R.5;F>       qokeeody.qokeody.qokeody.qokar.sheky.qokeeody.okedy.kodary-
+#
+<f66r.R.6;H>       ykeeody.choekchy.okeody.chekeody.qokeey.dyky.chctho.rotaiin-
+<f66r.R.6;C>       ykeeody.choekeey.okeody.chekeody.qokoey.daky.eectho.rotaiin-
+<f66r.R.6;F>       ykeeody.choekchy.okeody.chekeody.qokeey.dyky.chctho.rotaiin-
+#
+<f66r.R.7;H>       dsheol.okaiin.sheodaiin=
+<f66r.R.7;C>       dsheo*.okaiin.cheodaiin=
+<f66r.R.7;F>       dsheol.okaiin.sheodaiin=
+#
+<f66r.R.8;H>       
+tocpheey.dol.kchody.qokeody.qokshy.qopaiin.dai!!r.ykodas.okyd-
+<f66r.R.8;C>       
+tocpheey.dol.kchody.qokeody.qokshy.qopaiin.!aiiir!*kodas.okad-
+<f66r.R.8;F>       
+tocphe!y.dol.kchody.qokeody.qokshy.qopaiin.dai!!r.ykodar.okyd-
+#
+<f66r.R.9;H>       
+*shol.daiir.dal.ky.shka.qoky.shekair.choty.dar.okchy.shdy.ykol-
+<f66r.R.9;C>       
+*!*ol.dyiin.dal.ka.shky.qeky.shekeir.choty.dek.ekeey.shsy.ekol-
+<f66r.R.9;F>       
+*shol.daiir.dal.ky.shky.qoky.shekair.choty.dar.okchy.shdy.ykol-
+#
+<f66r.R.10;H>      
+qocheky.shetey.dalal.shedy.ch!cta.r.sheod.shokaiir.chckh!hy.dasd-
+<f66r.R.10;C>      
+*ochek!.chcthy.dalal!chedy.che!pa!s.sheod.shokai!r.chekc!hy.dasd-
+<f66r.R.10;F>      
+qocheky.shetey.dalal.shedy.checth.r.sheod.shokai!r.ch!!ckhy.dard-
+#
+<f66r.R.11;H>      shor.sheodal.sholdy.qokchedy.qofchy.qoty.chedair.cheer.kardy-
+<f66r.R.11;C>      shor.sheodal.sholdy.qokchedy.qopchy.qoty.chedy.r!che!s.kardy-
+<f66r.R.11;F>      shor.sh!odal.sholdy.qokchedy.qofchy.qoty.chedair.cheer.kardy-
+#
+<f66r.R.12;H>      
+qokchey.qokaiir.cheky.daly.daiin.dal.shedy.chedy.ltar.ol.okedy-
+<f66r.R.12;C>      
+qokch*!.*okaiir.cheky.daly.daiir.dal.shedy.chedy.lkar.ed.okedy-
+<f66r.R.12;F>      
+qokchey.qokai!r.cheky.daly.daiin.dal.shedy.chedy.ltar.ol.okedy-
+#
+<f66r.R.13;H>      ol.cheeky.daiir.chky.axor.akar.*{&I"}hy.daiin=
+<f66r.R.13;C>      ol.cheeky.daiir.chky.axor.akas!s!!!!!hy.daiin=
+<f66r.R.13;F>      ol.cheeky.dai!r.chky.axor.akar.s!!!!!hy.daiin=
+#
+<f66r.R.14;H>      
+pchof.shol!fos!daiin.qotar.otalor.fchedys.chedy.dar.odair.ofaram-
+<f66r.R.14;C>      
+pchop.sho!!tos!daiin.qotar.otalor.pchedar.chedy.dar.odair.oparaj-
+<f66r.R.14;F>      
+pchof.shol.fos.daiin.qotar.otalor.fchedys.chedy.dar.odair.ofaram-
+#
+<f66r.R.15;H>      
+dalcheeeky.sheol.dairody.chekchy.shed.ykesheo.l.lor.sheor.cheyl-
+<f66r.R.15;C>      
+dalcheeeky.sheol.dairody.chetchy.shed.okesh!y.l.lor.sheor.cheol-
+<f66r.R.15;F>      
+dalcheeeky.sheol.dairody.chekchy.ched.yk!sheo.l!!or.sheor.cheyl-
+#
+<f66r.R.16;H>      dar.shedy.okar.chedy.kcheody.chxar.daly.fchdar.cheor.aly.sy-
+<f66r.R.16;C>      dor.shedy.okar.chedy.kcheody.chxar.daly.pchdar.cheor!alo.ry-
+<f66r.R.16;F>      dar.shedy.okar.shedy.kcheody.chxar.daly.fchdar.cheor.aly.sy-
+#
+<f66r.R.17;H>      shor.shekeeody.dal.shedy.qokar.al.shes!!=
+<f66r.R.17;C>      shor.shekeeody.dal!shedy.qokor.al.shes!!=
+<f66r.R.17;F>      shor.shekeeody.dal.shedy.qokar.al!shes.*=
+#
+<f66r.R.18;H>      psheody.cfhol.shofol.okeody.qokoldy.ytarody.shody.shedy.kair-
+<f66r.R.18;C>      psheody.cphol.shopol.okeody.qokaldy.ytarody.shody.shedy.kair-
+<f66r.R.18;F>      psheody.cfhol.shofol.okeody.qokaldy.ytarody.shedy.shedy.dair-
+#
+<f66r.R.19;H>      
+sair.ol.daiin.daiin.dal.dol.cheody.dair.aly.dairal.dolar.shy.dos-
+<f66r.R.19;C>      
+sair.ol.daiin.daiin.dal.dol.cheody.dair.aly.dairal.dolar.shy.dor-
+<f66r.R.19;F>      
+sair.ol.daiin.daiin.dal.dol.cheody.dair!aly.dairal.dolar.shy.dor-
+#
+<f66r.R.20;H>      tosheo.qokaldy.oky.ol.kcheeky.qoky.dary.okees.oly=
+<f66r.R.20;C>      toshey.qokaldy.oky.ol.kcheeky.qoky.dary.okees.oly=
+<f66r.R.20;F>      tosheo.qokaldy.oky.ol.kcheeky.qoky.dary.okees.oly=
+#
+<f66r.R.21;H>      
+todeeey.keody.chdy.keody.shedy.shekeefy.chdy.sheol.shol.kedy.daly-
+<f66r.R.21;C>      
+todeeey.keody.chdy.keody.shedy.shekeepy.chdy.sheol.shol.kody.daly-
+<f66r.R.21;F>      
+todeeey.keody.chdy.keody.shedy.shekeefy.chdy.sheol.shol.kedy.daly-
+#
+<f66r.R.22;H>      
+saiir.cheol.kal.sheody.chcthedy.dal.shol.qokeody.chody.kechody-
+<f66r.R.22;C>      
+saiir.cheol.kal.sheody.chcthedy.dal.shor.qokeody.chody.kechody-
+<f66r.R.22;F>      
+sa!ir.cheol.kal.sheody.chcthedy.dal.shol.qokeody.chody.kechody-
+#
+<f66r.R.23;H>      
+sshedy.oteedy.ykeeody.sheocthy.ol.ld.lshedy.chokeey.chekey.chey-
+<f66r.R.23;C>      
+rshedy.otee*y.ykeeody.sheocthy.ol.ld.lshedy.choteey.chekey.chey-
+<f66r.R.23;F>      
+sshedy.oteedy.ykeeody.sheocthy.ol!ld.lshedy.chokeey.chekey.chey-
+#
+<f66r.R.24;H>      
+ysheeod.qoteeod.qotol.qoky.chckhedy.shey.dcheol.cheky.cheo.dor-
+<f66r.R.24;C>      
+ysheeod.qoteeod.qotol.qoky.chckhe!y.shey.dcheol.cheky.cheo.dor-
+<f66r.R.24;F>      
+ysheeod.qoteeod.qotol.qoky.chckhedy.shey.dcheol.cheky.cheo.dor-
+#
+<f66r.R.25;H>      
+ydaiin.shody.otchedy.oteochey.tolchedy.lsheody.qoky.daiin.otam-
+<f66r.R.25;C>      
+ydaiin.shody.oteeedy.oteochey.tolchedy.lsheody.qoky.daiin.otaj-
+<f66r.R.25;F>      
+ydaiin.shedy.otchedy.oteochey.tolchedy.lsheody.qoky.daiin.otam-
+#
+<f66r.R.26;H>      
+tcheo.sheor.oteody.lpchees.ol.ar.alkey.otey.ltsholy.shecthy.r.ol-
+<f66r.R.26;C>      
+tcheo.sheor.oteody.lpchees!ol.ar.alkey.otey.ltsholy.sheckhy.r.ol-
+<f66r.R.26;F>      
+tcheo.sheor.oteody.lpchees.ol!ar.alkey.otey.ltsholy.shecthy.r!ol-
+#
+<f66r.R.27;H>      daiin.sheol.qocthedy.qokedy.lchey.qokaly.shcthy.qotal.otchdy-
+<f66r.R.27;C>      daiin.sheol.qockhedy.qokedy.lchey.qokaly.shckhy.qotal.otchdy-
+<f66r.R.27;F>      daiin.sheol.qocthedy.qokedy.lchey.qokaly.shcthy.qotal.otchdy-
+#
+<f66r.R.28;H>      qokey.ar.ol!keol.qokal.cheoky.ykchdy.chody.sheody.qoky.ldy-
+<f66r.R.28;C>      qokey.ar.ol!keol.qokal.sheoky.ykchdy.chody.sheody.qoky.ady-
+<f66r.R.28;F>      qokey.ar.ol.keol.qokal.cheoky.ykchdy.chody.sheody.qoky.ldy-
+#
+<f66r.R.29;H>      dor.aiin.shee!ol.lshedy.lchedy.cheedy.shekol.dalol.lodaiin-
+<f66r.R.29;C>      dor.aiin.shee!ol.lshedy.lchedy.cheedy.shetol.dalol.lodaiin-
+<f66r.R.29;F>      dor.aiin.sheeeol.lshedy.lchedy.cheedy.shekol.dalol.lodaiin-
+#
+<f66r.R.30;H>      sheol.oteey.ldaiin.okalchedy.pchedy.kody.qotchedy.cphedy-
+<f66r.R.30;C>      sheol.okeey.ldaiin.okalchedy.pchedy.kody.qotchedy.cphedy-
+<f66r.R.30;F>      sheol.oteey.ldaiin.okalchedy.pchedy.kody.qotchedy.cphedy-
+#
+<f66r.R.31;H>      daiin.shey.qoteoly.raiin.sheedy.shcthy.lkeol.qokol.dkar-
+<f66r.R.31;C>      daiin.shey.qoteoly.raiin.sheedy.shcthy.ek!ol.qokol.dkar-
+<f66r.R.31;F>      daiin.shey.qoteoly.raiin.sheedy.shcthy.lkeol.qokol.dkar-
+#
+<f66r.R.32;H>      lchey.lkeedy.chety.shekaly.shckhar=
+<f66r.R.32;C>      lchey.lkeedy.chety.shekaly.shckhar=
+<f66r.R.32;F>      lchey.lkeedy.chety.shekaly.shckhar=
+#
+## <f66r.W> {}
+# panel f66r, caption above female figure
+# Last edited on 1998-12-08 10:53:54 by stolfi
+#
+# "V" transcription by John Grove, entered by Stolfi
+# "U" transcription by J.Stolfi from unidentified scan.
+#
+<f66r.W.1;H>       otcheo.!!!!!!chty.ykchs!che!g=
+<f66r.W.1;C>       otcheo.daiin.chty.ynchs!cheim=
+<f66r.W.1;V>       otcheo.daiin.chty.ykees.che!g=
+<f66r.W.1;U>       otcheo.daiin.chty.ykees.che!g=
+#
+<f66v>           {$I=H $Q=H $P=H $L=B}
+# Last edited on 1998-10-07 23:57:28 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f66v = HH (Rene) = p118 (Stolfi)
+#   Folio: f66
+#   Panels: f66v
+#   Bifolio: bH1 = f57+f66
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Quire H, last page.
+#
+# Attributes:
+#
+#   Language: B (Currier)
+#   Hand: ? (Currier)
+#   Subsets: H (Rene), heb (Stolfi)
+#   Subject: herbal
+#   Colors: blue,yellow,brown (Reeds)
+#   Plant: 116 (Petersen)
+#
+# Description:
+#
+#   One plant occupies the bottom 2/3 of the page. 
+#
+#     Roots: four thin stalks, arcing down, each ending with a tuber shaped like
+#       a chili pepper pod. The tubers are almost horizontal, pointing outwards,
+#       and resemble four feet wearing pointy shoes.
+#     Stem: short and thick, dark-painted very crudely .
+#     Branches: none.
+#     Leaves: each leaf consists of a dense stack of parallel leaflets.
+#       curled inwards.  The distal leaflets are bigger, so that the leaf
+#       is shaped like a truncated cone, with the narrow end down.  
+#       Very weird-looking. Alternate leaflets are dark-painted.
+#       Stalks: about as long as the stem, slightly S-shaped.
+#     Flowers: two, one on each side.
+#       Stalks: medium long, thin, slightly curve, branching off
+#       diagonally from each the leaf axilla.  Chalix: olive-shaped,
+#       with short, flaring, triangular sepals; medium-dark.
+#       Petals: triangular, dark.  Core: not visible.
+#
+#   Above the plant there are three paragraphs (with 4.6, 2.8, 4.9
+#   lines, respectively), flush with the top, left, and right margins.
+#   The last line is interrupted by the plant.
+#   
+#   There is a faint scribbling to the left of the root. It looks like
+#   an illegible word surmounted by a large EVA "l", followed by a very
+#   crude stick man with rectangular head and eyes, wearing two
+#   superimposed EVA "l"s as a hat.
+#
+#   The bottom edge of the page has an indentation, about 1cm deep
+#   near the middle of the edge, extending from there to the SW corner. 
+#
+#   There is a mark in the SE corner, resembling "8" with superscript 
+#   "ug".
+#
+# Comments:
+#
+#   The plant looks very strange and inelegant, it was very poorly
+#   drawn.
+#
+#   Since the roots barely touch the edge of this tear, without
+#   crossing it, we can presume that the the defect was already there
+#   when the plant was drawn..
+#
+#   The mark in the SE corner is almost surely the quire number, "8th"
+#   in abbreviated Latin.
+#
+## <f66v.P> {}
+# text
+# Last edited on 1998-12-08 10:56:05 by stolfi
+#
+<f66v.P.1;H>       okeodof.sheod.ychoopy.opch.dal.dorshefy.ytody.daldeam-
+<f66v.P.1;F>       okeodof.sheod.ychoopy.opch.dal.dorshefy.ytody.da*deam-
+#
+<f66v.P.2;H>       teodal.tchedy.dshey.okshedy.okeedy.dcheeky.daldy.qotal.sy-
+<f66v.P.2;F>       teodal.tch!dy.dshey.okshedy.okeedy.dcheeky.daldy.qotal.sy-
+#
+<f66v.P.3;H>       ytos.s.ar.sheeky.okechdy.okchdal.dar.otal.chody.cheky-
+<f66v.P.3;F>       ytos.s.ar.sheeky.okechdy.okchdal.dar.otal.chody.cheky-
+#
+<f66v.P.4;H>       shokeshy.daiin.cheos.shky.dol.shckhy.dal.ko!dal.chekal.dal-
+<f66v.P.4;F>       shokeshy.daiin.cheos.chty.dol.chckhy.dal.ko.dal.chekal.dal-
+#
+<f66v.P.5;H>       shdy.shedefam.qokedy.chokal.dal=
+<f66v.P.5;F>       shdy.shed.fam.qokedy.chokal.dal=
+#
+<f66v.P.6;H>       tchod.sheody.shckhhd.chos.chor.sheo.keody.chepar.shsopam-
+<f66v.P.6;F>       tchod.sheody.shckhed.chos.chor.sheo.keody.ch!par.sheopam-
+#
+<f66v.P.7;H>       qokeos.sheody.chekeor.chody.ko!tody.qotchdy.chckhd.y!tchdy-
+<f66v.P.7;F>       qokeos.sheody.cheke*r.chody.ko.tody.qotchdy.chckh!!y.tchdy-
+#
+<f66v.P.8;H>       dchek!csdy.cheody.qokchdy.qokol.keedy.cheky.chety.kody=
+<f66v.P.8;F>       dchckheedy.cheody.qokchdy.qokol.keedy.cheky.chety.kody=
+#
+<f66v.P.9;H>       pody.sheody.chpa!dar.sheey.feedly.cheos!eesey.kchy.qofchal-
+<f66v.P.9;F>       pody.sheody.chpa.dar.sheey.feedly.cheos.eesey.kchy.aopchal-
+#
+<f66v.P.10;H>      dshol.keedy.qokyr.okaiin.dol.kal.daiin.otal.dakar.okag-
+<f66v.P.10;F>      dshal.keedy.qokyr.okaiin.dol.kal.daiin.otal.dakar.otam-
+#
+<f66v.P.11;H>      yteeod.aiin.shekeod.s.aiin.ykofar.otaiin.otar.chedy.kara-
+<f66v.P.11;F>      yteeod.aiin.shekeod.s!aiin.ykofar.otaiin.otar.chedy.kara-
+#
+<f66v.P.12;H>      qekar.okedy.cheky.dal.chekal.chckhy.kal.kal.dar.chkchody-
+<f66v.P.12;F>      qekar.okedy.cheky.dal.chekal.chckhy.kal.kal.dar.chkchody-
+#
+<f66v.P.13;H>      ydees.shey.daiin.dal!kal-{plant}ykedaiin.shedar.okchdy.oty=
+<f66v.P.13;F>      ydees.shey.daiin.dal.kal-{plant}ykedaiin.shedar.okchdy.oty=
+#
+

@@ -1,0 +1,1330 @@
+<f9r>          {$I=H $Q=B $P=A $L=A $H=1}
+# Last edited on 1998-10-09 01:29:46 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f9r = BA (Rene) = p017 (Stolfi)
+#   Folio: f9
+#   Panels: f9r
+#   Bifolio: bB1 = f9+f16
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: red,green (Reeds)
+#   Plant: 16 (Petersen)
+#
+# Description:
+#
+#   One plant flush against the right margin, spanning the page
+#   vertically edge to edge, with branches and roots that take up the
+#   bottom 2/3 of the page.
+#
+#   Two paragraphs (with 5 and 3.9 lines), left- and right-justified.
+#   Both are interrupted by the plant's flower head.
+#
+#   The second paragraph is followed by a centered title-like line
+#   which may be the true last line of the paragraph.
+#
+# Comments:
+#
+#   The unusual shape of the leaves should make the plant easy to identify.
+#   
+#
+## <f9r.P> {}
+# text
+# Last edited on 1998-12-12 13:06:38 by stolfi
+#
+<f9r.P.1;H>        tydlo.choly.cthor.orchey.s.shy.odaiin.sary-{plant}shor.cthy-
+<f9r.P.1;C>        tydlo.choly.cthor.orchey.s.shy.odaiin.sary-{plant}shor.cthy-
+<f9r.P.1;F>        tydlo.choly.cthor.orchey.s!shy.odaiin.sary-{plant}shor.cthy-
+#
+<f9r.P.2;H>        oykeey.chol.ytaiin.okchody.toeoky.okoiin.dy-{plant}or.chaiin-
+<f9r.P.2;C>        oykeey.chol.ytaiin.okchody.toeoky.okoiin.dy-{plant}or.choiin-
+<f9r.P.2;F>        oykeey.chol.ytaiin.okchody.toeoky.okoiin.dy-{plant}or.chaiin-
+#
+<f9r.P.3;H>        toiin.cphy.qotod.otaiin.cthy.okor.chey-{plant}cthod.ram-
+<f9r.P.3;C>        toiin.cphy.qotod.otaiin.cthy.okor.chey-{plant}cthod.rod-
+<f9r.P.3;F>        toiin.cphy.qotod.otaiin.cthy.okor.chey-{plant}cthod.ram-
+#
+<f9r.P.4;H>        yshy.cho!kcho.chcthod.shor.shaiin.otar.dor-{plant}ytol.dayty-
+<f9r.P.4;C>        oshy.cho!kcho.chcthod.shor.shoiin.otar.dor-{plant}ytol.dayty-
+<f9r.P.4;F>        yshy.cho.kcho.chcthod.shor.shaiin.otar.dor-{plant}ytol.dayty-
+#
+<f9r.P.5;H>        daiin.chor.sor.cthy.chokoiin.shol.dsholdy-
+{plant}otchol.ot.dy=
+<f9r.P.5;C>        daiin.chor.sor.cthy.chokoiin.shol.dsholdy-
+{plant}otchol.ot.dy=
+<f9r.P.5;F>        daiin.chor.sor.cthy.chokoiin.shol.dsholdy-
+{plant}otchol.ot!dy=
+#
+<f9r.P.6;H>        pshoain.cthyaiin.okaiir.cfhodo!ral.shar-{plant}sy-
+{plant}shydal.chdy-
+<f9r.P.6;C>        pshoain.cthoaiin.okaiir.!!*odo.ral.shar-{plant}sy-
+{plant}shydal.chdy-
+<f9r.P.6;F>        pshoain.cthoaiin.okaiir.cfhodo!ral.shar-{plant}sy-
+{plant}shydal.chdy-
+#
+<f9r.P.7;H>        or.chol.chy!tchy.tchol.ytor.qotol.chyky-{plant}chodar.aiin-
+<f9r.P.7;C>        or.chol.chy!tchy.tchol.ytor.qotol.chyky-{plant}chodar.aiin-
+<f9r.P.7;F>        or.chol.chy.tchy.tchol.ytor.qotol.chyky-{plant}chodar.aiin-
+#
+<f9r.P.8;H>        qotcho.qokchy.cthey.koraiin.okain.d.dal-{plant}s-
+{plant}olsho.cthy-
+<f9r.P.8;C>        qotchy.qokchy.cthey.koraiin.okain.d.dal-{plant}s-
+{plant}chsho!cthy-
+<f9r.P.8;F>        qotcho.qokchy.cthey.koraiin.okain!d.dal-{plant}s-
+{plant}olsho.cthy-
+#
+<f9r.P.9;H>        ocho.cthy.choct{&T}oy.chodykchy.saiin.dchy-{plant}daiin=
+<f9r.P.9;C>        ocho!cthy.cho*!!!!!!y.chodykchy.saiin.dchy-{plant}daiin=
+<f9r.P.9;F>        ocho.cthy.chocth!!!oy.chodykchy.saiin.dchy-{plant}daiin=
+#
+## <f9r.T> {}
+# title
+<f9r.T.10;H>       ytchas.oraiin.chkar=
+<f9r.T.10;C>       ytchas.oraiin.chkor=
+<f9r.T.10;F>       ytchar.oraiin.chkar=
+#
+<f9v>          {$I=H $Q=B $P=B $L=A $H=1}
+# Last edited on 1998-10-10 22:43:16 by stolfi
+#
+# Identification:
+#
+#   Title: "Viola tricolor"
+#   Page: f9v = BB (Rene) = p018 (Stolfi)
+#   Folio: f9
+#   Panels: f9v
+#   Bifolio: bB1 = f9+f16
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Plant: 17 (Petersen; misnumbered 15 on his page 1)
+#   Colors: blue,green (Reeds)
+#   Plant: 17 (Petersen)
+#
+# Description:
+#
+#   One plant, flush against the right and bottom edges, reaching
+#   almost to the top.
+#
+#     Root: a bundle of thin wires. Dark overpaint?
+#     Stem: one straight. Light color.
+#     Branches: two symmetrical pairs, oblique.
+#     Leaves: the four lower ones are medium width, lance-shaped,
+#       with smooth edges; the others have the same outline but
+#       are deeply cut into five narrow points.  Dark color.
+#       Stalk: short, mostly missing.
+#     Flowers: five, at the tips of stem and branches.
+#       Stalk: medium length, thin. Chalyx: flat or everted, with short
+#       triangular sepals, partly hidden by corolla.  Petals: five rounded
+#       petals, a large one on top, the others like "arms and legs". Core:
+#       very small. Medium and dark colors.
+#
+#   Two paragraphs (with 3.7 and 7.7 lines) at the top,
+#   left-justified. The first one is right-justified; the second one
+#   follows the plant's profile on the right. Both are interrupted in
+#   several places by the flowers and leaves.
+#
+# Comments:
+#
+#   Petersen identifies this plant, with high confidence, as "Viola
+#   trinitalis".  I coudn't find such species, but "herba trinitatis" is
+#   the herbalists' name for Viola tricolor (heartsease,wild pansy) [1,2,3].
+#
+#   Indeed, comparing f9v with a drawing by Carl Lindman [1], we see
+#   an almost perfect match --- including the roots, and the two types
+#   of leaves.
+#
+#   Dennis Mardle [10 Oct 1998] observes that the details match also
+#   Viola arvensis (field pansy), which hybridises with V. tricolor
+#   and is very similar in shape, including especially the dimorphic
+#   leaves [1,4].
+#
+#   The colors may help resolve this issue. The flowers of Viola
+#   tricolor are usually purple and white with yellow core; Lindman's
+#   drawing shows V. arvensis as white (or light blue?) with yellow
+#   core. Jim Reeds color list [03 Mar 1998] reports some blue on this
+#   page, to be confirmed.
+#
+#   In either case, there is one odd detail: the flowers in f9v are
+#   upside-down.  Also the two bottom flowers are somewhat differen.
+#
+#   Viola tricolor was used internally to treat epilepsy, asthma and
+#   bronchitis (whole plant), as an emetic and purgative (seeds) and as
+#   a heart tonic (flowers). Externally it was used to treat skin
+#   diseases [2].  The flowers are reported to be edible.
+#
+# References:
+#
+#   [1] Carl Axel Magnus Lindman
+#   Bilder ur Nordens Flora
+#   227. A. Styvmorsviol, Viola tricolor L.; B. kerviol, Viola arvensis Murr.
+#   http://www.lysator.liu.se/runeberg/nordflor/
+#   http://www.lysator.liu.se/runeberg/nordflor/227.html 
+#
+#   [2] Mrs. M. Grieve, F.R.H.S.
+#   A Modern Herbal
+#   Viola tricolor - Heartsease
+#   http://www.botanical.com/botanical/mgmh/mgmh.html
+#   http://www.botanical.com/botanical/mgmh/h/hearts10.html
+#   
+#   [3] ECNC DATABASE: SAXIFRAGA European Flora Slides
+#   Viola tricolor ssp. tricolor 
+#   http://www.ecnc.nl/doc/ecnc/saxifrag/euroflor.html
+#   http://www.ecnc.nl/gif/viotritr.gif
+#
+#   [4] ECNC DATABASE: SAXIFRAGA European Flora Slides
+#   Viola Arvensis Murr.
+#   http://www.ecnc.nl/doc/ecnc/saxifrag/euroflor.html
+#   http://www.ecnc.nl/gif/vioarv.gif
+#   
+#
+## <f9v.P> {}
+# text
+# Last edited on 1998-12-06 13:54:43 by stolfi
+#
+<f9v.P.1;H>        
+fochor.oporody.opy.shor.daiin.qopchypcho.qofol.shol.cfhol.daiin-
+<f9v.P.1;C>        
+fochor.oporody.opy.shor.daiin.qopchypcho.qofol.shol.cfhol.daiin-
+<f9v.P.1;F>        
+fochor.oporody.opy.shor.daiin.qopchypcho.qofol.shol.cfhol.daiin-
+<f9v.P.1;U>        
+fochor.oporody.opy.shor.daiin.qopchypcho.qofol.shol.cphol.daiin-
+#
+<f9v.P.2;H>        dchor.qoaiin.chkaiin.cthor.chol.chor.cphol.dy-
+{plant}oty.qokaiin.dy-
+<f9v.P.2;C>        dchor.qoaiin.chkaiin.cthor.chol.chor.cphol.dy-
+{plant}oty.qokaiin.dy-
+<f9v.P.2;F>        dchor.qoaiin.chkaiin.cthor.chol.chor.cphol.dy-
+{plant}oty.qokaiin.dy-
+<f9v.P.2;U>        dchor.qoaiin.chkaiin.cthor.chol.chor.cphol.dy-
+{plant}oty.qokaiin.dy-
+#
+<f9v.P.3;H>        ykey.chor.ykaiin.daiin.cthy.otaiin.oky-{plant}oeees.daiin-
+<f9v.P.3;C>        ykey.chor.ykaiin.daiin.cthy.otaiin.oky-{plant}oeees.daiin-
+<f9v.P.3;F>        ykey.chor.ykaiin.daiin.cthy.otaiin.oky-{plant}oeees.daiin-
+<f9v.P.3;U>        ykey.chor.ykaiin.daiin.cthy.otaiin.oky-{plant}oeees.daiin-
+#
+<f9v.P.4;H>        ytey.tchy.kaiin.cthor.otol.oty.toldy={plant}
+<f9v.P.4;C>        ytey!tchy.kaiin.cthor.otol.oty.toldy={plant}
+<f9v.P.4;F>        ytey.tchy.kaiin.cthor.otol.oty.toldy={plant}
+<f9v.P.4;U>        ytey.tchy.taiin.cthor.otol.oty.toldy={plant}
+#
+<f9v.P.5;H>        pchor.ypcheey.qotor.ypchy.olcfholy.te-{plant}ar-
+{plant}chty.daiiin-{plant}
+<f9v.P.5;C>        pchor.ypcheey.qotor.ypchy.olcpholy.ky-{plant}ar-
+{plant}chty.daiiin-{plant}
+<f9v.P.5;F>        pchor.ypcheey.qotor.ypchy.olcfholy.to-{plant}ar-
+{plant}chty.daiiin-{plant}
+<f9v.P.5;U>        pchor.ypchchy.qotor.ypchy.olcfholy.te-{plant}ar-
+{plant}chty.daiiin-{plant}
+#
+<f9v.P.6;H>        odol.choy.ksheody.chody-{plant}dai!n-{plant}otchy-
+{plant}cthod.yky-{plant}
+<f9v.P.6;C>        odol.choy.ksheody.chody-{plant}dai!n-{plant}otchy-
+{plant}cthod-yko-{plant}
+<f9v.P.6;F>        odol.choy.ksheody.chody-{plant}daiin-{plant}otchy-
+{plant}cthod-yko-{plant}
+<f9v.P.6;U>        odol.choy.ksheody.chody-{plant}dai!n-{plant}otchy-
+{plant}cthod-yko-{plant}
+#
+<f9v.P.7;H>        qochol.chol.ctchy.daiin-{plant}otal-{plant}dor-{plant}daim-
+{plant}
+<f9v.P.7;C>        qo.chol.chol.*chy.daiin-{plant}otal-{plant}dor-{plant}daim-
+{plant}
+<f9v.P.7;F>        qochol.chol.cthey.daiin-{plant}otal-{plant}dor-{plant}daim-
+{plant}
+<f9v.P.7;U>        qochol.chol.ctchy.daiin-{plant}otal-{plant}dor-{plant}daim-
+{plant}
+#
+<f9v.P.8;H>        soiin.daiin.qokcho.rokyd-{plant}daly-{plant}
+<f9v.P.8;C>        soiin.daiin.qokcho.rokyd-{plant}daly-{plant}
+<f9v.P.8;F>        soiin.daiin.qokcho.rokyd-{plant}daly-{plant}
+<f9v.P.8;U>        soiin.daiin.qokcho.rokyd-{plant}daly-{plant}
+#
+<f9v.P.9;H>        daiin.chy.tor.chyty.dary-{plant}ytoldy-{plant}
+<f9v.P.9;C>        daiin.chy.tor.chyty.dary-{plant}ytoldy-{plant}
+<f9v.P.9;F>        daiin.chy.tor.chyty.dary-{plant}ytoldy-{plant}
+<f9v.P.9;U>        daiin.chy.tor.chyty.dary-{plant}ytoldy-{plant}
+#
+<f9v.P.10;H>       oty.kchol.chol.chy.kyty-{plant}
+<f9v.P.10;C>       oty.kchol.chol.chy.kyty-{plant}
+<f9v.P.10;F>       oty.kchol.chol.chy!kyty-{plant}
+<f9v.P.10;U>       oty.kchol.chol.chy.kyty-{plant}
+#
+<f9v.P.11;H>       ychor.chshoty.oky.kaiin-{plant}
+<f9v.P.11;C>       ychor.chshoty.oky!kaiin-{plant}
+<f9v.P.11;F>       ychor.chshoty.oky.kaiin-{plant}
+<f9v.P.11;U>       ychor.chshoty.oky!kaiin-{plant}
+#
+<f9v.P.12;H>       chkaiin.ckhy.chor=
+<f9v.P.12;C>       chkaiin.ckhy.chor=
+<f9v.P.12;F>       chkaiin.ckhy.chor=
+<f9v.P.12;U>       chkaiin.ckhy.chor=
+#
+<f10r>         {$I=H $Q=B $P=C $L=A $H=1}
+# Last edited on 1998-10-09 01:33:27 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f10r = BC (Rene) = p019 (Stolfi)
+#   Folio: f10
+#   Panels: f10r
+#   Bifolio: bB2 = f10+f15
+#   Quire: B (Rene) = II (Beinecke)
+#
+#   Kraus XXX (bottom)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: b,green,red (Reeds)
+#   Plant: 18 (Petersen)
+#
+# Description:
+#
+#   One plant, flush against the right and bottom edges, reaching
+#   almost to the top.
+#
+#   Two paragraphs (with 4.4 and 6.8 lines) at the top. They are left-
+#   and right-justified, except for the last four lines of paragraph
+#   2, which follow the plan'ts outline on the right. Paragraph 2 is
+#   interrupted by the flower stalk.
+#
+# Comments:
+#
+#
+## <f10r.P> {}
+# text
+# Last edited on 1998-12-11 12:29:08 by stolfi
+#
+<f10r.P.1;H>       pchocthy.shor.octhody.chorchy.pchodol.chopchal.ypch.kom-
+<f10r.P.1;C>       pchocthy.shor.octhody.chorchy.pchodol.chopchol.ypch!kom-
+<f10r.P.1;F>       pchocthy.shor.octhody.chorchy.pchodol!chopchal.yrch.kom-
+#
+<f10r.P.2;H>       dchey.cthoor.char.chty.os.chair.oty!tchol.oky.daiin.etyd-
+<f10r.P.2;C>       dchey.cthoor.char.chty.oe!chair.oty!tchol.oky.daiin.etyd-
+<f10r.P.2;F>       dchey.cthoor.char.chty.os.chair.oty.tchol.oky.daiin.etyd-
+#
+<f10r.P.3;H>       qotor.otchy.daiin.chocthy.qotchy.chol.or.yty.dy.dy-
+<f10r.P.3;C>       qotor.otchy.daiin.chocthy.qotchy.chol.or.yty.dy.dy-
+<f10r.P.3;F>       qotor.otchy.daiin.chocthy.qotchy.chol.or.yty.dy.dy-
+#
+<f10r.P.4;H>       sor.chaiin.chcthy.ctho.ckhy.or.aiin.chtchor.doiir.ody-
+<f10r.P.4;C>       sor.chaiin.chcthy.ctho!ckhy.or.aiin.chtchor.doiir.ody-
+<f10r.P.4;F>       sor.chaiin.chcthy.ctho.ckhy.or.aiin.chtchor.doiir.ody-
+#
+<f10r.P.5;H>       qokchy.qotchol.chol.cthy=
+<f10r.P.5;C>       qokchy.qotchol.chol.cthy=
+<f10r.P.5;F>       qokchy.qotchol.chol.cthy=
+#
+<f10r.P.6;H>       ycheor.cthy.chor.cthaiin.qoctholy.dy-{plant}chy.taiin.shy-
+<f10r.P.6;C>       ycheor.cthy.chor.cthaiin.qoctholy.dy-{plant}chy.taiin.shy-
+<f10r.P.6;F>       ycheor.cthy.chor.cthaiin.qoctholy.dy-{plant}chy.taiin.shy-
+#
+<f10r.P.7;H>       dchy.qokchol.ykchaiin.yty.daiin.cth-{plant}dain.dair.am-
+<f10r.P.7;C>       dchy.qokchol.ykchaiin.yky.daiin.cth-{plant}dain.dair.am-
+<f10r.P.7;F>       dchy.qokchol.ykchaiin.yty.daiin.cth-{plant}dain.dair.am-
+#
+<f10r.P.8;H>       qotchor.chor.otol.chol.cholor-{plant}chol.daiin.dar-
+<f10r.P.8;C>       qotchor.chor.otol.chol.cholor-{plant}chol.daiin.dar-
+<f10r.P.8;F>       qotchor.chor.otol.chol.cholor-{plant}chol.daiin.dar-
+#
+<f10r.P.9;H>       oykchor.shor.chor.chy.kaiiin.dy-{plant}chodaiin-{plant}
+<f10r.P.9;C>       oykchor.shor.chor.chy.kaiiin.dy-{plant}chodaiin-{plant}
+<f10r.P.9;F>       oykchor.shor.chor.chy.kaiiin.dy-{plant}chodaiin-{plant}
+#
+<f10r.P.10;H>      oqotar.otor.cfhy.cthor.osain-{plant}ytoiin-{plant}
+<f10r.P.10;C>      oqotor.otor.cphy.cthor.osain-{plant}ytoiin-{plant}
+<f10r.P.10;F>      oqotar.otor.cfhy.cthor.osain-{plant}ytoiin-{plant}
+#
+<f10r.P.11;H>      rotcho.shor.qoty.qotor.cthy.d-{plant}otar-{plant}
+<f10r.P.11;C>      rotcho!shor.qoty.qotor.cthy!d-{plant}otar-{plant}
+<f10r.P.11;F>      rotcho.shor.qoty.qotor.cthy!d-{plant}otar-{plant}
+#
+<f10r.P.12;H>      rodaiin.daiin.qotchy.qotor={plant}
+<f10r.P.12;C>      rodaiin.daiin.qotchy.qotor={plant}
+<f10r.P.12;F>      !odaiin.daiin.qotchy.qotor={plant}
+#
+<f10v>         {$I=H $Q=B $P=D $L=A $H=1}
+# Last edited on 1998-10-09 01:34:57 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f10v = BD (Rene) = p020 (Stolfi)
+#   Folio: f10
+#   Panels: f10v
+#   Bifolio: bB2 = f10+f15
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: b (Reeds)
+#
+# Description:
+#
+#   One plant, flush against the bottom edge and the right margin,
+#   reaching 2/3 of the way to the top.
+#
+#   Two paragraphs (with 2.6 and 3.8 lines) at the top,
+#   left- and right-justified, ending just above the plant.
+#
+# Comments:
+#
+#
+## <f10v.P> {}
+# text
+# Last edited on 1998-12-06 19:45:47 by stolfi
+#
+<f10v.P.1;H>       paiin.daiin.sheo.pcheey.qoty.daiin.cthor.oty!dy.sain-
+<f10v.P.1;C>       paiin.daiin.sheo.pcheey.qoty.daiin.cthor.oty!dy.sain-
+<f10v.P.1;F>       paiin.daiin.sheo.pcheey.qoty.daiin.cthor.oty!dy.sain-
+<f10v.P.1;U>       paiin.daiin.sheo.pcheey.qoty.daiin.cthor.oty.dy.sain-
+#
+<f10v.P.2;H>       dain.daiin.ckhy.chcthor.choiin.qot.chodaiin.cthy.daiin-
+<f10v.P.2;C>       dain.daiin.ckhy.chcthor.choiin.qot.chodaiin.cthy.daiin-
+<f10v.P.2;F>       dain.daiin.ckhy.chcthor.choiin.qot.chodaiin.cthy.daiin-
+<f10v.P.2;U>       dain.daiin.ckhy.chcthor.choiin.qot!chodaiin.cthy.daiin-
+#
+<f10v.P.3;H>       dsho.ytey.kchol.ol!ty.chol.dy=
+<f10v.P.3;C>       dsho.ytey.kchol.ol.ty.chol.dy=
+<f10v.P.3;F>       dsho.ytey.kchol.ol!ty.chol.dy=
+<f10v.P.3;U>       dsho.ytey.kchol.ol!ty.chol.dy=
+#
+<f10v.P.4;H>       qotchy!tor.shoiin.daiin.qotchey.shcthey.ytor.dain-
+<f10v.P.4;C>       qotchy!tor.shoiin.daiin.qotchey.shcthey.ytor.dain-
+<f10v.P.4;F>       qotchy.tor.shoiin.daiin.qotchey.shcthey.ytor.dain-
+<f10v.P.4;U>       qotchy!tor.shoiin.daiin.qotchey.shcthey.ytor.dain-
+#
+<f10v.P.5;H>       sho.ykeey.daiin.qotchy.qotor.chol.daiin.qokchy!ky-
+<f10v.P.5;C>       sho.ykeey.daiin.qotchy.qotor.chol.daiin.qokchy!ky-
+<f10v.P.5;F>       sho.ykeey.daiin.qotchy.qotor.chol.daiin.qokchy.ky-
+<f10v.P.5;U>       sho.ykeey.daiin.qotchy.qotor.chol.daiin.qokchy!ky-
+#
+<f10v.P.6;H>       shoiin.chor.shcthy.qoty.qotoiin.qokol.chor!aiin-
+<f10v.P.6;C>       shoiin.chor.shcthy.qoty.qotoiin.qotol.chor!aiin-
+<f10v.P.6;F>       shoiin.chor.shcthy.qoty.qotoiin.qokol.chor.aiin-
+<f10v.P.6;U>       shoiin.chor.shcthy.qoty.qotoiin.qokol.chor!aiin-
+#
+<f10v.P.7;H>       qokol.chy!ky.chol.cheky.daiin.dain.chckhan=
+<f10v.P.7;C>       qokol.chy!ky.chol.cheky.daiin.dain.chckhan=
+<f10v.P.7;F>       qokol.chy.ky.chol.cheky.daiin.dain.chckhan=
+<f10v.P.7;U>       qokol.chy!ky.chol.cheky.daiin.dain.chckhan=
+#
+<f11r>         {$I=H $Q=B $P=E $L=A $H=1}
+# Last edited on 1998-10-09 01:43:44 by stolfi
+#
+# Identification:
+#
+#   Title: "Spiny carrots"
+#   Page: f11r = BE (Rene) = p021 (Stolfi)
+#   Folio: f11
+#   Panels: f11r
+#   Bifolio: bB3 = f11+f14
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: b,green (Reeds)
+#   Plant: 20 (Petersen)
+#
+# Description:
+#
+#   Three plants with entwined leaves and carrot-like roots,
+#   which take up the bottom 3/4 of the page.  
+#
+#   Two paragraphs (with 3.5 and 2.4 lines) at the top,
+#   left- and right-justified.
+#
+# Comments:
+#
+#   The plants look like carrot plants, but the "carrots"
+#   are covered with spines or barbs, pointing up(!)
+#   and two of the leaves seem to be shared by two plants(!!).
+#
+## <f11r.P> {}
+# text
+# Last edited on 1998-12-06 19:47:28 by stolfi
+#
+<f11r.P.1;H>       tshol.schoal.cfhy.sh!f!ydaiin.cphy.shey.t!chody.shoyty-
+<f11r.P.1;C>       tshol.schoal.!f!y.shcfhydaiin.cphy.shey.k.chody.shoyty-
+<f11r.P.1;F>       tshol.schoal.cfhy.sh!f!ydaiin.cphy.shey.t!chody.shoyty-
+#
+<f11r.P.2;H>       socthody.qodor.y.kshy.daiin.ytchy.ytchoky.kchol.daiin-
+<f11r.P.2;C>       socthody.qodor.y.kshy.daiin.ytchy.ytchoky.kchol.daiin-
+<f11r.P.2;F>       socthody.qodor!y.kshy.daiin.ytchy.ytchoky.kchol.daiin-
+#
+<f11r.P.3;H>       qoty.chol.cthy.dor.ykychy.choty.dain.chaiin.daiin.ded-
+<f11r.P.3;C>       qoty.chol.cthy.dor.ykychy.choty.dain.chaiin.daiin.dod-
+<f11r.P.3;F>       qoty.chol.cthy.dor.ykychy.choty.dain.chaiin.daiin.ded-
+#
+<f11r.P.4;H>       dchol.chy.kchy.dy.daiin=
+<f11r.P.4;C>       dchol.chy.kchy.dy.daiin=
+<f11r.P.4;F>       dchol.chy.kchy.dy.daiin=
+#
+<f11r.P.5;H>       tchol.shor.shor.dky.shcphy.daiin.cthy.dy.chodl.daiin-
+<f11r.P.5;C>       tchol.shor.shor.dky.!!!**y.daiin.cthy.dy.chodl.daiin-
+<f11r.P.5;F>       tchol.shor.shor.dky.shcphy.daiin.cthy.dy.chodl.daiin-
+#
+<f11r.P.6;H>       odl.d!s.y.otol.chaiin.ykchor.dair.chody.cthy.s.daiin-
+<f11r.P.6;C>       odl.d.s.y.otol.chaiin.ykchor.dair.chody.cthy.s.daiin-
+<f11r.P.6;F>       odl.d!s!y.otol.chaiin.ykchor.dair.chody.cthy.s.daiin-
+#
+<f11r.P.7;H>       qotchy.okchol.cthy.dy=
+<f11r.P.7;C>       qotchy.okchol.cthy.dy=
+<f11r.P.7;F>       qotchy.okchol.cthy.dy=
+#
+<f11v>         {$I=H $Q=B $P=F $L=A $H=1}
+# Last edited on 1998-10-09 01:45:27 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f11v = BF (Rene) = p022 (Stolfi)
+#   Folio: f11
+#   Panels: f11v
+#   Bifolio: bB3 = f11+f14
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: blue,brown (Reeds)
+#   Plant: 21 (Petersen)
+#
+# Description:
+#
+#   One large plant, flush against the right edge and spanning from
+#   the top to the bottom.
+#
+#   One paragraph (with 5.6 lines), just below mid-page,
+#   left- and right-justified, interrupted by the 
+#   plant's twin stem.
+#
+# Comments:
+#
+#
+## <f11v.P> {}
+# text
+# Last edited on 1998-12-11 12:29:30 by stolfi
+#
+<f11v.P.1;H>       poldchody.shcphy.shordy.qoty-{plant}shol.cphar.dan.y-
+<f11v.P.1;C>       poldchody.shcphy.shordy.qoty-{plant}shol.cphar.dan.y-
+<f11v.P.1;F>       poldchody.shcphy.shordy.qoty-{plant}shol.cphar.dan!y-
+<f11v.P.1;U>       poldchody.shcphy.shordy.qoty-{plant}shol.cphar.dan.y-
+#
+<f11v.P.2;H>       shol.dy.chckhy.shcthy.daiin.dam-{plant}ykchy.dain.dchy-
+<f11v.P.2;C>       shol.dy.chckhy.shcthy.daiin.dam-{plant}ykchy.dain.dchy-
+<f11v.P.2;F>       shol.dy.chckhy.shcthy.daiin.dam-{plant}ykchy.dain.dchy-
+<f11v.P.2;U>       shol.dy.chckhy.shcthy.daiin.dam-{plant}ykchy.dain.dchy-
+#
+<f11v.P.3;H>       otchor.dy.kchy.tchy.*{&152}ar.qokchd-{plant}oky.chol.dy.dy-
+<f11v.P.3;C>       otchor.dy.kchy.tchy.d!!!!!!ar.qokchd-{plant}oky.chol.dy.dy-
+<f11v.P.3;F>       otchor.dy.kchy.tchy.d!!!!!!ar.qokchd-{plant}oky.chol.dy.dy-
+<f11v.P.3;U>       otchor.dy.kchy.tchy.d!!!!!!ar.qokchd-{plant}oky.chol.dy.dy-
+#
+<f11v.P.4;H>       qokchor.chololer.chyky.dchy.qoky-{plant}ctho.tchey.tan-
+<f11v.P.4;C>       qokchor.chololar.chyky.dchy.qoky-{plant}ctho.tchey.tu!-
+<f11v.P.4;F>       qokchor.chololor.chyky.dchy.qoky-{plant}ctho.tchey.ton-
+<f11v.P.4;U>       qokchor.chololor.chyky.dchy.qoky-{plant}ctho.tchey.tu!-
+#
+<f11v.P.5;H>       soydy.qoteey.qot!chor.dy.ddy-{plant}cthor.shy.arg-
+<f11v.P.5;C>       loydy.qoteey.qot.chor.dy.ddy-{plant}cthor.shy!arg-
+<f11v.P.5;F>       soydy.qoteey.qot!chor.dy.ddy-{plant}cthor.shy.arm-
+<f11v.P.5;U>       soydy.qoteey.qot!chor.dy.ddy-{plant}cthor.shy.arg-
+#
+<f11v.P.6;H>       ycheor.ksho.dor.cthey.s!chold={plant}
+<f11v.P.6;C>       ycheor.ksho.dor.cthoy.s.chold={plant}
+<f11v.P.6;F>       ycheor.ksho.dor.cthey.s!chold={plant}
+<f11v.P.6;U>       ycheor.ksho.dor.cthey.s.chold={plant}
+#
+<f12r>           {$I=M $Q=B $P=Y}
+# Last edited on 1998-10-09 02:44:43 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f12r = BY (Rene) = p??? (Stolfi)
+#   Folio: f12
+#   Panels: f12r
+#   Bifolio: bB4 = f12+f13
+#   Quire: B (Rene) = II (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Description:
+#
+#   Folio 12 is missing.
+#
+# Comments:
+#
+#   Cut away after binding?
+#
+<f12v>           {$I=M $Q=B $P=Z}
+# Last edited on 1998-10-09 02:44:52 by stolfi
+#
+# Identification:
+#
+#   Title: "Missing"
+#   Page: f12v = BZ (Rene) = p??? (Stolfi)
+#   Folio: f12
+#   Panels: f12v
+#   Bifolio: bB4 = f12+f13
+#   Quire: B (Rene) = II (Beinecke)
+#
+#   Missing in the original
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: M (Rene), xxx (Stolfi)
+#   Subject: unknown
+#   Colors: ??? (Reeds)
+#
+# Description:
+#
+#   Folio 12 is missing.
+#
+# Comments:
+#
+#   Cut away after binding?
+#
+<f13r>         {$I=H $Q=B $P=G $L=A $H=1}
+# Last edited on 1998-10-09 01:49:07 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f13r = BG (Rene) = p023 (Stolfi)
+#   Folio: f13
+#   Panels: f13r
+#   Bifolio: bB4 = f12+f13
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: blue,brown,green (Reeds)
+#
+# Description:
+#
+#
+# Comments:
+#
+#
+## <f13r.P> {}
+# text
+# Last edited on 1998-12-11 12:30:00 by stolfi
+#
+<f13r.P.1;H>       torshor.opchy.shol.dy.qopchy.shol.opchor.dy!pchy.dchm-
+<f13r.P.1;C>       torshor.opchy.shol.dy.qopchy.shol.opchor.dy!pchy.dchg-
+<f13r.P.1;F>       torshor.opchy.shol!dy.qopchy.shol.opchor.dy.pchy.dchm-
+#
+<f13r.P.2;H>       dchol.chol.dol.shkchy.ydal.shy.ykchy.qotey.daiin.s.y-
+<f13r.P.2;C>       dchol.chol.dol.shkchy.ydal.shy.ykchy.qot*y.daiin.s.y-
+<f13r.P.2;F>       dchol.chol.dol.shkchy.ydal.shy.ykchy.qotey.daiin.s!y-
+#
+<f13r.P.3;H>       s.y.dchor.shaiin.oeees.ykor.chor.ytshy.ykchy.kchy.dar-
+<f13r.P.3;C>       s.y.dchor.shaiin.oeees.ykor.chor.ytshy.ykchy.kchy.dar-
+<f13r.P.3;F>       s!y!dchor.shaiin.oeees.ykor.chor.ytshy.ykchy.kchy.dar-
+#
+<f13r.P.4;H>       qodchy.ytchy.otchor=
+<f13r.P.4;C>       qodchy.ytchy.otchor=
+<f13r.P.4;F>       qodchy.ytchy.otchor=
+#
+<f13r.P.5;H>       shorodo.shy.tshy.kchol.dpchy.qopchy.otchol.cfhol.dy-
+<f13r.P.5;C>       shorodo.shy.tshy.kchol.dpchy.qopchy.otchol.cfhol.dy-
+<f13r.P.5;F>       shorodo.shy.tshy.kchol.dpchy.qopchy.otchol.cfhol!dy-
+#
+<f13r.P.6;H>       tchor.dor.daiin.qotchol.okchy.okchor.oiin.chckhy.d-
+<f13r.P.6;C>       tchor.dor.daiin.qotchol.okchy.okchor.oiin.chckhy.d-
+<f13r.P.6;F>       tchor.dor.daiin.qotchol.okchy.okchor.oiin.chckhy.d-
+#
+<f13r.P.7;H>       dchy.qoky.chol.dy.qokhy.d.oldy-{plant}okchor.doaiin-
+<f13r.P.7;C>       dchy.qoky.chol.dy.qo**y.d.oldy-{plant}okchor.doaiin-
+<f13r.P.7;F>       dchy.qoky.chol.dy.qokey.d!oldy-{plant}okchor.doaiin-
+#
+<f13r.P.8;H>       shochy.qokchy.torchy.kcck{&K}!y-{plant}s.okchey.daiin-
+<f13r.P.8;C>       shochy.qokchy.torchy.k*!!!!!!!*-{plant}s.okchey.daiin-
+<f13r.P.8;F>       shochy.qokchy.torchy.keckh!!!!y-{plant}s.okchey.daiin-
+#
+<f13r.P.9;H>       oldy.shey.chol.doiin.ykoly-{plant}okchal.daldy-
+<f13r.P.9;C>       oldy.shey.chol.doiin.ykoly-{plant}okchal.daldy-
+<f13r.P.9;F>       oldy.shey.chol.doiin.ykoly-{plant}okchal.daldy-
+#
+<f13r.P.10;H>      sotchy.kchy.okorory=
+<f13r.P.10;C>      sotchy.kchy.okorory=
+<f13r.P.10;F>      sotchy.kchy.okorory=
+#
+<f13v>         {$I=H $Q=B $P=H $L=A $H=1}
+# Last edited on 1998-10-09 01:49:45 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f13v = BH (Rene) = p024 (Stolfi)
+#   Folio: f13
+#   Panels: f13v
+#   Bifolio: bB4 = f12+f13
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: blue,green (Reeds)
+#   Plant: 23 (Petersen)
+#
+# Description:
+#
+#
+# Comments:
+#
+#
+## <f13v.P> {}
+# text
+# Last edited on 1998-12-11 13:53:52 by stolfi
+#
+<f13v.P.1;H>       koair.chtoiin.otchy.kchod.otol.otchy.octhos-
+<f13v.P.1;C>       koais.chtoiin.otchy.kchod.otol.otchy.octhos-
+<f13v.P.1;F>       koair.chtoiin.otchy.kchod.otol.otchy.octhos-
+#
+<f13v.P.2;H>       oko.qokol.chodal.otchol.cphol.choty-{plant}
+<f13v.P.2;C>       oko.qokol.chodal.otchol.cphol.choty-{plant}
+<f13v.P.2;F>       oko.qokol.chodal.*tchol.cphol.choty-{plant}
+#
+<f13v.P.3;H>       qokchy.qokod.chy.otchy.cthody-
+<f13v.P.3;C>       qokchy.qokod.chy.otchy.cthody-
+<f13v.P.3;F>       qokchy.qokod.chy.otchy.cthody-
+#
+<f13v.P.4;H>       o!l!s.chey.okos.oaiin.okshy.qock!y-{plant}
+<f13v.P.4;C>       o.l.s.chey.okos.oai!n.okshy.qo*!!!-{plant}
+<f13v.P.4;F>       o!l!s!chey.okos.oaiin.okshy.qockhy-{plant}
+#
+<f13v.P.5;H>       qoky.daiin=
+<f13v.P.5;C>       qoky.daiin=
+<f13v.P.5;F>       qoky.daiin=
+#
+<f13v.P.6;H>       fol!daiin.olcphy.shol-{plant}dy.oty.shor.qotyd-
+{plant}dairo.d-
+<f13v.P.6;C>       fol!daiin.olcphy.chol-{plant}dy.oty.shor.qotyd-
+{plant}dairo!d-
+<f13v.P.6;F>       fol.daiin.olcphy.shol-{plant}dy.oty.shor.qotyd-
+{plant}dairo!d-
+#
+<f13v.P.7;H>       dain.okal.chy.qokchory-{plant}dchy.koky.daiin-{plant}shoin-
+<f13v.P.7;C>       dain.okal.chy.qokchory-{plant}dchy.koky!daiin-{plant}sho!n-
+<f13v.P.7;F>       dain.okal.chy.qokchory-{plant}dchy.koky.daiin-{plant}sho!n-
+#
+<f13v.P.8;H>       otchy.daiin.y.dain.ykol-{plant}okchy.okald.d-{plant}ytaiin-
+<f13v.P.8;C>       otchy.daiin.y.dain.ykol-{plant}okchy.okald.d-{plant}ytaiin-
+<f13v.P.8;F>       otchy.daiin.y!dain.ykol-{plant}okchy.okald.d-{plant}ytaiin-
+#
+<f13v.P.9;H>       tchtod.otal.cthor.ytal-{plant}y.cho.tal-{plant}sho.qocthy-
+<f13v.P.9;C>       tchtod.otal.cthor.ytal-{plant}y.cho.tal-{plant}sho.qocthy-
+<f13v.P.9;F>       tchtod.otal.cthor.ytal-{plant}y!cho!tal-{plant}sho.qocthy-
+#
+<f13v.P.10;H>      y.ol.chy.kchey.kchor.dal={plant}
+<f13v.P.10;C>      y.ol.chy.kchey.kchor.dal={plant}
+<f13v.P.10;F>      y!ol.chy.kchey.kchor.dal={plant}
+#
+<f14r>         {$I=H $Q=B $P=I $L=A $H=1}
+# Last edited on 1998-10-09 01:50:25 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f14r = BI (Rene) = p025 (Stolfi)
+#   Folio: f14
+#   Panels: f14r
+#   Bifolio: bB3 = f11+f14
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: green,red (Reeds)
+#   Plant: 24 (Petersen)
+#
+# Description:
+#
+#
+# Comments:
+#
+#
+## <f14r.P> {}
+# text
+# Last edited on 1998-12-06 20:13:02 by stolfi
+#
+<f14r.P.1;H>       pcho!daiin.chopol.shoiin.daiin.dain-{plant}
+<f14r.P.1;C>       pcho!daiin.chopol.shoiin.daiin.dain-{plant}
+<f14r.P.1;F>       pcho.daiin.chopol.shoiin.daiin.dain-{plant}
+#
+<f14r.P.2;H>       o.ykeey.soiiin.chok.qokchy.da.okol-{plant}
+<f14r.P.2;C>       o!ykeey.soiiin.chok.qokchy.da.okol-{plant}
+<f14r.P.2;F>       o!ykeey.soiiin.chok.qokchy.da.okol-{plant}
+#
+<f14r.P.3;H>       ydaiin.ol!chy.kchor.daiin.olol-{plant}
+<f14r.P.3;C>       ydaiin.ol.chy.kchor.daiin.olol-{plant}
+<f14r.P.3;F>       ydaiin.ol!chy.kchor.daiin.olol-{plant}
+#
+<f14r.P.4;H>       ochkchar.kol.shy.daiin.dorody-{plant}
+<f14r.P.4;C>       ochkchor.kol.shy.daiin.dorody-{plant}
+<f14r.P.4;F>       ochkchar.kol.shy.daiin.dorody-{plant}
+#
+<f14r.P.5;H>       qokchol.dar.dala.qotolo-{plant}
+<f14r.P.5;C>       qokchol.dar.dalo.qotolo-{plant}
+<f14r.P.5;F>       qokchol.dar.dala.qotolo-{plant}
+#
+<f14r.P.6;H>       ychol.oir.okor.choor.ockhy-{plant}
+<f14r.P.6;C>       ychol.oir.okor.choor.ockhy-{plant}
+<f14r.P.6;F>       ychol.oir.okor.choor.ockhy-{plant}
+#
+<f14r.P.7;H>       otcho.dain.chckhy=
+<f14r.P.7;C>       otcho.dain.chckhy=
+<f14r.P.7;F>       otcho.dain.chckhy=
+#
+<f14r.P.8;H>       soshy.fchol.shor.cheor.ykaiin.s-{plant}
+<f14r.P.8;C>       soshy.*chol.shor.cheor.ykaiin.s-{plant}
+<f14r.P.8;F>       soshy.*chol.shor.cheor.ykaiin.s-{plant}
+#
+<f14r.P.9;H>       sody.chody.otchody.qotchy.koiin.sy-{plant}sho!ty.dy-
+<f14r.P.9;C>       sody.chody.otchody.qotchy.koiin.sy-{plant}sho.ty.dy-
+<f14r.P.9;F>       sody.chody.otchody.qotchy.koiin.sy-{plant}sho!ty.dy-
+#
+<f14r.P.10;H>      qotchor.chod.shoty.chody.dol.dy.dy-{plant}okchy.d!y-
+<f14r.P.10;C>      qotchor.chod.shoty.chody.dol.dy.dy-{plant}okche!d!y-
+<f14r.P.10;F>      qotchor.chod.shoty.chody.dol.dy.dy-{plant}okchy!d!y-
+#
+<f14r.P.11;H>      dcho!kchy.schol.dy.shey.dar.qoty-{plant}ykeey.ky-
+<f14r.P.11;C>      dcho!kchy.schol.dy.shey.dar.qoty-{plant}ykeey!ky-
+<f14r.P.11;F>      dcho.kchy.schol.dy.shey.dar.qoty-{plant}ykeey!ky-
+#
+<f14r.P.12;H>      oeeen.chey.teor.chey.tchy.ky-{plant}chodalg-
+<f14r.P.12;C>      oeee*.chey.keor.chey.tchy!ky-{plant}chodalg-
+<f14r.P.12;F>      oeeen.chey.teor.chey.tchy.ky-{plant}chodalm-
+#
+<f14r.P.13;H>      sodaiin.chy.kchy.kchy.ykeody={plant}
+<f14r.P.13;C>      sodaiin.chy.kchy.kchy.ykeody={plant}
+<f14r.P.13;F>      sodaiin.chy.kchy.kchy.ykeody={plant}
+#
+<f14v>         {$I=H $Q=B $P=J $L=A $H=1}
+# Last edited on 1998-10-09 01:50:56 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f14v = BJ (Rene) = p026 (Stolfi)
+#   Folio: f14
+#   Panels: f14v
+#   Bifolio: bB3 = f11+f14
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: blue (Reeds)
+#
+# Description:
+#
+#
+# Comments:
+#
+#
+## <f14v.P> {}
+# text
+# Last edited on 1998-12-06 20:18:20 by stolfi
+#
+<f14v.P.1;H>       pdychoiin.yfodain.oty!shy.dy.ypchor.daiin.kol.ydain-
+<f14v.P.1;C>       pdychoiin.yfodain.oty.chy.dy.ypchor.daiin.kol.ydain-
+<f14v.P.1;F>       pdychoiin.yfodain.oty!shy.dy.ypchor.daiin.kol.ydain-
+<f14v.P.1;U>       pdychoiin.yfodain.oty!shy.dy.ypchor.daiin.kol!ydain-
+#
+<f14v.P.2;H>       okchor.d!chy.tshy.oky.chy.cthy.otchy.ty.chol.daiin-
+<f14v.P.2;C>       okchor.d.chy.tshy.oty.chy.cthy.otchy.ty.chol.daiin-
+<f14v.P.2;F>       okchor.d!chy.tshy.oky.chy.cthy.otchy.ty.chol.daiin-
+<f14v.P.2;U>       okchor.d!chy.tshy.oky.chy.cthy.otchy!ty.chol.daiin-
+#
+<f14v.P.3;H>       ychy.dy.daiin.chcthy.yky!kaiin.dytchy.ykchy.ky.dy-
+<f14v.P.3;C>       ychy.dy.daiin.chcthy.yky!!aiin.dytchy.ykchy.ky!dy-
+<f14v.P.3;F>       ychy.dy.daiin.chcthy.yky.kaiin.dytchy.ykchy.ky.dy-
+<f14v.P.3;U>       ychy.dy.daiin.chcthy.yky!kaiin.dytchy.ykchy!ky.dy-
+#
+<f14v.P.4;H>       ytychy.ksho.ykshy.shok!shor.yty.darody.dy!otyds-
+<f14v.P.4;C>       ytychy.ksho.ykshy.shok!shor.yty.darody.dy.otyds-
+<f14v.P.4;F>       ytychy.ksho.ykshy.shok.shor.yty.darody.dy!otyds-
+<f14v.P.4;U>       ytyshy.ksho.ykshy.shok!shor.yty.darody.dy.otyds-
+#
+<f14v.P.5;H>       okshy.daiin.okchor.chky.qotchy.daiin.cthor.oty-
+<f14v.P.5;C>       okshy.daiin.okchor.chky.qotchy.daiin.cthor.oty-
+<f14v.P.5;F>       okshy.daiin.okchor.chky.qotchy.daiin.cthor.oty-
+<f14v.P.5;U>       okshy.daiin.okchor.chky.qotchy.daiin.cthor.oty-
+#
+<f14v.P.6;H>       qoty.choky.cthy.chokchy.dy!dy!dy.chckhy.dchyd.n-
+<f14v.P.6;C>       qoty.choky.cthy.chokchy.dy.dy.dy.chckhy.dchyd.n-
+<f14v.P.6;F>       qoty.choky.cthy.chokchy.dy!dy!dy.chckhy.dchyd.n-
+<f14v.P.6;U>       qoty.choky.cthy.chokchy.dy.dy.dy.chckhy.dchyd.n-
+#
+<f14v.P.7;H>       oykshy.choty.dy!dy.odyd.otchy.o!kchy.dshy.dardy-
+<f14v.P.7;C>       oykshy.choky.dy.dy.odyd.otchy.o.kchy.dshy.dardy-
+<f14v.P.7;F>       oykshy.choty.dy!dy!odyd.otchy.o!kchy.dshy.dardy-
+<f14v.P.7;U>       oykshy.choty.dy.dy.odyd.otchy.o!kchy.dshy.dardy-
+#
+<f14v.P.8;H>       chokshor.daiin-{plant}okshody.daiin-{plant}dol.dair.dam-
+<f14v.P.8;C>       chokshor.daiin-{plant}okshydy.daiin-{plant}dol.dair.dam-
+<f14v.P.8;F>       chokshor.daiin-{plant}okshody.daiin-{plant}dol!dair.dam-
+<f14v.P.8;U>       chokshor.daiin-{plant}okshody.daiin-{plant}dol.dair.dam-
+#
+<f14v.P.9;H>       dykchy.ctholdg-{plant}dchckhy=
+<f14v.P.9;C>       dykchy.ctholdg-{plant}dchckhy=
+<f14v.P.9;F>       dykchy.ctholdm-{plant}dchckhy=
+<f14v.P.9;U>       dykshy.ctholdm-{plant}dchckhy=
+#
+<f15r>         {$I=H $Q=B $P=K $L=A $H=1}
+# Last edited on 1998-10-09 01:51:39 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f15r = BK (Rene) = p027 (Stolfi)
+#   Folio: f15
+#   Panels: f15r
+#   Bifolio: bB2 = f10+f15
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: blue (Reeds)
+#   Plant: 26 (Petersen)
+#
+# Description:
+#
+#
+# Comments:
+#
+#
+## <f15r.P> {}
+# text
+# Last edited on 1998-12-19 18:55:16 by stolfi
+#
+#  "U" transcription by J. Stolfi from scanned image
+#
+<f15r.P.1;H>       tshor.shey.tchaly-{plant}shy.chtols.shey-{plant}daiin-
+<f15r.P.1;C>       tshor.shey.tchaly-{plant}shy.chtols.shey-{plant}daiin-
+<f15r.P.1;F>       tshor.shey.tchaly-{plant}shy.chtols.shey-{plant}daiin-
+<f15r.P.1;U>       tshor.shey.tchaly-{plant}shy.chtols,shey-{plant}daiin-
+#
+<f15r.P.2;H>       otchor.qokchor.oly-{plant}okor.shy.koly-{plant}
+<f15r.P.2;C>       otchor.qokchor.oly-{plant}okor.shy.koly-{plant}
+<f15r.P.2;F>       otchor.qokchor.oly-{plant}okor.shy.koly-{plant}
+<f15r.P.2;U>       otchor.qokchor.oly-{plant}okor.shy.koly-{plant}
+#
+<f15r.P.3;H>       qokaiin.qotchy.tydy-{plant}daiin.chol.cthy-{plant}
+<f15r.P.3;C>       qokaiin.qotchy!tydy-{plant}daiin.chol.cthy-{plant}
+<f15r.P.3;F>       qokaiin.qotchy.tydy-{plant}daiin.chol.cthy-{plant}
+<f15r.P.3;U>       qokaiin.qotchy.tydy-{plant}daiin.chol.cthy-{plant}
+#
+<f15r.P.4;H>       scheaiin.chodaiin.chl-{plant}sol.ckhaiin.sal-{plant}
+<f15r.P.4;C>       scheaiin.chodaiin.chl-{plant}sol.ckhaiin.sal-{plant}
+<f15r.P.4;F>       scheaiin.chodaiin.chl-{plant}sol.ckhaiin.sal-{plant}
+<f15r.P.4;U>       scheaiin.chodaiin.chl-{plant}sol.ckhaiin.sal-{plant}
+#
+<f15r.P.5;H>       qotchy.r.shor.cthy-{plant}daiin.cthy.dy-{plant}
+<f15r.P.5;C>       qotchy.r.shor.cthy-{plant}daiin.cthy.dy-{plant}
+<f15r.P.5;F>       qotchy.r!shor.cthy-{plant}daiin.cthy.dy-{plant}
+<f15r.P.5;U>       qotchy.r,shor.cthy-{plant}daiin.cthy,dy-{plant}
+#
+<f15r.P.6;H>       dchy.ko!kaiin.chdy-{plant}saiin.okear-{plant}
+<f15r.P.6;C>       ochy.ko!kaiin.chdy-{plant}saiin.okear-{plant}
+<f15r.P.6;F>       dchy.ko.kaiin.chdy-{plant}saiin.okear-{plant}
+<f15r.P.6;U>       dchy.ko.kaiin.chdy-{plant}saiin.okear-{plant}
+#
+<f15r.P.7;H>       daiin.shkaiin.cthy-{plant}sho.keocthy-{plant}
+<f15r.P.7;C>       daiin.shkaiin.cthy-{plant}sho.keocthy-{plant}
+<f15r.P.7;F>       daiin.shkaiin.cthy-{plant}sho!keocthy-{plant}
+<f15r.P.7;U>       daiin.shkaiin.cthy-{plant}sho,keocthy-{plant}
+#
+<f15r.P.8;H>       shocthy.tol.kaiin.s-{plant}dain.ctholy-{plant}
+<f15r.P.8;C>       chocthy.tol.kaiin.s-{plant}dain.ctholy-{plant}
+<f15r.P.8;F>       shocthy.tol.kaiin.s-{plant}dain.ctholy-{plant}
+<f15r.P.8;U>       shocthy.tol,kaiin,s-{plant}dain.ctholy-{plant}
+#
+<f15r.P.9;H>       octhain.qokaiin.chos-{plant}odaiin.cthl.s.y-{plant}
+<f15r.P.9;C>       octhain.qokaiin.chos-{plant}odaiin.cthl.s.y-{plant}
+<f15r.P.9;F>       octhain.qokaiin.chos-{plant}odaiin.cthl!s!y-{plant}
+<f15r.P.9;U>       octhain.qokaiin.chos-{plant}odaiin.cthl!s,y-{plant}
+#
+<f15r.P.10;H>      ychain.chckhhy.okshy-{plant}saiiin.dol!chds-{plant}
+<f15r.P.10;C>      ychain.ch**!!y.okesy-{plant}saiiin.dol.chds-{plant}
+<f15r.P.10;F>      ychain.chckhey.okshy-{plant}saiiin.dol.chds-{plant}
+<f15r.P.10;U>      ychain.chckhey.okshy-{plant}saiiin.dol.chds-{plant}
+#
+<f15r.P.11;H>      okaiin.otaiin.chl.s!y-{plant}chor.choross-{plant}
+<f15r.P.11;C>      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-{plant}
+<f15r.P.11;F>      okaiin.otaiin.chl.s!y-{plant}chor.choross-{plant}
+<f15r.P.11;U>      okaiin.otaiin.chl.s,y-{plant}chor.choross-{plant}
+#
+<f15r.P.11a;H>     qotor.shor.tcheor.chy-{plant}cthaiin-{plant}shan-
+<f15r.P.11a;C>     qotor.shor.tcheor.chy-{plant}cthaiin-{plant}shan-
+<f15r.P.11a;F>     qotor.shor.tcheor.chy-{plant}cthaiin-{plant}shan-
+<f15r.P.11a;U>     qotor.shor.tcheor.chy-{plant}cthaiin-{plant}shan-
+#
+<f15r.P.12;H>      ykshol.dor.sheey.cthy.dain-{plant}sky-{plant}shor.shoty-
+<f15r.P.12;C>      ykshol.dor.sheey.!!*y.dain-{plant}sky-{plant}shor.shoty-
+<f15r.P.12;F>      ykshol.dor.sheey.cthy.dain-{plant}sky-{plant}shor.shoty-
+<f15r.P.12;U>      ykshol.dor.sheey.cthy.dain-{plant}sky-{plant}shor.shoty-
+#
+<f15r.P.13;H>      otcho.kchy.chol.daiin.cthar-{plant}ytol.dor.dom-
+<f15r.P.13;C>      otcho.kchy.chol.daiin.!!*ar-{plant}ytol.dor.dom-
+<f15r.P.13;F>      otcho.kchy.chol.daiin.cthar-{plant}ytol.dor.dom-
+<f15r.P.13;U>      otcho.kchy.chol.daiin.cthar-{plant}ytol.dor.dam-
+#
+<f15r.P.14;H>      qotchor.chaiin.chy.kol!daky={plant}
+<f15r.P.14;C>      qotchor.chaiin.chy.kol.daky={plant}
+<f15r.P.14;F>      qotchor.chaiin.chy.kol.daky={plant}
+<f15r.P.14;U>      qotchor.chaiin.chy.kol.daky={plant}
+#
+<f15v>         {$I=H $Q=B $P=L $L=A $H=1}
+# Last edited on 1998-10-09 01:51:54 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f15v = BL (Rene) = p028 (Stolfi)
+#   Folio: f15
+#   Panels: f15v
+#   Bifolio: bB2 = f10+f15
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: green,tan (Reeds)
+#   Plant: 27 (Petersen)
+#
+# Description:
+#
+#
+# Comments:
+#
+#
+## <f15v.P> {}
+# text
+# Last edited on 1998-12-12 07:53:56 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+#
+<f15v.P.1;H>       poror.orshy.choiin.dtchan.opchor.dy-{plant}
+<f15v.P.1;C>       poror.orshy.choiin.dtchan.opchor!dy-{plant}
+<f15v.P.1;F>       poror.orshy.choiin.dtchan.opchor!dy-{plant}
+<f15v.P.1;U>       poror.orshy.choiin.dtchan.opchor!dy-{plant}
+#
+<f15v.P.2;H>       *{&138}chor.or.oro.r.aiin.cthy.k!!!!!!ain.dar-{plant}
+<f15v.P.2;C>       *!!!!!!chor.or.oro.r.aiin.cthy.*!!!!!!ain.dar-{plant}
+<f15v.P.2;F>       *!!!!!!chor.or.oro.r!aiin.cthy.*!!!!!!ain.dar-{plant}
+<f15v.P.2;U>       *{&138}chor.or.oro.r!aiin.cthy.*{&178}ain.dar-{plant}
+#
+<f15v.P.3;H>       cthor.daiin.qokor.okeor.okaiin-{plant}
+<f15v.P.3;C>       cthor.daiin.qokor.okeor.okaiin-{plant}
+<f15v.P.3;F>       cthor.daiin.qokor.okeor.okaiin-{plant}
+<f15v.P.3;U>       cthor.daiin.qokor.okeor.okaiin-{plant}
+#
+<f15v.P.4;H>       doiin.choky.shol.qoky.qotchod-{plant}
+<f15v.P.4;C>       doiin.choky.shol.qoky.qotchod-{plant}
+<f15v.P.4;F>       doiin.choky.shol.qoky.qotchod-{plant}
+<f15v.P.4;U>       doiin.choky.shol.qoky.qotchod-{plant}
+#
+<f15v.P.5;H>       otchor.chor.chor.ytchor.cthy.s-{plant}
+<f15v.P.5;C>       otchor.chor.chor.ytchor.cthy.s-{plant}
+<f15v.P.5;F>       otchor.chor.chor.ytchor.cthy!s-{plant}
+<f15v.P.5;U>       otchor.chor.chor.ytchor.cthy.s-{plant}
+#
+<f15v.P.6;H>       qotchey.choty.kaiin.otchy.r.aiin-{plant}
+<f15v.P.6;C>       qotchey.choty.kaiin.otchy.r.aiin-{plant}
+<f15v.P.6;F>       qotchey.choty.kaiin.otchy.r!aiin-{plant}
+<f15v.P.6;U>       qotchey.choty.kaiin.otchy.r!aiin-{plant}
+#
+<f15v.P.7;H>       c!oy.choiin.sho.s.chy.s.chy.tor.ols-{plant}
+<f15v.P.7;C>       e!oy.choiin.sho.*.chy.s.chy.tor.olr-{plant}
+<f15v.P.7;F>       choy.choiin.sho.*.chy.s!chy.tor.ols-{plant}
+<f15v.P.7;U>       c!oy.choiir.sho.*!chy.s.chy.tor.ols-{plant}
+#
+<f15v.P.8;H>       ytchor.chor.ol.oiin.oty.shol.daiin-{plant}
+<f15v.P.8;C>       ytchor.chor.ol.oiin.oty.shol.daiin-{plant}
+<f15v.P.8;F>       ytchor.chor.ol.oiin.oty.shol.daiin-{plant}
+<f15v.P.8;U>       ytchor.chor.ol.oiin.oty.shol.daiin-{plant}
+#
+<f15v.P.9;H>       otchol!o!cthol.chol.chol.chody.kan-{plant}
+<f15v.P.9;C>       otchol.o!cthol.chol.chol.chody.kan-{plant}
+<f15v.P.9;F>       otchol!o.cthol.chol.chol.chody.kan-{plant}
+<f15v.P.9;U>       otchol.o!cthol.chol.chol.chody.kan-{plant}
+#
+<f15v.P.10;H>      sor.chor.cthoiin.cthy.qokaiin-{plant}
+<f15v.P.10;C>      sor.chor.cthoiin.cthy.qokaiin-{plant}
+<f15v.P.10;F>      sor.chor.cthoiin.cthy.qokaiin-{plant}
+<f15v.P.10;U>      sor.chor.cthoiin.cthy.qokaiin-{plant}
+#
+<f15v.P.11;H>      soloiin.cheor.chol.daiin.cthy-{plant}
+<f15v.P.11;C>      soloiin.cheor.chol.daiin.cthy-{plant}
+<f15v.P.11;F>      soloiin.cheor.chol.daiin.cthy-{plant}
+<f15v.P.11;U>      soloiin.cheor.chol.daiin.cthy-{plant}
+#
+<f15v.P.12;H>      daiin.cthor.chol.chor=
+<f15v.P.12;C>      daiin.cthor.chol.chor=
+<f15v.P.12;F>      daiin.cthor.chol.chor=
+<f15v.P.12;U>      daiin.cthor.chol.chor=
+#
+<f16r>         {$I=H $Q=B $P=M $L=A $H=1}
+# Last edited on 1998-10-09 01:58:42 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f16r = BM (Rene) = p029 (Stolfi)
+#   Folio: f16
+#   Panels: f16r
+#   Bifolio: bB1 = f9+f16
+#   Quire: B (Rene) = II (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: red,green,tan (Reeds)
+#   Plant: 28 (Petersen)
+#
+# Description:
+#
+#   One plant, spanning from bottom edge to top margin,
+#   flush against the right margin.
+#
+#   Three paragraphs (with 2.9, 4.2, and 3.7 lines) at the top,
+#   left-justified.  The first two lines of paragraph 1
+#   are right-justified and interrupted by the plant's flower.
+#
+#   Paragraph 1 is followed by a short title, which may be just a
+#   part of the paragrraph.
+#
+# Comments:
+#
+#
+## <f16r.P1> {}
+# text - parag 1
+# Last edited on 1998-12-07 12:13:52 by stolfi
+#
+<f16r.P1.1;H>      pocheody.qopchey.sykaiin.opchy.dor.ychy.daiin.dy-
+{plant}chor.orom-
+<f16r.P1.1;C>      pocheody.qopchey.sykaiin.opchy!dor.ychy.daiin.dy-
+{plant}chor.orom-
+<f16r.P1.1;F>      pocheody.qopchey.sykaiin.opchy.dor.ychy.daiin.dy-
+{plant}chor.orom-
+#
+<f16r.P1.2;H>      ychykchy.otly.kol.shor.ody.otody.qoy-{plant}oeesordy-
+<f16r.P1.2;C>      ychykchy.otly.kol.shor.ody.otody.qoy-{plant}oeesordy-
+<f16r.P1.2;F>      ychykchy.otqy.kol.shor.ody.otody.qoy-{plant}oeesordy-
+#
+<f16r.P1.3;H>      ydor.sheal.okchy.qoy.koiin.choky.ykair={plant}
+<f16r.P1.3;C>      ydor.sheal.okchy.qoy.koiin.choky.ykair={plant}
+<f16r.P1.3;F>      ydor.sheal.okchy.qoy.koiin.choky.ykair={plant}
+#
+## <f16r.T1> {}
+# title 1
+# Last edited on 1998-12-06 20:26:33 by stolfi
+#
+<f16r.T1.4;H>      dainod.ychealod=
+<f16r.T1.4;C>      dainod.ychealod=
+<f16r.T1.4;F>      dainod.ychealod=
+#
+## <f16r.P2> {}
+# text
+# Last edited on 1998-12-11 12:31:32 by stolfi
+#
+<f16r.P2.5;H>      tchor.chor.chs.ykch.shocthy.opchy.ty.ky-{plant}
+<f16r.P2.5;C>      tchor.chor.chl.ykch.chocthy.opchy.ty.ty-{plant}
+<f16r.P2.5;F>      tchor.chor.chs.ykch.shocthy.opchy.ty!ky-{plant}
+#
+<f16r.P2.6;H>      oshaiin.dyky.oeees.deeeod.aiin.d!toaiin-{plant}
+<f16r.P2.6;C>      oshaiin.dyky.oeees.deeeod.aiin.d.toaiin-{plant}
+<f16r.P2.6;F>      oshaiin.dyky.oeees.deeeo.daiin.d!toaiin-{plant}
+#
+<f16r.P2.7;H>      daiin.dalchy.dy!ky.s!chy.s!aiin.doal.qoky-{plant}
+<f16r.P2.7;C>      daiin.dalchy.dy.ky.s.chy.s.aiin.doal.qoky-{plant}
+<f16r.P2.7;F>      daiin.dalchy.dy!ky.s!chy.s!aiin.doal.qoky-{plant}
+#
+<f16r.P2.8;H>      shotchy.ydain.yky.shody.otol.daiin-{plant}
+<f16r.P2.8;C>      shotchy.ydain.yky.shody.otol.daiin-{plant}
+<f16r.P2.8;F>      shotchy.ydain.yky.shody.otol.daiin-{plant}
+#
+<f16r.P2.9;H>      saiin.ytaiin=
+<f16r.P2.9;C>      saiin.ytaiin=
+<f16r.P2.9;F>      saiin.ytaiin=
+#
+<f16r.P2.10;H>     toror.daly!dal.opchy.fchol.ypchocf{&F}y.okal-{plant}
+<f16r.P2.10;C>     toror.daly.dal.opchy.fchol.ypcho*!!!!!!.okal-{plant}
+<f16r.P2.10;F>     toror.daly!dal.opchy.fchol.ypchocfh!!!y.okal-{plant}
+#
+<f16r.P2.11;H>     sokchy.qokol.choty!okchy.cthy.chy.kchy-{plant}
+<f16r.P2.11;C>     sokchy.qokol.choty.okchy.cthy.chy.kchy-{plant}
+<f16r.P2.11;F>     sokchy.qokol.choty.okchy.cthy.chy.kchy-{plant}
+#
+<f16r.P2.12;H>     dy!cho!kchy.shcthy.shtshy.sho.tchokyd-{plant}
+<f16r.P2.12;C>     dy.cho!kchy.shcthy.shtshy.sho.tchokyd-{plant}
+<f16r.P2.12;F>     dy!cho.kchy.shcthy.shtshy.sho.tchokyd-{plant}
+#
+<f16r.P2.13;H>     qokchor.dl.dy.shey=
+<f16r.P2.13;C>     qok*!or.dl.dy.shey=
+<f16r.P2.13;F>     qokchor.dl.dy.shey=
+#
+<f16v>         {$I=H $Q=B $P=N $L=A $H=1}
+# Last edited on 1998-10-09 02:01:56 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f16v = BN (Rene) = p030 (Stolfi)
+#   Folio: f16
+#   Panels: f16v
+#   Bifolio: bB1 = f9+f16
+#   Quire: B (Rene) = II (Beinecke)
+#
+#   Quire B, last page
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: red,blue (Reeds)
+#   Plant: 29 (Petersen)
+#
+# Description:
+#
+#   One plant, occupying the right half of the page, spamming from 
+#   top to bottom edges.
+#
+#   Two paragraphs (with 6.0 and 6.8 lines) at the top,
+#   left-justified and following the plant's outline on the 
+#   right.
+#
+#   There is a mark at the SE corner, not fully visible in the image.
+#
+# Comments:
+#
+#   The mark at the SE corner is almost surely the quire number, "2nd"
+#   in abbreviated Latin.
+#
+## <f16v.P> {}
+# text
+# Last edited on 1998-12-06 20:30:15 by stolfi
+#
+<f16v.P.1;H>       pchraiin.otchor.chpchol.chpchey.s.pchoct!y-{plant}
+<f16v.P.1;C>       pchroiin.otchor.chpchol.chpchey.s.pcho*!!y-{plant}
+<f16v.P.1;F>       pchraiin.otchor.chpchol.chpchey.s!pchocthy-{plant}
+#
+<f16v.P.2;H>       ytchor.y.ky.chokchy.qokcho!cthor.shory-{plant}
+<f16v.P.2;C>       ytchor.y.ky.chokchy.qokcho!cthor.shory-{plant}
+<f16v.P.2;F>       ytchor.y!ky.chokchy.qokcho.cthor.shory-{plant}
+#
+<f16v.P.3;H>       ykchy.dy.choy.qoty.chy.kchy.koshet-{plant}
+<f16v.P.3;C>       ykchy.dy.choy.qoty.chy!kchy.koshet-{plant}
+<f16v.P.3;F>       ykchy.dy.choy.qoty.chy.kchy.koshet-{plant}
+#
+<f16v.P.4;H>       dchol.chcthody.cphod.chotol.dal-{plant}
+<f16v.P.4;C>       dchol.chcthody.cphod.chotol.dal-{plant}
+<f16v.P.4;F>       dchol.chcthody.cphod.chotol.dal-{plant}
+#
+<f16v.P.5;H>       ytchy.chyty.chor.chol.ytchy.dan-{plant}
+<f16v.P.5;C>       ytchy.chyty.chor.chol.ykchy.dan-{plant}
+<f16v.P.5;F>       ytchy.chyty.chor.chol.ytchy.dan-{plant}
+#
+<f16v.P.6;H>       sor.chkar.oty.chkar.chol.dairin={plant}
+<f16v.P.6;C>       sor.chkar.oty.chkar.chol.dairin={plant}
+<f16v.P.6;F>       sor.chkar.oty.chkar.chol.dairin={plant}
+#
+<f16v.P.7;H>       pchocthy.chypchy.qotchy.chcfhhy.sy-{plant}
+<f16v.P.7;C>       pchocth!.chypchy.qotchy.ch*y!!!.sy-{plant}
+<f16v.P.7;F>       pchocthy.chypchy.qotchy.chcfhey.sy-{plant}
+#
+<f16v.P.8;H>       daiin.chol.y.daiin.chcthy.qot!char.chor.sholo-{plant}
+<f16v.P.8;C>       daiin.chol.y.daiin.chcthy.qot.char.chor.sholo-{plant}
+<f16v.P.8;F>       daiin.chol.y!daiin.chcthy.qot!char.chor.sholo-{plant}
+#
+<f16v.P.9;H>       dshy.okaiin.okaiin.chol.chor.cthor.ty.chody-{plant}
+<f16v.P.9;C>       dshy.okaiin.okaiin.chol.chor.cthor.ty.chody-{plant}
+<f16v.P.9;F>       dshy.okaiin.okaiin.chol.chor.cthor.ty.chody-{plant}
+#
+<f16v.P.10;H>      qokchy.chy!dy.ykchy.chckhy.otain.cthor.cthy-{plant}
+<f16v.P.10;C>      qokchy.chy.dy.ykchy.chckhy.otain.cthor.*!!y-{plant}
+<f16v.P.10;F>      qokchy.chy!dy.ykchy.chckhy.otain.cthor.cthy-{plant}
+#
+<f16v.P.11;H>      okytaiin.chkchy.saiin-{plant}
+<f16v.P.11;C>      okytaiin.chkchy.saiin-{plant}
+<f16v.P.11;F>      okytaiin.chkchy.saiin-{plant}
+#
+<f16v.P.12;H>      daiin.yky.otor.chody-{plant}
+<f16v.P.12;C>      daiin.yky.otor.chody-{plant}
+<f16v.P.12;F>      daiin.yky.otor.chody-{plant}
+#
+<f16v.P.13;H>      sokar.oaorar=
+<f16v.P.13;C>      sokar.oaoror=
+<f16v.P.13;F>      sokar.oaorar=
+#
+

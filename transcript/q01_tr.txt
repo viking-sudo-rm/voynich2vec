@@ -1,0 +1,2172 @@
+<f1r>          {$I=T $Q=A $P=A $L=A $H=1}
+# Last edited on 1998-10-30 13:32:59 by stolfi
+#
+# Identification:
+#
+#   Title: "First page"
+#   Page: f1r = AA (Rene) = p001 (Stolfi)
+#   Folio: f1
+#   Panels: f1r
+#   Bifolio: bA1 = f1+f8
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: T (Rene), unk (Stolfi)
+#   Subject: unknown (text only).
+#   Colors: red (Reeds)
+#
+# Description:
+#
+#   The page contains four paragraphs (with 4.6, 2.4, 9.5, 5.5 lines,
+#   respectively), each followed by a short right-justified title.
+#
+#   Paragraphs 2 and 3 begin with big "weirdo" doodles, very unlike
+#   normal Voynichese letters. The first (EVA &252) looks like a
+#   capital K lying on it side, with the vertical bar at the bottom.
+#   The second (EVA &253) looks like the first, with an extra
+#   squiggly line rising from between the two "horns". The two symbols
+#   are drawn or painted with flaring strokes ending in swallowtail
+#   serifs.
+#
+#   A 1-inch band along the right margin is heavily stained. There
+#   seem to be two or three columns of letters ("key like sequences")
+#   in that band, which are barely visible in the reproductions.
+#
+#   There is a faint unreadable text at the top of the page,
+#   apparently in cursive handwriting.
+#
+# Comments:
+#
+#   The page layout suggests four quotes with attributions, or signed
+#   endorsements.
+#
+#   The faint scribbling at the top must be the signature
+#   of Jacobus de Tepenecz, as asserted in many references.
+#
+#   Jim Reeds writes [15 Jul 94]: "The erased key on f1r is discussed
+#   by Brumbaugh. It seems to have 3 vertical columns of letters. The
+#   leftmost is the ordinary alphabet, lower case italic hand, a
+#   through z. I could not check for the presence of every letter (I'm
+#   not sure about j, for instance) but a, b, c, ... o, p, q, r, s,
+#   ... y, z are pretty clear. Next to those are very spotty frags of
+#   Voynich letters. I could make out <8> next to a, <R> next to c,
+#   <6> next to y, and one of the gallows letters somewhere near the
+#   q, r, s range. [...] The 3d column seems to be 1 off from the
+#   first: italic miniscules, r next to s, and so on. More is visible
+#   in UV shots than Petersen shows."
+#
+#   Brumbaugh reportedly claims that there was a date in the upper
+#   right corner of f1r before it was obliterated by the application
+#   of chemicals (intended to reveal faded writing).
+#
+#   D'Imperio says that the "weirdo" characters EVA &252/&253 are in
+#   bright red ink; confirmed by Glen Claston [20 Feb 1998] and Jim
+#   Reeds [03 Mar 1998].
+#
+#   Rene [28 Jul 1997] found a medieval astrological diagram [1], in
+#   Greek, where EVA &252 is used as a symbol for Aries, which is
+#   "kruos" or "kryos" in Greek.
+#
+#   Stolfi suggested [07 Aug 1998] that the symbols may be
+#   abbreviations for "Koenig" and "KoenigiN" --- i.e. "K" and
+#   "K"-with-squiggle. (How desperate can you get?)
+#
+# References:
+#
+# [1] Codex Taurinensis C VII 15 (author anonymous, no date avaliable).
+# http://www.ficom.net/members/ditch/secret.htm
+#
+# [2] John Grove 
+# http://members.tripod.com/~VoynichMs/Prefix.htm
+#
+## <f1r.P1> {}
+# text - parag 1
+# Last edited on 1998-12-11 13:52:53 by stolfi
+#
+# "X" transcription by Denis Mardle 
+# "N" transcription by G. Landini (EVA alphabet page), uncapitalized.
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Weirdos:
+#  &{o'} = o with a plume.  Possibly due to faulty vellum?
+#
+<f1r.P1.1;H>       fachys.ykal.ar.ataiin.shol.shory.cth!res.y.kor.sholdy!-
+<f1r.P1.1;C>       fachys.ykal.ar.ataiin.shol.shory.cthorys.y.kor.sholdy!-
+<f1r.P1.1;F>       fya!ys.ykal.ar.ytaiin.shol.shory.*k*!res.y!kor.sholdy!-
+<f1r.P1.1;N>       fachys.ykal.ar.ataiin.shol.shory.cth!res.y,kor.sholdy!-
+<f1r.P1.1;U>       fya!ys.ykal.ar.ytaiin.shol.shory.***!r*s.y.kor.sholdo*-
+#
+<f1r.P1.2;H>       sory.ckhar.o!r.y.kair.chtaiin.shar.are.cthar.cthar.dan!-
+<f1r.P1.2;C>       sory.ckhar.o.r.y.kain.shtaiin.shar.ar*.cthar.cthar.dan!-
+<f1r.P1.2;F>       sory.ckhar.o!r!y.kair.chtaiin.shor.ar!.cthar.cthar.dana-
+<f1r.P1.2;N>       sory.ckhar.o!r,y.kair.chtaiin.shar.are.cthar.cthar,dan!-
+<f1r.P1.2;U>       sory.ckhar.o!r!y.kair.chtaiin.shor.ary.cthar.cthar.dan*-
+#
+<f1r.P1.3;H>       syaiir.sheky.or.ykaiin.shod.cthoary.cthes.daraiin.sa-
+<f1r.P1.3;C>       syaiir.sheky.or.ykaiin.shod.cthoary.cth*r.daraiin.sy-
+<f1r.P1.3;F>       syaiir.sheky.or.ykaiin.shod.cthoary.cthes.daraiin.sy-
+<f1r.P1.3;N>       syaiir.sheky.or.ykaiin.shod.cthoary.cthes.daraiin.sa-
+<f1r.P1.3;U>       syaiir.shcky.or.ykaiin.shod.cthoary.cthes.daraiin.sy-
+#
+<f1r.P1.4;H>       o{&o'}oiin.oteey.oteos.roloty.cth*ar.daiin.otaiin.or.okan-
+<f1r.P1.4;C>       o!!!dsoiin.oteey.oteor.soloty.cth*ar.daiin.okaiin.ol.okan-
+<f1r.P1.4;D>       *!!!!!oiin.oteey.oteor.soloty.cth*ar.daiin.okaiin.ol.okan-
+<f1r.P1.4;F>       *!!!!!oiin.oteey.otear.roloty.cthaar.daiin.okaiin.or.okan-
+<f1r.P1.4;N>       o{&o'}oiin.oteey.oteos,roloty.cth*ar,daiin.otaiin.or.okan-
+<f1r.P1.4;U>       o{&o'}oiin.oteey.otear.roloty.cthaar.daiin.okaiin.or.okan-
+#
+<f1r.P1.5;H>       dair.y.chear.cthaiin.cphar.cfhaiin=
+<f1r.P1.5;C>       sair.y.chear.cthaiin.cphar.cfhaiin=
+<f1r.P1.5;F>       sair!y.chear.cthaiin.cphar.cfhaiin=
+<f1r.P1.5;N>       sair,y.chear.cthaiin.cphar.cfhaiin= 
+<f1r.P1.5;X>       sair,y.chear.cthaiin.cphar.cfhaiin= 
+<f1r.P1.5;U>       sair!y.chear.cthaiin.cphar.cfhaiin=
+#
+## <f1r.T1> {}
+# title 1
+# Last edited on 1998-12-06 12:44:31 by stolfi
+#
+# "X" transcription by Denis Mardle 
+# "N" transcription by G. Landini (EVA alphabet page), uncapitalized.
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f1r.T1.6;H>       ydar!aish!!!y=
+<f1r.T1.6;C>       ydar!aish!!!o=
+<f1r.T1.6;F>       ydar!aish!!!y=
+<f1r.T1.6;N>       ydar!aish!!!y=
+<f1r.T1.6;X>       ydar.aish{?}y=
+<f1r.T1.6;U>       ydar!aish!!!y=
+#
+## <f1r.P2> {}
+# text - parag 2
+# Last edited on 1998-12-11 12:23:26 by stolfi
+#
+# "X" transcription by Denis Mardle 
+# "N" transcription by G. Landini (EVA alphabet page), uncapitalized.
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Weirdos:
+#
+#  &252 = like a V with underbar; or a K on its side; or the chinese
+#   character for "great", upside down, with stroke 2 not protruding.
+#   brushed very thick (in red?), with flaring strokes and "swallowtail" serifs. 
+#
+#  &c' = EVA "c" with a plume, like a "sh" without the final "e".
+# 
+<f1r.P2.7;H>       *{&252}.odar.o.!!!!y.shol.cphoy.oydar.sh!.s.cfhoaiin.shodary-
+<f1r.P2.7;C>       *!!!!!!.odar.*!!!!!y.shol.cphoy.oydar.sh*.s.cfhoaiin.shodasy-
+<f1r.P2.7;F>       !!!!!!!!odar.s!!!!hy.shol.cphoy.oydar.sh!.s.cfhoaiin.shodary-
+<f1r.P2.7;N>       *{&252}.odar.s{&c'}y.shol.cphoy.oydar.sh!.s.cfhoaiin.shodary- 
+<f1r.P2.7;U>       *{&252}.odar.s{&c'}y.shol.cphoy.oydar.sh!.s.cfhoaiin.shodary-
+#
+<f1r.P2.8;H>       yshey.shody.okcho!y.otchol.chocthy.os!chy.dain.chor.kos-
+<f1r.P2.8;C>       *sh!y.chody.okcho!y.otchol.chocthy.os.chy.dain.shor.kos-
+<f1r.P2.8;F>       yshey.shody.okcho.y.otchol.chocthy.os!chy.dain.chor.kos-
+<f1r.P2.8;N>       yshey.shody.okcho!y.otchol.chocthy.os,chy.dain.chor.kos- 
+<f1r.P2.8;U>       yshey.chody.okcho!y.otchol.chocthy.os!chy.dain.chor.kos-
+#
+<f1r.P2.9;H>       daiin.shos.cfhol.shody=
+<f1r.P2.9;C>       daiin.shos.cfhol.shody=
+<f1r.P2.9;F>       daiin.shor.cfhol.shody=
+<f1r.P2.9;N>       daiin.shos.cfhol.shody=
+<f1r.P2.9;X>       daiin.sh**.cfhol.shody=
+<f1r.P2.9;U>       daiin.shos.cfhol.shody=
+#
+## <f1r.T2> {}
+# title 2
+# Last edited on 1998-12-06 12:45:51 by stolfi
+#
+# "X" transcription by Denis Mardle 
+# "N" transcription by G. Landini (EVA alphabet page), uncapitalized.
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f1r.T2.10;H>      dain.os.teody=
+<f1r.T2.10;C>      dain.*o!teody=
+<f1r.T2.10;F>      dain.*s.teody=
+<f1r.T2.10;N>      dain.os.teody=
+<f1r.T2.10;X>      dain.!s.teody=
+<f1r.T2.10;U>      dain.*s.teody=
+#
+## <f1r.P3> {}
+# text - parag 3
+# Last edited on 1998-12-11 12:25:36 by stolfi
+#
+# "X" transcription by Denis Mardle 
+# "N" transcription by G. Landini (EVA alphabet page), de-capitalized.
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Weirdo &253 = an upside down "pi", somewhat like weirdo w1 (see paragraph P2),
+#   with a squiggle extending up from between the two horns. 
+#   Thick, red (?), with flaring strokes, swallowtail serifs.
+#
+<f1r.P3.11;H>      *{&253}.ydain.cphesaiin.ol.s.cphey.ytain.shoshy.cphodal!es-
+<f1r.P3.11;C>      *!!!!!!.ydain.cphesaiin.ol.s.cphey.ytain.shoshy.cphodal.es-
+<f1r.P3.11;F>      !!!!!!!!ydain.cphesaiin.ol!s.cphey.ytain.shoshy.cphodal!es-
+<f1r.P3.11;N>      *{&253}.ydain.cphesaiin.ol,s.cphey.ytain.shoshy.cphodal,es-
+<f1r.P3.11;U>      *{&253}.ydain.cphesaiin.ol!s.cphey.ytain.shoshy.cphodal!es-
+#
+<f1r.P3.12;H>      oksho.kshoy.otairin.oteol.okan.shodain.sckhey.daiin-
+<f1r.P3.12;C>      oksho.kshoy.otaiiin.oteol.okan.shodain.sckh!y.daiin-
+<f1r.P3.12;F>      oksho.kshoy.otairin.oteol.okan.shodain.sckhey.daiin-
+<f1r.P3.12;N>      oksho.kshoy.otairin.oteol.okan.shodain.sckhey.daiin- 
+<f1r.P3.12;U>      oksho.kshoy.otairin.oteol.okan.shodain.sckhey.daiin-
+#
+<f1r.P3.13;H>      shoy.ckhey.kodaiin.cphy.cphodaiils.cthey.she.oldain.d!-
+<f1r.P3.13;C>      shoy.ckhey.kodaiin.cphy.cphodaiils.cthey.sho.oldain.d!-
+<f1r.P3.13;F>      shoy.ckhey.kodaiin.cphy.cph*daiils.cthey.she.oldain.d!-
+<f1r.P3.13;N>      shoy.ckhey.kodaiin.cphy.cphodaiils.cthey.she.oldain,d!- 
+<f1r.P3.13;U>      shoy.ckhey.kodaiin.cphy.cphoda**ls.cthey.shy.oldain.d*-
+#
+<f1r.P3.14;H>      dain.oiin.chol.odaiin.chodain.chdy.okain.dan.cthy.kod!-
+<f1r.P3.14;C>      dain.oiin.chol.odaiin.chodain.chdy.okain.d*n.cthy.kod!-
+<f1r.P3.14;F>      dain.oiin.chol.odaiin.chodain.chdy.okoin.d*r.cthy.kod!-
+<f1r.P3.14;N>      dain.oiin.chol.odaiin.chodain.chdy.okain.dan.cthy.kod!-
+<f1r.P3.14;U>      dain.oiin.chol.odaiin.chodain.chdy.okain.d*n.cthy.kod*-
+#
+<f1r.P3.15;H>      daiin.shckhey.ck{&K}eor.chor.shey.kol.chol.chol.kor.chal-
+<f1r.P3.15;C>      daiin.shckhey.ck!!!!hor.chor.shey.kol.chol.chol.kor.chol-
+<f1r.P3.15;F>      daiin.shckhey.ck!!!!hor.chor.shey.kol.chol.chol.kor.chol-
+<f1r.P3.15;N>      daiin.shckhey.ck!!!!eor.chor.shey.kol.chol.chol.kor.chal-
+<f1r.P3.15;U>      daiin.shckhey.ck!!!!hor.chor.shey.kol.chol.chol.kor.chol-
+#
+<f1r.P3.16;H>      sho.chol.sh!odan.kshy.kchy.dor.chodaiin.sho.kchom-
+<f1r.P3.16;C>      sho.chol.sh.odan.kshy.kchy.dor.chodaiin.sho.keeam-
+<f1r.P3.16;F>      sho.chol.sh!odan.kshy.kchy.dor.chodaiin.sho.koeam-
+<f1r.P3.16;N>      sho.chol.sh!odan.kshy.kchy.dor.chodaiin.sho.kchom-
+<f1r.P3.16;U>      sho.chol.sh!odan.kshy.kchy.dor.chodaiin.sho.keeam-
+#
+<f1r.P3.17;H>      ycho.tchey.chokain.sheo.pshol.dydyd.cthy.daicthy-
+<f1r.P3.17;C>      ycho.tchey.chekain.sheo!pshol.dodyd.cthy.da!cthy-
+<f1r.P3.17;F>      ycho.tchey.chekain.sheo.pshol.dydyd.cthy.daicthy-
+<f1r.P3.17;N>      ycho.tchey.chokain.sheo,pshol.dydyd.cthy.daicthy-
+<f1r.P3.17;U>      ycho.tchey.chetain.sheo.pshol.dydyd.cthy.daicthy-
+#
+<f1r.P3.18;H>      yto.shol.she.kodshey.cphealy.das!ain.dain.ckhyds-
+<f1r.P3.18;C>      yto.shol.she.kodshey.cphealy.dar!ain.dain.ckhy!!-
+<f1r.P3.18;F>      yto.shol.she.kodshey.cphealy.dar!ain.dain.ckhyds-
+<f1r.P3.18;N>      yto.shol.she.kodshey.cphealy.das,ain.dain.ckhyds-
+<f1r.P3.18;U>      yto.shol.shy.kodshey.cphealy.dar!ain.dain.ckhyd*-
+#
+<f1r.P3.19;H>      dchar.shcthaiin.okaiir.chey.rchy.!potol.cthols.dloct{&T}a-
+<f1r.P3.19;C>      dchar.shcthaiin.okaiir.chey.*chy.!potol.cthols.dadet!!!!o-
+<f1r.P3.19;F>      dchar.shcthaiin.okaiir.chey.schy.cphtol.cthols.daoet!!!!a-
+<f1r.P3.19;N>      dchar.shcthaiin.okaiir.chey.*chy,!!!tol.cthols.dloct!!!!a-
+<f1r.P3.19;U>      dchar.shcthaiin.okaiir.chey.*chy.*p*tol.cthols.d*oct!!!!*-
+#
+<f1r.P3.20;H>      shok.chor.chey.dain.ckhey=
+<f1r.P3.20;C>      shok.chor.chey.dain.ckhoy=
+<f1r.P3.20;F>      shok.chor.chey.dain.ckhey=
+<f1r.P3.20;N>      shok.chor.chey.dain.ckhey=
+<f1r.P3.20;X>      shok.chor.chey.dain.ckhoy=
+<f1r.P3.20;U>      shok.chor.chey.dain.ckhey=
+#
+## <f1r.T3> {}
+# title 3
+# Last edited on 1998-12-06 12:47:59 by stolfi
+#
+# "X" transcription by Denis Mardle 
+# "N" transcription by G. Landini (EVA alphabet page), uncapitalized.
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f1r.T3.21;H>      otol.daiiin=
+<f1r.T3.21;C>      otol.daiiin=
+<f1r.T3.21;F>      otol.daiiin=
+<f1r.T3.21;N>      otol.daiiin=
+<f1r.T3.21;X>      otol.daiiin=
+<f1r.T3.21;U>      otol.daiiin=
+#
+## <f1r.P4> {}
+# text - parag 4
+# Last edited on 1998-12-12 13:50:58 by stolfi
+#
+# "X" transcription by Denis Mardle 
+# "N" transcription by G. Landini (EVA alphabet page), uncapitalized.
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f1r.P4.22;H>      cpho.shaiin.shokcheey.chol.tshodeesy.shey.pydeey.chy.ro.d*-
+<f1r.P4.22;C>      cpho.shaiin.shokcheey.chol.tshodeesy.shey.pydeey.chy.ro.d*-
+<f1r.P4.22;F>      cpho.shaiin.shokcheey.chol.tshodeesy.shey.pydeey.chy.ro!d!-
+<f1r.P4.22;N>      cpho.shaiin.shokcheey.chol.tshodeesy.shey.pydeey.chy.ro,d*-
+<f1r.P4.22;U>      cpho.shaiin.shokcheey.chol.tshodeesy.shey.pydeey.cha!ro!d*-
+#
+<f1r.P4.23;H>      *doin.chol.dain.cthal.dar.shear.kaiin.dar.shey.cth!ar!!!-
+<f1r.P4.23;C>      *doin.chol.dain.cthal.dar.shear.kaiin.dar.shey.cth!ar!!!-
+<f1r.P4.23;F>      **oin.chol.dain.cthal.dar.shear.kaiin.dar.shey.cthear!!!-
+<f1r.P4.23;N>      *doin.chol.dain.cthal.dar.shear.kaiin.dar.shey.cth!ar!!!-
+<f1r.P4.23;U>      ydoin.chol.dain.cthal.dar.shear.kaiin.dar.shey.cth!ar.**-
+#
+<f1r.P4.24;H>      !cho*!o.kaiin.shoaiin.okol.daiin.far.cthol.daiin.ctholdar-
+<f1r.P4.24;C>      !cho.*o.kaiin.shoaiin.okol.daiin.far.cthol.daiin.ctholdar-
+<f1r.P4.24;F>      echo**!.kaiin.shoaiin.okol.daiin.far.cthol.daiin.ctholdar-
+<f1r.P4.24;N>      !cho.*o,kaiin.shoaiin.okol.daiin.far.cthol.daiin.ctholdar-
+<f1r.P4.24;U>      !cho*!o.kaiin.sh*aiin.okol.daiin.far.cthol.daiin.ctholdar-
+#
+<f1r.P4.25;H>      ycheey.oka!y.oky.daiin.okchey.k!okaiin.**chol.k**chy.dal-
+<f1r.P4.25;C>      ycheey.oka!y.oky.daiin.okchey.k.okaiin.**chol.k**chy.dal-
+<f1r.P4.25;F>      ycheey.okeey.oky.daiin.okchey.k!okaiin.*!chol.kadchy.dal-
+<f1r.P4.25;N>      ycheey.oka!y.oky.daiin.okchey.k!okaiin.**chol.k**chy.dal-
+<f1r.P4.25;U>      ocheey.ok*!*.oky.daiin.okchey.k!okaiin.*!chol.ka*ch*.dal-
+#
+<f1r.P4.26;H>      d*eeo.shody.koshey.cthy.ok!chey.keey.keey.dal.chtor-
+<f1r.P4.26;C>      de!*o.shody.koshey.cthy.ok.chey.keey.!!!!!dal.chtor-
+<f1r.P4.26;F>      dcheo.shody.kochey.cthy.ok!chey.keey.keey.dal.chtor-
+<f1r.P4.26;N>      d*eeo.shody.koshey.cthy.ok,chey.keey.keey,dal.chtor-
+<f1r.P4.26;U>      dcheo.shody.kochey.cthy.ok!chey.keey.keey.dal.chtor-
+#
+<f1r.P4.27;H>      !*eo!.chol.chok.choty.chotey=
+<f1r.P4.27;C>      !!*o*.chol.chok.choty.chotey=
+<f1r.P4.27;F>      !*eo!.chol.chok.choty.chotey=
+<f1r.P4.27;N>      e*eo!.chol.chok.choty.chotey=
+<f1r.P4.27;X>      ch!o!.chol.chok.choty.chotey=
+<f1r.P4.27;U>      cheor.chol.chok.choty.chotey=
+#
+## <f1r.T4> {}
+# title 4
+# Last edited on 1998-12-08 08:01:12 by stolfi
+#
+# "X" transcription by Denis Mardle 
+# "N" transcription by G. Landini (EVA alphabet page), uncapitalized.
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f1r.T4.28;H>      dchaiin= 
+<f1r.T4.28;C>      dchaiin=
+<f1r.T4.28;F>      dchaiin=
+<f1r.T4.28;N>      dchaiin=
+<f1r.T4.28;X>      dchaiin=
+<f1r.T4.28;U>      dchaiin=
+#
+## <f1r.L> {}
+# Column of Voynichese letters in right margin
+# Last edited on 1998-10-09 18:21:15 by stolfi
+#
+# "J" transcription posted by Jim Reeds [15 Jul 94] to the 
+# mailing list, entered here by J. Stolfi.
+#
+# Probably extraneous writing by would-be decipherer.
+#
+<f1r.L.1;J>        {A}d{ }=
+#
+<f1r.L.2;J>        {B}*{a}=
+#
+<f1r.L.3;J>        {C}r{b}=
+#
+<f1r.L.4;J>        {D}*{c}=
+#
+<f1r.L.5;J>        {E}*{d}=
+#
+<f1r.L.6;J>        {F}*{e}=
+#
+<f1r.L.7;J>        {G}*{f}=
+#
+<f1r.L.8;J>        {H}*{g}=
+#
+<f1r.L.9;J>        {I}*{h}=
+# not sure if "J" was present:
+# <f1r.L.10;J>       {J}*{i}=
+#
+<f1r.L.11;J>       {K}*{j}=
+#
+<f1r.L.12;J>       {L}*{k}=
+#
+<f1r.L.13;J>       {M}*{l}=
+#
+<f1r.L.14;J>       {N}*{m}=
+#
+<f1r.L.15;J>       {O}*{n}=
+#
+<f1r.L.16;J>       {P}*{o}=
+#
+<f1r.L.17;J>       {Q}*{p}={try a galows here}
+#
+<f1r.L.18;J>       {R}*{q}={try a galows here}
+#
+<f1r.L.19;J>       {S}*{r}={try a galows here}
+#
+<f1r.L.20;J>       {T}*{s}=
+#
+<f1r.L.21;J>       {U}*{t}=
+#
+<f1r.L.22;J>       {V}*{u}=
+#
+<f1r.L.23;J>       {W}*{v}=
+#
+<f1r.L.24;J>       {X}*{w}=
+#
+<f1r.L.25;J>       {Y}g{x}=
+#
+<f1r.L.26;J>       {Z}*{y}=
+#
+<f1v>          {$I=H $Q=A $P=B $L=A $H=1}
+# Last edited on 1998-10-10 03:11:09 by stolfi
+#
+# Identification:
+#
+#   Title: "Petersen's belladonna"
+#   Page: f1v = AB (Rene) = p002 (Stolfi)
+#   Folio: f1
+#   Panels: f1v
+#   Bifolio: bA1 = f1+f8
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Petersen's plant 1
+#   Colors: green,tan (Reeds)
+#   Plant: 1 (Petersen)
+#
+# Description:
+#
+#   One plant centered on page. 
+#
+#     Root: a knobby, warped, pancanke-like tuber with 
+#       short roots attached like claws or fangs 
+#       all around the rim. Light color.
+#     Stem: thick, well drawn. Light color.
+#     Branches: one straight up, two oblique with drooping tips.
+#     Leaves: broad lance-shape, with two short tails.
+#       Stalk: short.
+#     Flowers: one, growing at the tip of the center branch.  
+#       Stalk: very short.  Chalyx:
+#       conical, continuous with petals.  Petals: short rounded,
+#       light-colored.  Core: hemispherical, dark-colored
+#       (could be a berry; see below).
+#
+#   Two paragraphs (with 3.8 and 5.8 lines), just below mid-page, 
+#   left- and right-justified, interrupted by the plant's main stem.
+#
+# Comments:
+#
+#   Part of this drawing (root and leaves only) is repeated on
+#   Pharma page f102r1[3,2].
+#
+#   The plant looks basically normal, except for the very peculiar
+#   root.
+#
+#   Petersen identifies the plant as "Solanum Solatrium, Belladonna"
+#   specifically the "flower".  He says: "see L.Fuchs p.398".  There is
+#   no "Solanum solatrium"; rather, "solatrium" is an ancient
+#   (Dioscoridean) name for some or all of these species:
+#
+#     Atropa Belladona  (deadly nightshade)
+#     http://www.mobot.org/MOBOT/research/library/kohler/1763_010.jpg
+#     http://130.60.70.1/GIFTDB/pict_02.htm
+#
+#     Hyoscyamus niger (henbane)
+#     http://www.mobot.org/MOBOT/research/library/kohler/1763_011.jpg
+#     http://www.lysator.liu.se/runeberg/nordflor/110.html
+#
+#     Solanum nigrum (black nightshade)
+#     http://axp.ipm.ucdavis.edu/PMG/WEEDS/black_nightshade.html
+#
+#     Solanum dulcamara (bittersweet)
+#     http://cal.vet.upenn.edu/poison/ppstsleurop.htm
+#     http://www.lysator.liu.se/runeberg/nordflor/109.html
+#
+#   and perhaps other somewhat less likely species such as Withania
+#   somnifera and Physalis alkekengi. 
+#
+#   The leaves of f1v seem most compatible those of Atropa belladonna
+#   (shape) and Hyoscyamus niger (attachment to stem), and the "flower"
+#   at the top of f1v does resemble the sheathed, shiny black fruits of
+#   these two species.
+#
+#   However, A.beladonna's root has been described as a roundish rhizome
+#   with a long (up to 1m) tapering root, which does not seem to match
+#   the highly distinctive "pancake with claws" of f1v.  I have found no
+#   image or description of the other plants' roots.
+#
+#   A very similar root, with quite different leaves, can be seen on
+#   another Italian herbal: 
+#   University of Vermont Library MS 2, fol. 39 (ca. 1500)
+#   http://www.library.ucla.edu/libraries/biomed/his/immi/vm9437.htm
+#   The medieval text calls that plant "Gran[i]a maggiore".  
+#   The modern commentary tentatively identifies it with
+#   Ecballium elaterium (Squirting Cucumber), 
+#   http://www.csdl.tamu.edu/FLORA/mi10/mi10043.jpg 
+#   However the leaves do not match, and the flower barely so.
+#   I have found no image or description of E.elaterium's roots.
+#
+#   All four plants are poisonous in varying degrees. The active
+#   principles can be absorbed by smoking or through the skin as well as
+#   by ingestion.  They were used as potent psychoactive drugs, causing
+#   paralysis of involuntary muscles, dizziness, sleep, hallucinations,
+#   violent behavior, etc., and have been often associated with
+#   witchcraft.
+#
+## <f1v.P> {}
+# text
+# Last edited on 1998-12-11 12:26:13 by stolfi
+#
+<f1v.P.1;H>        kchsy.chadaiin.ol-{plant}oltchey.char.cfhar.am-
+<f1v.P.1;C>        kchsy.chadaiin.ol-{plant}oltchey.char.cfhar.aj-
+<f1v.P.1;F>        kchry.chodaiin.ol-{plant}oltchey.char.cfhar.am-
+#
+<f1v.P.2;H>        yteeay.char.or.ochy-{plant}dcho.lkody.okodar.chody-
+<f1v.P.2;C>        yteeay.char.or!ochy-{plant}dcho.lkody.okodar.chody-
+<f1v.P.2;F>        yteeay.char.or.ochy-{plant}dcho.lkody.okodar.chody-
+#
+<f1v.P.3;H>        d!o.ckhy.ckho.ckhy.shy-{plant}dksheey.cthy.kotchody.dal-
+<f1v.P.3;C>        dao.ckhy.ckho.ckhy.shy-{plant}dksheey.cthy.kotchody.dal-
+<f1v.P.3;F>        dao.ckhy.ckho.ckhy.shy-{plant}dksheey.cthy.kotchody.dal-
+#
+<f1v.P.4;H>        dol.chokeo.dair.dam-{plant}sochey.chokody=
+<f1v.P.4;C>        dol.chokeo.dair.dam-{plant}sochey.chokody=
+<f1v.P.4;F>        dol.chokeo.dair.dam-{plant}sochey.chokody=
+#
+<f1v.P.5;H>        potoy.shol.dair.cphoal-{plant}dar.chey.tody.otoaiin.shoshy-
+<f1v.P.5;C>        potoy.shol.dair.cphoal-{plant}dar.chey.tody.otoaiin.shoshy-
+<f1v.P.5;F>        potoy.shol.dair.cphoal-{plant}dar.chey.tody.otoaiin.shoshy-
+#
+<f1v.P.6;H>        choky.chol.cthol.shol.okal-{plant}dolchey.chodo.lol.chy.cthy-
+<f1v.P.6;C>        choky.chol.cthol!shol.okal-{plant}dolchey.chodo.lol.chy.cthy-
+<f1v.P.6;F>        choky.chol.cthol.shol.okal-{plant}dolchey.chodo.lol.chy.cthy-
+#
+<f1v.P.7;H>        qo.ol.choeee.cheol.dol.cthey-
+{plant}ykol.dol.dolo.ykol.do.l!ch!!ody-
+<f1v.P.7;C>        qo.ol!choies.cheol.dol.cthey-
+{plant}ykol.dol.dolo.ykol.do!l!chieody-
+<f1v.P.7;D>        qo.ol!choees.cheol.dol.cthey-
+{plant}ykol.dol.dolo.ykol.do!l!ch!*ody-
+<f1v.P.7;F>        qo.ol.choies.cheol.dol.cthey-
+{plant}ykol.dol.dolo.ykol.do!l.ch!!ody-
+#
+<f1v.P.8;H>        okol.shol.kol.kechy.chol.ky-
+{plant}chol.cthol.chody.chol.daiin-
+<f1v.P.8;C>        okol!shol.kol!kechy.chol!ky-
+{plant}chol.cthol.chody.chol.daiin-
+<f1v.P.8;D>        akol!shol.kol!kecha.chol!ky-
+{plant}chol.cthol.chody.chol.daiin-
+<f1v.P.8;F>        okol.shol.kol.kechy.chol.ky-
+{plant}chol.cthol.chody.chol.daiin-
+#
+<f1v.P.9;H>        shor.okol.chol.dol.ky.dar-{plant}shol.dchor.otcho.dar.shody-
+<f1v.P.9;C>        shor.okol.chol.dol.ky.dar-{plant}shol.dchor.otcho.dar.shody-
+<f1v.P.9;F>        shor.okol.chol.dol.ky.dar-{plant}shol.dchor.otcho.dar.shody-
+#
+<f1v.P.10;H>       taor.chotchey.dal.chody-{plant}schody.pol.chodar=
+<f1v.P.10;C>       taor.chotchey.dal.chody-{plant}schody.pol.chodar=
+<f1v.P.10;F>       taor.chotchey.dal.chody-{plant}schody.pol.chodar=
+#
+<f2r>          {$I=H $Q=A $P=C $L=A $H=1}
+# Last edited on 1998-10-09 00:46:36 by stolfi
+#
+# Identification:
+#
+#   Title: "Petersen's cornflower"
+#   Page: f2r = AC (Rene) = p003 (Stolfi)
+#   Folio: f2
+#   Panels: f2r
+#   Bifolio: bA2 = f2+f7
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Plant: 2 (Petersen)
+#   Colors: green,red (Reeds)
+#   Plant: 2 (Petersen)
+#
+# Description:
+#
+#   One plant centered on page.
+#
+#     Root: left-right symmetrical, planar, looking sort of like 
+#       headless stick man with outstretched arms and gripping hands.
+#       Overpainted with dark color.
+#     Stem: short and thin.
+#     Branches: two main ones, almost upright, slightly bent.
+#       Irregular thickness, awkward shape (cf. top right leaf).
+#       Light-clored with a dark vein grossly painted along the middle.
+#     Leaves: Dark overpaint, shaped like a triangular fan with five
+#       lanceolated fingers. Stalk: medium length, looks like a branch.
+#     Flowers: three, on tip of main branch.
+#       Stalk: longish, looks like a branch.  Chalyx: an oblong oval
+#       sweelling at end of stalk, partial dark overpaint.  Petals: many,
+#       narrow and long; the flower looks like a shaving brush.  Core:
+#       hidden by petals.
+#
+#   Two paragraphs (with 6.4 and 5.4 lines), left- and rightjustified:
+#   one at the top, slightly narrower, interrupted by three flowers;
+#   and one near the bottom, interrupted by two branches.
+#
+# Comments:
+#
+#   The root looks rather strange, the stems and leaves are 
+#   somewhat awkward, but the flowers look normal.
+#
+#   Petersen tentative identification is "cyanus segetum, cornflower
+#   (caeruleus) (cf 153)".  That must be
+#
+#     Centaurea_cyanus (cornflower,fiodaliso;bluet,kornblume)
+#     http://www.lysator.liu.se/runeberg/nordflor/7.html
+#
+#   The flower shape and branching pattern seem to match fairly well.
+#   However, those features are not very specific. [What about color?]
+#   Also, the leaves of Centaurea cyanus are long and thin, with
+#   smooth edges or a few very shallow teeth, attached directly to the
+#   stem; quite unlike those of f2r.
+#
+#   Infusions of Centaurea cyanus were once used as a febrifugue 
+#   (whole plant) and eye wash (flowers only).
+#
+## <f2r.P> {}
+# text
+# Last edited on 1998-12-12 13:51:24 by stolfi
+#
+<f2r.P.1;H>        kydainy.ypchol.daiin.otchal-{plant}ypchaiin.ckholsy-{plant}
+<f2r.P.1;C>        kydainy.ypchol.daiin.otchal-{plant}ypchaiin.ckholsy-{plant}
+<f2r.P.1;F>        kydainy.ypchol.daiin.otchal-{plant}ypchaiin.ckholsy-{plant}
+#
+<f2r.P.2;H>        dorchory-{plant}chkar.s-{plant}shor.cthy.cth!-
+<f2r.P.2;C>        dorchory-{plant}chkar.s-{plant}shor.cthy.***!-
+<f2r.P.2;F>        dorchory-{plant}chkar.s-{plant}shor.cthy.ctho-
+#
+<f2r.P.3;H>        qotaiin-{plant}cthey.y-{plant}chor.chy.ydy-{plant}chaiin-
+<f2r.P.3;C>        qotaiin-{plant}cthey.y-{plant}chor.chy.ydy-{plant}chaiin-
+<f2r.P.3;F>        qotaiin-{plant}cthey.y-{plant}chor.chy.ydy-{plant}chaiin-
+#
+<f2r.P.4;H>        chaindy-{plant}chtod.dy-{plant}cphy.dal!s-{plant}chokaiin.d-
+<f2r.P.4;C>        !*aiidy-{plant}chtod.dy-{plant}cphy.dal.s-{plant}chokaiin.d-
+<f2r.P.4;F>        shaiidy-{plant}chtod!dy-{plant}cphy.dal!s-{plant}chokaiin.d-
+#
+<f2r.P.5;H>        otochor.al-{plant}shodaiin-{plant}chol.!dan-
+{plant}ytchaiin.dan-
+<f2r.P.5;C>        otochor.al-{plant}shodaiin-{plant}chol.chan-
+{plant}ytchaiin.dan-
+<f2r.P.5;F>        otochor.al-{plant}shodaiin-{plant}chol.!dan-
+{plant}ytchaiin.dan-
+#
+<f2r.P.6;H>        saiin.daind-{plant}d!kol.sor-{plant}ytoldy-
+{plant}dchol.dchy.cthy-
+<f2r.P.6;C>        saiin.daind-{plant}d.kol.sor-{plant}ytoldy-
+{plant}dchol.dchy.cthy-
+<f2r.P.6;F>        saiin.daind-{plant}d!kol.sor-{plant}ytoldy-
+{plant}dchol.dchy.cthy-
+#
+<f2r.P.7;H>        shor.ckhy.daiiny-{plant}chol.dan={plant}
+<f2r.P.7;C>        shor.ckhy.daiiny-{plant}chol.dan={plant}
+<f2r.P.7;F>        shor.ckhy.daiiny-{plant}chol.dan={plant}
+#
+<f2r.P.8;H>        kydain.shaiin.qoy.s.shol.fodan-{plant}yksh.olsheey.daiildy-
+<f2r.P.8;C>        kydain.shaiin.qoy.s.shol.fodan-{plant}ytsh.olsheey.daiildy-
+<f2r.P.8;F>        kydain.shaiin.qoy.s.shol.fodan-{plant}yksh.olsheey.daiildy-
+#
+<f2r.P.9;H>        dlssho.kol.sheey.qokey.ykody.so-{plant}chol.yky.dain.daiirol-
+<f2r.P.9;C>        dlssho.kol.sheey.qokey.ykody.so-{plant}chol.yky.dain.daiirdl-
+<f2r.P.9;F>        dlssho.kol.sheey.qokey.ykody.so-{plant}chol.yky.dain.daiirol-
+#
+<f2r.P.10;H>       qoky.cholaiin.shol.sheky.daiin-
+{plant}cthey.keol.s!aiin.saiin-
+<f2r.P.10;C>       qoky.cholaiin.shol.sheky.daiin-
+{plant}cthey.keol.s!aiin.saiin-
+<f2r.P.10;F>       qoky.cholaiin.shol.sheky.daiin-
+{plant}cthey.keol.s.aiin.saiin-
+#
+<f2r.P.11;H>       ychain.dal.chy.dalor.shan.dan-{plant}olsaiin.sheey.ckhor-
+<f2r.P.11;C>       ychain.dal.chy.dalor.shan!!!!-{plant}**saiin.sheey.ckhor-
+<f2r.P.11;F>       ychain.dal.chy.dalor.shan.dan-{plant}olsaiin.sheey.ckhor-
+#
+<f2r.P.12;H>       okol.chy.chor.cthor.yor.an.chan-{plant}saiin.chety.chyky.sal-
+<f2r.P.12;C>       okol.chy.chor.cthor.yor.an.chan-{plant}saiin.chety.chyky.sal-
+<f2r.P.12;F>       okol.chy.chor.cthor.yor.an.chan-{plant}saiin.chety.chyky.sal-
+#
+<f2r.P.13;H>       sho.ykeey.chey.daiin.chcthy=
+<f2r.P.13;C>       sho.ykeey.chey.daiin.chcthy=
+<f2r.P.13;F>       sho.ykeey.chey.daiin.chcthy=
+#
+## <f2r.L> {}
+# label on plant
+# Last edited on 1998-12-25 06:54:39 by stolfi
+# 
+# "U" transcription by J. Stolfi from scanned image
+#
+<f2r.L.1;U>        ytoain=
+<f2v>          {$I=H $Q=A $P=D $L=A $H=1}
+# Last edited on 1998-10-09 00:49:47 by stolfi
+#
+# Identification:
+#
+#   Title: "Water lily"
+#   Page: f2v = AD (Rene) = p004 (Stolfi)
+#   Folio: f2
+#   Panels: f2v
+#   Bifolio: bA2 = f2+f7
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Plant: 3 (Petersen)
+#   Colors: green (Reeds)
+#
+# Description:
+#
+#   One plant centered on page. 
+#
+#     Root: long straight rhizome, covered with scales or round stalk scars.
+#     Stem: single, vertical, slightly bent, shooting out from middle 
+#       of rhizome; dark painted. 
+#     Branches: there is the stub of a lost branch at mid-stalk.
+#     Leaves: a single large leaf, horizontal, shaped like a very fat C,
+#       with smooth rim. Painted solid dark.
+#       Stalk: short.
+#     Flowers: one white flower, pointing almost straight up.
+#       Stalk: long, light colored, with a darker vein; part of it
+#       obscured by leaf which should be behind it.  Chalyx: well-drawn,
+#       with thick tongue-shaped sepals, light colored.  Petals:
+#       well-drawn, flaring, lily shaped, serrated edges, white
+#       underpaint.  Core: not visible.  Stamen: long, with a few short
+#       hairs.
+#
+#   Two paragraphs (with lines, respectively), left- and
+#   right-justified: one at the top, interrupted by the single flower,
+#   and one just below mid-page, interrupted by the main stem.
+#
+# Comments:
+#
+#   The plant looks quite natural and well-drawn.
+#
+#   Presumably, the flower stem was in front of the leaf in the
+#   original drawing; but the dark overpaint covered it. The original
+#   outline of the leaf may have been obscured, too.
+#
+#   The leaf shape suggests it is a water plant. With that assumption,
+#   the choices are quite few. Rene suggested
+#
+#     Nymphaea candida (a.k.a. Nymphaea alba; water lily, seerose)
+#     http://www.lysator.liu.se/runeberg/nordflor/pics/181.jpg
+#
+#
+## <f2v.P> {}
+# text
+# Last edited on 1998-12-06 13:00:34 by stolfi
+#
+<f2v.P.1;H>        kooiin.cheo.pchor.otaiin.o.dain.chor-{plant}dair.shty-
+<f2v.P.1;C>        kooiin.cheo!pchor.otaiin.o!dain.chor-{plant}dair.shty-
+<f2v.P.1;D>        kaoiin.cheo!pchor.otaiin.o!dain.chor-{plant}dair.shty-
+<f2v.P.1;F>        kooiin.cheo.pchor.otaiin.o!dain.chor-{plant}dair.shty-
+<f2v.P.1;U>        kaoiin.cheo.pchor.otaiin.o!dain.chor-{plant}dair.shty-
+#
+<f2v.P.2;H>        kcho.kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;C>        kcho!kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;D>        kcha!kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;F>        kcho.kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;U>        kch*.kchy.sho.shol.qotsho.loeees.qoty-{plant}chor.daiin-
+#
+<f2v.P.3;H>        otchy.chor.lshy.chol.chody.chodain-{plant}chcthy.daiin-
+<f2v.P.3;C>        otchy.chor.lshy.chol.chody.chodain-{plant}chcthy.daiin-
+<f2v.P.3;F>        otchy.chor.lshy.chol.chody.chodain-{plant}chcthy.daiin-
+<f2v.P.3;U>        otchy.chor.lshy.chol.chody.shodain-{plant}chcthy.daiin-
+#
+<f2v.P.4;H>        sho.cholo.cheor.chodaiin=
+<f2v.P.4;C>        sho.cholo.cheor.chodaiin=
+<f2v.P.4;F>        sho.cholo.cheor.chodaiin=
+<f2v.P.4;U>        sho.cholo.cheor.chodaiin=
+#
+<f2v.P.5;H>        kchor.shy.daiiin.chckhoy-{plant}s.shey.dor.chol.daiin-
+<f2v.P.5;C>        kchor.shy.daiiin.chckh!y-{plant}s!shey.dor.chol.daiin-
+<f2v.P.5;F>        kchor.shy.daiiin.chckhoy-{plant}s!shey.dor.chol.daiin-
+<f2v.P.5;U>        kchor.shy.daiiin.chck!om-{plant}s!shey.dor.chol.daiin-
+#
+<f2v.P.6;H>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+<f2v.P.6;C>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+<f2v.P.6;F>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+<f2v.P.6;U>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+#
+<f2v.P.7;H>        daiin.chotchey.qoteeey.chokeos-{plant}chees.chr.cheaiin-
+<f2v.P.7;C>        daiin.chotchey.qoteeey.chokeos-{plant}chees.chr.cheaiin-
+<f2v.P.7;D>        daiin.chotchey.qoteeiy.chokios-{plant}chees.chr.cheaiin-
+<f2v.P.7;F>        daiin.chotchey.qoteeey.chokeos-{plant}chees.chr.cheaiin-
+<f2v.P.7;U>        daiin.chotchey.qotchey.chokeos-{plant}chees.chr.cheaiin-
+#
+<f2v.P.8;H>        chokoishe.chor.cheol.chol.dolody={plant}
+<f2v.P.8;C>        chokoishe.chor.chiol.chol.dolody={plant}
+<f2v.P.8;F>        chokoishe.chor.cheol.chol.dolody={plant}
+<f2v.P.8;U>        chokolshe.chor.cheol.chol.dolody={plant}
+#
+<f3r>          {$I=H $Q=A $P=E $L=A $H=1}
+# Last edited on 1998-10-09 00:51:40 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f3r = AE (Rene) = p005 (Stolfi)
+#   Folio: f3
+#   Panels: f3r
+#   Bifolio: bA3 = f3+f6
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: green,red (Reeds)
+#  
+# Description:
+#
+#   One plant, flush against the right margin.
+#
+#     Roots: a bunch of unbranched tentacle-like roots radiating from 
+#       the stem's base. Light colored, partial dark overpaint.
+#     Stem: rather thick, bent. Light colored, dark overpainted stripe (shadow) 
+along
+#       its left side.
+#     Branches: none.
+#     Leaves: lance-shaped with an S bend, very dense, 
+#       growing straight off the stem on both sides, each partially covering
+#       the previous one. Stem ends with one unpaired leaf. Light colored, 
+#       with a dark-painted shadow on the bottom of each leaf, and
+#       a dotted line just inside the leaf's rim.
+#     Flowers: none.
+#
+#   Four paragraphs (with 9.5, 3.5, 2.7, and 2.8 lines): a longer one
+#   at the top, and three short ones just below mid-page. The first
+#   two are left-justified and follow the plant's outline on the
+#   right. The last two are left- and right-justified, and interrupted
+#   by the main stem.
+#
+# Comments:
+#
+#   The plant looks strange because of the dense leaves Perhaps they
+#   are actually the sheaths of leafstalks, badly drawn? Perhaps the
+#   dots along the leaf rim are short spines?
+#
+## <f3r.P> {}
+# text
+# Last edited on 1998-12-06 13:03:28 by stolfi
+#
+<f3r.P.1;H>        tsheos.qopal.chol.cthol.daimm-
+<f3r.P.1;C>        tsheos.qopal.chol.cthol.daimg-
+<f3r.P.1;F>        tsheos.qopal.chol.cthol.daimm-
+#
+<f3r.P.2;H>        ycheor.chor.dam.qotcham.cham-{plant}
+<f3r.P.2;C>        ycheor.chor.dam.qotchag.cham-{plant}
+<f3r.P.2;F>        ycheor.chor.dam.qotcham.cham-{plant}
+#
+<f3r.P.3;H>        ochor.qocheor.chol.daiin.cthy-{plant}
+<f3r.P.3;C>        ochar.qacheor.chol.daiin.cthy-{plant}
+<f3r.P.3;F>        ochor.qocheor.chol.daiin.cthy-{plant}
+#
+<f3r.P.4;H>        schey.chor.chal.cham.cham.cho-{plant}
+<f3r.P.4;C>        schey.chor.chal.cham.chaj.cho-{plant}
+<f3r.P.4;D>        schey.chor.chal.chaj.chaj.cho-{plant}
+<f3r.P.4;F>        schey.chor.chal.cham.cham.cho-{plant}
+#
+<f3r.P.5;H>        qokol.chololy.s.cham.cthol-{plant}
+<f3r.P.5;C>        qokol.chololy.s.cham.cthol-{plant}
+<f3r.P.5;F>        qokol.chololy.s.cham.cthol-{plant}
+#
+<f3r.P.6;H>        ychtaiin.chor.cthom.otal.dam-{plant}
+<f3r.P.6;C>        ychtaiin.chor.cthom.otol!dam-{plant}
+<f3r.P.6;F>        ychtaiin.chor.cthom.otal.dam-{plant}
+#
+<f3r.P.7;H>        otchol.qodaiin.chom.shom.damo-{plant}
+<f3r.P.7;C>        otchol.qodaiin.chom.shom.damo-{plant}
+<f3r.P.7;F>        otchol.qodaiin.chom.shom.damo-{plant}
+#
+<f3r.P.8;H>        ysheor.chor.chol.oky.damo-{plant}
+<f3r.P.8;C>        ysheor.chor.chol.oky.dago-{plant}
+<f3r.P.8;F>        ysheor.chor.chol.oky.damo-{plant}
+#
+<f3r.P.9;H>        sho.*or.sheoldam.otchody.ol-{plant}
+<f3r.P.9;C>        sho.aor.sheoldaj.otchody.ol-{plant}
+<f3r.P.9;F>        sho.*or.sheoldam.otchody.ol-{plant}
+#
+<f3r.P.10;H>       ydas.chol.cthom=
+<f3r.P.10;C>       ydas.chol!cthom=
+<f3r.P.10;F>       ydar.chol.cthom=
+#
+<f3r.P.11;H>       pcheol.shol.sols.sheol.shey-
+<f3r.P.11;C>       pcheol.shol.sols.sheol.shey-
+<f3r.P.11;F>       pcheol.shol.sols.sheol.shey-
+#
+<f3r.P.12;H>       okadaiin.qokchor.qoschodam.octhy-{plant}
+<f3r.P.12;C>       okadaiin.qokchor.qoschodam.octhy-{plant}
+<f3r.P.12;F>       okadaiin.qokchor.qoschodam.octhy-{plant}
+#
+<f3r.P.13;H>       qokeey.qot.shey.qokody.qokchey.cheody-{plant}
+<f3r.P.13;C>       qokeey.qot.shey.qokody.qokshey.cheody-{plant}
+<f3r.P.13;F>       qokeey.qot!shey.qokody.qokchey.cheody-{plant}
+#
+<f3r.P.14;H>       chor.qodair.okeey.qokeey=
+<f3r.P.14;C>       chor.qodair.okeey.qokeey=
+<f3r.P.14;F>       chor.qodair.okeey.qokeey=
+#
+<f3r.P.15;H>       tsheoarom.shor.or.chor.olchsy.chom.otchom-{plant}oporar-
+<f3r.P.15;C>       tsheoarom.shor.or.chor.olchsy.chom.otchom-{plant}oporar-
+<f3r.P.15;F>       tsheoarom.shor.or.chor.ofchsy.chom.otchom-{plant}oporar-
+#
+<f3r.P.16;H>       oteol.chol.s.cheol.ekshy.qokeom.qokol.daiin-{plant}soleeg-
+<f3r.P.16;C>       oteol.chol.s.cheol.ekshy.qokeom.qokol.daiin-{plant}soleeg-
+<f3r.P.16;F>       oteol.chol.s.cheol.ekshy.qokeom.qokol.daiin-{plant}soleem-
+#
+<f3r.P.17;H>       soeom.okeom.yteody.qokeeo.dal.sam=
+<f3r.P.17;C>       soeom.okeom.yteody.qokeeo!dal.sam=
+<f3r.P.17;F>       soeom.okeom.yteody.qokeeo.dal.sam=
+#
+<f3r.P.18;H>       pcheoldom.shodaiin.qopchor.qopol.opchol.qoty-{plant}otolom-
+<f3r.P.18;C>       pcheoldom.shodaiin.qopchor.qopol.opchol.qoty-{plant}otolom-
+<f3r.P.18;F>       pcheoldom.shodaiin.qopchor.qopol.opchol.qoty-{plant}otolom-
+#
+<f3r.P.19;H>       otchor.ol.cheor.qoeor.dair.qoteol.qosaiin-{plant}chor.cthy-
+<f3r.P.19;C>       otchor.ol!cheor.qoeor.dair.qoteol.qosaiin-{plant}chor.cthy-
+<f3r.P.19;F>       otchor.ol.cheor.qoeor.dair.qoteol.qosaiin-{plant}chor.cthy-
+#
+<f3r.P.20;H>       ycheor.chol.odaiin.chol.s.aiin.okol!or.am={plant}
+<f3r.P.20;C>       ycheor.chol.odaiin.chol.s.aiin.okol.or.am={plant}
+<f3r.P.20;F>       ycheor.chol.odaiin.chol.s!aiin.okol!or.am={plant}
+#
+<f3v>          {$I=H $Q=A $P=F $L=A $H=1}
+# Last edited on 1998-10-09 00:54:41 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f3v = AF (Rene) = p006 (Stolfi)
+#   Folio: f3
+#   Panels: f3v
+#   Bifolio: bA3 = f3+f6
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: b,green,red (Reeds)
+#
+# Description:
+#
+#   One plant, flush against the bottom and right margins of the page.
+#
+#     Root: single long root, consisting of six "telescoping" conical
+#       segments, dark painted, with flat light-painted top.  Tip of root
+#       is bent into a hook and ends with a small round knob.
+#     Stem: long, straight, vertical, with a dark "shadow" stripe 
+#       crudely painted along its length.
+#     Branches: none.
+#     Leaves: paired,  disk shaped with two "tails", two "arms", and a 
+#       swallowtail-shaped "head", with long outward-curved tips. 
+#       Stalks: medium length, thin.
+#     Flowers: two, very unequal size, growing out of the tip of the stem.
+#       Stalks: short, thin, like leaf stalks.  Calyx: heavy, swollen,
+#       shaped like a sweet potato cut in half, dark painted.  Petals:
+#       single row, light, semicircular, very small.  Core: flat,
+#       light-colored, filled with dots; looks like a pepper shaker.
+#
+#   Two paragraphs (with 6.0 and 7.5 lines), both in the top half of
+#   the page. The text is left-justified and follows the plant outline
+#   on the right.
+#
+# Comments:
+#
+#   The plant looks quite strange. The telescoping root is hard to
+#   explain. The leaf shape is unusual but not impossible. The bloated
+#   flower chalices are very strange; they may have been drawn from
+#   pressed and dried specimens.
+#
+## <f3v.P> {}
+# text
+# Last edited on 1998-12-06 13:05:41 by stolfi
+#
+<f3v.P.1;H>        koaiin.cphor.qotoy.sha.ckhol.ykoaiin.s.oly-{plant}
+<f3v.P.1;C>        koaiin.cphor.qotoy.sha.ckhol.ykoaiin.s.oly-{plant}
+<f3v.P.1;D>        koaiin.cphar.qotoa.sha.ckhol.ykoaiin.s.oly-{plant}
+<f3v.P.1;F>        koaiin.cphor.qotoy.sha.ckhol.ykoaiin.s.oly-{plant}
+<f3v.P.1;U>        koaiin.cphor.qotoy.sha.ckhol.ykoaiin.s.oly-{plant}
+#
+<f3v.P.2;H>        daiidy.qoteeol.okchor.okor.olytol.dol.dar-{plant}
+<f3v.P.2;C>        daiidy.qotchol.okeeor.okor.olytol.dol.dar-{plant}
+<f3v.P.2;D>        daiida.qotchol.okchor.okor.olytol.dol.dar-{plant}
+<f3v.P.2;F>        daiidy.qoteeol.okchor.okor.olytol.dol.dar-{plant}
+<f3v.P.2;U>        daiidy.qotchol.okchor.okor.olytol.dol.dar-{plant}
+#
+<f3v.P.3;H>        okom.chol.shol.seees.chom.cheeykam.okai!-{plant}
+<f3v.P.3;C>        okom.chol.shol.seees.chom.cheeykam.o!ai*-{plant}
+<f3v.P.3;F>        okom.chol.shol.seees.chom.cheeykam.okai*-{plant}
+<f3v.P.3;U>        okom.chol.shol.sches.chom.cheeykam.okai*-{plant}
+#
+<f3v.P.4;H>        qodar.ees.eey.kcheol.okal.do.r.chear.een-{plant}
+<f3v.P.4;C>        qodar.chs.eey.kcheol.okal.do.r.chear!een-{plant}
+<f3v.P.4;F>        qodar.ees.eey.kcheol.okal.do!r.chear.een-{plant}
+<f3v.P.4;U>        qodar.chs.chy.tcheol.okal.do!r.chear!eeb-{plant}
+#
+<f3v.P.5;H>        yeeear.otchal.eeor.eear.ckhy!-{plant}
+<f3v.P.5;C>        ychear.otchal.chor.char.ckha!-{plant}
+<f3v.P.5;D>        ychear.otchal.chor.char.ckhy*-{plant}
+<f3v.P.5;F>        yeeear.otchal.eeor.eear.ckhy!-{plant}
+<f3v.P.5;U>        ychear.otchal.chor.chor.ckh!!-{plant}
+#
+<f3v.P.6;H>        or.cheor.kor.chodaly.chom={plant}
+<f3v.P.6;C>        os.cheor.kar.chodaly.chom={plant}
+<f3v.P.6;F>        or.cheor.kor.chodaly.chom={plant}
+<f3v.P.6;U>        or.cheor.kor.chodaly.cham={plant}
+#
+<f3v.P.7;H>        tchor.otcham.chor.cfham.s!-{plant}
+<f3v.P.7;C>        tchor.otcham.chor.cpham.ch-{plant}
+<f3v.P.7;D>        tchor.otcham.chor.cfham.ch-{plant}
+<f3v.P.7;F>        tchor.otcham.chor.cfham.s!-{plant}
+<f3v.P.7;U>        tchor.otcham.chor.cfham.s!-{plant}
+#
+<f3v.P.8;H>        ykchy.kchom.chor.chekeol.oka-{plant}
+<f3v.P.8;C>        ykchy.kchom.chor.chckhol.oka-{plant}
+<f3v.P.8;F>        ykchy.kchom.chor.chekeol.oka-{plant}
+<f3v.P.8;U>        ykchy.kchom.chor.chckhol.oka-{plant}
+#
+<f3v.P.9;H>        ytcheear.okeol.cthodoaly.chor.cthy-{plant}
+<f3v.P.9;C>        ytcheear.okeol.cthodoaly.chor.cthy-{plant}
+<f3v.P.9;F>        ytcheear.okeol.cthodoaly.chor.cthy-{plant}
+<f3v.P.9;U>        yteeaiir.okeol.cthodoaly.chor.cthy-{plant}
+#
+<f3v.P.10;H>       ochor.daiin.qokshol.daiim.chol.okary-{plant}
+<f3v.P.10;C>       ochas.daiin.qokshol.daiim.chol.okary-{plant}
+<f3v.P.10;D>       ochar.daiin.qokshol.daiim.chol.okary-{plant}
+<f3v.P.10;F>       ochor.daiin.qokshol.daiim.chol.okary-{plant}
+<f3v.P.10;U>       ochor.daiin.qokshol.daiim.chol.okary-{plant}
+#
+<f3v.P.11;H>       sho.shockho.ckhy.tchor.chodaiin.chom-{plant}
+<f3v.P.11;C>       sho.shockho.ckhy.tchor.chodaiin.chom-{plant}
+<f3v.P.11;F>       sho.shockho.ckhy.tchor.chodaiin.chom-{plant}
+<f3v.P.11;U>       sho.shockho.ckhy.tchor.chodaiin.chom-{plant}
+#
+<f3v.P.12;H>       osh.chodair.ytchy.tchor.kcham.s-{plant}
+<f3v.P.12;C>       osh.chodair.ytchy.tchor.kcham.s-{plant}
+<f3v.P.12;F>       osh.chodair.ytchy.tchor.kcham.s-{plant}
+<f3v.P.12;U>       osh.chodair.ytchy.tchor.kcham.s-{plant}
+#
+<f3v.P.13;H>       shar.shkaiin.qokchy.yty.cthal.chky-{plant}
+<f3v.P.13;C>       shar.shkaiin.qokchy.yty.cthal.chky-{plant}
+<f3v.P.13;F>       shar.shkaiin.qokchy.yty.cthal.chky-{plant}
+<f3v.P.13;U>       shar.shkaiin.qokcha.yty.cthal.chky-{plant}
+#
+<f3v.P.14;H>       dain.sheam.yteam=
+<f3v.P.14;C>       dain.sheam.ykeam=
+<f3v.P.14;F>       dain.sheam.yteam=
+<f3v.P.14;U>       dain.sheam.yteam=
+#
+#
+<f4r>          {$I=H $Q=A $P=G $L=A $H=1}
+# Last edited on 1998-10-09 00:56:39 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f4r = AG (Rene) = p007 (Stolfi)
+#   Folio: f4
+#   Panels: f4r
+#   Bifolio: bA4 = f4+f5
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: green,red (Reeds)
+#   Plant: 6 (Petersen)
+#
+# Description:
+#
+#   One plant, mostly in the right half of the page.
+#
+#   Two paragraphs (with 3.8 and 8.6 lines), both above mid-page. The
+#   first is left- and right-justified, and interrupted once by the
+#   flowers; the second is left-justified and follows the plant's
+#   outline on the right.
+#
+# Comments:
+#
+#   Plant appearance: very normal, exceptionally well-drawn. The layout
+#   of leaves and flowers is very naturalistic.  The "dark painter"
+#   apparently spared it.
+#
+## <f4r.P> {}
+# text
+# Last edited on 1998-12-06 13:09:39 by stolfi
+#
+<f4r.P.1;H>        kodalchy.chpady.sheol.ol.sheey.qotey-{plant}doiin.chor.ytoy-
+<f4r.P.1;C>        kodalchy.chpady.sheol.ol.sheey.qotey-{plant}doiin.chor.ytoy-
+<f4r.P.1;F>        kodalchy.chpady.sheol.ol.sheey.qotey-{plant}doiin.chor.ytoy-
+#
+<f4r.P.2;H>        dchor.chol.shol.cthol.shtchy.chaiin-{plant}!s-
+{plant}choraiin.chom-
+<f4r.P.2;C>        dchor.shol.shol.cthol.shtchy.chaiin-{plant}*s-
+{plant}choraiin.chom-
+<f4r.P.2;F>        dchor.chol.shol.cthol.shtchy.chaiin-{plant}!s-
+{plant}choraiin.chom-
+#
+<f4r.P.3;H>        otchol.chol.chy.chaiin.qotaiin-{plant}daiin.shain-
+<f4r.P.3;C>        otchol.chol.chy.chaiin.qotaiin-{plant}daiin.shain-
+<f4r.P.3;F>        otchol.chol.chy.chaiin.qotaiin-{plant}daiin.shain-
+#
+<f4r.P.4;H>        qotchol.chy.yty.daiin.!okaiin.cthy={plant}
+<f4r.P.4;C>        qotchol.chy.yty.daiin.qokaiin.cthy={plant}
+<f4r.P.4;D>        qotchol.cha.yty.daiin.*okaiin.cthy={plant}
+<f4r.P.4;F>        qotchol.chy.yty.daiin.!okaiin.cthy={plant}
+#
+<f4r.P.5;H>        pydaiin.qotchy.dy.tydy-{plant}
+<f4r.P.5;C>        pydaiin.qotchy.!*!tydy-{plant}
+<f4r.P.5;D>        pydaiin.qotchy.!*!tady-{plant}
+<f4r.P.5;F>        pydaiin.qotchy.dy.tydy-{plant}
+#
+<f4r.P.6;H>        chor.shy!tchy.dy.tcheay-{plant}
+<f4r.P.6;C>        chor.shy!tchy.dy!*cheey-{plant}
+<f4r.P.6;D>        chor.shy!tchy.dy!tch!ay-{plant}
+<f4r.P.6;F>        chor.shy.tchy.dy.tcheey-{plant}
+#
+<f4r.P.7;H>        qotaiin.cthol.daiin.cthom-{plant}
+<f4r.P.7;C>        qotoiin.cthol.daiin.cthom-{plant}
+<f4r.P.7;D>        qotaiin.cthol.daiin.cthom-{plant}
+<f4r.P.7;F>        qotaiin.cthol.daiin.cthom-{plant}
+#
+<f4r.P.8;H>        shor.shol.shol.cthy.cpholdy-{plant}
+<f4r.P.8;C>        shor.shol.shol.cthy.cpholdy-{plant}
+<f4r.P.8;F>        chor.chol.shol.cthy.cpholdy-{plant}
+#
+<f4r.P.9;H>        daiin.ckhochy.tchy.koraiin-{plant}
+<f4r.P.9;C>        daiin.ckhochy.tchy.koraiin-{plant}
+<f4r.P.9;F>        daiin.ckhochy.tchy.koraiin-{plant}
+#
+<f4r.P.10;H>       odal.shor.shyshol.cphaiin-{plant}
+<f4r.P.10;C>       odal.shor.shyshol.cphaiin-{plant}
+<f4r.P.10;F>       odal.shor.shyshol.cphaiin-{plant}
+#
+<f4r.P.11;H>       qotchoiin.sheyr.qoty-{plant}
+<f4r.P.11;C>       qotchoiin.shear.qoty-{plant}
+<f4r.P.11;D>       qotchoiin.sheor.qoty-{plant}
+<f4r.P.11;F>       qotchoiin.shear.qoty-{plant}
+#
+<f4r.P.12;H>       soiin.chaiin.chaiin-{plant}
+<f4r.P.12;C>       soiin.chaiin.chaiin-{plant}
+<f4r.P.12;F>       soiin.chaiin.chaiin-{plant}
+#
+<f4r.P.13;H>       daiin.cthey={plant}
+<f4r.P.13;C>       daiin.cthey={plant}
+<f4r.P.13;F>       daiin.cthey={plant}
+#
+<f4v>          {$I=H $Q=A $P=H $L=A $H=1}
+# Last edited on 1998-10-10 03:18:05 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f4v = AH (Rene) = p008 (Stolfi)
+#   Folio: f4
+#   Panels: f4v
+#   Bifolio: bA4 = f4+f5
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: brown,green,blue (Reeds)
+#
+# Description:
+#
+#   One plant, mostly in the right half of the page.
+#
+#   Two paragraphs, both above mid-page. The first is left- and
+#   right-justified; the second is left-justified, and follows the
+#   plant's profile on the right.
+#
+# Comments:
+#
+#   Plant appearance: very, very odd, badly drawn. It seems to have
+#   two types of leaves. The lower ones are too small, badly spaced
+#   and badly proportioned, and in unnatural positions. The upper ones
+#   look like pompons. The root has a strange, ungainly shape (but
+#   that may be the work of the Dark Painter). The stems have uneven
+#   and unnatural thickness.
+#
+#   This drawing is almost certainly an expanded version of plant
+#   f101r1[1,5]. Stolfi suggested that the person who drew this page
+#   thought that the star-shaped things in f101r1[1,5] were flowers,
+#   so he supplied fantasy leaves; and he only noticed the mistake
+#   halfway through the plant.
+#
+## <f4v.P> {}
+# text
+# Last edited on 1998-12-11 13:53:15 by stolfi
+#
+<f4v.P.1;H>        pchooiin.ksheo.kchoy.chopchy.dolds-{plant}dlod-
+<f4v.P.1;C>        pchooiin.ksheo.kchoy.chopchy.dolds-{plant}dlod-
+<f4v.P.1;F>        pchooiin.kshea.kchoy.chapchy.dolds-{plant}dlod-
+<f4v.P.1;U>        pchaoiin.kshea.kchoy.chapchy.dolds-{plant}dlod-
+#
+<f4v.P.2;H>        ol.chey.chy.cthy.shkchor.sheo.cheory-{plant}choldy-
+<f4v.P.2;C>        ol.chey.chy.cthy.chkchor.sheo.cheory-{plant}choldy-
+<f4v.P.2;F>        ol!chey.chy.cthy.shkchor.sheo.cheory-{plant}choldy-
+<f4v.P.2;U>        ol!chey.chy.cthy.shkchor.sheo.cheory-{plant}choldy-
+#
+<f4v.P.3;H>        sho.sho.chaiin.shaiin.daiin.qodaiin-{plant}o.ar.am-
+<f4v.P.3;C>        cho.sho.chaiin.shaiin.daiin.qodaiin-{plant}o.ar.am-
+<f4v.P.3;F>        sho.sho.chaiin.shaiin.daiin.qodaiin-{plant}o!ar!am-
+<f4v.P.3;U>        cho.sho.chaiin.shaiin.daiin.qodaiin-{plant}o!ar!am-
+#
+<f4v.P.4;H>        qokshy.qocthy.choteol.daiin.cthey-{plant}choaiin-
+<f4v.P.4;C>        qokchy.qocthy.choteol.daiin.cthey-{plant}choaiin-
+<f4v.P.4;F>        qokshy.qocthy.choteol.daiin.cthey-{plant}choaiin-
+<f4v.P.4;U>        qokchy.qocthy.choteol.daiin.cthey-{plant}choaiin-
+#
+<f4v.P.5;H>        shor.sheey.ct{&T}o.otoiin.shey.qotchoiin-{plant}chodain-
+<f4v.P.5;C>        shor.sheey.**!!!!!.otoiin.shey.qotchoiin-{plant}chodain-
+<f4v.P.5;F>        shor.sheey.cth!!!*.otoiin.shey.qotchoiin-{plant}chodain-
+<f4v.P.5;U>        shor.sheey.ct!!!!o.otaiin.chey.qotchoiin-{plant}chodain-
+#
+<f4v.P.6;H>        ytchoy.shokchy.cph!ody={plant}
+<f4v.P.6;C>        ytchoy.shokchy.cph!ody={plant}
+<f4v.P.6;F>        ytchoy.shokchy.cph.ody={plant}
+<f4v.P.6;U>        ytchoy.shokchy.cph!ody={plant}
+#
+<f4v.P.7;H>        torchy.sheeor.chor.shokchy.cphy!dy-{plant}
+<f4v.P.7;C>        torchy.sheeor.chor.chokchy.!p!y!dy-{plant}
+<f4v.P.7;F>        torchy.sheeor.chor.chokchy.cphy!dy-{plant}
+<f4v.P.7;U>        torshy.cheeor.chor.chokchy.cphy.dy-{plant}
+#
+<f4v.P.8;H>        olaen.chor.cthol.sho.otor.cthory-{plant}
+<f4v.P.8;C>        olain.chor.cthol.sho.otor.cthory-{plant}
+<f4v.P.8;F>        ole!n.chor.cthol.sho.otor.cthory-{plant}
+<f4v.P.8;U>        olain.chor.cthol.sho.otor.cthory-{plant}
+#
+<f4v.P.9;H>        qooko.iiin!cheom.chcthy.shoky.daiin-{plant}
+<f4v.P.9;C>        qooko!iiin.cheod.chcthy.shoky.daiin-{plant}
+<f4v.P.9;F>        qooko.iiin!cheom.chcthy.shoky.daiin-{plant}
+<f4v.P.9;U>        qooko!iiin.cheom.chcthy.shoky.daiin-{plant}
+#
+<f4v.P.10;H>       otaiin.sheo.okeody.chol.chokeody-{plant}
+<f4v.P.10;C>       otaiin.sheo.okeody.chol.chokeody-{plant}
+<f4v.P.10;F>       otaiin.sheo.okeody.chol.chokeody-{plant}
+<f4v.P.10;U>       otaiin.sheo.oteody.chol.choteody-{plant}
+#
+<f4v.P.11;H>       sho.kcheor.shody.shtaiin.qotol.daiin-{plant}
+<f4v.P.11;C>       sho!kcheor.shooy.shtaiin.qotol.daiin-{plant}
+<f4v.P.11;F>       sho.kcheor.shody.shtaiin.qotol.daiin-{plant}
+<f4v.P.11;U>       sho!kcheor.shody.shtaiin.qotol.daiin-{plant}
+#
+<f4v.P.12;H>       qokoy.sho.okeol.s.keey.shar.char.ody-{plant}
+<f4v.P.12;C>       qokoy.sho.okeol.s.keey.shar.char.ody-{plant}
+<f4v.P.12;F>       qokey.sho.okeol.s.keey.shar.char.ody-{plant}
+<f4v.P.12;U>       qokey.sho.okeol.s.keey.shar.char.ody-{plant}
+#
+<f4v.P.13;H>       shody.s.cheor.chokody.shodaiin.qoty-{plant}
+<f4v.P.13;C>       shody.s.cheor.chokody.shodaiin.qoty-{plant}
+<f4v.P.13;F>       shody.s.cheor.chokody.shodaiin.qoty-{plant}
+<f4v.P.13;U>       shody.s.cheor.chokody.shodaiin.qoty-{plant}
+#
+<f4v.P.14;H>       ochody.chy!key.chtody=
+<f4v.P.14;C>       ochody.chy!key.chtody=
+<f4v.P.14;F>       ochody.chy.key.chtody=
+<f4v.P.14;U>       ochodo.chy!tey.chtody=
+#
+<f5r>          {$I=H $Q=A $P=I $L=A $H=1}
+# Last edited on 1998-10-09 01:07:10 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f5r = AI (Rene) = p009 (Stolfi)
+#   Folio: f5
+#   Panels: f5r
+#   Bifolio: bA4 = f4+f5
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: green,b (Reeds)
+#   Plant: 8 (Petersen)
+#
+# Description:
+#
+#   One plant, horizontally centered, reaching only 3/4 up the page.
+#
+#     Root: five unbranched roots, mostly horizontal.  Each root looks
+#       like an earthworm, light-colored with a few dark dots, with a 
+#       short and fat swelling about 4/5 of the way to the tip.
+#     Stalk: straight, vertical, slightly tapered, uncolored(?).
+#     Leaves: a single ring of large, lance shaped leaves, closely spaced, 
+#       attached mid-stem with no stalks. The leaves curl down in a semicircle,
+#       like an umbrella, until they almost touch the stem again; their thin
+#       tips curl further into hooks. Dark overpaint.
+#     Flowers: one, at tip of stem, pointing up. 
+#       Stalk: medium, thin, uncolored(?); extension of stem.  Chalix:
+#       thimble-shaped, partial dark overpaint.  Petals: long, hair like,
+#       drooping.  Core: hemispherical, like a bubble.
+#
+#   Two paragraphs (with 3.6 and 2.5 lines), both above the plant,
+#   left- and right-justified.
+#
+# Comments:
+#
+#   The plant looks very strange but not impossible.  The oddest
+#   details are the position of the tubers, the shape and disposition of
+#   the leaves, their curled tips, the "shaggy dog" flower.
+#
+## <f5r.P> {}
+# text
+# Last edited on 1998-12-06 13:14:04 by stolfi
+#
+<f5r.P.1;H>        kshody.fchoy.chkoy.oaiin.oar.olsy.chody.dkshy.dy-
+<f5r.P.1;C>        kchody.fchoy.chkoy.oaiin.oar.olsy.chody.dkchy.dy-
+<f5r.P.1;F>        kshody.pchoy.chkoy.oaiin.oar.olsy.chody.dkshy.dy-
+#
+<f5r.P.2;H>        ochey.okey.qokaiin.sho.ckhoy.cthey.chey.oka*or.otol-
+<f5r.P.2;C>        ochey.okey.qokaiin.sho.ckhoy.cthey.chey.oka*os.otol-
+<f5r.P.2;F>        ochey.okey.qokaiin.sho.ckhoy.cthey.chey.ok**or.otol-
+#
+<f5r.P.3;H>        qoaiin.otan.chy.daiin.oteeen.cho.cthy.otchy.qotcho.dy-
+<f5r.P.3;C>        qoaiin.otan.chy.daiin.oteee*.cho!cthy.otchy.qotcho!dy-
+<f5r.P.3;F>        qoaiin.otan.chy.daiin.oteeen.cho.cthy.otchy.qotcho!dy-
+#
+<f5r.P.4;H>        otain.sheody.chan.s.cheor.chocthy=
+<f5r.P.4;C>        otain.cheody.chan.s.cheor.chocthy=
+<f5r.P.4;F>        otain.sheody.chan.s.cheor.chocthy=
+#
+<f5r.P.5;H>        tshy.shody.qoaiin.cholols.sho.qotcheo.daiin.shodaiin-
+<f5r.P.5;C>        teey.shody.qoaiin.cholols.sho.qotcheo.daiin.shodaiin-
+<f5r.P.5;F>        tshy.shody.qoaiin.cholols.sho.qotcheo.daiin.shodaiin-
+#
+<f5r.P.6;H>        sho.cheor.chey.qoeeey.qoykeeey.qoeor.cthy.shotshy.dy-
+<f5r.P.6;C>        sho.cheor.chey.qoeeey.qoykeeey.qoeor.cthy.shotshy.dy-
+<f5r.P.6;F>        sho.cheor.chey.qoeeey.qoykeeey.qoeor.cthy.shotshy.dy-
+#
+<f5r.P.7;H>        qotoeey.keey.cheo.kchy.shody=
+<f5r.P.7;C>        qotoeey.keey.cheo!kchy.shody=
+<f5r.P.7;F>        qotoeey.keey.cheo.kchy.shody=
+#
+<f5v>          {$I=H $Q=A $P=J $L=A $H=1}
+# Last edited on 1998-10-10 03:18:21 by stolfi
+#
+# Identification:
+#
+#   Title: "Tennis racket plant"
+#   Page: f5v = AJ (Rene) = p010 (Stolfi)
+#   Folio: f5
+#   Panels: f5v
+#   Bifolio: bA4 = f4+f5
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: red,green,b (Reeds)
+#   Plant: 9 (Petersen)
+#
+# Description:
+#
+#   One branching plant that takes up the lower 3/4 of the page.
+#
+#     Root: two dark-painted potato-shaped tubers next to the stem,
+#       with a few medium-length "mousetail" roots shooting from them.
+#     Stem: straight and vertical, light under(?)color, with a fantastic
+#       loop at the top. The stem's base is wrapped with a short uncolored
+#       sheath.
+#     Branches: several, diagonal, mostly straight.
+#     Leaves: four lobes with serrated edges, naturalistically curved.
+#       each lobe has a central vein. Stalks: medium-short, thin, look like 
+#       branches. Light coulored, many of them with crudely overpainted
+#       dark splotches.
+#     Flowers: several, medium-small, mostly upright, some drooping. 
+#       Stalk: short, sometimes bent by weight.  Chalyx: rounded, light
+#       colored, like a rose's but on the fat side.  Sepals: short and
+#       pointed, light colored.  Petals: half a dozen, small,
+#       tongue-shaped, spread out; dark overpaint almost but not
+#       quite fills their outline.
+#
+#   One paragraph (5.5 lines) above the plant, left- and
+#   right-justified.
+#
+# Comments:
+#
+#   The plant looks fairly normal, except for the fantastic
+#   loop in the stalk.  Leaves and flowers are very naturalistic,
+#   but some are spoiled by the crude dark overpaint. 
+#
+## <f5v.P> {}
+# text
+# Last edited on 1998-12-11 12:28:04 by stolfi
+#
+<f5v.P.1;H>        k!o!cheor.chor.ytchey.pshod.chols.chodaiin.ytoiiin.daiin-
+<f5v.P.1;C>        k!o!cheor.chor.ytchey.pshod.chols.chodaiin.ytoiiin.daiin-
+<f5v.P.1;F>        k.o.cheor.chor.ytchey.pshod.chols.chodaiin.ytoiiin.daiin-
+<f5v.P.1;U>        k!o!cheor.char.ytchey.pshod.chols.chodaiin.ytoiiin.daiin-
+#
+<f5v.P.2;H>        dchol.s{&S}y.chol.otaiin.dain.cthor.chots.ychopor!dg-
+<f5v.P.2;C>        dchol.*!!!!*.chol.otaiin.dain.cthor.chot*.ychopor!dg-
+<f5v.P.2;F>        dchol.sh!!!y.chol.otaiin.dain.cthor.chots.ychopor!dm-
+<f5v.P.2;U>        dchol.s{&S}y.chol.otaiin.dain.cthor.chot*.ychopor.dm-
+#
+<f5v.P.3;H>        qotcho.ytor.daiin.daiin.otchor.daiir.qo!.darchor.do-
+<f5v.P.3;C>        qotcho.ytor.daiin.daiin.otchor.daiin.qo*.darchor.dd-
+<f5v.P.3;F>        qotcho.ytor.daiin.daiin.otchor.daiin.qo!.darchor.do-
+<f5v.P.3;U>        qotcho.ytor.daiin.daiin.otchor.daiin.qo!.darchor.do-
+#
+<f5v.P.4;H>        qotor.shees.otol.ykoiin.shol.daiin.cthor.okchy.taiin-
+<f5v.P.4;C>        qotor.shees.otol.ykoiin.shol.daiin.cthor.okchy!kaiin-
+<f5v.P.4;F>        qotor.shees.otof.ykoiin.shol.daiin.cthor.okchy.taiin-
+<f5v.P.4;U>        qotor.shees.otol.ykoiin.shol.daiin.cthor.okchy.taiin-
+#
+<f5v.P.5;H>        shokeeol.chor.cheotol.otchol.daiin.dal.chol.chotaiin-
+<f5v.P.5;C>        shokeeol.chor.cheotol.otchol.daiin.dal.chol.chotaiin-
+<f5v.P.5;F>        shokeeol.chor.cheotol.otchol.daiin.dal.chol.chotaiin-
+<f5v.P.5;U>        shokeeol.chor.cheotol.otchol.daiin.dal.chol.chotaiin-
+#
+<f5v.P.6;H>        otol.chol.dairodg=
+<f5v.P.6;C>        otol.chol.dairodg=
+<f5v.P.6;F>        otof.chol.dairodd=
+<f5v.P.6;U>        otol.chol.dairodm=
+#
+<f6r>          {$I=H $Q=A $P=K $L=A $H=1}
+# Last edited on 1998-10-09 01:11:32 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f6r = AK (Rene) = p011 (Stolfi)
+#   Folio: f6
+#   Panels: f6r
+#   Bifolio: bA5 = f3+f6
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: red,green,tan (Reeds)
+#   Plant: 10 (Petersen)
+#
+# Description:
+#
+#   One plant, that takes up most of the right and bottom halves of
+#   the page.
+#
+#   One long paragraph (14 lines) at the top, left justified. The
+#   first three lines are right-justified, the rest follows the
+#   plant's profiel on the right. The first six lines are interrupted
+#   by a flower or pod.
+#
+# Comments:
+#
+#   It is not clear whether pods or flowers are
+#   represented here.
+#
+## <f6r.P> {}
+# text
+# Last edited on 1998-12-19 18:54:20 by stolfi
+#
+<f6r.P.1;H>        foar.y.shol.cholor.cphol.chor.chckh-{plant}chopchol.otcham-
+<f6r.P.1;C>        poar.y.shol.cholor.cphol.chor.chckh-{plant}chopchol.oteeam-
+<f6r.P.1;F>        foar.y.shol.cholor.cphol.chor.chckh-{plant}chopchol.otcham-
+#
+<f6r.P.2;H>        daiin.chckhy.chor.chor.kar.cthy-{plant}cthor.chotols-
+<f6r.P.2;C>        daiin.chckhy.chor.chor.kar.cthy-{plant}cthor.chotols-
+<f6r.P.2;F>        daiin.chckhy.chor.chor.kar.cthy-{plant}cthor.chotols-
+#
+<f6r.P.3;H>        poeear.kshor.choky.os.cheoee!s-{plant}ykeor.ytaiin.dar-
+<f6r.P.3;C>        foeear.kshor.choky.os.cheoeees-{plant}ykeor.ytaiin.dam-
+<f6r.P.3;F>        poeear.kshor.choky.os.cheoee!s-{plant}ykeor.ytaiin.dam-
+#
+<f6r.P.4;H>        dar.cho.s.sheor.chocthy.otcham-{plant}yaiir.chy-{plant}
+<f6r.P.4;C>        dar.cho!s.sheor.cho*!!y.otcham-{plant}yaiir.chy-{plant}
+<f6r.P.4;F>        dar.cho.s.sheor.chocthy.otcham-{plant}yaiir.chy-{plant}
+#
+<f6r.P.5;H>        tar.okoiin.shees.ytaly.cthaiin-{plant}odam-{plant}
+<f6r.P.5;C>        tor.okoiin.shees.ytaly.cthaiin-{plant}odam-{plant}
+<f6r.P.5;F>        tar.okoiin.shees.ytaly.cthaiin-{plant}odam-{plant}
+#
+<f6r.P.6;H>        or.al.daiin.ckham.okom.cthaiin-{plant}ydaiin-{plant}
+<f6r.P.6;C>        or.al.daiin.ckham.okam.cthaiin-{plant}ydaiin-{plant}
+<f6r.P.6;F>        or.al.daiin.ckham.okom.cthaiin-{plant}ydaiin-{plant}
+#
+<f6r.P.7;H>        daiin.qodaiin.cho.s.chol.okaiin.s-{plant}
+<f6r.P.7;C>        %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-{plant}
+<f6r.P.7;F>        daiin.qodaiin.cho.s.chol.okaiin.s-{plant}
+#
+<f6r.P.8;H>        ychol.ckhor.pchar.sheo.ckhaiin-{plant}
+<f6r.P.8;C>        ychol.ckhor.pchar.sheo.ckhaiin-{plant}
+<f6r.P.8;F>        ychol.ckhor.pchar.shea.ckhaiin-{plant}
+#
+<f6r.P.9;H>        dar.sheeol.skaiiodar.otaiin.chory-{plant}
+<f6r.P.9;C>        dar.she!ol.skaiiodar.otaiin.chory-{plant}
+<f6r.P.9;F>        dar.sheeol.skaiiodar.otaiin.chory-{plant}
+#
+<f6r.P.10;H>       tchor.ctheod.chy.shor.od!she.od-{plant}
+<f6r.P.10;C>       tchor.ctheod.chy.shor.od.she.od-{plant}
+<f6r.P.10;F>       tchor.ctheod.chy.shor.od!she.od-{plant}
+#
+<f6r.P.11;H>       ychar.olchad.ol.chokaiin-{plant}
+<f6r.P.11;C>       ychar.olcham.ol.chokaiin-{plant}
+<f6r.P.11;F>       ychar.olchad.ol!chokaiin-{plant}
+#
+<f6r.P.12;H>       or.shol.cthom.chor.cthy-{plant}
+<f6r.P.12;C>       or.shol.cthom.chor.cthy-{plant}
+<f6r.P.12;F>       or.shol.cthom.chor.cthy-{plant}
+#
+<f6r.P.13;H>       qocthol.qodaiin.cthy-{plant}
+<f6r.P.13;C>       qocthol.qodaiin.cthy-{plant}
+<f6r.P.13;F>       qocthol.qodaiin.cthy-{plant}
+#
+<f6r.P.14;H>       ysho.taiin.y.kaiim={plant}
+<f6r.P.14;C>       osho.taiin.y.kaiim={plant}
+<f6r.P.14;F>       ysho.taiin.y!kaiim={plant}
+#
+<f6v>          {$I=H $Q=A $P=L $L=A $H=1}
+# Last edited on 1998-10-09 01:12:53 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f6v = AL (Rene) = p012 (Stolfi)
+#   Folio: f6
+#   Panels: f6v
+#   Bifolio: bA5 = f3+f6
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: green,b (Reeds)
+#   Plant: 11 (Petersen)
+#
+# Description:
+#
+#   One plant, that takes up most of the right half of the page.
+#
+#   Two paragraphs (4.8 and 15.8 lines) at the top, left-justified,
+#   ending at mid-page. The first is right-justified too, and two of
+#   its lines are interrupted by a flower. The second follows the
+#   plant's outline on the right.
+#
+# Comments:
+#
+#
+## <f6v.P> {}
+# text
+# Last edited on 1998-12-06 13:24:03 by stolfi
+#
+<f6v.P.1;H>        koar.y.sar.oheekar.qoar.shor.chapchy.s.chear.char.otchy-
+<f6v.P.1;C>        koar!y!sar!oeeekar.qoad.shor.chapchy.s.chear.char.otchy-
+<f6v.P.1;D>        koar!y!sar!cheekar.qoad.shor.chapchy.s.chear.char.otchy-
+<f6v.P.1;F>        koar!y.sar.cheekar.qoor.shor.chapchy.s.chear.char.otchy-
+<f6v.P.1;U>        koar!y.sar.cheekar.qoar.shor.chapchy.s.chear.char.otchy-
+#
+<f6v.P.2;H>        oees.chor.chckhy.qoekchar.cheas.odaii!n.kchey.chor.chaiin-
+<f6v.P.2;C>        oees.chor.chckhy.qo!kchas.cheas.odaiiin.kchey.chor.chaiin-
+<f6v.P.2;F>        oees.chor.chckhy.qoekchar.cheas.odaii!n.kchey.chor.chaiin-
+<f6v.P.2;U>        oiir.chor.chckhy.qo!kchar.cheas.odaiiin.kchey.chor.chaiin-
+#
+<f6v.P.3;H>        qoair.ckhy.chol.oochockhy.chekchoy.ckhy.okol-{plant}rychos-
+<f6v.P.3;C>        qoeir.ckhy.chol.**e!ockhy.chekchoy.ckhy.okol-{plant}rychos-
+<f6v.P.3;F>        qoair.ckhy.chol.oochockhy.chekchoy.ckhy.okol-{plant}sychos-
+<f6v.P.3;U>        qoair.ckhy.chol.qochockhy.chetchoy.ckhy.okol-{plant}rychos-
+#
+<f6v.P.4;H>        y.shckhy.ytchoy.s!os.y.dady.dchy.dey.okody-{plant}ytody-
+<f6v.P.4;C>        y!shckhy.ykchoy.s.os.y.dajy.dchy.dey.okody-{plant}ytody-
+<f6v.P.4;D>        y!shckhy.ykchoy.s.os.y.jajy.dchy.dey.okody-{plant}ytody-
+<f6v.P.4;F>        y!chckhy.ytchoy.s!os.y.dady.dchy.dey.okody-{plant}ytody-
+<f6v.P.4;U>        y!shckhy.ytchoy.s!os.y.dady.dchy.dey.okody-{plant}ytody-
+#
+<f6v.P.5;H>        dair.cshe.chodam.dam.okor.oty.dol!dom=
+<f6v.P.5;C>        dain.**!!.chodam.dam.okor.oty.dol!dom=
+<f6v.P.5;F>        dain.sh**.chodam.dam.okor.oty.dol.dom=
+<f6v.P.5;U>        dair.!sha.chodam.dam.okor.oty-dol.dom=
+#
+<f6v.P.6;H>        tchody.shocthol.chocthey.s-{plant}
+<f6v.P.6;C>        tchody.shocthol.chocthey.s-{plant}
+<f6v.P.6;F>        tchody.shocthol.chocth!y.s-{plant}
+<f6v.P.6;U>        tchody.shocthol.chocthey.s-{plant}
+#
+<f6v.P.7;H>        ychos.ychol.daiin.cthol.dol-{plant}
+<f6v.P.7;C>        ychos.ychol.daiin.cthol.dol-{plant}
+<f6v.P.7;F>        ychos.ychol.daiin.cthol.dol-{plant}
+<f6v.P.7;U>        ychos.ychol.daiin.cthol.dol-{plant}
+#
+<f6v.P.8;H>        ychor.chor.okchey.qokom-{plant}
+<f6v.P.8;C>        ychor.chor.okchey.qokom-{plant}
+<f6v.P.8;D>        ychor.chor.okchey.qokog-{plant}
+<f6v.P.8;F>        ychor.chor.okchey.qokom-{plant}
+<f6v.P.8;U>        ychor.chor.okchey.qokom-{plant}
+#
+<f6v.P.9;H>        oeeo.dal.chor.cthom.s-{plant}
+<f6v.P.9;C>        oeeo!dal.chor.cthom.s-{plant}
+<f6v.P.9;F>        oeeo.dal.chor.cthom.s-{plant}
+<f6v.P.9;U>        oeeo.dal.chor.cthom.s-{plant}
+#
+<f6v.P.10;H>       qokche*.ychear.kchdy-{plant}
+<f6v.P.10;C>       qokchod.ychear.kchdy-{plant}
+<f6v.P.10;F>       qokchod.ychear.kchdy-{plant}
+<f6v.P.10;U>       qokchod.ychear.kchdy-{plant}
+#
+<f6v.P.11;H>       lor.char.otam.cthom.dy-{plant}
+<f6v.P.11;C>       lor!char.otam.ctho.mdy-{plant}
+<f6v.P.11;D>       lor!chor.otam.ctho.mdy-{plant}
+<f6v.P.11;F>       lor.char.otam.cthom.dy-{plant}
+<f6v.P.11;U>       lor.char.otam.cthom.dy-{plant}
+#
+<f6v.P.12;H>       ytchos.shy.qokam.cthy-{plant}
+<f6v.P.12;C>       ytchos.shy.qokam.cthy-{plant}
+<f6v.P.12;F>       ytchor.shy.qokam.cthy-{plant}
+<f6v.P.12;U>       ytchos.shy.qokam.cthy-{plant}
+#
+<f6v.P.13;H>       yodaiin.cthy.s.chor.oees.or-{plant}
+<f6v.P.13;C>       yodaiin.cthy.s.chor.oees.or-{plant}
+<f6v.P.13;D>       yodaiin.cthy.s.chos.oees.or-{plant}
+<f6v.P.13;F>       yodaiin.cthy.s.chor.oees.or-{plant}
+<f6v.P.13;U>       yodaiin.cthy.s.chor.oees.or-{plant}
+#
+<f6v.P.14;H>       qokor.chol.cthol.tchalody-{plant}
+<f6v.P.14;C>       qokor.chol.cthol.tchalody-{plant}
+<f6v.P.14;D>       qokor.chol.cthol.tcholody-{plant}
+<f6v.P.14;F>       qokor.chol.cthol.tchalody-{plant}
+<f6v.P.14;U>       qotor.chol.cthol.tchalody-{plant}
+#
+<f6v.P.15;H>       chockhy.s.os.chy.s!ain.or-{plant}
+<f6v.P.15;C>       chockhy.s.or.chy.s!ain.or-{plant}
+<f6v.P.15;F>       chockhy.s.os.chy.s!ain.or-{plant}
+<f6v.P.15;U>       chockhy.s.or.chy.s.ain.ar-{plant}
+#
+<f6v.P.16;H>       ochy.cthar.cthar.cthy-{plant}
+<f6v.P.16;C>       ochy.cthar.cthor.cthy-{plant}
+<f6v.P.16;D>       ochy.cthar.cthar.cthy-{plant}
+<f6v.P.16;F>       ochy.cthar.cthar.cthy-{plant}
+<f6v.P.16;U>       ochy.cthar.cthar.cthy-{plant}
+#
+<f6v.P.17;H>       y.chaiir.ckhal.cthodam.dy-{plant}
+<f6v.P.17;C>       y.chaiir.ckhal.cthodam.dy-{plant}
+<f6v.P.17;D>       y.chaier.ckhal.cthodam.da-{plant}
+<f6v.P.17;F>       y!chaiin.ckhal.cthodam.dy-{plant}
+<f6v.P.17;U>       y!chaiin.ckhal.cthodam.dy-{plant}
+#
+<f6v.P.18;H>       ytcho.cthol.ches.cthor-
+<f6v.P.18;C>       ytcho!cthol.ches.cthor-
+<f6v.P.18;F>       ytcho.cthol.ches.cthor-
+<f6v.P.18;U>       ytcho!cthol.ches.cthor-
+#
+<f6v.P.19;H>       ocholy.kchos.chy.dor-
+<f6v.P.19;C>       ocholy!kchos.chy.dor-
+<f6v.P.19;F>       ocholy.kchor.chy.dor-
+<f6v.P.19;U>       ocholy.kchor.chy.dor-
+#
+<f6v.P.20;H>       dchor.choldar.okol.daiin-
+<f6v.P.20;C>       dchor.choldar.okol.daiin-
+<f6v.P.20;F>       dchor.choldar.okol.daiin-
+<f6v.P.20;U>       dchor.choldar.okol.daiin-
+#
+<f6v.P.21;H>       ycheor.chor.octham=
+<f6v.P.21;C>       ycheor.chor.octham=
+<f6v.P.21;F>       ycheor.chor.octham=
+<f6v.P.21;U>       ycheor.chor.octham=
+#
+<f7r>          {$I=H $Q=A $P=M $L=A $H=1}
+# Last edited on 1998-10-09 01:15:01 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f7r = AM (Rene) = p013 (Stolfi)
+#   Folio: f7
+#   Panels: f7r
+#   Bifolio: bA2 = f2+f7
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Petersen's plant 12
+#   Colors: green,tan (Reeds)
+#   Plant: 12 (Petersen)
+#
+# Description:
+#
+#   One plant with no leaves and a single huge flower, spanning the
+#   entire height and width of the page.
+#
+#     Root: a short, vertical, cylindrical stem that splits
+#       into two almost horizontal mousetails.
+#     Stem: straight, vertical.
+#     Branches: none.
+#     Leaves: none.
+#     Flowers: a single flower at the tip of the stem.
+#       Stalk: not visible, or indistinguishable from stem.
+#       Chalyx: eight symmetrical sepals, shaped like long parabolas.
+#       Corolla: four layers, of decreasing sizes, each having four 
+#         symmetric petals, located diagonally with respect to 
+#         the previous layer.  Core: none.
+#
+#   Two paragraphs (with 4.3 lines and 4.5 lines), both left- and
+#   right-justified: one at the top, interrupted by the flower; one
+#   just below mid-page, interrupted by the main stem.
+#
+# Comments:
+#
+#   Petersen has identified this plant with high confidence
+#   as 
+#
+#     Nymphaea alba (white water lily, seerose)
+#     http://www.lysator.liu.se/runeberg/nordflor/181.html
+#     http://linnaeus.nrm.se/flora/di/nymphaea/nymph/nympcan2.jpg
+#
+#   There is indeed a good match in the shape and arrangement of the
+#   petals and sepals. Also, the lack of leaves and branches in f7v is
+#   plausibly explained by the fact that Nymphaea's flowers float on
+#   the water's surface, and thus may have been hidden from the
+#   artist's view.
+#
+#   But if f7v is Nymphaea alba, then what do we make of f2v?
+#
+## <f7r.P> {}
+# text
+# Last edited on 1998-12-11 12:28:24 by stolfi
+#
+<f7r.P.1;H>        fchodaiin.shopchey.qko-{plant}shey.qoos.sheey.chorochy-
+<f7r.P.1;C>        fchodaiin.shopchey.qko-{plant}shey.qoos.sheey.charochy-
+<f7r.P.1;F>        fchodaiin.chopchey.qko-{plant}chey.qoos.sheey.chorochy-
+#
+<f7r.P.2;H>        dcheey.keo!r.shor.dold-{plant}dchey.kchey.otchy.cheody-
+<f7r.P.2;C>        dcheey.keo.r.shor.dold-{plant}dchey.kchey.otchy.cheody-
+<f7r.P.2;F>        dcheey.keo!r.chor.dold-{plant}dchey.kchey.otchy.cheody-
+#
+<f7r.P.3;H>        oeeees.cheodaiin.sheey-{plant}ytcheey.qotchy.chald-
+<f7r.P.3;C>        oeeees.cheodaiin.sheey-{plant}ytcheey.qotchy.chald-
+<f7r.P.3;F>        ochees.cheodaiin.sheey-{plant}ytcheey.qotchy.chald-
+#
+<f7r.P.4;H>        qokcho.cho.lochey.daiin-{plant}ychey.kchos-{plant}odaiin-
+<f7r.P.4;C>        qokcho.cho.lochey.daiin-{plant}ychey.kchos-{plant}odaiin-
+<f7r.P.4;F>        qokcho.cho.lochey.daiin-{plant}ychey.kchos-{plant}odaiin-
+#
+<f7r.P.5;H>        oaiir-{plant}otaiin=
+<f7r.P.5;C>        oaiir-{plant}otaiin=
+<f7r.P.5;F>        oains-{plant}otaiin=
+#
+<f7r.P.6;H>        ksholo!chey.qotoees.chkoldy-{plant}otchor.choaiin-
+<f7r.P.6;C>        ksholo!chey.qotoees.chkoldy-{plant}otchor.choaiin-
+<f7r.P.6;F>        ksholo.chey.qotoees.chkoldy-{plant}otchor.choaiin-
+#
+<f7r.P.7;H>        dshoy.cthol.chol.otchol.dain-{plant}shody.shol.chotchy-
+<f7r.P.7;C>        dshoy.cthol.chol.otchol.dain-{plant}shody.shol.chotchy-
+<f7r.P.7;F>        dshoy.cthol.chol.otchol.dain-{plant}shody.shol.chotchy-
+#
+<f7r.P.8;H>        okchey.deeeese.choty.qokchy-{plant}shol.keey.choty.d!ain-
+<f7r.P.8;C>        okchey.deeeese.choty.qotchy-{plant}chol.keey.choky.chain-
+<f7r.P.8;F>        okchey.deeeese.choty.qokchy-{plant}shol.keey.choty.d!ain-
+#
+<f7r.P.9;H>        qokechy.ol!choiin.chol.cphey-{plant}shckhy.chochy.kchod-
+<f7r.P.9;C>        qokechy.ol.choiin.chol.cphey-{plant}shckhy.chochy.kchod-
+<f7r.P.9;F>        qokechy.ol!choiin.chol.cphey-{plant}shckhy.chochy.kchod-
+#
+<f7r.P.10;H>       s!chain.chor.daiin.chckhy={plant}
+<f7r.P.10;C>       s.chain.chor.daiin.chckhy={plant}
+<f7r.P.10;F>       s!chain.chor.daiin.chckhy={plant}
+#
+<f7v>          {$I=H $Q=A $P=N $L=A $H=1}
+# Last edited on 1998-10-09 01:17:29 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f7v = AN (Rene) = p014 (Stolfi)
+#   Folio: f7
+#   Panels: f7v
+#   Bifolio: bA2 = f2+f7
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: red,green (Reeds)
+#   Plant: 13 (Petersen)
+#
+# Description:
+#
+#   One plant, spanning from the bottom edge to 3/4 of the way to the
+#   top.
+#
+#   Two paragraphs (with 4.5 and 3.9 lines) at the top, left- and
+#   right-justified. The last three lines of the second paragraph are
+#   interrupted by the plant's flowers.
+#
+## <f7v.P> {}
+# text
+# Last edited on 1998-12-06 13:29:33 by stolfi
+#
+<f7v.P.1;H>        polyshy.shey.tchody.qopchy.otshol.dy.daiin.tshodody-
+<f7v.P.1;C>        polyshy.shey.tchody.qopchy.otshol.dy.daiin.tshodody-
+<f7v.P.1;F>        polyshy.shey.tchody.qopchy.otshol.dy.daiin.tshodody-
+<f7v.P.1;U>        polyshy.shey.tchody.qopchy.otshol.dy.daiin.tshodody-
+#
+<f7v.P.2;H>        chochy.cthy.daiin.qoky.chcphhy.daiin.cthol.cthy.cthd-
+<f7v.P.2;C>        chochy.cthy.daiin.qoky.ch**!!y.daiin.cthol.cthy.cthd-
+<f7v.P.2;F>        chochy.cthy.daiin.qoky.chcphey.daiin.cthol.cthy.cthd-
+<f7v.P.2;U>        chochy.cthy.daiin.qoky.chcphhy.daiin.cthol.cthy.cthd-
+#
+<f7v.P.3;H>        qokchy.dy!kchy.chkeey.kshy.ky.ty.dor.cheey.ol.cheol.dy-
+<f7v.P.3;C>        qokchy.dy!kchy.chkeey.kshy.ky.ty.dor.cheey.ol.cheol.dy-
+<f7v.P.3;F>        qokchy.dy.kchy.chkeey.kshy.ky.ty.dor.cheey.ol.cheol!dy-
+<f7v.P.3;U>        qokchy.dy!kchy.chkeey.kshy.ky.ty.dor.cheey.ol.cheol.dy-
+#
+<f7v.P.4;H>        choteeen.oeear.choschy.dain.sho.kshy.shol.deees.dol-
+<f7v.P.4;C>        chotee**.ochan.choschy.dain.sho.kshy.shol.deees.dol-
+<f7v.P.4;F>        choteeen.ochar.choschy.dain.sho.kshy.shol.deees.dol-
+<f7v.P.4;U>        chotai!n.ochar.choschy.dain.sho!kshy.shol.deees.dol-
+#
+<f7v.P.5;H>        dchodaiin.qotchy.cheey.tcheey=
+<f7v.P.5;C>        dchadaiin.qotchy.cheey.tcheey=
+<f7v.P.5;F>        dchodaiin.qotchy.cheey.tcheey=
+<f7v.P.5;U>        dchodaiin.qotchy.cheey.tcheey=
+#
+<f7v.P.6;H>        kchor.sheod.sheodaiin.sho!daiin.oksho!lshol.dais.qos-
+<f7v.P.6;C>        kchor.sheod.sh*odaiin.sho!daiin.oksho!lshol.dair.qos-
+<f7v.P.6;F>        kchor.sheod.sheodaiin.sho.daiin.oksho.lshol.dair.qos-
+<f7v.P.6;U>        kchor.sheod.sheodaiin.sho!daiin.oksho!lchol.dair.qos-
+#
+<f7v.P.7;H>        oksho!deeen.chor.cheor.odaiin.shotcho-
+{plant}dol.dol.dor.aiin-
+<f7v.P.7;C>        oksho!dai!n.chor.cheor.odaiin.shotch*-
+{plant}dal.dol.dor.aiin-
+<f7v.P.7;F>        oksho.deeen.chor.cheor.odaiin.shotch!-
+{plant}dol.dol.dor!aiin-
+<f7v.P.7;U>        oksho!dai!n.chor!cheor.odaiin.shotch*-
+{plant}dol.dol.dor!aiin-
+#
+<f7v.P.8;H>        qoteeeo.r!cho.cheeody.qotchey.tey-{plant}okchor.daiin-
+<f7v.P.8;C>        qoteeeo.r.cho.cheeody.qotchey.tey-{plant}okchor.daiin-
+<f7v.P.8;F>        qoteeeo.r!cho.cheeody.qotchey.tey-{plant}okchor.daiin-
+<f7v.P.8;U>        qoteeeo.r.cho!cheeody.qotchey.te*-{plant}okchor.daiin-
+#
+<f7v.P.9;H>        sho.keeo.daiir.chokchy.dor.deol.dy-{plant}dol.daiin=
+<f7v.P.9;C>        sho!keeo.daiin.chokchy.dor.deol.dy-{plant}dol.daiin=
+<f7v.P.9;F>        sho.keeo.daiir.chokchy.dor.deol.dy-{plant}dol.daiin=
+<f7v.P.9;U>        sho!keeo.daiin.chotchy.dor.deol.dy-{plant}dol.daiin=
+#
+<f8r>          {$I=H $Q=A $P=O $L=A $H=1}
+# Last edited on 1998-10-09 01:25:22 by stolfi
+#
+# Identification:
+#
+#   Title: "The Bat-Plant"
+#   Page: f8r = AO (Rene) = p015 (Stolfi)
+#   Folio: f8
+#   Panels: f8r
+#   Bifolio: bA1 = f1+f8
+#   Quire: A (Rene) = I (Beinecke)
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: green (Reeds)
+#   Plant: 14 (Petersen)
+#
+# Description:
+#
+#   One plant with a single, big, odd-shaped leaf and a "collar"
+#   around its stem, horizontally centered and spanning the page 
+#   vertically from edge to edge.
+#
+#   Three paragraphs (with 6.5, 3.6, 6.6 lines), left- and
+#   right-justified and interrupted by the plant's stem, fill up the
+#   bottom 3/4 of the page. Each paragraph is followed by a
+#   right-justified two-word title.
+#
+# Comments:
+#
+#   The plant is very strange, bot for the leaf shape and for the 
+#   "collar" around the stem.  Perhaps it is a mushroom (e.g. Amanita),
+#   which the artist mistook for a plant and tried to draw as such?
+#
+#   The text format too is quite unusual, both in its length and in 
+#   the presence of titles.
+#
+## <f8r.P1> {}
+# text - parag 1
+# Last edited on 1998-12-06 13:38:36 by stolfi
+#
+<f8r.P1.1;H>       pshol.chor.otshal.chopy!-
+{plant}cphol.chody!.shy.cfhodar.shor-
+<f8r.P1.1;C>       pshol.chor.otshol.chopin-
+{plant}cphol.chodin.shy.cfhodar.shor-
+<f8r.P1.1;F>       pshol.chor.otshal.chopy!-
+{plant}cphol.chody!.shy.cfhodar.shor-
+#
+<f8r.P1.2;H>       tchty.sh.kcheals.sho-{plant}okche.do.dchy.dain.al-
+<f8r.P1.2;C>       tchty.sh.kcheals.sho-{plant}okche.do.dchy.dain.al-
+<f8r.P1.2;F>       tchty.sh!kcheals.sho-{plant}okche.do.dchy.dain.al-
+#
+<f8r.P1.3;H>       chodar.shy.ry-{plant}chodaiin.shokchy.chor.dy-
+<f8r.P1.3;C>       chodar.shy.sy-{plant}chodaiin.shokchy.chor.dy-
+<f8r.P1.3;F>       chodar.shy.ry-{plant}chodaiin.shokchy.chor.dy-
+#
+<f8r.P1.4;H>       qotor.chor.chor.sheey-{plant}dchol.shesed.chof!chy.dam-
+<f8r.P1.4;C>       qotor.chor.chor.sheey-{plant}dchol.shesed.chof.chy.dam-
+<f8r.P1.4;F>       qotor.chor.chor.sheey-{plant}dchol.shesed.chof!chy.dam-
+#
+<f8r.P1.5;H>       okchey.do.r.cheeey.dy.ky-{plant}scho.chky.ckooaiin.chy.taiin-
+<f8r.P1.5;C>       okchey.do.r.cheeey.dy.ky-{plant}scho.chky.!*ooaiin.cha!taiin-
+<f8r.P1.5;F>       okchey.do.r.cheeey.dy.ky-{plant}scho.chky.ekooaiin.chy.taiin-
+#
+<f8r.P1.6;H>       tosh.ckcheey.kol!toldy-{plant}shy.chocty.cheeody.sol-
+<f8r.P1.6;C>       tosh.!*cheey.kol.toldy-{plant}shy.choety.cheeody.sol-
+<f8r.P1.6;F>       tosh.ekcheey.kol.toldy-{plant}shy.choety.cheeody.sol-
+#
+<f8r.P1.7;H>       choto.kchoa!n.choor.dain={plant}
+<f8r.P1.7;C>       choto.kchoiin.choor.dain={plant}
+<f8r.P1.7;F>       choto.kchoa!n.choor.dain={plant}
+#
+## <f8r.T1> {}
+# title 1
+# Last edited on 1998-12-06 13:36:07 by stolfi
+#
+<f8r.T1.8;H>       ocho.daiin=
+<f8r.T1.8;C>       ocho.dai!n=
+<f8r.T1.8;F>       dcho.daiin=
+#
+## <f8r.P2> {}
+# text - parag 2
+# Last edited on 1998-12-06 13:37:08 by stolfi
+#
+<f8r.P2.9;H>       tchoep.sho.pcheey.pchey-{plant}ofchey.dsheey.shol.daiin.shor-
+<f8r.P2.9;C>       tchoep.sho.pcheey.pchey-{plant}ofchey.dsheey.shol.daiin.shor-
+<f8r.P2.9;F>       tchoep.cho.pcheey.pchey-{plant}ofchey.dsheey.shol.daiin.shor-
+#
+<f8r.P2.10;H>      daiin.cheey.teeodan.dy-{plant}cheocthy.oksheo.dol.daird-
+<f8r.P2.10;C>      daiin.cheey.teeodan.dy-{plant}cheocthy.oksheo.dol.dairg-
+<f8r.P2.10;F>      daiin.cheey.teeodan.dy-{plant}cheocthy.oksheo.dol.dairm-
+#
+<f8r.P2.11;H>      shol.cheodaiin.daiin.do-{plant}ytchody.chot.choty.otariin-
+<f8r.P2.11;C>      shol.cheodaiin.daiin.do-{plant}ytchody.chot.choty.otariin-
+<f8r.P2.11;F>      shol.cheodaiin.daiin.do-{plant}ytchody.chot.choty.otariin-
+#
+<f8r.P2.12;H>      qochodaiin.shotokody-{plant}chotol=
+<f8r.P2.12;C>      qochodaiin.shotokody-{plant}chotol=
+<f8r.P2.12;F>      qochodaiin.shotokody-{plant}chotol=
+#
+## <f8r.T2> {}
+# title 2
+# Last edited on 1998-12-06 13:32:19 by stolfi
+#
+<f8r.T2.13;H>      okokchodm=
+<f8r.T2.13;C>      okokchodg=
+<f8r.T2.13;F>      okokchodm=
+#
+## <f8r.P3> {}
+# text - parag 3
+# Last edited on 1998-12-12 13:52:37 by stolfi
+#
+<f8r.P3.14;H>      ctho.cthey.shol.chofydy-{plant}sho.chey.kshey.lody.cholal-
+<f8r.P3.14;C>      !!*o.!!*ey.shol.chofydy-{plant}sho.chey.kshey.lody.cholal-
+<f8r.P3.14;F>      ctho.cthey.shol.chofydy-{plant}sho.chey.kshey.lody.cholal-
+#
+<f8r.P3.15;H>      dchey.ckhol.chol.chey.kchs-
+{plant}chy.etodaiin.dol.daiiirchy.ckhy-
+<f8r.P3.15;C>      dchey.ckhol.chol.chey.kchs-
+{plant}chy.!!*daiin.dol.daiiinchy.ckhy-
+<f8r.P3.15;F>      dchey.ckhol.chol.chey.kshs-
+{plant}chy.cthdaiin.dol.daiinrchy.ckhy-
+#
+<f8r.P3.16;H>      ychey.kchokchy.chsey.kchy-
+{plant}s!cheaiin.cthaichar.cthy.dar-
+<f8r.P3.16;C>      ychey.kchokchy.chsey.kchy-
+{plant}s.cheaiin.cthaichar.cthy.dar-
+<f8r.P3.16;F>      ychey.kchokchy.chsey.kchy-
+{plant}s!cheaiin.cthaichar.cthy.dar-
+#
+<f8r.P3.17;H>      chol.dchy.qokar.chl-{plant}aiin.chean.cky.char.chaiin-
+<f8r.P3.17;C>      chol.de!y.qokar.chl-{plant}aiin.chean.!*y.char.chaiin-
+#
+<f8r.P3.18;H>      okar.cphaiin.chaiin.el-{plant}daiin.chor.cha.rcheal!cham-
+<f8r.P3.18;C>      okar.cphaiin.chaiin.*l-{plant}daiin.chor.cha.rcheal.cham-
+<f8r.P3.18;F>      okar.cfhaiin.chaiin.el-{plant}daiin.chor.cha.rcheal.cham-
+#
+<f8r.P3.19;H>      sair.cheain.cphol.dar-{plant}shol.kaiin.shol.kaiin.dai!kam-
+<f8r.P3.19;C>      sair.cheain.cphol.dar-{plant}shol.kaiin.shol.!!!!!!dai!kam-
+<f8r.P3.19;F>      sair.cheain.cphol.dar-{plant}shol.kaiin.shol.kaiin.dai.kam-
+#
+<f8r.P3.20;H>      or.chokesey.shey.okal-{plant}chal=
+<f8r.P3.20;C>      or.chokesey.shey.okal-{plant}chal=
+<f8r.P3.20;F>      or.chokesey.shey.okal-{plant}chal=
+#
+## <f8r.T3> {}
+# title 3
+# Last edited on 1998-12-06 13:33:59 by stolfi
+#
+<f8r.T3.21;H>      schol.sair=
+<f8r.T3.21;C>      schol.saim=
+<f8r.T3.21;F>      schol.saim=
+#
+<f8v>          {$I=H $Q=A $P=P $L=A $H=1}
+# Last edited on 1998-10-09 01:23:04 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f8v = AP (Rene) = p016 (Stolfi)
+#   Folio: f8
+#   Panels: f8v
+#   Bifolio: bA1 = f1+f8
+#   Quire: A (Rene) = I (Beinecke)
+#
+#   Quire A, last page
+#
+# Attributes:
+#
+#   Language: A (Currier)
+#   Hand: 1 (Currier)
+#   Subsets: H (Rene), hea (Stolfi)
+#   Subject: herbal
+#   Colors: red,green,b (Reeds)
+#   Plant: 15 (Petersen)
+#
+# Description:
+#
+#   One plant, spanning top to bottom, slightly offset to the left.
+#
+#   Two paragraphs (with 10.1 and 5.3 lines), left- and
+#   right-justified: one next to the top margin, one next to the
+#   bottom margin, both interrupted by the plant.
+#
+#   There is a mark in the SE corner, resembling "^pm9" ("^" over the "p"),
+#   with thick strokes.
+#
+# Comments:
+#
+#   The mark in the SE corner is almost surely the quire number,
+#   "1st" in abbreviated Latin.
+#
+## <f8v.P> {}
+# text
+# Last edited on 1998-12-11 12:28:48 by stolfi
+#
+# The first two <t>s below are a single <t> with one leg in each place.
+<f8v.P.1;H>        cthod.soocth-
+{plant}sol.shol.otol.chol.opcheaiin.opydaiin.saiin-
+<f8v.P.1;C>        !!*od.soo*!!-
+{plant}sol.shol.otol.chol.opcheaiin.opydaiin.saiin-
+<f8v.P.1;F>        cthod.soocth-
+{plant}sol.shol.otol.chol.opcheaiin.opydaiin.saiin-
+<f8v.P.1;U>        cthod.soocth-
+{plant}sol.shol.otol.chol.opchoaiin.opydaiin.saiin-
+#
+<f8v.P.2;H>        shcthal.sar-{plant}chor.sheaiin.shor.chykchy.otaiin.cty-
+<f8v.P.2;C>        shcthol.sar-{plant}chor.shoaiin.shor.chykchy.otaiin.ety-
+<f8v.P.2;F>        shcthal.sar-{plant}chor.sheaiin.shor.chykchy.otaiin.ety-
+<f8v.P.2;U>        shcthal.sar-{plant}chor.sheaiin.shor.shykchy.otaiin.cty-
+#
+<f8v.P.3;H>        qody.cheal.sy-{plant}chory-
+{plant}chear.shol.chaiin.shaiin.dolar-
+<f8v.P.3;C>        qody.cheal.sy-{plant}chor!-
+{plant}chear.shol.chaiin.shaiin.dolar-
+<f8v.P.3;F>        qody.cheal.sy-{plant}chory-
+{plant}chear.shol.chaiin.shaiin.dolar-
+<f8v.P.3;U>        qody.cheal.sy-{plant}chory-
+{plant}chear.shol.chaiin.shaiin.dolar-
+#
+<f8v.P.4;H>        dshol.shol-{plant}dol-{plant}chean.cthar.shealy.daiin.chary-
+<f8v.P.4;C>        *shol.shol-{plant}dol-{plant}chean.cthar.she!!y.daiin.chary-
+<f8v.P.4;F>        dshol.shol-{plant}dol-{plant}chean.cthar.shealy.daiin.chary-
+<f8v.P.4;U>        dshol.shol-{plant}dal-{plant}chean.cthar.shealy.daiin.chary-
+#
+<f8v.P.5;H>        chol.chol.dar-{plant}otchar.etaiin.cthol.dar-
+<f8v.P.5;C>        chol.chol.dar-{plant}otchar.otaiin.cthol.dar-
+<f8v.P.5;F>        chol.chol.dar-{plant}otchar.etaiin.cthol.dar-
+<f8v.P.5;U>        chol.chol.dar-{plant}otchar.ctaiin.cthol.dar-
+#
+<f8v.P.6;H>        daiin.cthan-{plant}ytchy.chey.kaiin.dain.ar-
+<f8v.P.6;C>        daiin.cthan-{plant}ytchy.chey!kaiin.dain.ar-
+<f8v.P.6;F>        daiin.cthan-{plant}ytchy.chey.kaiin.dain.ar-
+<f8v.P.6;U>        daiin.cthan-{plant}ytchy.choy!kaiin.dain.ar-
+#
+<f8v.P.7;H>        sho.kchol-{plant}dar.shey.cthar.chotain.ry-
+<f8v.P.7;C>        sho.kchol-{plant}dar.shey.cthar.chotain.ry-
+<f8v.P.7;F>        sho.kchol-{plant}dar.shey.cthar.chotain.ry-
+<f8v.P.7;U>        cho.kchol-{plant}dar.shey.cthar.chotain.ry-
+#
+<f8v.P.8;H>        okchol.ksh-{plant}chol.chol.chol.cthaiin.dain-
+<f8v.P.8;C>        okchol!ksh-{plant}chol.chol.chol.cthaiin.dain-
+<f8v.P.8;F>        okchol.ksh-{plant}chol.chol.chol.cthaiin.dain-
+<f8v.P.8;U>        okchol.ksh-{plant}chol.chol.chol.cthaiin.dain-
+#
+<f8v.P.9;H>        shol.orchl-{plant}chokchy.chol.cthor.chaiin-
+<f8v.P.9;C>        shol.orchl-{plant}chokchy.chol.cthor.chaiin-
+<f8v.P.9;F>        shol.orchl-{plant}chokchy.chol.cthor.chaiin-
+<f8v.P.9;U>        chol.orchl-{plant}chokchy.chol.cthor.chaiin-
+#
+<f8v.P.10;H>       scharchy-{plant}oeesody.kchey.pchy.cpharom-
+<f8v.P.10;C>       scharchy-{plant}oeesody.kchey.pchy.cpharom-
+<f8v.P.10;F>       scharchy-{plant}oeesody.kchey.pchy.cpharom-
+<f8v.P.10;U>       scharchy-{plant}oeesody.kchey.pchy.cpharom-
+#
+<f8v.P.11;H>       sorain={plant}
+<f8v.P.11;C>       sorain={plant}
+<f8v.P.11;F>       sorain={plant}
+<f8v.P.11;U>       sorain={plant}
+#
+<f8v.P.12;H>       pchar.cho.rol.dal-{plant}shear.cheeotaiin.chal.daiin-
+<f8v.P.12;C>       pchar.cho.rol.dal-{plant}shear.chchotaiin.chal.daiin-
+<f8v.P.12;F>       pchar.cho.rol.dal-{plant}shear.cheeotaiin.chal.daiin-
+<f8v.P.12;U>       pchar.cho.rol.dal-{plant}shear-chchotaiin.chal.daiin-
+#
+<f8v.P.13;H>       kchor.otchar.oky-{plant}chokain.keoky.otorchy.satar-
+<f8v.P.13;C>       kchor.otchor.oky-{plant}chokain.keoky.otorchy.sytar-
+<f8v.P.13;F>       kchor.otchar.oky-{plant}chokain.keoky.otorchy.satar-
+<f8v.P.13;U>       kchor.otchar.oky-{plant}chokain.keoky.otorchy.satar-
+#
+<f8v.P.14;H>       shor.okol.lokaiin-{plant}shol.kol.char.cthey.tchy.ckham-
+<f8v.P.14;C>       shor.okol.lokoiin-{plant}shol.kol.char.cthey.tchy.ckham-
+<f8v.P.14;F>       shor.okol.lokaiin-{plant}shol.kol.char.cthey.tchy.ckham-
+<f8v.P.14;U>       shor.okol.lokaiin-{plant}shol.kol.char.cthey.tchy.ckham-
+#
+<f8v.P.15;H>       or.chol.cheen.chcky-{plant}chor.cheain.char.cheeky.chor.ry-
+<f8v.P.15;C>       or.chol.cha!n.ch*!y-{plant}chor.cheain.char.che*!y.chor.ry-
+<f8v.P.15;F>       or.chol.chiin.cheky-{plant}chor.cheain.char.cheeky.chor.ry-
+<f8v.P.15;U>       or.chol.cheeb.cheky-{plant}chor.cheain.char.cheeky.chor.ry-
+#
+<f8v.P.16;H>       chor.chear.chear-{plant}oteey.dchor.chodey.cho.raiin-
+<f8v.P.16;C>       chor.cheor.chear-{plant}oteey.dchor.chodey.cho.raiin-
+<f8v.P.16;F>       chor.cheor.chear-{plant}oteey.dchor.chodey.cho.raiin-
+<f8v.P.16;U>       chor.cheor.chear-{plant}oteey.dchor.chodey.cho.raiin-
+#
+<f8v.P.17;H>       dain.chear.daiin={plant}
+<f8v.P.17;C>       dain.chear.daiin={plant}
+<f8v.P.17;F>       dain.chear.daiin={plant}
+<f8v.P.17;U>       dain.chear.daiin={plant}
+#
+

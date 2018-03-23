@@ -1,0 +1,2647 @@
+<f67r1>          {$I=A $Q=I $P=A}
+# Last edited on 1998-10-09 02:58:09 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f67r1 = IA (Rene) = p119 (Stolfi)
+#   Folio: f67
+#   Panels: f67r1
+#   Bifolio: bI1 = f67+f68
+#   Quire: I (Rene) = IX (Beinecke)
+#
+#   Quire I, first page.
+#
+#   This is the innermost recto panel of a four-panel fold-out.
+#   There seems to be some confusion in the page numbering in this fold-out;
+#   it is also listed as page 120.
+#   [1609.p119|1609.p120]
+#
+#   Newbold plate III, Brumbaugh p66, both of whom call it f.67r
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: A (Rene), cos (Stolfi)
+#   Subject: astronomical
+#   Colors: blue,red,yellow (Reeds)
+#
+# Description:
+#
+#   The page is dominated by a circular diagram, surmounted by a single 
+#   paragraph of text (4 lines).
+#
+#   The diagram is framed by three rings of text, delimited by 
+#   four thin circles.  All three rings are broken at 11:30
+#   by two radial strokes and a decorated design.
+#
+#   At the center of the diagram there is a cicle of small "pearls",
+#   containing a woman's(?) face, with crossed eyes and a bored or
+#   displeased look. The space between them is dark (hair? shadow?).
+#
+#   This small circle is surrounded by elongated triangular spikes, painted
+#   solid dark, forming a 12-pointed star.  The gaps between consecutive
+#   spikes are filled by kite-shaped regions, with the sharp corner pointing 
+inward.
+#   The result is another "fat" star with 12 chubby points and finely serrated 
+outlines.
+#   Each "kite" is split along its diagonal; the clockwise half is painted
+#   solid dark, the other one is filled with little stars.  
+#
+#   The space between the "fat star" and the outer circle is divided into
+#   24 sectors, containing alternately a label and one or two stars.
+#   (The "star" sectors are those aligned with the starry half-kites.)
+#
+#   In the SE corner there is a mark resembling a "9" with "ng" superscript.
+#
+# Comments:
+#
+#   The central face probably represents the moon.
+#
+#   The mark in the SE corner is almost certainly the quire number,
+#   "9th" in abbreviated Latin. 
+#
+## <f67r1.P> {}
+# Text above diagram.
+# Last edited on 1998-12-08 10:57:41 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+<f67r1.P.1;H>      teeodaiin.shey.epairody.osaiin.yteeoey.shey.epaiin.o!aiin-
+<f67r1.P.1;C>      teeodaiin.shey.epainody.osaiin.yta!oey.shey.epaiin.o.aiir-
+<f67r1.P.1;F>      teeodaiin.shey.epairody.osaiin.yteeoey.shey.epaiin.o!aiin-
+<f67r1.P.1;U>      teeodaiin.shey.epairody.osaiin.yteeoey.shey.cpaiin.o,aiin-
+#
+<f67r1.P.2;H>      daiir.okeody.qoeksh!g.sar.oeteody.oteey.keey.keo.keeodal-
+<f67r1.P.2;C>      daiir.okeody.qoekchey.sar.aeteedy.oteey.keey.keo.keeod**-
+<f67r1.P.2;F>      daiir.okeody.qoekeee*.sar.oeteody.oteey.keey.keo.keeodal-
+<f67r1.P.2;G>      daiir.okeody.qoeke!sy.sar.oekeody.oteey.keey.teo.keeodal-
+<f67r1.P.2;U>      daiir.okeody.qoekeesy.sar.oeteody.oteey.keey.keo.keeodal-
+#
+<f67r1.P.3;H>      ycheo.s.o.g.cheos.aiin.okesoe.ar!am.shees.dalaiin.dam-
+<f67r1.P.3;C>      ycheo!s.o.j.eeeor.aiin.okesoe.ar.aj.shchy.dy*aiin.daj-
+<f67r1.P.3;F>      ycheo.s!aim.cheos.aiin.okesoe.ar!am.shees.dalaiin.dam-
+<f67r1.P.3;G>      ycheo.s.aim.cheos.aiin.okesoe.ar.am.shees.dalaiin.dam-
+<f67r1.P.3;U>      ycheo.s.aim.cheos.aiin.okesoe.ar.am.shees.dalaiin.dam-
+#
+<f67r1.P.4;H>      cheo!daiin.chekeey.s!ar.air.s!oar.cheey.dair.cthey=
+<f67r1.P.4;C>      cheo!daiin.!aekeey.s!ar.ain.s!oar.cheey.dain.cthey=
+<f67r1.P.4;F>      cheo.daiin.!aekeey.s!ar.air.s!oar.cheey.dair.cthey=
+<f67r1.P.4;U>      cheo!daiin.chekeey.s,ar.air.s,oar.cheey.dair.cthey=
+#
+## <f67r1.R> {}
+# Circular text around diagram
+# Last edited on 1998-12-26 05:48:00 by stolfi
+#
+# There is a noticeable gap in the word-rings at 11:30.
+# Transcription is clockwise, starting at 11:30}
+#
+# Outer ring
+#
+<f67r1.R.1;H>      
+soairal.shdy.chokeody.ykeedal.ol.oteodaiin.choikhedy.ot.chteokeeiin.choteedy.oto
+r.epchy.chpiir.ar.sheees.!dady.soeteed.octhchy.soeokeot.y.choteoky.chockhy.okees
+.sor.aiin.daram.seeder.chdar.dar.deeschdy.dar.dar.ar.otar.dar.ykaras=
+<f67r1.R.1;C>      
+soainal.shdy.chokeody.ykeedal.ol.oteodaiin.chocthedy.ot.chteoka!iin.choteedy.oto
+r.epchy.chpiir.ar.sheeer.*eedy.soeteed.*cthchy.soe*keot.y.choteoky.chockhy.okees
+.sor.aiin.daraj.seedir.chdar.dar.da!rchdy.dar!dar!ar.otar.dar.okarar=
+#
+# Middle ring
+#
+<f67r1.R.2;H>      
+dair.al.cheol.dal.oekaiin.sol.daiin.eetees.sainn.ykeos.l.chy.otodaiin.chetegy.ot
+ar.daiir.ar.chedar.okeedy.oteodaiin.ychsy.cheteey.ot.dol.al.cheor.okeor.oiin.che
+eky.ary.okeokedr.oshey.shchey.chol.daiir.dain.cho.dar.aldy=
+<f67r1.R.2;C>      
+dair.al.cheol.dal.oekaiin.sol.daiin.eetees.saiin.ykeos.*.chy.otodaiin.chet!jy.ot
+ar.daiir.ar.che*ar.okeedy.otiodaiin.ychry.chekeey.ot.dol.al.cheor.okeor.oiin.che
+eky.ary.okeokedr.ochey.chchey.chol.dai!r.dain.cho.dar.aldy=
+#
+# Inner ring
+#
+<f67r1.R.3;H>      
+archeor.qoikeey.oteeos.cheockhey.oteochedy.okeohdar.dararal.okeosar.sotey.dair.y
+to!y.oteos.oteees.oteo.oteesy.sheokeey.oteodal.chokeed.sar.ainy.oto!keedar.deeet
+y.okeey.teodain.chekchy.dair.chparam=
+<f67r1.R.3;C>      
+aecheor.qoikeey.oteeos.cheocthey.oteochedy.ok!oedar.dararal.okeorar.sotey.dair.y
+teey.oteo.s.otees.oteo.oteeey.sheokeey.oteodal.chokeed.sar.ain!.oto.keedar.deeet
+y.okee!.teodiin.chetchy.dair.chparaj=
+#
+## <f67r1.S> {}
+# Labels in circle sectors
+# Last edited on 1998-12-08 11:00:52 by stolfi
+# clockwise, starting from the North
+#
+<f67r1.S.1;H>      otaldy=
+<f67r1.S.1;C>      otaldy=
+<f67r1.S.1;V>      otaldy=
+#
+<f67r1.S.2;H>      otoky=
+<f67r1.S.2;C>      otoky=
+<f67r1.S.2;V>      otoky=
+#
+<f67r1.S.3;H>      seeoa!r=
+<f67r1.S.3;C>      seeya!r=
+<f67r1.S.3;V>      seeaiir=
+#
+<f67r1.S.4;H>      yka!s.asa=
+<f67r1.S.4;C>      yka!s.asy=
+<f67r1.S.4;V>      ykees.ary=
+#
+<f67r1.S.5;H>      sosaiir=
+<f67r1.S.5;C>      sosainr=
+<f67r1.S.5;V>      sosaiir=
+#
+<f67r1.S.6;H>      oteey.dar=
+<f67r1.S.6;C>      oteey.dar=
+<f67r1.S.6;V>      oteey.dar=
+#
+<f67r1.S.7;H>      yto.daiir=
+<f67r1.S.7;C>      yto!daiir=
+<f67r1.S.7;V>      yto!daiir=
+#
+<f67r1.S.8;H>      sheosam=
+<f67r1.S.8;C>      sheoraj=
+<f67r1.S.8;V>      cheosam=
+#
+<f67r1.S.9;H>      ykeeody=
+<f67r1.S.9;C>      ykeeody=
+<f67r1.S.9;V>      ykeeody=
+#
+<f67r1.S.10;H>     okeol.sal=
+<f67r1.S.10;C>     okeol.sal=
+<f67r1.S.10;V>     okeol.sal=
+#
+<f67r1.S.11;H>     okeey.sar=
+<f67r1.S.11;C>     okeey.sar=
+<f67r1.S.11;V>     okeey.sar=
+#
+<f67r1.S.12;H>     dalary=
+<f67r1.S.12;C>     dalary=
+<f67r1.S.12;V>     dalary=
+#
+<f67r2>          {$I=A $Q=I $P=B}
+# Last edited on 1998-10-19 22:51:25 by stolfi
+#
+# Identification:
+#
+#   Title: "The seven planets"
+#   Page: f67r2 = IB (Rene) = p120 (Stolfi)
+#   Folio: f67
+#   Panels: f67r2
+#   Bifolio: bI1 = f67+f68
+#   Quire: I (Rene) = IX (Beinecke)
+#
+#   This is the outermost recto panel of a four-panel fold-out.
+#   Also listed as page 124
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: A (Rene), cos (Stolfi)
+#   Subject: astronomical
+#   Colors: tan,red(some_writing) (Reeds)
+#
+# Description:
+#
+#   A circular diagram, defined by 7 concentric mechanically drawn
+#   circles.
+#
+#   Circles 1 and 2 (from the outside in) define a narrow band of
+#   decoration, consisting of 24 copies of a "scroll"-like or
+#   "resistor"-like object. Circles 3 and 4 define another narrow
+#   empty band; same for circles 6 and 7.
+#
+#   Between circles 2 and 3 there is a band of coloured (red?) text,
+#   consisting of 12 phrases separated by wide gaps (unit "Y"). They
+#   don't line up perfectly with inner sectors (see below), but appear
+#   to be spaced as if the intent was there.
+#
+#   Between circles 4 and 5 there is a broad band, divided into 12
+#   sectors by straight radial lines, unevenly spaced. Each sector
+#   contains two or three lines of text, reading clockwise, with straight
+#   or curved baselines (unit "C").  
+#
+#   Near the bottom (innner) edge of each sector there is a round moon
+#   with crescent shadow and human face. Seven of the moons have a
+#   label just above (i.e. outwards of) them (unit "L").
+#
+#   This table shows the number of lines in units "C" and "L" and the
+#   moon colours (light/medium/dark), starting from 08:30:
+#
+#     O'clock   08: 09: 10: 11:   00: 01: 02: 03:   04: 05: 06: 07: (+:30)
+#     Number    #01 #02 #03 #04   #05 #06 #07 #08   #09 #10 #11 #12
+# 
+#     C lines   3.5 2.0 3.0 3.0   2.5 2.0 2.0 2.0   2.0 3.0 3.0 3.0
+#     L labels  --  lab --  lab   --  lab lab lab   lab --  --  lab
+#     colours   lt  dk  lt  dk    md  dk  lt  lt    dk  dk  lt  dk 
+#
+#   Between circles 5 and 6 there is a single row of text, containing 12
+#   labels (unit "X"), apparently associated with the sectors and/or
+#   moons in the band above.
+#
+#   Inside circle 7 there is another ring of text, with 8 erratically spaced
+#   labels (unit "Z").
+#
+#   At the center of the diagram there is an eight-pointed star/flower
+#   with an "orange slice" background.  The eight arms are not
+#   particularly aligned with the 8 labels of the innermost text circle.
+#   The star arm at 08:30 has a dotted tail extending out between two
+#   labels.
+#
+#   Below the diagram there is a normal-looking paragraph (unit "P")
+#   with 3.0 lines. According to John Grove these are only lines in
+#   the MS that are ruled.  The center line of text is coloured (red?)
+#   and its strokes seem to be heavier than those of the other two.
+#
+# Comments:
+#
+#   It is possible that the text in all the sectors between radial
+#   lines 10:00 and 5:00 comprises a single paragraph with three and a
+#   half lines. The same can be said of the remaining sectors.
+#
+#   Robert Firth once suggested that the seven named moons may be the
+#   the seven Ptolemaic planets.
+#
+#   Since line 2 of the paragraph is colored, each line is probably
+#   a separate sentence.
+#
+#
+## <f67r2.Y> {}
+# Outer ring of sector titles, clocwise from 12:30
+# Last edited on 1998-12-11 12:55:40 by stolfi
+#
+# "U" transcription by J.Stolfi from scanned image
+# "V" transcription by John Grove
+#
+# The original line numbers were assigned by J.Stolfi 
+# starting from 12:30; they were reassigned on Oct/1998
+# to match Grove's numbering.
+#
+# 08:30
+#
+<f67r2.Y.1;H>      ykchs.ykchos-
+<f67r2.Y.1;U>      ykchs.ykchos-
+<f67r2.Y.1;V>      ykees.ykchos-{Grove's CL.1}
+#
+# 09:30
+#
+<f67r2.Y.2;H>      ykchyr.aram!!!!!!!!!-
+<f67r2.Y.2;U>      ykchyr.ara**{aramr?}-
+<f67r2.Y.2;V>      ykchys.aram!!!!!!!!!-{Grove's CL.2}
+#
+# 10:30
+#
+<f67r2.Y.3;H>      ykecho.ols.eesy!dy-
+<f67r2.Y.3;U>      ykecho.ols,eesy!dy-
+<f67r2.Y.3;V>      ykecho.ols.eesy.dy-{Grove's CL.3}
+#
+# 11:30
+#
+<f67r2.Y.4;H>      soy.shr.okar-
+<f67r2.Y.4;U>      soy,shr.okar-
+<f67r2.Y.4;V>      soy.shr.okar-{Grove's CL.4}
+#
+# 00:30
+#
+<f67r2.Y.5;H>      shekchy.*!!!ykor-
+<f67r2.Y.5;U>      shekchy.r{?}ykor-
+<f67r2.Y.5;V>      shekchy.r!!!ykos-{Grove's CL.5}
+#
+# 01:30
+#
+<f67r2.Y.6;H>      ykeody.okchy-
+<f67r2.Y.6;U>      ykeody.okchy-
+<f67r2.Y.6;V>      ykeody.okchy-{Grove's CL.6}
+#
+# 02:30
+#
+<f67r2.Y.7;H>      dchetdy!!!!!!!!!!!!!-
+<f67r2.Y.7;U>      dchetdy!!!!!!!!!!!!!-
+<f67r2.Y.7;V>      dchetdy{page curled}-{Grove's CL.7}
+#
+# 03:30
+#
+<f67r2.Y.8;H>      !!!!!!!!!!rfchykchey.ykchys-
+<f67r2.Y.8;U>      !!!!!!!!!!ykchykchey.ykchys-
+<f67r2.Y.8;V>      {page curled}***chey.ykchds-{Grove's CL.8}
+#
+# 04:30
+#
+<f67r2.Y.9;H>      chkch!!!dar-
+<f67r2.Y.9;U>      chkch{?}dar-
+<f67r2.Y.9;V>      chkch!!!dar-{Grove's CL.9}
+#
+# 05:30
+#
+<f67r2.Y.10;H>     ykar.ykaly-
+<f67r2.Y.10;U>     ykor.ykaly-
+<f67r2.Y.10;V>     ykar.ykaly-{Grove's CL.10}
+#                  
+# 06:30            
+#                  
+<f67r2.Y.11;H>     lkshykchy.okar-
+<f67r2.Y.11;U>     lkshykchy.okar-
+<f67r2.Y.11;V>     lkshykchy.okar-{Grove's CL.11}
+#                  
+# 07:30            
+#                  
+<f67r2.Y.12;H>     chky.chykchr.chy-
+<f67r2.Y.12;U>     chky.chykchr,chy-
+<f67r2.Y.12;V>     chky.chykchs.chy-{Grove's CL.12}
+#
+## <f67r2.C> {}
+# Texts in circle sectors, clockwise from 10:00 o'clock radiual line.
+# Last edited on 1998-12-08 11:02:57 by stolfi
+#
+# "U" transcription by J.Stolfi from unidentified scan
+# "V" transcription by John Grove.
+#
+# It may be that lines 27-32 and 1-11 constitute a single paragraph
+# with two lines and half, and ditto for lines 12-26. However, the
+# 08:30 sector has four lines, whereas 07:30 has three and 09:30 has
+# two. So the reading order used below (by sector) is probably the
+# correct one.
+#
+# The line numbers were reassigned on Oct/1998 to match Grove's. 
+#
+# 08:30            
+#
+<f67r2.C.1a;H>     todaiin.dain.dy-
+<f67r2.C.1a;U>     todaiin.dain,dy-
+<f67r2.C.1a;V>     todaiin.dain.dy-{Grove's T1.1}
+#        
+<f67r2.C.1b;H>     orchoer.aiin-
+<f67r2.C.1b;U>     orchoer.aiin-
+<f67r2.C.1b;V>     oschoer.aiin-{Grove's T1.2}
+#        
+<f67r2.C.1c;H>     choeey.s!ar-
+<f67r2.C.1c;U>     choeeo!d!ol-
+<f67r2.C.1c;V>     choeey.s.al-{Grove's T1.3}
+#        
+<f67r2.C.1d;H>     dacsa*ry*=
+<f67r2.C.1d;U>     do***!!!!=
+<f67r2.C.1d;V>     daesa***!={Grove's T1.4}
+#
+# 09:30            
+#
+<f67r2.C.2a;H>     opodchol.d!ain.aldy-
+<f67r2.C.2a;U>     opodeeol.s!a*!.aldy-
+<f67r2.C.2a;V>     opodeeol.s.ain.aldy-{Grove's T2.1}
+#
+<f67r2.C.2b;H>     sochy.doiin.oldy=
+<f67r2.C.2b;U>     soeeo.daiin.oldy=
+<f67r2.C.2b;V>     soeey.daiin.oldy={Grove's T2.2}
+#
+# 10:30            
+#
+<f67r2.C.3a;H>     odaii!n.otocs.oekain.y-
+<f67r2.C.3a;U>     odaiiin.otoes.oekain.y-
+<f67r2.C.3a;V>     od*ai!n.otoes.oekain.y-{Grove's T3.1}
+#
+<f67r2.C.3b;H>     otchoy.so!raiis.dy-
+<f67r2.C.3b;U>     otchey.so!raiir.dy-
+<f67r2.C.3b;V>     otchey.so.raiir.dy-{Grove's T3.2}
+#
+<f67r2.C.3c;H>     qofchy.daiin.dal=
+<f67r2.C.3c;U>     qofchy.daiin.d*l=
+<f67r2.C.3c;V>     qofchy.daiin.dal={Grove's T3.3}
+#
+# 11:30           
+#
+<f67r2.C.4a;H>     ydchos.ain.ar.amy-
+<f67r2.C.4a;U>     ydchos.ain.ar.amy-
+<f67r2.C.4a;V>     ydchos.ain.ar.amy-{Grove's T4.1}
+#
+<f67r2.C.4b;H>     chocfhy.saral-
+<f67r2.C.4b;U>     chocfhy.saral-
+<f67r2.C.4b;V>     chocfhy.saral-{Grove's T4.2}
+#
+<f67r2.C.4c;H>     rain.am.or=
+<f67r2.C.4c;U>     rain.am,ar=
+<f67r2.C.4c;V>     sain.am,ar={Grove's T4.3}
+#
+# 00:30
+#
+<f67r2.C.5a;H>     eoporchy.salsoiin-
+<f67r2.C.5a;U>     !oporchy.salsai!n-
+<f67r2.C.5a;V>     !oparchy.salsai!n-{Grove's T5.1}
+#
+<f67r2.C.5b;H>     sodar.ofor.ar-
+<f67r2.C.5b;U>     sodar.ofor.or-
+<f67r2.C.5b;V>     sodar.ofar.ar-{Grove's T5.2}
+#
+<f67r2.C.5c;H>     ydag=
+<f67r2.C.5c;U>     ydam=
+<f67r2.C.5c;V>     ydam={Grove's T5.3}
+#
+# 01:30            
+#
+<f67r2.C.6a;H>     yteoor.yto.ykor-
+<f67r2.C.6a;U>     yteoor.yto.ykor-
+<f67r2.C.6a;V>     yteods.yto.ykor-{Grove's T6.1}
+#                  
+<f67r2.C.6b;H>     okeo!r.aiin.am=
+<f67r2.C.6b;U>     okeo,r.aiin.am=
+<f67r2.C.6b;V>     okeo!r.aiin.am={Grove's T6.2}
+#
+# 02:30            
+#
+<f67r2.C.7a;H>     ytody.s!aiin-
+<f67r2.C.7a;U>     ytody.d!aiin-
+<f67r2.C.7a;V>     ytody.s.aiin-{Grove's T7.1}
+#                  
+<f67r2.C.7b;H>     ochol.olol=
+<f67r2.C.7b;U>     ochol.olol=
+<f67r2.C.7b;V>     ochol.olol={Grove's T7.2}
+#
+# 03:30            
+#
+<f67r2.C.8a;H>     dorar.odar.ais.aloiin-
+<f67r2.C.8a;U>     dorar,odar.air,aloiin-
+<f67r2.C.8a;V>     dorar.odar.air.alaiin-{Grove's T8.1}
+#                  
+<f67r2.C.8b;H>     dakan.osar.odal=
+<f67r2.C.8b;U>     dokan.oear.odal=
+<f67r2.C.8b;V>     dokan.oear.odal={Grove's T8.2}
+#
+# 04:30            
+#
+<f67r2.C.9a;H>     chol.daiin.okol-
+<f67r2.C.9a;U>     chol.dii!n.okol-
+<f67r2.C.9a;V>     chol.dii!n.okol-{Grove's T9.1}
+#
+<f67r2.C.9b;H>     ytor.daiin.or=
+<f67r2.C.9b;U>     ytor.daiin.or=
+<f67r2.C.9b;V>     ytor.daiin.or={Grove's T9.2}
+#
+# 05:30            
+#
+<f67r2.C.10a;H>    otoldos.octhole-
+<f67r2.C.10a;U>    otoldos.octhola-
+<f67r2.C.10a;V>    otoldos.octhole-{Grove's T10.1}
+#                  
+<f67r2.C.10b;H>    sor.chedaiin.dy-
+<f67r2.C.10b;U>    sor.chedaiin.dy-
+<f67r2.C.10b;V>    sor.chedaiin.dy-{Grove's T10.2}
+#                  
+<f67r2.C.10c;H>    yteos.oiin.om=
+<f67r2.C.10c;U>    yteos.aiin.am=
+<f67r2.C.10c;V>    yteos.oiin.og={Grove's T10.3}
+#
+# 06:30            
+#
+<f67r2.C.11a;H>    ytoeopchey.chekody-
+<f67r2.C.11a;U>    ytoeopchey.chekody-
+<f67r2.C.11a;V>    ytoeopchey.chekody-{Grove's T11.1}
+#                   
+<f67r2.C.11b;H>    soshe.chos.ockhy-
+<f67r2.C.11b;U>    socho.chos.ockhy-
+<f67r2.C.11b;V>    sosho.chos.ockhy-{Grove's T11.2}
+#                   
+<f67r2.C.11c;H>    daiin.aiin.os.yrl=
+<f67r2.C.11c;U>    daiin.aiin.os.q**=
+<f67r2.C.11c;V>    daiin.aiin.os.qrm={Grove's T11.3}
+#
+# 07:30            
+#
+<f67r2.C.12a;H>    ofydy.sheody.aiin-
+<f67r2.C.12a;U>    ofydy.sheody.aiin-
+<f67r2.C.12a;V>    ofydy.sheody.aiin-{Grove's T12.1}
+#                   
+<f67r2.C.12b;H>    ycheody.es.odaiiin-
+<f67r2.C.12b;U>    ycheody,es.odaiiin-
+<f67r2.C.12b;V>    ysheody!es.odaiiin-{Grove's T12.2}
+#                   
+<f67r2.C.12c;H>    yekees.oraly=
+<f67r2.C.12c;U>    yekees.oraly=
+<f67r2.C.12c;V>    yekees.oraly={Grove's T12.3}
+#
+## <f67r2.L> {}
+# Circle of seven labels (or "titles") above some of the moons
+# Last edited on 1998-12-27 23:37:11 by stolfi
+#
+# "Z" transcription from a message by R. Zandberger, entered by J. Stolfi
+# "V" transcription by John Grove.
+# "U" transcription by J.Stolfi from a scanned image.
+# 
+# Transcribed clockwise from 08:30.
+# The original label numbers were assigned by J. Stolfi from 11:30;
+# they were renumbered on Oct/1998 to match Grove's numbering.
+# 
+# Robert Firth once suggested that these labels may be the names
+# of the seven Ptolemaic planets.
+#
+# moon at 09:30, dark coloured
+<f67r2.L.2;H>      dylchsody=
+<f67r2.L.2;V>      dalchsody={Grove's T2.T}
+<f67r2.L.2;Z>      dolchsody=
+<f67r2.L.2;U>      dolchsody=
+#
+# moon at 11:30, dark coloured; the Sun?
+<f67r2.L.4;H>      okal=
+<f67r2.L.4;V>      okal={Grove's T4.T}
+<f67r2.L.4;Z>      okal=
+<f67r2.L.4;U>      okal=
+#
+# moon at 01:30, dark coloured
+<f67r2.L.6;H>      okain.am=
+<f67r2.L.6;V>      okain.am={Grove's T6.T}
+<f67r2.L.6;Z>      okain.am=
+<f67r2.L.6;U>      okain.am=
+#
+# moon at 02:30, light coloured
+<f67r2.L.7;H>      opchol!dy=
+<f67r2.L.7;V>      opchol!dy={Grove's T7.T}
+<f67r2.L.7;Z>      opchol!dy=
+<f67r2.L.7;U>      opchol,dy=
+#
+# moon at 03:30, light coloured
+<f67r2.L.8;H>      dfar.oeolda!n=
+<f67r2.L.8;V>      ofar.oeolda!n={Grove's T8.T}
+<f67r2.L.8;Z>      ofar,oeoldain=
+<f67r2.L.8;U>      ofar,oeolda!n=
+#
+# moon at 04:30, dark coloured
+<f67r2.L.9;H>      ytoaiin=
+<f67r2.L.9;V>      ytoaiin={Grove's T9.T}
+<f67r2.L.9;Z>      ytoaiin=
+<f67r2.L.9;U>      ytoaiin=
+#
+# moon at 07:30, dark coloured
+<f67r2.L.12;H>     yfain=
+<f67r2.L.12;V>     yfain={Grove's T12.T}
+<f67r2.L.12;Z>     yfain=
+<f67r2.L.12;U>     yfain=
+#
+## <f67r2.X> {}
+# Circle of 12 labels under the moons; clockwise from 08:30
+# Last edited on 1998-12-08 11:05:40 by stolfi
+#
+# "U" transcription by J.Stolfi from an unidentified scan.
+# "V" trancription by John Grove.
+#
+# The original line numbers were assigned by J.Stolfi 
+# starting from 11:30; they were reassigned on Oct/1998
+# to match Grove's numbering.
+#
+# 08:30 moon 10, light coloured, no label above
+<f67r2.X.1;H>      okadar=
+<f67r2.X.1;V>      okadar={Grove's L1}
+<f67r2.X.1;U>      okodar=
+#
+# 09:30 moon 11, dark coloured
+<f67r2.X.2;H>      qotoear=
+<f67r2.X.2;V>      qotoear={Grove's L2 }
+<f67r2.X.2;U>      qotoear=
+#
+# 10:30 moon 12, light coloured, no label above
+<f67r2.X.3;H>      dchodar=
+<f67r2.X.3;V>      dchodar={Grove's L3}
+<f67r2.X.3;U>      dchodar=
+#
+# 11:30 moon 1, dark coloured
+<f67r2.X.4;H>      ysaldal=
+<f67r2.X.4;V>      ysaldal={Grove's L4}
+<f67r2.X.4;U>      yroldal=  
+#
+# 00:30 moon 2, medium coloured, no label above
+<f67r2.X.5;H>      ytodal=
+<f67r2.X.5;V>      ytodal={Grove's L5}
+<f67r2.X.5;U>      ytodal=
+#
+# 01:30 moon 3, dark coloured
+<f67r2.X.6;H>      tol.daiin=
+<f67r2.X.6;V>      tol!daiin={Grove's L6}
+<f67r2.X.6;U>      tol!daiin=
+#
+# 02:30 moon 4, light coloured
+<f67r2.X.7;H>      otardy=
+<f67r2.X.7;V>      otardy={Grove's L7}
+<f67r2.X.7;U>      otardy=
+#
+# 03:30 moon 5, light coloured
+<f67r2.X.8;H>      chodalg=
+<f67r2.X.8;V>      chodalg={Grove's L8}
+<f67r2.X.8;U>      chodalm=
+#
+# 04:30 moon 6, dark coloured
+<f67r2.X.9;H>      ytchodyy=
+<f67r2.X.9;V>      ytchodly={Grove's L9}
+<f67r2.X.9;U>      ytchodly=
+#
+# 05:30 moon 7, dark coloured, no label above
+<f67r2.X.10;H>     octhys=
+<f67r2.X.10;V>     ockhds={Grove's L10}
+<f67r2.X.10;U>     yckhyr=
+#
+# 06:30 moon 8, light coloured, no label above
+<f67r2.X.11;H>     ytokar=
+<f67r2.X.11;V>     ytotar={Grove's L11}
+<f67r2.X.11;U>     ytokar=
+#
+# 07:30 moon 9, dark coloured
+<f67r2.X.12;H>     otolor=
+<f67r2.X.12;V>     otolor={Grove's L12}
+<f67r2.X.12;U>     otolor=
+#
+## <f67r2.Z> {}
+# Circle of 8 labels around central star/flower.
+# Last edited on 1998-12-11 12:56:57 by stolfi
+#
+# "U" transcription by J.Stolfi from an unidentified scan.
+# "V" transcription by John Grove.
+# 
+# Transcribed clockwise beginning at 'dotted tail' 
+# from central 'star' (at 08:30).
+#
+# 09:00
+<f67r2.Z.1;H>      s.air=
+<f67r2.Z.1;U>      s.air=
+<f67r2.Z.1;V>      s.air=
+# 10:30
+#
+<f67r2.Z.2;H>      so!eor=
+<f67r2.Z.2;U>      so*!ar=
+<f67r2.Z.2;V>      sochar=
+# 00:30
+#
+<f67r2.Z.3;H>      cpheey=
+<f67r2.Z.3;U>      cfheey=
+<f67r2.Z.3;V>      cpheey=
+# 02:30
+#
+<f67r2.Z.4;H>      okodas=
+<f67r2.Z.4;U>      okodar=
+<f67r2.Z.4;V>      otolas=
+# 03:30
+#
+<f67r2.Z.5;H>      oepcho!l=
+<f67r2.Z.5;U>      ocpheo!d=
+<f67r2.Z.5;V>      oepcha*s=
+# 05:30
+#
+<f67r2.Z.6;H>      s!acthhy=
+<f67r2.Z.6;U>      s.acthey=
+<f67r2.Z.6;V>      !!acthey=
+# 07:00
+#
+<f67r2.Z.7;H>      osar=
+<f67r2.Z.7;U>      osar=
+<f67r2.Z.7;V>      osar=
+# 08:00
+#
+<f67r2.Z.8;H>      oran=
+<f67r2.Z.8;U>      oran=
+<f67r2.Z.8;V>      oran=
+#
+## <f67r2.P> {}
+# Text below diagram.
+# Last edited on 1998-12-08 11:05:14 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+# "V" transcription by John Grove.
+#
+# Grove says this is the only text in the VMS that is ruled.
+# Line 2 is colored (red?).
+#
+<f67r2.P.1;H>      
+dar.aldaiin.ydaiin.q!koy.ydaiin.qofair.ypair.ykoaiin.y!doly.ytalchos.oly.okey!!!
+!!!!!!!!-
+<f67r2.P.1;F>      
+dar.aldaiin.ydaiin.q!koy.ydaiin.qofair.ypair.ykoaiin.y!doly.ytalchoe.oly.akey!!!
+!!!!!!!!-
+<f67r2.P.1;G>      
+dar.aldaiin.ydaiin.q!koy.ydaiin.qofair.!!!!!!ykoaiin.y!doly.ytalchos.oly.okey!!!
+!!!!!!!!-
+<f67r2.P.1;U>      
+dar.aldaiin.ydaiin.q!koy.ydaiin.qofair.ypair.ykoaiin.y,doly.ytalchos.oly.okey!!!
+!!!!!!!!-
+<f67r2.P.1;V>      
+dar.aldaiin.ydaiin.qckoy.ydaiin.qofair.ypair.ykoaiin.y!doly.ytalchol.aly.yk{page 
+curled}-
+#
+<f67r2.P.2;H>      
+s!shey.syshees.qeykeey.ykchey.ykchey.qokeochy.oaiin.okal!ar.ol!!!!!!!!!!!!!-
+<f67r2.P.2;F>      
+s!shey.syshees.qoykeey.ykchey.ykchey.qokeochy.oaiin.okal.ar.ol!am!!!!!!!!!!-
+<f67r2.P.2;G>      
+s!shey.syshees.qeykeey.ykchey.ykchey.qokeochy.oaiin.okal.ar.ol!!!!!!!!!!!!!-
+<f67r2.P.2;U>      
+s,shey.syshees.qeykeey.ykchey.ykchey.qokeochy.oaiin.okol.ar.ol,**!!!!!!!!!!-
+<f67r2.P.2;V>      
+s!shey.syshees.qeykeey.ykchey.ykchey.qokeochy.oaiin.okol!ar.ol{page curled}-
+#
+<f67r2.P.3;H>      
+yshey.qokeeody.cheos.oeeos.qockhy.chos.aiin.okeeody.qokoaiin.odaiin.ar.oirsg!!!!
+!!!!!!!=
+<f67r2.P.3;F>      
+yshey.qokeeody.cheos.oeeos.qockhy.chos.aiin.okeeody.qokoaiin.odaiin.ar.air**!!!!
+!!!!!!!=
+<f67r2.P.3;G>      
+yshey.qokeeody.cheos.oeeos.qockhy.chos.aiin.okeeody.qokoaiin.odaiin.ar.oir!!!!!!
+!!!!!!!=
+<f67r2.P.3;U>      
+yshey.qokeeody.cheos.oeeos.qockhy.chos.aiin.okeeody.qokoaiin.odai!n.ar.oir.**!!!
+!!!!!!!=
+<f67r2.P.3;V>      
+yshey.qokeeody.cheab.aeeos.qockhy.chos.aiin.okeeady.qokoaiin.odai!n.ar.air{page 
+curled}=
+#
+<f67v2>          {$I=C $Q=I $P=C}
+# Last edited on 1998-10-28 23:38:37 by stolfi
+#
+# Identification:
+#
+#   Title: "Four constellations with faces"
+#   Page: f67v2 = IC (Rene) = p121 (Stolfi)
+#   Folio: f67
+#   Panels: f67v2
+#   Bifolio: bI1 = f67+f68
+#   Quire: I (Rene) = IX (Beinecke)
+#
+#   This is the outermost verso panel of a four-panel fold-out.
+#
+#   Machine-translated by Roe, 6th September 1993 from transcription in
+#   Bennett notation dated April 1990.
+#
+#   This is plate XX in Newbold, and plate IV in Manly31. Newbold's
+#   folio number scheme has this as 67r.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: C (Rene), cos (Stolfi)
+#   Subject: cosmological
+#   Colors: green,red,yellow,blue (Reeds)
+#
+# Description:
+#
+#   A circular diagram with four smaller circular medallions touching
+#   it at the NE, SE, SW and NW corners.
+#
+#   The main diagram is framed by a band delimited by two faint,
+#   concentric, mechanically drawn circles, centered on the page. The
+#   outer circle touches the vertical edges of the page.
+#
+#   Between these two circles there are four "captions", North, South,
+#   East and West (text units "C1", "C2", "C3", and "C4",
+#   respectively), each in two short lines, reading clockwise.
+# 
+#   In the center of the large diagram there is an irregular square,
+#   within which is inscribed another circle, within which is a star
+#   with 6 or 7 arms. The space between the star and the circle is
+#   filled with "spiral galaxy" hatching, whose "arms" bend
+#   counterclockwise-out. There are two words above the square
+#   (unit "S1") and another two below it (unit "S2").
+#
+#   From the square, lines radiate out in the E, S, W, and N
+#   directions. Each of these four lines is labeled (units "L1"
+#   through "L4") and terminates with a branching structure.
+#
+#   Lines come in towards the square from the perimeter of the large
+#   circle in the NW, NE, SE and SW direction. Each of these four
+#   lines is labeled (units "L5" through "L8") and terminates with a
+#   branching structure. Nested in these structures are two suns (NW
+#   and SE) and two moons (NE and SW), all with faces.
+#
+#   The small circles in the corners contain between three and four
+#   human faces, joined by lines. NE circle: four faces connected by a
+#   cross, and one label (unit "F2"). SE circle: four faces, in "L"
+#   pattern (with the second face centered on the vertical and wearing
+#   a pointy hat), and one label (unit "F1"). SW circle: four faces at each
+#   point of a square "U", on a coloured background; the two on the
+#   bottom of the "U" are upside down. (John Grove speculates that
+#   there is a fourth face hidden behind the first one on L5). NW
+#   circle: three circular faces with one face on each point of a
+#   reversed "4".
+#
+# Comments:
+#
+#   This is the folio Newbold claimed showed an annular eclipse. See
+#   also John Manley's 1931 article in Speculum: ``Furthermore, I
+#   invite the reader to examine carefully Plate IV and say whether it
+#   bears any resemblance whatever to an annular eclipse.''
+#
+#
+## <f67v2.F> {}
+# Labels inside outer circles 
+# Last edited on 1998-12-26 09:34:01 by stolfi
+#
+# "V" transcription by J. Grove
+# "U" transcription by J. Stolfi from scanned image
+#
+# NE circle, with four faces connected by crossed line +
+#
+<f67v2.F.1;H>      otararain=
+<f67v2.F.1;V>      otarara**=
+<f67v2.F.1;U>      otararain=
+#
+# SE small circle with four faces in series in L shape
+#
+<f67v2.F.2;H>      okchos!am=
+<f67v2.F.2;C>      okch*schj=
+<f67v2.F.2;V>      okchos.am=
+<f67v2.F.2;U>      okchos.am=
+#
+# SW circle, with faces
+# Not transcribed yet - cropped out of some reproductions
+#
+<f67v2.F.3;U>      %%%%%%%%%=
+#
+# NW circle, with faces
+# Not transcribed yet - cropped out of some reproductions
+#
+<f67v2.F.4;U>      %%%%%%%%%=
+## <f67v2.C> {}
+# Two-line paragrapgs around large circle
+# Last edited on 1998-12-26 05:59:57 by stolfi
+#
+# "V" transcription by J. Grove, posted 1998-08-11
+# "U" transcription by J. Stolfi from scanned image
+#
+# North
+#
+<f67v2.C.1a;H>     tol.or.oir.om.otoly.eain.m-
+<f67v2.C.1a;C>     tol.or.oir.aj.otoly.eair.j-
+<f67v2.C.1a;V>     tol.or.air.am.otoly.ea!r.g-
+<f67v2.C.1a;U>     tol.or.air.am.otoly.sa!r.g-
+#
+<f67v2.C.1b;H>     daiin.taedaiin.or.okor=
+<f67v2.C.1b;C>     daiin.tasdaiin.or.okor=
+<f67v2.C.1b;V>     daiin.taedaiin.or.okor=
+<f67v2.C.1b;U>     daiin.taedaiin.or.okor=
+#
+# East
+#
+<f67v2.C.2a;H>     okeey.keoy.osalal-
+<f67v2.C.2a;C>     ***{Illegible}!!!-
+<f67v2.C.2a;V>     okeey.kedy.!!alal-
+<f67v2.C.2a;U>     okeey.keey.!ralal-
+#
+<f67v2.C.2b;H>     ykyral.am.oralady.odam=
+<f67v2.C.2b;C>     ***{Illegible}!!!!!!!!=
+<f67v2.C.2b;V>     okaral!am.olalad!.odam=
+<f67v2.C.2b;U>     okaral!am.olalady.odam=
+#
+# South
+#
+<f67v2.C.3a;H>     toal.daim.sakar.dam-
+<f67v2.C.3a;C>     taol.daij.rakar.daj-
+<f67v2.C.3a;V>     taol.daig.sakar.dam-
+<f67v2.C.3a;U>     toal.daig.rakar.dam-
+#
+<f67v2.C.3b;H>     solair.cfhey.solal.daly=
+<f67v2.C.3b;C>     so*ain.cph!y.solal.daly=
+<f67v2.C.3b;V>     solair.cphey.solal.daly=
+<f67v2.C.3b;U>     solair.cfhey.solal.daly=
+#
+# West
+#
+<f67v2.C.4a;H>     okeol.chol.ar.okol.dam-
+<f67v2.C.4a;C>     ***{Illegible}!!!!!!!!-
+<f67v2.C.4a;V>     okeol.chol.ar.okal!dam-
+#
+<f67v2.C.4b;H>     koaiin.ofyl.ol.ofalaiin.oar=
+<f67v2.C.4b;C>     ***{Illegible}!!!!!!!!!!!!!=
+<f67v2.C.4b;V>     koaiin.ofal.ol.opalaiin!oar=
+#
+## <f67v2.R>  {}
+# Radial labels - inward
+# Last edited on 1998-12-11 12:57:32 by stolfi
+#
+# "V" transcription by J. Grove, posted 1998-08-11
+# "U" transcription by J. Stolfi from scanned image
+#
+# Label on line NW (ending with sun)
+<f67v2.R.5;H>      o*eeey.oekchdy=
+<f67v2.R.5;C>      ekeeey.*ekeedy=
+<f67v2.R.5;V>      okeeey.oekchdy=
+<f67v2.R.5;U>      okeeey.oekchdy=
+#
+# Label on line NE (ending with moon)
+<f67v2.R.6;H>      oeola.les.airar=
+<f67v2.R.6;C>      oeola!les.airar=
+<f67v2.R.6;V>      oeola!les.airar=
+<f67v2.R.6;U>      oeola!les.airar=
+#
+# Label on line SE (ending with sun)
+<f67v2.R.7;H>      oar.ykalo.char=
+<f67v2.R.7;C>      oin.ykaly.char=
+<f67v2.R.7;V>      oar.ykaly.char=
+<f67v2.R.7;U>      oar.ykaly.char=
+#
+# Label on line SW (ending with moon)
+<f67v2.R.8;H>      okar!alet.olkao!=
+<f67v2.R.8;C>      okar.alet.olkao!=
+<f67v2.R.8;V>      okar.alet.olkao!=
+<f67v2.R.8;U>      okar.alct.olkain=
+#
+## <f67v2.L> {}
+# radial labels out from the center
+# Last edited on 1998-12-11 12:57:19 by stolfi
+#
+# "V" transcription by J. Grove, posted 1998-08-11 (unit L2 in his numbering)
+# "U" transcription by J. Stolfi from scanned image
+#
+# Label on line East from central square 
+<f67v2.L.1;H>      okydseog.oa!foaly=
+<f67v2.L.1;C>      okydseoj.oeepoaly=
+<f67v2.L.1;V>      okydsham.oiipoaly=
+<f67v2.L.1;U>      okydshom.oeepoaly=
+#
+# Label on line South from central square
+<f67v2.L.2;H>      ocs.ekais.okolarm=
+<f67v2.L.2;C>      o.chekair.okolinj=
+<f67v2.L.2;V>      o.chekais.okolaig=
+<f67v2.L.2;U>      o.chekair.okolaig=
+#
+# Label on line West from central square
+<f67v2.L.3;H>      qokoaiis.ocfhhy=
+<f67v2.L.3;C>      qokoaiin.ockhey=
+<f67v2.L.3;V>      qokoaiin.ockhhy=
+<f67v2.L.3;U>      qokoaiin.ockhey=
+#
+# Label on line North from central square
+<f67v2.L.4;H>      dcsesor.ochepalain=
+<f67v2.L.4;C>      dcheeor.ochepalain=
+<f67v2.L.4;V>      dcheeor.ochepalain=
+<f67v2.L.4;U>      dcheeor.ochepalain=
+#
+## <f67v2.S> {}
+# Labels next to central square
+# Last edited on 1998-12-26 06:02:05 by stolfi
+#
+# "V" transcription by J. Grove
+# "U" transcription by J. Stolfi from scanned image
+#
+# North side
+#
+<f67v2.S.1;H>      soaiin-{plant}dalam=
+<f67v2.S.1;C>      soaiin-{plant}dolaj=
+<f67v2.S.1;V>      soeiin-{plant}dalam=
+<f67v2.S.1;U>      soaiin-{plant}dalam=
+#
+# South side
+#
+<f67v2.S.2;H>      sory-{plant}okoral=
+<f67v2.S.2;C>      soly-{plant}okorad=
+<f67v2.S.2;V>      sary-{plant}okoral=
+<f67v2.S.2;U>      sary-{plant}okoral=
+#
+<f67v1>          {$I=A $Q=I $P=D}
+# Last edited on 1998-10-20 00:07:31 by stolfi
+#
+# Identification:
+#
+#   Title: "Happy sun"
+#   Page: f67v1 = ID (Rene) = p122 (Stolfi)
+#   Folio: f67
+#   Panels: f67v1
+#   Bifolio: bI1 = f67+f68
+#   Quire: I (Rene) = IX (Beinecke)
+#
+#   This is the innermost verso panel of a four-panel fold-out
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: A (Rene), cos (Stolfi)
+#   Subject: astronomical
+#   Colors: yellow(most_stars),green(some_stars) (Reeds)
+#
+# Description:
+#
+#   The page contains only a circular diagram. At the center there is
+#   a large sun with 18 narrow undulating rays (with two of them
+#   joined; see below). The sun has a face with a short "frame" beard,
+#   broad smile, crossed eyes, a skullcap. At the temples, two locks
+#   of light wavy hair escape from under the cap.
+#
+#   There are 17 short titles radiating out of the center, towards the
+#   diagram's outer frame (unit "Y"). Each of these radial titles
+#   starts near the tip of a sun ray, except for the title at 02:00,
+#   which is connected by thin wavy lines to the tips of two sun rays,
+#   at 02:00 and 02:30. The text reads outwards, so it is upside down
+#   from 06:30 through 11:30.
+#
+#   In each sector between consecutive radial titles there are from
+#   one to four stars, 39 in total. Clockwise from the double sun ray,
+#   the counts per sector are
+#
+#                     *                
+#     *             * *     * *        
+#     * *   * * * * * * * * * * * * * *
+#     * * * * * * * * * * * * * * * * *
+#     3 2 1 2 2 2 2 3 4 2 2 3 3 2 2 2 2
+#
+#   Around the diagram there is a narrow band divided into segments, 6
+#   at the top and 6 at the bottom. The band has wide gaps at left and
+#   right, where it gets too near the margin. Each segment contains a
+#   label enclosed in a decorative frame (unit "X"). 
+#
+# Comments:
+#
+#   The double ray may be where the stext starts. This guess is
+#   supported by the line-initial EVA "p". (There is another "p" at
+#   04:15 and an "f" at 06:30, but they are not line-initial.)
+#
+#   It is not certain that the labels in the outer band are
+#   associated with the rays.  The gap on the left side is 
+#   definitely empty, and that on the right appears to be so.
+#   Thus there are only 12, or at most 14, labels in the band.
+#
+#   The decoration in the outer band includes 24 copies of the
+#   "notched square" symbol, with double vertical edges.
+#   
+#
+## <f67v1.X> {}
+# Labels around outer band
+# Last edited on 1998-12-24 21:15:19 by stolfi
+#
+# "V" transcription by J. Grove
+# "U" transcription by J. Stolfi from scanned image
+#
+# Numbered clockwise from double ray at 02:00
+# 
+# The original line numbers were assigned by J.Stolfi 
+# starting from 10:30; they were reassigned on Oct/1998
+# to match Grove's numbering, and the radial line numbers
+# in unit "Y".
+#
+# at 02:00 (double sun ray; last visible label in top half)
+#
+<f67v1.X.1;H>      dch*sy!kchy!!!!!=
+<f67v1.X.1;U>      dchedy,kchy!!!!!=
+<f67v1.X.1;V>      d**{curled page}=
+#
+# gap next to right edge (binding gutter)
+#
+# There seems to be no label at 03:05; it would have been <f67v1.X.2>
+#
+# There seems to be no label at 03:30; it would have been <f67v1.X.3>
+#
+# at 04:05 (first visible label in bottom half)
+# 
+<f67v1.X.4;H>      ykeodar=
+<f67v1.X.4;U>      ykeodar=
+<f67v1.X.4;V>      ykeodar=
+#
+# At 04:45
+<f67v1.X.5;H>      dechoe!kol=
+<f67v1.X.5;U>      dcheor,kal=
+<f67v1.X.5;V>      dcheoe!kal=
+#
+# At 05:30
+<f67v1.X.6;H>      ockh!o!sam=
+<f67v1.X.6;U>      ockheo.sam=
+<f67v1.X.6;V>      ockheo!sam=
+#
+# At 06:30
+<f67v1.X.7;H>      kochar!dy=
+<f67v1.X.7;U>      kochar,dy=
+<f67v1.X.7;V>      kochar!dy=
+#
+# At 07:15
+<f67v1.X.8;H>      ochodare=
+<f67v1.X.8;U>      ochodars=
+<f67v1.X.8;V>      ochodale=
+#
+# At 07:45
+<f67v1.X.9;H>      ols.aiin!y=
+<f67v1.X.9;U>      ols.aiin,y=
+<f67v1.X.9;V>      ols.aiin!y=
+#
+# (gap next to left margin)
+# 
+# There seems to be no label at 08:30; it would have been <f67v1.X.10>
+#           
+# There seems to be no label at 09:15; it would have been <f67v1.X.11>
+#           
+# There seems to be no label at 09:45; it woudl have been <f67v1.X.12>
+#
+# At 10:30 (first label of top half)
+<f67v1.X.13;H>     damam!m!=
+<f67v1.X.13;U>     damam!m!=
+<f67v1.X.13;V>     damaiim*=
+# 
+# At 11:00
+<f67v1.X.14;H>     dairkal=
+<f67v1.X.14;U>     dairkal=
+<f67v1.X.14;V>     dairtal=
+# 
+# At 11:30
+<f67v1.X.15;H>     okal.ary=
+<f67v1.X.15;U>     okal.ary=
+<f67v1.X.15;V>     okal.ary=
+#
+# At 00:30
+<f67v1.X.16;H>     dor.echkolal=
+<f67v1.X.16;U>     dar,*chkalal=
+<f67v1.X.16;V>     dar!ichkalal=
+#
+# At 01:30
+<f67v1.X.17;H>     okol!aldy=
+<f67v1.X.17;U>     okol,aldy=
+<f67v1.X.17;V>     okol!aldy=
+#
+## <f67v1.Y> {}
+# Radial lines/titles
+# Last edited on 1998-12-08 11:09:54 by stolfi
+# 
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove.
+#
+# Clockwise, starting from the double ray at 02:00.
+#
+# The original line numbers were assigned by J.Stolfi 
+# starting from 00:15; they were reassigned on Oct/1998
+# to match Grove's numbering.
+#
+# At 02:00 (connected to two sun rays)
+<f67v1.Y.1;H>      pchodai!s.otch.oeka!ody=
+<f67v1.Y.1;U>      pchodaiin.otch.oekeeody=
+<f67v1.Y.1;V>      pchodaiin.otch.oekchody={Grove's T1}
+#
+# At 03:05
+<f67v1.Y.2;H>      dcheeos.qokiiiody.eees.oloesdr!!!!!!!!!!!!!=
+<f67v1.Y.2;U>      dcheeos.qokeeeody.ches.olcheeg!!!!!!!!!!!!!=
+<f67v1.Y.2;V>      dcheeos.qokeeeody.ches.olcheed{curled page}={Grove's T2}
+#
+# At 03:30
+<f67v1.Y.3;H>      yko!o.cheo.daiin.ypcheg.oty=
+<f67v1.Y.3;U>      ykcho.cheo.daiin.ypcheg.oty=
+<f67v1.Y.3;V>      ykcho.cheo.daiin.ypcheg.oty={Grove's T3}
+#
+# At 04:15
+<f67v1.Y.4;H>      opcheey.chso.cheey.chedaly=
+<f67v1.Y.4;U>      opcheey.chso.cheey.eeedaly=
+<f67v1.Y.4;V>      opcheey.ch*o.cheey.eeedaly={Grove's T4}
+#
+# At 04:45
+<f67v1.Y.5;H>      ykeeey.qokeey.chokeear=
+<f67v1.Y.5;U>      ykeeey.qokeey.chokeeas=
+<f67v1.Y.5;V>      ykeeey.qokeey.chokeear={Grove's T5}
+#
+# At 05:30
+<f67v1.Y.6;H>      osheey.keeody.che.dals=
+<f67v1.Y.6;U>      osheey.keeody.cheedals=
+<f67v1.Y.6;V>      osheey.keeody.cheedals={Grove's T6}
+#
+# At 06:30
+<f67v1.Y.7;H>      okor.shey.qokcheor.doii!r=
+<f67v1.Y.7;U>      ofar,shey.qokcheor.daiiin=
+<f67v1.Y.7;V>      ofor.shey.qokcheor.daiiin={Grove's T7}
+#
+# At 07:00
+<f67v1.Y.8;H>      oeees.otechy.o!keey=
+<f67v1.Y.8;U>      oeees.otechy.o,keey=
+<f67v1.Y.8;V>      oeees.otechy.o,keey={Grove's T8}
+#
+# At 07:30
+<f67v1.Y.9;H>      okeeodaiin.siiin.dairal=
+<f67v1.Y.9;U>      okeeodaiin.sai!n.dairal=
+<f67v1.Y.9;V>      okeeodaiin.sai!r.dairal={Grove's T9}
+#
+# At 08:15
+<f67v1.Y.10;H>     oksheeoda.or.aral=
+<f67v1.Y.10;U>     oksheeody.or,aral=
+<f67v1.Y.10;V>     okcheeody.or,aral={Grove's T10}
+#
+# At 08:45
+<f67v1.Y.11;H>     olar.aroka=
+<f67v1.Y.11;U>     olar.aroky=
+<f67v1.Y.11;V>     olar.araky={Grove's T11}
+#
+# At 09:15
+<f67v1.Y.12;H>     otorkeol.or.cheey.dary=
+<f67v1.Y.12;U>     otorkeol.or,sheey.dary=
+<f67v1.Y.12;V>     otoskeol.or.sheey.dary={Grove's T12}
+#
+# At 10:00
+<f67v1.Y.13;H>     okechey.cheody.*eoky=
+<f67v1.Y.13;U>     okechey.cheody.cheky=
+<f67v1.Y.13;V>     okechey.cheody.cheka={Grove's T13}
+#
+# At 10:45
+<f67v1.Y.14;H>     otechodor.o!dreeey=
+<f67v1.Y.14;U>     otechodor.o,dcheey=
+<f67v1.Y.14;V>     oteeeodor.o!dcheey={Grove's T14}
+#
+# At 11:45
+<f67v1.Y.15;H>     chockhdy.cheockhy=
+<f67v1.Y.15;U>     checkhey.cheockhy=
+<f67v1.Y.15;V>     chockhey.cheockhy={Grove's T15}
+#
+# At 00:15
+<f67v1.Y.16;H>     ytchoy.kchochy.dair.oekey=
+<f67v1.Y.16;U>     ytchey.keeochy.dair.ockhy=
+<f67v1.Y.16;V>     ytchey.keeochy.dair.ockey={Grove's T16}
+#
+# At 01:30
+<f67v1.Y.17;H>     !kchcsey.chy.koldy=
+<f67v1.Y.17;U>     !keechey.chy.koldy=
+<f67v1.Y.17;V>     ikhechey.chy.koldy={Grove's T17}
+#
+#
+<f68r1>          {$I=A $Q=I $P=E}
+# Last edited on 1998-10-20 00:14:37 by stolfi
+#
+# Identification:
+#
+#   Title: "Sun over Moon"
+#   Page: f68r1 = IE (Rene) = p123 (Stolfi)
+#   Folio: f68
+#   Panels: f68r1
+#   Bifolio: bI1 = f67+f68
+#   Quire: I (Rene) = IX (Beinecke)
+#
+#   This is the innermost recto panel of an eight-panel fold-out.
+#
+#   Krauss plate 31(top).
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: A (Rene), cos (Stolfi)
+#   Subject: astronomical
+#   Colors: yellow(most_stars),blue(some_stars) (Reeds)
+#
+# Description:
+#
+#   The page contains a circular diagram surmounted by a paragraph
+#   with 3.5 lines (unit "P"). 
+#
+#   The diagram consists of a faint circular outline filled with 
+#   29 randomly placed stars, each with a label (unit "S"). 
+#
+#   At the top and bottom of the diagram, just inside the outline, there
+#   are two smaller circular medallions.
+#
+#   The top medallion (the Sun) sports a ring of fang-shaped rays.
+#   Inside it is the face of a woman, with short curly hair and
+#   crossed eyes; and three voynichese words (unit "X").
+#
+#   The bottom medallion is framed by a circular band with some text
+#   (unit "Y"). Inside the frame is the face of a man(?), also with
+#   crossed eyes, apparently with short hair and a "frame" beard, both
+#   dark.
+#
+# Comments:
+#
+#   The two medallions presumably represent the Sun and Moon. Compare
+#   this diagram with the following one (f68r2), which is visible at
+#   the right when the foldout is open.
+#
+## <f68r1.P> {}
+# Paragraph at top of page
+# Last edited on 1998-12-08 11:34:18 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+<f68r1.P.1;H>      
+shokchy.chteey.choteey.cphol.cheor.opcheeol.otor.choctheeey.okchoal-
+<f68r1.P.1;C>      
+shokchy.chteey.choteey.cphol.cheor.opcheeol.otar.chocthee!y.okchoal-
+<f68r1.P.1;F>      
+shokchy.chteey.choteey.cphol.cheor.opcheeol.otor.chocthee!y.okchoal-
+<f68r1.P.1;U>      
+shokchy.chteey.choteey.cphol.cheor.opcheeol.otor.choctheeey.okchoal-
+#
+<f68r1.P.2;H>      
+tochso.otchl.qokeeedy.cheey.cheeteey.yteody.chpor.cheo!korchey.chod-
+<f68r1.P.2;C>      
+tochsy.otchl.qokeeedy.cheey.cheeteey.yteody.s!por.cheo!torchey.chod-
+<f68r1.P.2;F>      
+tochso.otchl.qokeeedy.cheey.cheeteey.yteody.chpor.cheo.korchey.chod-
+<f68r1.P.2;U>      
+tochso.otchl.qokeeedy.cheey.cheeteey.yteody.chpor.cheo!korchey.chod-
+#
+<f68r1.P.3;H>      ykor.shey.qocheey.chokal-{top of 
+diagram}okeey.ror.cckheor.daram-
+<f68r1.P.3;C>      ykor.shey.qocheey.chokal-{top of 
+diagram}okeey.rar.eckhear.daraj-
+<f68r1.P.3;F>      ykor.shey.qocheey.chokal-{top of 
+diagram}oke!y.ror.chckhar.daram-
+<f68r1.P.3;U>      ykor,shey.qocheey.chokal-{top of 
+diagram}okeey.ror.chkeear.daram-
+#
+<f68r1.P.4;H>      dchor.okaii!n=
+<f68r1.P.4;C>      dchor.okaiiin=
+<f68r1.P.4;F>      dchor.okaii!n=
+<f68r1.P.4;U>      dchor.okaii!n=
+#
+## <f68r1.X> {}
+# Title inside top medallion (face in sun)
+# Last edited on 1998-10-20 00:12:05 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove.
+#
+<f68r1.X.1;H>      yky-
+<f68r1.X.1;U>      yky-
+<f68r1.X.1;V>      oty-
+#
+<f68r1.X.2;H>      dary-
+<f68r1.X.2;U>      dary-
+<f68r1.X.2;V>      dary-
+#
+<f68r1.X.3;H>      chkchykoly=
+<f68r1.X.3;U>      chkchykoly=
+<f68r1.X.3;V>      chkchykoly=
+#
+#
+## <f68r1.S> {}
+# Labels on 29 stars
+# Last edited on 1998-12-11 12:58:32 by stolfi
+#
+# "V" transcription by J. Grove
+# "U" transcription by J. Stolfi from scanned image
+#
+<f68r1.S.1;H>      chocphy=
+<f68r1.S.1;V>      chocfhy=
+<f68r1.S.1;U>      chocfhy=
+#
+<f68r1.S.2;H>      cphocthy=
+<f68r1.S.2;V>      cphocthy=
+<f68r1.S.2;U>      cphocthy=
+#
+<f68r1.S.3;H>      dolchedy=
+<f68r1.S.3;V>      dolchedy=
+<f68r1.S.3;U>      dolchedy=
+#
+<f68r1.S.4;H>      ockhy=
+<f68r1.S.4;V>      ockhy=
+<f68r1.S.4;U>      ockhy=
+#
+<f68r1.S.5;H>      ocphy=
+<f68r1.S.5;V>      ocphy=
+<f68r1.S.5;U>      ocphy=
+#
+<f68r1.S.6;H>      octhey=
+<f68r1.S.6;V>      octhey=
+<f68r1.S.6;U>      octhey=
+#
+<f68r1.S.7;H>      otcheody=
+<f68r1.S.7;V>      odcheody=
+<f68r1.S.7;U>      otcheody=
+#
+<f68r1.S.8;H>      odchecthy=
+<f68r1.S.8;V>      odchecthy=
+<f68r1.S.8;U>      odchecthy=
+#
+<f68r1.S.9;H>      ofcheor=
+<f68r1.S.9;V>      ofcheor=
+<f68r1.S.9;U>      ofcheor=
+#
+<f68r1.S.10;H>     oiin!ar=
+<f68r1.S.10;V>     oiin!ar=
+<f68r1.S.10;U>     oiin,ar=
+#
+<f68r1.S.11;H>     okeor=
+<f68r1.S.11;V>     okear=
+<f68r1.S.11;U>     okear=
+#
+<f68r1.S.12;H>     okeeodal=
+<f68r1.S.12;V>     okeeodal=
+<f68r1.S.12;U>     okeeodal=
+#
+<f68r1.S.13;H>     okoaly=
+<f68r1.S.13;V>     okoaly=
+<f68r1.S.13;U>     okoaly=
+#
+<f68r1.S.14;H>     okoldy=
+<f68r1.S.14;V>     okoldy=
+<f68r1.S.14;U>     okoldy=
+#
+<f68r1.S.15;H>     okshor=
+<f68r1.S.15;V>     okshor=
+<f68r1.S.15;U>     okshor=
+#
+<f68r1.S.16;H>     olor=
+<f68r1.S.16;V>     olor=
+<f68r1.S.16;U>     olor=
+#
+<f68r1.S.17;H>     or!daiin=
+<f68r1.S.17;V>     or.daiin=
+<f68r1.S.17;U>     or,daiin=
+#
+<f68r1.S.18;H>     ytchody=
+<f68r1.S.18;V>     otch!do=
+<f68r1.S.18;U>     otch!do=
+#
+<f68r1.S.19;H>     otochedy=
+<f68r1.S.19;V>     otochedy=
+<f68r1.S.19;U>     otochedy=
+#
+<f68r1.S.20;H>     okodaly=
+<f68r1.S.20;V>     otodaly=
+<f68r1.S.20;U>     okodaly=
+#
+<f68r1.S.21;H>     otol=
+<f68r1.S.21;V>     otol=
+<f68r1.S.21;U>     otol=
+#
+<f68r1.S.22;H>     otor=
+<f68r1.S.22;V>     otor=
+<f68r1.S.22;U>     otor=
+#
+<f68r1.S.23;H>     otcsey=
+<f68r1.S.23;V>     otshey=
+<f68r1.S.23;U>     otshey=
+#
+<f68r1.S.24;H>     otydy=
+<f68r1.S.24;V>     otydy=
+<f68r1.S.24;U>     otydy=
+#
+<f68r1.S.25;H>     otykchs=
+<f68r1.S.25;V>     otykchs=
+<f68r1.S.25;U>     otykchs=
+#
+<f68r1.S.26;H>     otys=
+<f68r1.S.26;V>     otys=
+<f68r1.S.26;U>     otys=
+#
+# The two "t"s below are a single four-loop "t" with the right foot as the plume 
+of "sh"
+<f68r1.S.27;H>     toeeodcthy=
+<f68r1.S.27;V>     toeeodc!hy=
+<f68r1.S.27;U>     toeeods!hy=
+#
+<f68r1.S.28;H>     ykchdy=
+<f68r1.S.28;V>     ykchdy=
+<f68r1.S.28;U>     ykchdy=
+#
+<f68r1.S.29;H>     otcs!do=
+<f68r1.S.29;V>     ytchody=
+<f68r1.S.29;U>     ytchody=
+#
+## <f68r1.Y> {}
+# Title around bottom medallion (face in moon)
+# Last edited on 1998-12-08 11:37:25 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove.
+#
+# The writing is awkward - letters tend to remain upright even at the
+# ends, where the text is almost vertical.
+#
+<f68r1.Y.1;H>      oky.oka!dy.okardy.q*aear.oldy=
+<f68r1.Y.1;U>      oky.okchdy.okardy.l**sar.olgy=
+<f68r1.Y.1;V>      oky.okchdy.okardy.t*!sar.olgy={Grove's C1}
+#
+<f68r2>          {$I=A $Q=I $P=F}
+# Last edited on 1998-10-20 01:11:17 by stolfi
+#
+# Identification:
+#
+#   Title: "Moon over Sun"
+#   Page: f68r2 = IF (Rene) = p124 (Stolfi)
+#   Folio: f68
+#   Panels: f68r2
+#   Bifolio: bI1 = f67+f68
+#   Quire: I (Rene) = IX (Beinecke)
+#
+#   This is the second-innermost recto panel of an eight-panel fold-out.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: A (Rene), cos (Stolfi)
+#   Subject: astronomical
+#   Colors: yellow(most_stars),blue(some_stars) (Reeds)
+#
+# Description:
+#
+#   A circular diagram centered on the page, surmounted by a paragraph
+#   with 5.0 lines (unit"P"). The bottom line is interrupted by the
+#   diagram.
+#
+#   The diagram is framed by a large ring of 23 unlabeled stars. The
+#   ring is divided into two arcs with 11 stars on the left, 12 on the
+#   right.
+#
+#   The starry ring is filled with 36 stars of various sizes, all bigger
+#   than the border stars, randomly placed. Of them, 24 (perhaps 25)
+#   have a label (unit "S").
+#
+#   At the top, within the large circle, is a smaller circle with a
+#   human face and moon-like shadow in the middle, and a ring of
+#   Voynich text around the circumference (unit "U"). The moon has a human face
+#   with neutral expression.
+#
+#   At the bottom, within the large circle, is a smaller circle with a
+#   sun in the middle and a ring of Voynich text around the
+#   circumference (unit "L"). The sun has a human face, with some hair
+#   over the temple.
+#
+# Comments:
+#
+#   The two medallions presumably represent the Sun and Moon. Compare
+#   this diagram with the previous one (f68r1), which is visible at
+#   the left when the foldout is open.
+#
+## <f68r2.P> {}
+# text
+# Last edited on 1998-12-08 11:39:01 by stolfi
+#
+# "R" transcription by Roe, 23 July 1996 from BL microfilm
+# "U" transcription by J. Stolfi from scanned image
+#
+<f68r2.P.1;H>      tsheeor.chor.sheal.dar.opchey.oeecthy.sheol.dokechy.otcheoly-
+<f68r2.P.1;F>      tshe!or.chor.sheal.dar.opchey.o*!cthy.sheol.dok!chy.otcheoly-
+<f68r2.P.1;R>      tsheeor.chor.sheal!dar.opchey.oeecthy.sheol.dokechy.otcheoly-
+<f68r2.P.1;U>      tshe!or.chor,sheal,dar.opchey.oeecthy.sheol.dok!chy.otcheoly-
+#
+<f68r2.P.2;H>      dchy.ykeechy.dchyky.okeeoda.rcheodal.chokeey.cheor.oram-
+<f68r2.P.2;F>      dchy.ykeechy.dchyky.okeeody.rcheodal.chokeey.ch!or.oram-
+<f68r2.P.2;R>      dchy.ykeechy.dchyky.okeeody.rcheodal.chokeey.cheor.oram-
+<f68r2.P.2;U>      dchy.ykeechy.dchyky.okeeoda.rcheodal.chokeey.cheor.oram-
+#
+<f68r2.P.3;H>      tcheos.otchoky.okchol.okol.sheeor.chodchy.qokchdar-
+<f68r2.P.3;F>      tcheos.otchoky.okchol.okol.she!or.chodchy.qokchdar-
+<f68r2.P.3;R>      tcheos.otchoky.okchol.okol.sheeor.chodchy.qokchdar-
+<f68r2.P.3;U>      tcheos.otchoky.okchol.okol.sheeor.chodchy.qokchdar-
+#
+<f68r2.P.4;H>      chor.chesy.oriid.qoeeckhy.qockheol.qokeol.cheoal.dchol!al-
+<f68r2.P.4;F>      chor.chesy!ora!d.qoa!ckhy.qockheol.qokeol.cheoal.dchol!al-
+<f68r2.P.4;R>      chor.chesy.oreed.qoeeckhy.qockheol.qokeol.cheoal.dchol!al-
+<f68r2.P.4;U>      chor.chesy.ora!d.qoeeckhy.qockheol.qokeol.cheoal.dchol,al-
+#
+<f68r2.P.5;H>      kcheoey.cheody-{diagram}sai!n.ykeody.chykchy=
+<f68r2.P.5;F>      kcheoey.cheody-{diagram}saiin.ykeoay.chykchy=
+<f68r2.P.5;R>      kcheoey.cheody-{diagram}rai!n.ykeody.chykchy=
+<f68r2.P.5;U>      kcheoey.cheody-{diagram}rai!n.ykeody.chykchy=
+#
+## <f68r2.U> {}
+# Upper ring of text, around moon (clockwise from 09:30)
+# Last edited on 1998-12-27 23:40:55 by stolfi
+#
+# "R" transcription by Roe, 23 July 1996 from BL microfilm
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove.
+#
+<f68r2.U.1;H>      okeo.okor.oko.okemy.oka!isy.qokool.!cheo.qo*ol=
+<f68r2.U.1;R>      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%={illegible}
+<f68r2.U.1;U>      okeo.okar.oky.oke**yokchesy.qokaol.!cheo.qo*ol=
+<f68r2.U.1;V>      okeo.okar.oty.okom!yokchesy.qokool.*cheo.qo*ol={Grove's C1}
+#
+## <f68r2.S> {}
+# Labels on 24 stars
+# Last edited on 1998-12-08 11:41:28 by stolfi
+#
+# Read in row from left to right across the page, and from top
+# to bottom (i.e. normal reading order)
+#
+# "R" transcription by Roe, 23 July 1996 from BL microfilm
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove.
+# 
+<f68r2.S.0;H>      otolchcthy=
+<f68r2.S.0;R>      otolch!tey=
+<f68r2.S.0;V>      otolchc!hy={gallows lands on 2nd 'ch'}
+<f68r2.S.0;U>      opolchs!hy={gallows lands on 'sh'}
+#
+# (unnamed star)
+#
+<f68r2.S.1;H>      cheo!rol=
+<f68r2.S.1;R>      cheo!rol=
+<f68r2.S.1;V>      cheo.rol=
+<f68r2.S.1;U>      cheo,rol=
+#
+<f68r2.S.2;H>      odaiin=
+<f68r2.S.2;R>      odaiir=
+<f68r2.S.2;V>      odaiin=
+<f68r2.S.2;U>      odaiin=
+#
+<f68r2.S.3;H>      ochory=
+<f68r2.S.3;R>      ochory=
+<f68r2.S.3;V>      ochary=
+<f68r2.S.3;U>      ochory=
+#
+# (unnamed star)
+#
+<f68r2.S.4;H>      shdar=
+<f68r2.S.4;R>      shdar=
+<f68r2.S.4;V>      shdar=
+<f68r2.S.4;U>      shdar=
+#
+# (unnamed star)
+#
+<f68r2.S.5;H>      dchol=
+<f68r2.S.5;R>      dchol=
+<f68r2.S.5;V>      dchol=
+<f68r2.S.5;U>      dchol=
+#
+<f68r2.S.6;H>      todaraiil!y!!=
+<f68r2.S.6;R>      eeodaraii*y!!=
+<f68r2.S.6;V>      todaraiil!y!!=
+<f68r2.S.6;U>      todaraiil{y?}=
+#
+<f68r2.S.7;H>      olcheesey=
+<f68r2.S.7;R>      olcheeeey=
+<f68r2.S.7;V>      olcheesey=
+<f68r2.S.7;U>      olcheesey=
+#
+<f68r2.S.8;H>      okchor=
+<f68r2.S.8;R>      okchor=
+<f68r2.S.8;V>      okchor=
+<f68r2.S.8;U>      okchor=
+#
+<f68r2.S.9;H>      oteool=
+<f68r2.S.9;R>      oteo*l=
+<f68r2.S.9;V>      otoa!l=
+<f68r2.S.9;U>      oteo*l=
+#
+# (unnamed star)
+#
+<f68r2.S.10;H>     oydchy=
+<f68r2.S.10;R>     oydchy=
+<f68r2.S.10;V>     oydchy=
+<f68r2.S.10;U>     oydchy=
+#
+# (unnamed star)
+#
+# (unnamed star)
+#
+<f68r2.S.11;H>     cholar=
+<f68r2.S.11;R>     chodar=
+<f68r2.S.11;V>     cholar=
+<f68r2.S.11;U>     cholar=
+#
+# (unnamed star)
+#
+<f68r2.S.12;H>     okcheody=
+<f68r2.S.12;R>     okeeeody=
+<f68r2.S.12;V>     okeeeody=
+<f68r2.S.12;U>     okeeeody=
+#
+# (unnamed star)
+#
+<f68r2.S.13;H>     dcheoldy=
+<f68r2.S.13;R>     dcheoldy=
+<f68r2.S.13;V>     dcheoldy=
+<f68r2.S.13;U>     dcheoldy=
+#
+# (unnamed star)
+#
+<f68r2.S.14;H>     oteeeo!r=
+<f68r2.S.14;R>     oteeeiir=
+<f68r2.S.14;V>     oteeeo!r=
+<f68r2.S.14;U>     oteeea!r=
+#
+# (unnamed star)
+#
+# (unnamed star)
+#
+<f68r2.S.15;H>     etocho=
+<f68r2.S.15;R>     otoeeo=
+<f68r2.S.15;V>     otoeeo=
+<f68r2.S.15;U>     otoeeo=
+#
+<f68r2.S.16;H>     ofchsody=
+<f68r2.S.16;R>     ofcheody=
+<f68r2.S.16;V>     ofcheody=
+<f68r2.S.16;U>     ofcheody=
+#
+<f68r2.S.17;H>     otcheodar=
+<f68r2.S.17;R>     otcheodar=
+<f68r2.S.17;V>     otcheodar=
+<f68r2.S.17;U>     otcheodar=
+#
+<f68r2.S.18;H>     odai!r.chol=
+<f68r2.S.18;R>     odiiir.chol={merged with <f68r2.S.19;R>}
+<f68r2.S.18;V>     odai!r.chol={merged with <f68r2.S.19;V>}
+<f68r2.S.18;U>     odai!r,chol=
+#
+# <f68r2.S.19;R>, <f68r2.S.19;V> deleted, see above
+#
+<f68r2.S.20;H>     opocphor=
+<f68r2.S.20;R>     opocphor=
+<f68r2.S.20;V>     opocphar=
+<f68r2.S.20;U>     opocphor=
+#
+<f68r2.S.21;H>     otoshol=
+<f68r2.S.21;R>     otoshos=
+<f68r2.S.21;V>     otoshol=
+<f68r2.S.21;U>     otoshol=
+#
+<f68r2.S.22;H>     chodar=
+<f68r2.S.22;R>     chodar=
+<f68r2.S.22;V>     chodar=
+<f68r2.S.22;U>     chodar=
+#
+<f68r2.S.23;H>     shchy=
+<f68r2.S.23;R>     shchy=
+<f68r2.S.23;V>     shchy=
+<f68r2.S.23;U>     sheey=
+#
+<f68r2.S.24;H>     okeechor=
+<f68r2.S.24;R>     okeechor=
+<f68r2.S.24;V>     okeechor=
+<f68r2.S.24;U>     okeechor=
+#
+# (unnamed star)
+#
+#
+## <f68r2.L> {}
+# bottom ring of text, around sun face - clockwise from w
+# Last edited on 1998-12-23 05:11:40 by stolfi
+#
+# "R" transcription by Roe, 23 July 1996 from BL microfilm
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove.
+#
+# Transcribed clockwise from apparent change in letter slant at 09:30
+#
+<f68r2.L.1;H>      okeo.okoaiin.okol.oky.oeeeo.r.ekey.okcho!l.cheo.o.koiin.
+<f68r2.L.1;R>      okey.otoaiin.opol.oky.oshed.r.*key.okeeo!l.chey.o.!***!.
+<f68r2.L.1;U>      okey.okoaiin.okol.o**.oeeeo,r.okey.okeeo!l.cheo.o,****!.
+<f68r2.L.1;V>      
+okey.okoaiin.okol.oky.ocheo.r.okey.okeeo.l.cheo.o.****!.{Grove's C2}
+#
+<f68r3>          {$I=A $Q=I $P=G}
+# Last edited on 1998-10-20 01:12:41 by stolfi
+#
+# Identification:
+#
+#   Title: "The Pleiades"
+#   Page: f68r3 = IG (Rene) = p125 (Stolfi)
+#   Folio: f68
+#   Panels: f68r3 + f68r4
+#   Bifolio: bI1 = f67+f68
+#   Quire: I (Rene) = IX (Beinecke)
+#
+#   This page comprises the two outermost recto panels (f68r3 and f68r4) 
+#   of an eight-panel fold-out.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: A (Rene), cos (Stolfi)
+#   Subject: astronomical
+#   Colors: yellow(stars) (Reeds)
+#
+# Description:
+#
+#   A circular diagram, centerd on the page. The diagram is framed by
+#   a band of text (unit "C1") between two faint mechanically drawn
+#   circles, with no distinguished gap.
+#
+#   At the center there is a bored-looking round face, surrounded by a
+#   band of text (unit "C2").
+#
+#   The space between the inner and outer bands is divided into eight
+#   sectors by radial text lines---vertical, horizontal, and at 45
+#   degrees (unit "R"). All lines read inward, so some are
+#   upside-down.
+#
+#   Sectors 11:00, 02:00, 05:00, and 08:00 are filled with unnamed stars.
+#
+#   Sectors 10:00, 01:00, 04:00, and 07:00 contain respectively 1, 2,
+#   3, and 4 stars, each with a label (unit "X"). Sector 10:00 contains
+#   also a 7-star cluster, with a single label (line "X.1").
+#
+#   A curved line ("tail") connects the cluster to the moon at the center;
+#   it too has a label (line "X.2").
+#
+# Comments:
+#
+#   The face probably represents the Moon. It seems to be a woman.
+#
+#   The seven-star cluster can only be the Pleiades. So perhaps
+#   "doaro" means "Pleiades" in Voynichese?
+#
+## <f68r3.C1> {}
+# Outer ring of text
+# Last edited on 1998-12-23 05:13:50 by stolfi
+#
+#  No discernable starting point on circular text
+#  Transcribed clockwise from slightly wider gap at 09:05.
+#
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove.
+# 
+<f68r3.C1.1;H>     
+odchd.otchdy.cheoteeo.oshchey.chokol.cheody.chedy.!!ote!odaiin.otchodal.s!ol.che
+or.oteo{crease}.oteey.!oetchdy.opcheody.dchedy.daiin.oteeody.da*!!!cheedy.oteeod
+y.qochecth*m.dchreo.okeodly.do.ls{crease}.os!chaiin.cheockhedchy.chodal.cheody.c
+hol.al.oteo!dched.okedy.qokeey.choky.dol.daleesd.okinaiir.
+<f68r3.C1.1;U>     
+o*eed.okeedy.cheoteey.oshchey.chokol.cheody.chedy,*.ote!odaiin.otchodal.s!ol.che
+or.ot**{crease}.oteey.!octhody.opcheody.dchedy.daiin.oteeody.dy!!!dche*dy.oteeod
+y.qocheot***.dcheeo.okeodly.do.ls{crease}.*s,chaiin.cheocth*dchy.chodal.cheody.c
+hol,al.oteo,dched.okedy.qokeey.choky.dal.dalees*.ok****ir.
+<f68r3.C1.1;V>     
+oleed.oteedy.cheoteey.oshchey.chokal.cheody.chedy.!!otchadaiin.otchodal.s.ol.che
+or.oteo{crease}.oteey.chcthedy.opcheody.dchedy.daiin.oteeody.dar.!!cheody.oteeod
+y.qochectham.dchieo.okeodla.do.ls{crease}.os!chaiin.cheockhedchy.chodal.chiody.c
+hol.al.oteo!dched.okedy.qokeey.choky.dol.daleeeg.okeoaiin.
+#
+## <f68r3.R> {}
+# Radial lines - clockwise from 09:05
+# Last edited on 1998-12-08 23:15:34 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove.
+#
+# Line at 09:05
+<f68r3.R.1;H>      dchey.qokeey.dcheey.daiir.otchal=
+<f68r3.R.1;U>      dchey.qoteey.dcheey.daiir.otchal=
+<f68r3.R.1;V>      dchey.qokeey.dcheey.daiin.otchal={Grove's S3}
+#
+# Line at 10:35
+<f68r3.R.2;H>      toees.ykeoshe.qokol!chey.qokchdy=
+<f68r3.R.2;U>      toa!r.ykeoshy.qokol,chey.qokchdy=
+<f68r3.R.2;V>      toees.ykeoshe.qokol.chey.qokchdy={Grove's S2}
+#
+# Line at 00:05
+<f68r3.R.3;H>      toees!!.ch!cphy.qokchdy.dol.okyld=
+<f68r3.R.3;U>      tochedy.chocphy.qotchdy.dol.okald=
+<f68r3.R.3;V>      tochedy.chocphy.qokchdy.dol.okald={Grove's S1}
+#
+# Line at 01:35
+<f68r3.R.4;H>      dchy!kchy.daiir.chok{crease}.o!ckho!dar=
+<f68r3.R.4;U>      dchy,kchy.daiir.chot{crease}.*,cthy,dar=
+<f68r3.R.4;V>      dchy!kchy.daiir.chok{crease}.o,ckhy!dar={Grove's S8}
+#
+# Line at 03:05
+<f68r3.R.5;H>      qokol.chdchol.qoteey.ch{crease}etechy.okchdy=
+<f68r3.R.5;U>      qokol.chdchol.qoteey.ch{crease}*!echy.okchdy=
+<f68r3.R.5;V>      qokol.chdchol.qoteey.ch{crease}ckhchy.okchdy={Grove's S7}
+#
+# Line at 04:35
+<f68r3.R.6;H>      dchokchr{crease}.shhy.okey.oteos.okolshy=
+<f68r3.R.6;U>      dchokch*{crease}.*chy.okey.oteos.okolshy=
+<f68r3.R.6;V>      dchokchr{crease}.shhy.okey.oteos.okolshy={Grove's S6}
+#
+# Line at 06:05
+<f68r3.R.7;H>      pchody.qokchy.dshol.ds{&S}y!.otgoldl=
+<f68r3.R.7;U>      pchody.qokchy.dshol.d*{&c'y},o!tdoly=
+<f68r3.R.7;V>      p**!dy.qokchy.dshol.d*{&c'y}.o,tmodl={Grove's S5}
+#
+# Line at 07:35
+<f68r3.R.8;H>      kchoty.oteey.daiin.dcheeody.oteey=
+<f68r3.R.8;U>      kchoty.oteey.daiin.dcheeody.oteey=
+<f68r3.R.8;V>      kchoty.oteey.daiin.dcheeady.oteey={Grove's S4}
+#
+## <f68r3.X> {}
+# Labels on stars in sectors
+# Last edited on 1998-12-08 23:18:00 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove.
+#
+# Sector 10:00, lone star and a star cluster
+#
+# inner star cluster (Pleiades), at 10:00
+<f68r3.X.1;H>      doaro=
+<f68r3.X.1;U>      doaro=
+<f68r3.X.1;V>      doary={Grove's L2}
+#
+# tail near Pleiades
+<f68r3.X.2;H>      oalcheol=
+<f68r3.X.2;U>      oalcheol=
+<f68r3.X.2;V>      oalcheol={Grove's L3}
+#
+# outer lone star, at 10:00
+<f68r3.X.3;H>      dchol.dal=
+<f68r3.X.3;U>      dchol!day=
+<f68r3.X.3;V>      dchol!day={Grove's L1}
+#
+# Sector 01:00, two stars
+#
+# outer star (over crease, hard to read)
+<f68r3.X.4;H>      otory{crease}=
+<f68r3.X.4;U>      otary{crease}=
+<f68r3.X.4;V>      okary{crease}={Grove's L5}
+#
+# inner star
+<f68r3.X.5;H>      okos=
+<f68r3.X.5;U>      okos=
+<f68r3.X.5;V>      okos={Grove's L4}
+#
+# Sector 04:00, three stars
+#
+# outer star, at 04:15
+<f68r3.X.6;H>      okolchy=
+<f68r3.X.6;U>      okolchy=
+<f68r3.X.6;V>      okolchy={Grove's L6}
+#
+# inner star, at 04:00
+<f68r3.X.7;H>      a.{crease}cphy=
+<f68r3.X.7;U>      o!{crease}cphy=
+<f68r3.X.7;V>      ch{crease}cphy={Grove's L7}
+#
+# outer star, at 03:45
+<f68r3.X.8;H>      chdy.yky=
+<f68r3.X.8;U>      chdy.oky=
+<f68r3.X.8;V>      chky.oky={Grove's L8}
+#
+# Sector 07:00, four stars
+#
+# middle star, at 07:00
+<f68r3.X.9;H>      darall=
+<f68r3.X.9;U>      darall=
+<f68r3.X.9;V>      darall={Grove's L10}
+#
+# outer star, at 06:45
+<f68r3.X.10;H>     o.cthyd=
+<f68r3.X.10;U>     o,cthyd=
+<f68r3.X.10;V>     o!cthyd={Grove's L11}
+#
+# outer star, at 07:15
+<f68r3.X.11;H>     okchoda=
+<f68r3.X.11;U>     okchoda=
+<f68r3.X.11;V>     okchody={Grove's L9}
+#
+# inner star, at 07:00
+<f68r3.X.12;H>     oty!dm=
+<f68r3.X.12;U>     oty,dm=
+<f68r3.X.12;V>     oty!dm={Grove's L12}
+#
+## <f68r3.C2> {}
+# Inner ring of text, around moon  
+# Last edited on 1998-12-08 19:53:01 by stolfi
+#
+# No discernable starting point.
+# Transcription clockwise from 09:30.
+#
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove.
+#
+<f68r3.C2.1;H>     otchody.chokchy.okol.cheol.dar.cho.keol.dolaiin.okeol.oly.
+<f68r3.C2.1;U>     otorody.chokchy.okol.cheol.dar.cho,teol.dolaiin.okeol.oly.
+<f68r3.C2.1;V>     otchody.chokchy.okol.cheal.dar.cho.keos.dolaiin.okeol.oly.
+#
+<f68v3>          {$I=C $Q=I $P=H}
+# Last edited on 1998-10-09 03:13:51 by stolfi
+#
+# Identification:
+#
+#   Title: "Spiral Nebula"
+#   Page: f68v3 = IH (Rene) = p126 (Stolfi)
+#   Folio: f68
+#   Panels: f68v4, f68v3
+#   Bifolio: bI1 = f67+f68
+#   Quire: I (Rene) = IX (Beinecke)
+#
+#   This page comprises the two outermost verso panels (f68v4 and f68v3) 
+#   of an eight-panel fold-out.
+#
+#   Way p140
+#
+#   Newbold XIII, XXI, XXII, who calls it f.68r. Jim Reeds calls it 68v3.
+#
+#   Roe, 6th September 1993.
+#   Machine translated from transcription in Bennett notation dated 30/03/90.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: C (Rene), cos (Stolfi)
+#   Subject: cosmological
+#   Colors: blue(spickling),yellow(stars) (Reeds)
+#
+# Description:
+#
+#   The page is dominated by a circular diagram, su surmounted by a 
+#   paragraph of text (3.5 lines).
+#
+#   The diagram is framed by a ring of text, between two very faint
+#   mechanically drawn circles. A large gap in the text, with a
+#   decoration element, is very likely the starting point.
+#
+#   At the center there is a circle framed by another ring of text,
+#   also between two faint circles. The interior is divided into three
+#   parts by an upside-down "T". The top quarters contain a word each;
+#   the bottom half contains three lines of text. The circles and the
+#   "T" are mechanically drawn.
+#
+#   Surrounding the central circle is an irregular "ocean" with a dotted
+#   texture and a meandering outline.  The outline is doubled in places
+#   in a way that suggests a sunken pond, or a shape cut out 
+#   from thick cardboard.
+#
+#   Eight hand-drawn, inward-reading text bands, curved like the
+#   "arms" of a galaxy, connect the outer frame of the diagram with
+#   the center figure. The four arms that start at mid-quadrant merge
+#   into the "ocean", while the other four continue over the ocean and
+#   merge with the inner circle of text, 45 degrees counterclockwise
+#   of their starting point on the outer circle.
+#
+#   The four arms that connect to the center divide the "ocean" into
+#   four sectors. Each sector contains five unnamed stars, except the
+#   West sector, that has six of them. (The anomaly may have to do with
+#   the fact that one of the six stars is right on top of the fold-out's
+#   crease.)
+#
+# Comments:
+#
+#   The outline of the "galactic bulge" seems to
+#   represent water in other illustrations. Here the ocean's outline is
+#   drawn with a displaced "echo", as if it were a pool, or a thick
+#   puzzle piece.
+#
+## <f68v3.P> {}
+# plain text
+# Last edited on 1998-12-08 23:53:19 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+<f68v3.P.0;H>      
+tchedy.chepchy.daiidy.shol.kcheoly.choteol.shol!s!chey.shodaiin.chetshedy.otsho.
+qooto.seeey-
+<f68v3.P.0;C>      
+!ch*dy.eeepchy.diindy.shod.kcheoly.choteol.shol.s!chey.shodaiin.chetshedy.otsho.
+qoeto!seeey-
+<f68v3.P.0;F>      
+tchedy.chepchy.daindy.shol.kcheoly.choteol.shol.s.chey.shodaiin.chetshedy.otsho.
+qooto.reeey-
+<f68v3.P.0;U>      
+tchedy.chepchy.daiidy.shol.kcheoly.choteol.shol.s.chey.shodaiin.chetshedy.otsho.
+qooto.seeey-
+#
+<f68v3.P.1;H>      
+scsey!kcheol.shchy.qety.sheey.otchol.chal.sheey.daiin.sheody.qokol.aiir.chor.che
+oty.oty-
+<f68v3.P.1;C>      
+!chea!kcheol.sheey.qety.sheey.otchol.chad.sheey.daiin.sheody.qokol.aiin.chor.che
+oty.oty-
+<f68v3.P.1;F>      
+sshey.kcheol.sheey.qety.sheey.otchol.chal.sheey.daiin.sheody.qokol.aiir.chor.che
+oty.oty-
+<f68v3.P.1;U>      
+sshey.kcheol.sheey.qety.sheey.otchol.chal.sheey.daiin.sheody.qokol.aiir.chor.che
+oty.oty-
+#
+<f68v3.P.2;H>      sho.chokar.sor.chor.cheky.daiin.das!aiin-
+{diagram}ytey.tol.cheeetchol.s!am-
+<f68v3.P.2;C>      !!*.chotar.s!r.chor.cheky.daiin.dar.aiin-
+{diagram}ytoy.tol!cheeetchal.s!aj-
+<f68v3.P.2;F>      sho.chokar.sar.chor.cheky.daiin.dar!aiin-
+{diagram}ytey.tol.chee!tchol.*!am-
+<f68v3.P.2;U>      sho.chokar.sar.chor.cheky.daiin.dar,aiin-
+{diagram}ytey.tol.cheeetchol.s,am-
+#
+<f68v3.P.3;H>      dcheey.qockhhy.chydy=
+<f68v3.P.3;C>      *ch**!.qoekeey.chydy=
+<f68v3.P.3;F>      dcheey.qockh!y.chydy=
+<f68v3.P.3;U>      dcheey.qockh!y.chydy=
+#
+## <f68v3.O> {}
+# panel f68v3, outer circle of text
+# Last edited on 1998-12-08 23:51:07 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+# Transcribed clockwise, starting after the decorated gap at 08:30.
+# 
+<f68v3.O.1;H>      
+oko.otol.ees.choty.chedas.otchdy.s!or.oekaiin.oteol.dar.cheo{crease}.dais.qoeeok
+aiin.otchey.dal.cheky.ykes.qokeol.s!ol.oy.ykeoees.yty.dy.dy.chody.otol!olees.oty
+.sar.qoteey.otey.chey.kodar.dar.sheody.shees.daiin.oteeoaly.oteeosol.ol.okol.ols
+ey.tol.cheol.okeey.{crease}choekchchy.okchy.qokchshy.dchol.chshek=
+<f68v3.O.1;C>      
+oky.otol.eer.choty.chedar.ote!dy.s!ar.oekaiin.oteol.dar.cheo{crease}.da!r.qoeeok
+aiin.okchey.dal.oeeky.*k!r.yaki!j.s!al.ay.ykoee!r.yty.dy.ly.chody.otal!ala!r.oty
+.dar.qot!ay.otey.chey.kadar.dar.sheody.sheer.daiin.oteeoaly.ot!*osal.ol.okol.oes
+o*.tol.ch!ol.oteey.{crease}cheeke!*ey.okchy.qokchshy.dchol.chshek=
+<f68v3.O.1;U>      
+oky.otol.ees.choty.chedar.otchdy.s.ar.oekaiin.oteol,dar.cheo{crease}.dair.qoeeok
+aiin.otchey.dal.cheky.ykes.yake!g.s,ol.ay.ykeoees.yty.dy.ly.chody.otol,ola!s.oty
+.dar.qoteey.otey.chey.kodar.dar.sheody.shees.daiin.oteeoaly.oteeorol.ol.okol.o*s
+hy.tol,cheol.oteey.{crease}choekch*ey.okchy.qokchshy.dchol.chshek=
+#
+## <f68v3.S> {}
+# Radial text on spokes
+# Last edited on 1998-12-08 23:55:24 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+# SW short spoke
+<f68v3.S.1;H>      ycheeo.ke{crease}y.qokal.okeeg=
+<f68v3.S.1;C>      ych*!o.!d{crease}y.qokal.otch*=
+<f68v3.S.1;U>      ycheeo.k*{crease}y.qokal.okchd=
+# S long spoke 
+#
+<f68v3.S.2;H>      qokeody.okeey.chekchy.chckhy.okalody.chedy=
+<f68v3.S.2;C>      qoteody.okeey.chekeey.chekey.okalody.chedy=
+<f68v3.S.2;U>      qokeody.okeey.chekeey.chckhy.okalody.chedy=
+# SE short spoke 
+#
+<f68v3.S.3;H>      shoekea!l.sheky.okolchey.okoldam=
+<f68v3.S.3;C>      shoeke!!y.sheky.okolchey.okolmom=
+<f68v3.S.3;U>      shoekeo*y.sheky.okolchey.okoldom=
+# E long spoke 
+#
+<f68v3.S.4;H>      okeol.cheoda.qolkeey.ocheky.eeody.okchdy.oko.okos=
+<f68v3.S.4;C>      okeol.cheody.qodkeey.ocheky.chody.otchdy.oto.oto*=
+<f68v3.S.4;U>      okeol.cheody.qolkeey.ocheky.chody.otchdy.oko.okos=
+# NE short spoke 
+#
+<f68v3.S.5;H>      r.al.chdail.schekol.okeody=
+<f68v3.S.5;C>      *.al.chda!l.schekol.okeedy=
+<f68v3.S.5;U>      r.al.chdail.schekol.okeody=
+# N long spoke 
+#
+<f68v3.S.6;H>      ocheol.qoeey.keody.cheoky.okchy.chodo.dy.oteem=
+<f68v3.S.6;C>      ocheol.qoeey.keody.cheoky.okchy.chod*.ty.otchm=
+<f68v3.S.6;U>      ocheol.qoeey.keody.cheoky.okchy.chody.ty.otchm=
+# NW short spoke 
+#
+<f68v3.S.7;H>      ydaiil.ol.chok.okchyd=
+<f68v3.S.7;C>      ydainl.ol.chak.okchyd=
+<f68v3.S.7;U>      ydaiil.ol.chak.okchyd=
+# W long spoke 
+#
+<f68v3.S.8;H>      ochey.chekchy.dkeeeg.cheekey.te{crease}olkechey.saiir=
+<f68v3.S.8;C>      echey.chekchy.dkeeel.che!key.ta{crease}!!kechey.daiin=
+<f68v3.S.8;U>      ochey.chekchy.dkeeeg.cheekey.ta{crease}l!kechey.daiir=
+#
+## <f68v3.I> {}
+# inner circle of text, around "T-O map"
+# Last edited on 1998-12-08 23:32:45 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+# Transcribed starting from major break at 8 o'clock, going clockwise
+#
+<f68v3.I.1;H>      
+okosy.okchy.okol.choekey.okeoeeey.ol.yko!r.otair!or.orol.orkeeey.olkeeoly.ykeeol
+=
+<f68v3.I.1;C>      
+okosy.okchy.okol.choekey.okeoeeey.ol.ykoin.otain!or.orol.arkeeey.olkeeoly.ykeeol
+=
+<f68v3.I.1;U>      
+okosy.okchy.okol.chockhy.okeoeeey.ol.ykoin.otair,or.orol.orkeeey.olkeeoly.ykeeol
+=
+#
+## <f68v3.L> {}
+# Central circle ("T-O map"), top half
+# Last edited on 1998-12-26 06:19:15 by stolfi
+#
+# "V" transcription by John Grove.
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Top left quarter
+#
+<f68v3.L.1;H>      otodol=
+<f68v3.L.1;C>      otodol=
+<f68v3.L.1;V>      otodol=
+<f68v3.L.1;U>      otodal=
+#
+# Top right quarter
+#
+<f68v3.L.2;H>      opcholdg=
+<f68v3.L.2;C>      opeealdm=
+<f68v3.L.2;V>      opchaldg=
+<f68v3.L.2;U>      opchaldg=
+#
+## <f68v3.B> {}
+# Central circle ("T-O map"), top right quarter
+# Last edited on 1998-12-08 23:32:25 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f68v3.B.1;H>      doar.ykeol.darol.daly-
+<f68v3.B.1;C>      *oar.ykeol.darol.daly-
+<f68v3.B.1;U>      *oar.ykeol.darol.daly-
+#
+<f68v3.B.2;H>      solaiin.ckhhy.olekeey.dy-
+<f68v3.B.2;C>      sal!iin.ckh!y.olekeey.dy-
+<f68v3.B.2;U>      solaiin.ckhey.olekeey,dy-
+#
+<f68v3.B.3;H>      ykeol.ctheepchy.dar=
+<f68v3.B.3;C>      ykeol.ctheepchy.dar=
+<f68v3.B.3;U>      ykeol.ctheepchy.dar=
+#
+<f68v2>          {$I=A $Q=I $P=I}
+# Last edited on 1998-10-20 01:48:08 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f68v2 = II (Rene) = p127 (Stolfi)
+#   Folio: f68
+#   Panels: f68v2
+#   Bifolio: bI1 = f67+f68
+#   Quire: I (Rene) = IX (Beinecke)
+#
+#   This page is the second innermost verso panel of an eight-panel fold-out.
+#
+#   Brumbaugh p41, called f.68r by him.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: A (Rene), cos (Stolfi)
+#   Subject: astronomical
+#   Colors: blue(lozenge_star),yellow(windmill),blue(some_stars) (Reeds)
+#
+# Description:
+#
+#   The page contains a circular diagram, under a paragraph 
+#   with 5.0 lines (unit "P").  The last line is interrupted
+#   by the diagram.
+#
+#   The diagram is framed by a circular band of text (unit "C"),
+#   between two concentric mechanically drawn thin circles. (An
+#   extra-wide gap at 10:30 may be the starting point.)
+#
+#   At the center there is a figure that looks pretty much like a
+#   flower, with eight almond-shaped petals. The petals have serrated
+#   edges, and overlap randomly. (However some pairs of petals seem to
+#   be fused.)  The petals have been painted in a dark color.
+#
+#   At the very center of this "flower" there is an irregular star,
+#   with twisted rays, in a different color.
+#
+#   The "flower"'s outline ia an eight-sided star, resembling two
+#   concentric squares rotated 45 degrees apart.  From the tips
+#   of each "petal", there sprouts a straight narrow tendril.
+#   Each tendril soon turns into a radial text line, reading outwards
+#   (unit "R").  Some of the text is therefore upside down.
+#
+#   The eight sectors defined by these rays alternately contain a
+#   bunch of unnamed stars, or two radial labels (unit "S"), collinear
+#   and reading outwards, with a single star between them. Clockwise
+#   from the division at 11:30 there are 9, 1, 8, 1, 9, 1, 9, 1 stars,
+#   i.e. 35 unlabeled ones and 4 labeled ones.  The 03:00 sector (with 8
+#   stars) has a speckled blotch behind and between two stars.
+#
+# Comments:
+#
+#   The small central flower may be the Sun. Or it may represent the
+#   stamens/pistils of the large flower surrounding it.
+#
+#   The speckles in the 03:00 sector possibly represent a more distant
+#   star cluster.
+#
+#   The radial lines should probably be read starting from 10:30, at
+#   the gap in the outer text ring. Besides, that ray is the only one
+#   that contains any EVA "p" (two of them).
+#  
+#
+## <f68v2.P> {}
+# plain text
+# Last edited on 1998-12-08 23:28:56 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+<f68v2.P.1;H>      teeody.shcthey.psheody.shocthy.ykeody.shdy.shot.y!tchy-
+<f68v2.P.1;F>      teeody.shcthey.psheody.shocthy.ykeody.shdy.shot.y!tchy-
+<f68v2.P.1;U>      teeody.shcthey.psheody.shocthy.ykeody.shdy.shot.y,tchy-
+#
+<f68v2.P.2;H>      dchaiin.shey.dcheedy.qokeey.shekeey.dal.dy.sheet!ey.daldy-
+<f68v2.P.2;F>      dchaiin.shey.dcheedy.qokeey.shckh!y.dal.dy.shecthey.daldy-
+<f68v2.P.2;U>      dchaiin.shey.dcheedy.qokeey.shekeey.dal,dy.shecth!y.daldy-
+#
+<f68v2.P.3;H>      qoeeey.shekeey.shkeey.s.alchey.cthy.shteody.qoteeody.dam-
+<f68v2.P.3;F>      qoeeey.shekeey.shkeey.s.alchey.cthy.shteody.qoteeody.dam-
+<f68v2.P.3;U>      qoeeey.shekeey.shkeey.s.alchey.cthy.shteody.qoteeody.dam-
+#
+<f68v2.P.4;H>      okeey.sheoy.keol.ycheety.okeody.shey.qokey.chol.chekody-
+<f68v2.P.4;F>      okeey.sheoy.keol.ych*!ty.okeody.shey.qokey.chol.chekody-
+<f68v2.P.4;U>      okeey.sheoy.keol.ycheety.okeody.shey.qokey.chol.chekody-
+#
+<f68v2.P.5;H>      scheos.seekey.okey.chody-{diagram}okeos.cheo.salar.oalchdm=
+<f68v2.P.5;F>      scheos.shekey.okey.chody-{diagram}okeos.cheo.salar.allchdm=
+<f68v2.P.5;U>      scheos.shekey.okey.chody-{diagram}okeos.cheo.salar.allchdm=
+#
+## <f68v2.C> {}
+# circular text
+# Last edited on 1998-12-27 23:45:18 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+# "V" transcription by John Grove.
+#
+# clockwise, from the wider break at 10:30
+#
+<f68v2.C.1;H>      
+okeodaiin.ykeeody.shsdy.shy!okeey.dalches.okos.cheky.otees.!!!!!otey!dy.okechoy.
+yteody.cheteedy.chedady.c*eectheey.otychdy.oteey.cpheeody.otey!.chkey.daiin.chey
+.daiir.oteeys.rar.ockheey.dor!chy.okchy!.qokeechy.dal.chy.chokeeey.sory=
+<f68v2.C.1;C>      
+okeadaiin.ykeeody.shsdy.!!!!!!!!!!dalchos.okos.cheky.otees.otas.otey!dy.okechoy.
+yteody.!!!!!!!!!che!ady.cheectheey.otychdy.oteey.cpheeody.oteil.chkey.daiin.chey
+.daiir.oteeys.sar.ockheey.dor!chy.okchil.qokeechy.dal.chy.chokee!y.sary=
+<f68v2.C.1;D>      
+okeadaiin.ykeeody.shsdy.!!!!!!!!!!dalchos.okor.cheky.otees.otas.otey!dy.okechoy.
+yteody.!!!!!!!!!che!ady.cheectheey.otychdy.oteey.cpheeody.oteil.chkey.daiin.chey
+.daiir.oteeys.sar.ockheey.dor!chy.okchil.qokeechy.dal.chy.chokee!y.sary=
+<f68v2.C.1;U>      
+okeadaiin.ykeeody.shsdy.shy,okeey.dalches.okor.cheky.otees.!!!!!otey,dy.okechoy.
+yteody.chete!dy.chedady.cheectheey.otychdy.oteey.cpheeody.otey!.chkey.daiin.chey
+.daiir.oteeys.sar.ockheey.dar,chy.okchy!.qokeechy.dal.chy.chokeeey.sary=
+<f68v2.C.1;V>      
+okeodaiin.ykeeody.shsdy.shy!okchy.dalches.okor.cheky.otees.!!!!!otey.dy.okechoy.
+yteody.chete!dy.chalamy.cheectheey.otychdy.oteey.cpheeody.otey!.chkey.daiin.chey
+.daiir.oteeys.rar.ockheey.dor!chy.okchy!.qokeechy.dal.chy.chok*eey.sary={Grove's 
+C1}
+#
+## <f68v2.R> {}
+# Radial titles/labels
+# Last edited on 1998-12-08 23:29:27 by stolfi
+#
+# "V" transcription by John Grove.
+# "U" transcription by J. Stolfi from scanned image.
+#
+# The original line numbers were assigned by J.Stolfi 
+# starting from 12:30; they were reassigned on Oct/1998
+# to match the order of Grove's numbering, and to 
+# interleave properly with the star label numbers (unit "S")
+#
+# clockwise, starting at 10:30
+#
+# ray at 11:30
+<f68v2.R.2;H>      choteey.daro=
+<f68v2.R.2;C>      choteey.daro=
+<f68v2.R.2;U>      choteey.dary=
+<f68v2.R.2;V>      chotchy.dary={Grove's S1}
+#
+# ray at 12:30
+<f68v2.R.3;H>      otey.dala!r=
+<f68v2.R.3;C>      otey.daliir=
+<f68v2.R.3;U>      otey.dala!r=
+<f68v2.R.3;V>      otey.dala!r={Grove's S2}
+#
+# ray at 2:30
+<f68v2.R.5;H>      yshesos.ar.shy=
+<f68v2.R.5;C>      yshesas.ar.shy=
+<f68v2.R.5;U>      yshesas.ar.shy=
+<f68v2.R.5;V>      yshesos.ar.shy={Grove's S3}
+#
+# ray at 3:30
+<f68v2.R.6;H>      socth!s.chety=
+<f68v2.R.6;C>      socth!r.chety=
+<f68v2.R.6;U>      socth!s.shety=
+<f68v2.R.6;V>      socthes.shety={Grove's S4}
+#
+# ray at 5:30
+<f68v2.R.8;H>      yteody.chetey=
+<f68v2.R.8;C>      yteody.chetey=
+<f68v2.R.8;U>      yteody.chcthy=
+<f68v2.R.8;V>      yteody.chcthy={Grove's S5}
+#
+# ray at 6:30
+<f68v2.R.9;H>      otchos.alamchy=
+<f68v2.R.9;C>      otchos.alamchy=
+<f68v2.R.9;U>      otchos.alamchy=
+<f68v2.R.9;V>      otchos.alamchy={Grove's S6}
+#
+# ray at 8:30
+<f68v2.R.11;H>     adair!chdy.aiin=
+<f68v2.R.11;C>     adair!chdy.aiin=
+<f68v2.R.11;U>     adair,chdy.aiin=
+<f68v2.R.11;V>     adair!chdy.aiin={Grove's S7}
+#
+# ray at 9:30
+<f68v2.R.12;H>     dchedal.daiin=
+<f68v2.R.12;C>     ychedal.daiin=
+<f68v2.R.12;U>     dchedal.daiin=
+<f68v2.R.12;V>     dchedal.daiin={Grove's S8}
+#
+## <f68v2.S> {}
+# Radial labels with stars
+# Last edited on 1998-12-08 23:32:04 by stolfi
+#
+# "V" transcription by John Grove.
+# "U" transcription by J. Stolfi from scanned image.
+#
+# The original line numbers were assigned by J.Stolfi 
+# starting from 12:30; they were reassigned on Oct/1998
+# to match the order of Grove's numbering, and to 
+# interleave properly with the radial line numbers (unit "R")
+#
+# clockwise, starting at 10:30
+#
+# star at 10:30
+<f68v2.S.1;H>      y!keeepol-{star}y!pchy=
+<f68v2.S.1;C>      ilkeeepol-{star}yypchy=
+<f68v2.S.1;U>      y!keeepol-{star}y!pchy=
+<f68v2.S.1;V>      y!keeepol-{star}y!pchy={Grove's L1}
+#
+# star at 1:30
+<f68v2.S.4;H>      otosey-{star}sa!!!ry!!=
+<f68v2.S.4;C>      otosey-{star}sa!!!ry!!=
+<f68v2.S.4;U>      otoshy-{star}sa!!!ry!!=
+<f68v2.S.4;V>      otoshy-{star}*{&c'a}ry={Grove's L2}
+#
+# star at 4:30
+<f68v2.S.7;H>      oteoys-{star}orasaly=
+<f68v2.S.7;C>      oteoys-{star}oraraly=
+<f68v2.S.7;U>      oteoys-{star}orasaly=
+<f68v2.S.7;V>      oteods-{star}osaraly={Grove's L3}
+#
+# star at 7:30
+<f68v2.S.10;H>     otchdy-{star}chetal=
+<f68v2.S.10;C>     otchdy-{star}chetal=
+<f68v2.S.10;U>     otchdy-{star}chetal=
+<f68v2.S.10;V>     otchdy-{star}chetal={Grove's L4}
+#
+<f68v1>          {$I=A $Q=I $P=J}
+# Last edited on 1998-12-26 16:38:12 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f68v1 = IJ (Rene) = p128 (Stolfi)
+#   Folio: f68
+#   Panels: f68v1
+#   Bifolio: bI1 = f67+f68
+#   Quire: I (Rene) = IX (Beinecke)
+#
+#   This page is the innermost verso panel of an eight-panel fold-out.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: A (Rene), cos (Stolfi)
+#   Subject: astronomical
+#   Colors: blue(vanes),yellow(stars) (Reeds)
+#
+# Description:
+#
+#   The page contains only a circular diagram, framed by two faint
+#   mechanically drawn circles, each surrounded by a ring of text.
+#
+#   The whole is surrounded by another thin circle, about 1cm further
+#   out, that begins looking mechanically drawn but at some point
+#   wanders off and fails to close on itself, as if the fixed leg of the
+#   compass had skipped a bit. (However, this outermost circle may be a
+#   modern scribble on the copy.)
+#
+#   A thick radial stroke at 10:30 connects this outermost circle to the
+#   next one, through the gap between two words of the outer text ring.
+#   Another pair of thick radial strokes at 10:00 connects the second
+#   and third circles, breaking the second text ring.
+#
+#   At the center of the diagram is a sun, with narrow flipped
+#   S-shaped rays and a human face (with neutral expression, straight
+#   hair combed back at the sides, held by a narrow headband with
+#   dots.)
+#
+#   Surrounding the sun is a "starry windmill": a fat star with
+#   serrated outline, consisting of 16 sectors shaped like narrow
+#   kites, each split radially into a "light" (clockwise) half, with a
+#   dotted line and some small stars, and a "dark" half, painted with
+#   a solid dark color. Clockwise from the 10:00 point, the light
+#   half-sectors contain the following counts of stars:
+#
+#     4 4 4 3 4 4 5 6 6 6 7 7 6 5 5 5 
+#     * * * * * * * * * * * * * * * *
+#     * * * * * * * * * * * * * * * *
+#     * * * * * * * * * * * * * * * *
+#     * * *   * * * * * * * * * * * *
+#                 * * * * * * * * * *
+#                   * * * * * *      
+#                         * *        
+#
+#   All told there are 66 stars. (But the star count of 7 in the 06:30
+#   sector may be an 8.
+#
+#   Thin radial lines connect each point of the star to the 
+#   inner edge of the frame. The 16 sectors defined by these lines
+#   are alternatingly filled with unnamed stars, or labeled with
+#   a radial text line, reading outwards.  Clockwise from the 
+#   10:00 ray, the sectors contain the following counts: 
+#
+#     8 7 7 8 9 9 8 7
+#     * * * * * * * *
+#     * * * * * * * *
+#     * * * * * * * *
+#     * * * * * * * *
+#     * * * * * * * *
+#     * * * * * * * *
+#     * * * * * * * *
+#     *     * * * *    
+#             * *        
+#
+#   There are 63 stars in total.
+# 
+#   There is a comet-tail-like object behind one of the stars in 
+#   the 03:00 sector.
+#
+# Comments:
+#
+#   It is not clear whether the "start here" strokes at 10:00-10:30
+#   are original, or modern guesses scribbled on the copy. If the
+#   latter, then they seem wrong, because those word gaps are quite
+#   ordinary and not aligned.
+#
+#   Another possible starting place is at 01:15, where both rings have
+#   aligned, extra-wide word breaks.
+#
+#   On the other hand, the EVA "p" on the the 10:30 radial line suggests 
+#   that that is indeed the first line.
+#
+#   The center figure is probably female.
+#
+#   Note that the small and large star counts are almost the same (67
+#   and 63); perhaps 64 was the intended number. Note also that the
+#   small star counts are unimodal. The big star counts would be
+#   unimodal too if the 11:00 sector had 7 stars, or the 09:30 sector
+#   had 8. The latter seems more likely as it would have bumped the
+#   number of big stars to 64. In both sequences the minimum is around
+#   01:10 (the aligned breaks!) and the maximum around 07:00.
+#
+#   The "tail" in the 03:00 sector may mean that one of the stars is a comet.
+#
+#
+## <f68v1.C> {}
+# Circular text around diagram
+# Last edited on 1998-12-08 23:20:55 by stolfi
+# 
+# "U" transcription by J. Stolfi from scanned image
+# "V" transcription by John Grove.
+# 
+# The transcription below goes clockwise from the aligned gaps at 01:15.
+# John Grove used the radial stroke at 10:30, but it may not be original.
+# 
+<f68v1.C.1;H>      
+ees.aiir.ol.cho.aiin.ykeeykeey.shes.chotey.y!keey.s{&S}ses.aiin.okeyteey.cthody.
+ches!okeeoteody.choikh!y.otol.okeody.sheos.chkorchy.dy.dy.shety.oteey.dair.chote
+dy.chey.dal.daiin.dakeey.shes.ol.keey.shey.chteey.sheely.shes.yeed.shokeolls.
+<f68v1.C.1;U>      
+ees.aiir.ol.cho!aiin.ykeeykeey.shes.chotey.y,keey.s!!!!hes.aiin.okeykeey.cthody.
+ches,ykchoteody.chockhey.otol.okeody.sheos.chkorchy.dy.dy.shety.!***y.dair.chote
+dy.chey.dal.daiin.dokeey.shes.ol!keey.shey.chteey.sheely.shes.yeem.shokeolls.
+<f68v1.C.1;V>      
+ees.aiir.ol.cho.aiin.ykeeykeey.shir.chotey.y.keey.s!!!!hes.aiin.okeyteey.cthody.
+ches!okchoteody.chockh!y.otol.okeody.sheos.chkorchy.dy.dy.shety.oteey.dair.chote
+dy.chey.dal.daiin.dckhey.shes.ol!keey.shey.chteey.sheely.shes.yeed.shokeolls.{Gr
+ove's R1}
+#
+#
+<f68v1.C.2;H>      
+sho.yteod.oteeol.okeeos.or.chos.or.ock{&K}o.aiin.chol.ykeey.sheo.s.cheo!ekeey.ch
+eodaiir.cheekchey.chkeody.otchy.teeos.sh.cheo.eky.okey.doleed.s.aly.oteotey.otec
+hs.opai!n.chear.s.oteey.dain.dy!checkhy.oteeos.oteol.okeos!.okeeody.
+<f68v1.C.2;U>      
+sho.yteod.oteeol.okeeor.or.chos.or.oct!!!!o!aiin.chol.ykeey.sheo.s.cheo,ckhey.ch
+eodaiir.cheekchey.chkeody.otchy.teeor.sh.cheo!eky.otey.dola!d.r,oly.cthotey.otec
+hs.opai!n.chear.s.oteey.dain.dy,checkhy.oteeos.oteol.okeor!.okeeody.
+<f68v1.C.2;V>      
+sho.yteod.oteeol.oteeos.or.chos.or.ock!!!!o.aiin.chol.ykeey.sheo.s.cheo!ckhey.ch
+eodaiir.cheekchey.chkeody.okchy.teeos.sh.cheo.eky.otoy.daleed.r.aly.oteotey.otea
+!r.opoiin.chear!s.oteey.dain.dy!checkhy.oteeos.oteol.oteoss.oteeody.{Grove's R2}
+# 
+#
+## <f68v1.X> {}
+# Radial titles, outer sectors
+# Last edited on 1998-12-08 23:25:26 by stolfi
+# 
+# "V" transcription by J. Grove
+# "U" transcription by J. Stolfi from scanned image
+# 
+# Transcription clockwise from double radial stroke at 10:00
+#
+# Weirdos:
+#   &r = <r> attached to the previous char..
+#  
+<f68v1.X.1;H>      dair.cpche!ty.dy=
+<f68v1.X.1;U>      dair,!pcheety.dy=
+<f68v1.X.1;V>      dair!!pche!ty.dy={Grove's X.1}
+#
+<f68v1.X.2;H>      sair.arolsas!!!!=
+<f68v1.X.2;U>      sair.arolser{&r}=
+<f68v1.X.2;V>      sair.aroyser{&r}={Grove's X.2}
+#
+<f68v1.X.3;H>      oteeos.araly=
+<f68v1.X.3;U>      oteeor.arany=
+<f68v1.X.3;V>      oteeos.arany={Grove's X.3}
+#
+<f68v1.X.4;H>      okechdaral=
+<f68v1.X.4;U>      okechdaral=
+<f68v1.X.4;V>      okechdarol={Grove's X.4}
+#
+<f68v1.X.5;H>      otol.chcs.otaly=
+<f68v1.X.5;U>      otol.ches.otaly=
+<f68v1.X.5;V>      otol.chcs.otaly={Grove's X.5}
+#
+<f68v1.X.6;H>      okeey.ch.ek.chekeys=
+<f68v1.X.6;U>      okeey.ch!ek.chekeys=
+<f68v1.X.6;V>      okeey.ch!ek.chekeys={Grove's X.6}
+#
+<f68v1.X.7;H>      dar.shes.shokey=
+<f68v1.X.7;U>      dar.shes.shokey=
+<f68v1.X.7;V>      dar.shes.shokey={Grove's X.7}
+#
+<f68v1.X.8;H>      oteodain.sar=
+<f68v1.X.8;U>      oteodain.sam=
+<f68v1.X.8;V>      oteodain.sam={Grove's X.8}
+#
+
