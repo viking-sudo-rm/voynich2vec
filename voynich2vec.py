@@ -28,7 +28,7 @@ def scrape():
 		url = FORMAT.format(quire, quire)
 		res = requests.get(url)
 		print "Querying {}..".format(url)
-		if res.status_code == 404: break # Side of folio doesn't exist
+		if res.status_code == 404: break # Quire doesn't exist
 		with open(TRANSCRIPT_FORMAT.format(quire), "w") as fh:
 			fh.write(res.text.encode("utf-8"))
 	print "Found {} quires".format(quire - 1)
