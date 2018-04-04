@@ -1,4 +1,5 @@
 import requests, re, os
+from gensim.models.word2vec import Word2Vec
 
 """
 
@@ -14,37 +15,50 @@ https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
 Punctuation in the Voynich:
 https://stephenbax.net/?p=940
 
-The transcription is obtained by scraping www.voynich.nu. The page for quire 1 can be found at
+Transcription:
+Takahashi transcription. Our tokenization finds 37105 words.
 
-	http://www.voynich.nu/q01/q01_tr.txt.
+Preprocessing:
+Strip exclamation, percent
+Ignore words with *
 
 """
 
-FORMAT = "http://www.voynich.nu/q{:02d}/q{:02d}_tr.txt"
-TRANSCRIPT_FORMAT = "transcript/q{:02d}_tr.txt"
+# FORMAT = "http://www.voynich.nu/q{:02d}/q{:02d}_tr.txt"
+# TRANSCRIPT_FORMAT = "transcript/q{:02d}_tr.txt"
 
-def scrape():
-	for quire in xrange(1, 1000):
-		url = FORMAT.format(quire, quire)
-		res = requests.get(url)
-		print "Querying {}..".format(url)
-		if res.status_code == 404: break # Quire doesn't exist
-		with open(TRANSCRIPT_FORMAT.format(quire), "w") as fh:
-			fh.write(res.text.encode("utf-8"))
-	print "Found {} quires".format(quire - 1)
+# def scrape():
+# 	for quire in xrange(1, 1000):
+# 		url = FORMAT.format(quire, quire)
+# 		res = requests.get(url)
+# 		print "Querying {}..".format(url)
+# 		if res.status_code == 404: break # Quire doesn't exist
+# 		with open(TRANSCRIPT_FORMAT.format(quire), "w") as fh:
+# 			fh.write(res.text.encode("utf-8"))
+# 	print "Found {} quires".format(quire - 1)
 
 # Note: The letter after semicolon specifies which transcription to use. Options are H, C, F, N, U.
-LINE_PATTERN = r"^\<.+;H\>\s+(.+)$"
+LINE_PATTERN = r"^\<.+H\>\s+(.+)$"
+TRANSCRIPT = "text16e6.evt"
 
 def getLines():
-	lines = []
-	for quire in xrange(1, 16):
-		with open(TRANSCRIPT_FORMAT.format(quire), "r") as fh:
-			lines.extend(re.findall(LINE_PATTERN, fh.read(), re.MULTILINE))
-	return [line.split(".") for line in lines]
+	with open(TRANSCRIPT, "r") as fh:
+		lines = re.findall(LINE_PATTERN, fh.read(), re.MULTILINE)
+		return [line.split(".") for line in lines]
 
 if __name__ == "__main__":
-	if not os.path.isdir("transcript"):
-		scrape()
+
 	lines = getLines()
+
+	# According to https://www.eleceng.adelaide.edu.au/personal/dabbott/wiki/images/8/82/Cracking_the_Voynich_Manuscript-_Using_basic_statistics_and_analyses_to_determine_linguistic_relationships.pdf, should find 37919
 	print "Found {} words".format(sum(len(line) for line in lines))
+
+	model = Word2Vec(lines,
+		size=100,
+		window=30,
+		min_count=5,
+		workers=4,
+	)
+
+	# Example model similarity
+	print model.wv.similarity("qokal", "chcthy")
