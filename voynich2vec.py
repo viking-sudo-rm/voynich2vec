@@ -1,5 +1,7 @@
 import requests, re, os
 from gensim.models.word2vec import Word2Vec
+from sklearn.manifold import TSNE
+import matplotlib.pyplot as plt
 
 """
 
@@ -65,3 +67,10 @@ if __name__ == "__main__":
 
 	# Example model similarity
 	print model.wv.similarity("qokal", "chcthy")
+
+	X = model[model.wv.vocab]
+	tsne = TSNE(n_components=2)
+	Y = tsne.fit_transform(X)
+
+	plt.scatter(Y[:, 0], Y[:, 1])
+	plt.show()
