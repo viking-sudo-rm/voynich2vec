@@ -44,11 +44,11 @@ def getLines():
 def cleanup(line):
 	newLine = []
 	for word in line:
-		if re.search(IGNORE_PATTERN, word):
-			continue
+		# if re.search(IGNORE_PATTERN, word):
+		# 	newLine.append("UNK") # TODO what to do here?
 		word = re.sub(STRIP_PATTERN, "", word)
-		if word == "":
-			continue
+		# if word == "":
+		# 	newLine.append("UNK")
 		newLine.append(word)
 	return newLine
 
