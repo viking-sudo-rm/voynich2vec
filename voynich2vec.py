@@ -29,20 +29,7 @@ Ignore words with *
 
 """
 
-# FORMAT = "http://www.voynich.nu/q{:02d}/q{:02d}_tr.txt"
-# TRANSCRIPT_FORMAT = "transcript/q{:02d}_tr.txt"
-
-# def scrape():
-# 	for quire in xrange(1, 1000):
-# 		url = FORMAT.format(quire, quire)
-# 		res = requests.get(url)
-# 		print "Querying {}..".format(url)
-# 		if res.status_code == 404: break # Quire doesn't exist
-# 		with open(TRANSCRIPT_FORMAT.format(quire), "w") as fh:
-# 			fh.write(res.text.encode("utf-8"))
-# 	print "Found {} quires".format(quire - 1)
-
-# Note: The letter after semicolon specifies which transcription to use. Options are H, C, F, N, U.
+# The letter after semicolon specifies which transcription to use. Options are H, C, F, N, U.
 LINE_PATTERN = r"^\<.+H\>\s+(.+)$"
 TRANSCRIPT = "text16e6.evt"
 
@@ -55,7 +42,8 @@ if __name__ == "__main__":
 
 	lines = getLines()
 
-	# According to https://www.eleceng.adelaide.edu.au/personal/dabbott/wiki/images/8/82/Cracking_the_Voynich_Manuscript-_Using_basic_statistics_and_analyses_to_determine_linguistic_relationships.pdf, should find 37919
+	# Should be 37919 according to
+	# https://www.eleceng.adelaide.edu.au/personal/dabbott/wiki/images/8/82/Cracking_the_Voynich_Manuscript-_Using_basic_statistics_and_analyses_to_determine_linguistic_relationships.pdf
 	print "Found {} words".format(sum(len(line) for line in lines))
 
 	model = Word2Vec(lines,
@@ -65,7 +53,7 @@ if __name__ == "__main__":
 		workers=4,
 	)
 
-	# Example model similarity
+	# Check the cosine similarity between two words
 	print model.wv.similarity("qokal", "chcthy")
 
 	X = model[model.wv.vocab]
