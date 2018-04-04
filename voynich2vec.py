@@ -29,18 +29,34 @@ Ignore words with *
 
 """
 
-# The letter after semicolon specifies which transcription to use. Options are H, C, F, N, U.
-LINE_PATTERN = r"^\<.+H\>\s+(.+)$"
 TRANSCRIPT = "text16e6.evt"
+LINE_PATTERN = r"^\<.+H\>\s+(.+)$"
+TOKENIZE_PATTERN = r"[\.,]"
+IGNORE_PATTERN = r"\*"
+STRIP_PATTERN = r"[!%-=]|(\{.*\})"
+
 
 def getLines():
 	with open(TRANSCRIPT, "r") as fh:
 		lines = re.findall(LINE_PATTERN, fh.read(), re.MULTILINE)
-		return [line.split(".") for line in lines]
+		return [re.split(TOKENIZE_PATTERN, line) for line in lines]
+
+def cleanup(line):
+	newLine = []
+	for word in line:
+		if re.search(IGNORE_PATTERN, word):
+			continue
+		word = re.sub(STRIP_PATTERN, "", word)
+		if word == "":
+			continue
+		newLine.append(word)
+	return newLine
 
 if __name__ == "__main__":
 
 	lines = getLines()
+	lines = map(cleanup, lines)
+	print "First line: {}".format(lines[0])
 
 	# Should be 37919 according to
 	# https://www.eleceng.adelaide.edu.au/personal/dabbott/wiki/images/8/82/Cracking_the_Voynich_Manuscript-_Using_basic_statistics_and_analyses_to_determine_linguistic_relationships.pdf
@@ -52,6 +68,9 @@ if __name__ == "__main__":
 		min_count=5,
 		workers=4,
 	)
+
+	print "Found {} vocab items".format(len(model.wv.vocab))
+	# print model.wv.vocab.keys()
 
 	# Check the cosine similarity between two words
 	print model.wv.similarity("qokal", "chcthy")
