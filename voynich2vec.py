@@ -15,6 +15,9 @@ https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
 Punctuation in the Voynich:
 https://stephenbax.net/?p=940
 
+Multilingual word embeddings:
+https://arxiv.org/pdf/1710.04087.pdf 
+
 Transcription:
 Takahashi transcription. Our tokenization finds 37105 words.
 
@@ -55,7 +58,7 @@ if __name__ == "__main__":
 
 	model = Word2Vec(lines,
 		size=100,
-		window=30,
+		window=5,
 		min_count=5,
 		workers=4,
 	)
