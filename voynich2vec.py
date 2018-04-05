@@ -31,31 +31,23 @@ Ignore words with *
 
 TRANSCRIPT = "text16e6.evt"
 LINE_PATTERN = r"^\<.+H\>\s+(.+)$"
-TOKENIZE_PATTERN = r"[\.,]"
-IGNORE_PATTERN = r"\*"
-STRIP_PATTERN = r"[!%-=]|(\{.*\})"
+TOKENIZE_PATTERN = r"[\.,-=]"
+# IGNORE_PATTERN = r"[*%]"
+STRIP_PATTERN = r"[!%]|(\{.*\})"
 
+def cleanup(line):
+	line = re.sub(STRIP_PATTERN, "", line)
+	tokens = re.split(TOKENIZE_PATTERN, line)
+	return filter(lambda w: w, tokens)
 
 def getLines():
 	with open(TRANSCRIPT, "r") as fh:
 		lines = re.findall(LINE_PATTERN, fh.read(), re.MULTILINE)
-		return [re.split(TOKENIZE_PATTERN, line) for line in lines]
-
-def cleanup(line):
-	newLine = []
-	for word in line:
-		# if re.search(IGNORE_PATTERN, word):
-		# 	newLine.append("UNK") # TODO what to do here?
-		word = re.sub(STRIP_PATTERN, "", word)
-		# if word == "":
-		# 	newLine.append("UNK")
-		newLine.append(word)
-	return newLine
+		return map(cleanup, lines)
 
 if __name__ == "__main__":
 
 	lines = getLines()
-	lines = map(cleanup, lines)
 	print "First line: {}".format(lines[0])
 
 	# Should be 37919 according to
