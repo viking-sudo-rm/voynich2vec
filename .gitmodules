@@ -1,0 +1,3 @@
+[submodule "MUSE"]
+	path = MUSE
+	url = https://github.com/facebookresearch/MUSE

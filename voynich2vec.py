@@ -99,7 +99,8 @@ if __name__ == "__main__":
 	# # Check the cosine similarity between two words
 	# print model.wv.similarity("qokal", "chcthy")
 
-	model = getOtherModel("secretaSecretorum")
+	model = getVoynichModel()
+	# model = getOtherModel("secretaSecretorum")
 
 	X = np.array([model[w] for w in model.words])
 	print "Embedding shape", X.shape
@@ -108,5 +109,5 @@ if __name__ == "__main__":
 	tsne = TSNE(n_components=2)
 	Y = tsne.fit_transform(X)
 
-	plt.scatter(Y[:, 0], Y[:, 1])
-	plt.show()
+	# plt.scatter(Y[:, 0], Y[:, 1])
+	# plt.show()
