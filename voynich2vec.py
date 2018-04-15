@@ -1,7 +1,10 @@
-import requests, re, os
+import requests, re, os, io
 from gensim.models.word2vec import Word2Vec
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
+import numpy as np
+from nltk import sent_tokenize, word_tokenize
+import fasttext
 
 """
 
@@ -18,7 +21,12 @@ Punctuation in the Voynich:
 https://stephenbax.net/?p=940
 
 Multilingual word embeddings:
-https://arxiv.org/pdf/1710.04087.pdf 
+https://arxiv.org/pdf/1710.04087.pdf
+https://github.com/Kyubyong/wordvectors
+
+https://github.com/facebookresearch/fastText
+https://github.com/facebookresearch/MUSE
+Note that src_lang and trg_lang don't get used in unsupervised!
 
 Transcription:
 Takahashi transcription. Our tokenization finds 37105 words.
@@ -45,7 +53,7 @@ def getLines():
 		lines = re.findall(LINE_PATTERN, fh.read(), re.MULTILINE)
 		return map(cleanup, lines)
 
-if __name__ == "__main__":
+def getVoynichModel():
 
 	lines = getLines()
 	print "First line: {}".format(lines[0])
@@ -54,20 +62,49 @@ if __name__ == "__main__":
 	# https://www.eleceng.adelaide.edu.au/personal/dabbott/wiki/images/8/82/Cracking_the_Voynich_Manuscript-_Using_basic_statistics_and_analyses_to_determine_linguistic_relationships.pdf
 	print "Found {} words".format(sum(len(line) for line in lines))
 
-	model = Word2Vec(lines,
-		size=100,
-		window=5,
-		min_count=5,
-		workers=4,
-	)
+	with open("temp.txt", "w") as fh:
+		for line in lines:
+			fh.write(" ".join(line) + "\n")
 
-	print "Found {} vocab items".format(len(model.wv.vocab))
-	# print model.wv.vocab.keys()
+	print "Training models/voynich"
+	model = fasttext.skipgram('temp.txt', 'models/voynich')
+	print model.words
+	return model
 
-	# Check the cosine similarity between two words
-	print model.wv.similarity("qokal", "chcthy")
+def getOtherModel(name):
 
-	X = model[model.wv.vocab]
+	with io.open("texts/{}.txt".format(name), encoding="utf-8") as fh:
+		text = fh.read()
+
+	with io.open("temp.txt".format(name), "w", encoding="utf-8") as fh:
+		for sent in sent_tokenize(text):
+			fh.write(" ".join(word_tokenize(sent)) + "\n")
+
+	print "Training models/" + name
+	model = fasttext.skipgram("temp.txt", "models/" + name)
+	print model.words
+	return model
+
+if __name__ == "__main__":
+
+	# model = Word2Vec(lines,
+	# 	size=100,
+	# 	window=5,
+	# 	min_count=5,
+	# 	workers=4,
+	# )
+
+	# print "Found {} vocab items".format(len(model.wv.vocab))
+
+	# # Check the cosine similarity between two words
+	# print model.wv.similarity("qokal", "chcthy")
+
+	model = getOtherModel("secretaSecretorum")
+
+	X = np.array([model[w] for w in model.words])
+	print "Embedding shape", X.shape
+
+	# X = model[model.wv.vocab]
 	tsne = TSNE(n_components=2)
 	Y = tsne.fit_transform(X)
 
