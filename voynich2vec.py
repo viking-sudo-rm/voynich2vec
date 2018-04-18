@@ -1,5 +1,5 @@
 import requests, re, os, io
-from gensim.models.word2vec import Word2Vec
+#from gensim.models.word2vec import Word2Vec
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import numpy as np
@@ -99,8 +99,8 @@ if __name__ == "__main__":
 	# # Check the cosine similarity between two words
 	# print model.wv.similarity("qokal", "chcthy")
 
-	model = getVoynichModel()
-	# model = getOtherModel("secretaSecretorum")
+	# model = getVoynichModel()
+	model = getOtherModel("secretaSecretorum")
 
 	X = np.array([model[w] for w in model.words])
 	print "Embedding shape", X.shape
