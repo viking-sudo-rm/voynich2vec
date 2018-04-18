@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import requests, re, os, io
 from gensim.models.word2vec import Word2Vec
 from sklearn.manifold import TSNE
