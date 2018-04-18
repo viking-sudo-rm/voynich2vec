@@ -7,6 +7,8 @@ import numpy as np
 from nltk import sent_tokenize, word_tokenize
 import fasttext
 
+import vms_tokenize
+
 """
 
 Notes:
@@ -39,10 +41,10 @@ Ignore words with *
 """
 
 TRANSCRIPT = "text16e6.evt"
-LINE_PATTERN = r"^\<.+H\>\s+(.+)$"
-TOKENIZE_PATTERN = r"[\.,-=]"
+# LINE_PATTERN = r"^\<.+H\>\s+(.+)$"
+# TOKENIZE_PATTERN = r"[\.,-=]"
 # IGNORE_PATTERN = r"[*%]"
-STRIP_PATTERN = r"[!%]|(\{.*\})"
+# STRIP_PATTERN = r"[!%]|(\{.*\})"
 
 def cleanup(line):
 	line = re.sub(STRIP_PATTERN, "", line)
@@ -56,15 +58,15 @@ def getLines():
 
 def getVoynichModel():
 
-	lines = getLines()
-	print "First line: {}".format(lines[0])
+	# lines = getLines()
+	# print "First line: {}".format(lines[0])
 
-	# Should be 37919 according to
-	# https://www.eleceng.adelaide.edu.au/personal/dabbott/wiki/images/8/82/Cracking_the_Voynich_Manuscript-_Using_basic_statistics_and_analyses_to_determine_linguistic_relationships.pdf
-	print "Found {} words".format(sum(len(line) for line in lines))
+	# # Should be 37919 according to
+	# # https://www.eleceng.adelaide.edu.au/personal/dabbott/wiki/images/8/82/Cracking_the_Voynich_Manuscript-_Using_basic_statistics_and_analyses_to_determine_linguistic_relationships.pdf
+	# print "Found {} words".format(sum(len(line) for line in lines))
 
 	with open("temp.txt", "w") as fh:
-		for line in lines:
+		for line in vms_tokenize.get_words(TRANSCRIPT):
 			fh.write(" ".join(line) + "\n")
 
 	print "Training models/voynich"
