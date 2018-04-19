@@ -20,11 +20,24 @@ def gen_aligned(file_path, n=float("inf")):
 			vecs.append(np.array(map(float, vec[1:])))
 	return words, np.stack(vecs, axis=0)
 
+def annotate(image, words, n=float("inf")):
+	for i, (label, x, y) in enumerate(zip(words, image[:, 0], image[:, 1])):
+		if i == n: break
+		plt.annotate(
+			label,
+			xy=(x, y), # xytext=(-20, 20),
+			# textcoords='offset points', ha='right', va='bottom',
+			# bbox=dict(boxstyle='round,pad=0.5', fc='black', alpha=0.5),
+			# arrowprops=dict(arrowstyle = '->', connectionstyle='arc3,rad=0')
+		)
+
 load_aligned = lambda file_path: list(gen_aligned(file_path))		
 
 parser = argparse.ArgumentParser(description='Build vectors for documents.')
 parser.add_argument("--text", type=str, default=None)
 parser.add_argument("--format", type=str, default="bin")
+parser.add_argument("--metric", type=str, default="cosine")
+parser.add_argument("--label", type=bool, default=True)
 args = parser.parse_args()
 
 native = "models/{}.{}".format(args.text, args.format)
@@ -55,8 +68,8 @@ print "Saved alignment to", filename
 
 embed = np.concatenate([embed_vy, embed_la], axis=0)
 
-print "Doing TSNE"
-tsne = TSNE(n_components=2)
+print "Doing TSNE.."
+tsne = TSNE(n_components=2, metric=args.metric)
 image = tsne.fit_transform(embed)
 image_vy = image[:len(embed_vy),:]
 image_la = image[len(embed_vy):,:]
@@ -67,5 +80,10 @@ plt.title(args.text)
 
 filename = "images/{}.png".format(args.text)
 plt.savefig(filename)
+
+if args.label:
+	annotate(image_vy, words_vy, n=50)
+	annotate(image_la, words_la)
+
 print "Saved TSNE image to", filename
 plt.show()
