@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import numpy as np
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
@@ -27,6 +28,9 @@ args = parser.parse_args()
 FORMAT = "bin" # "vec"
 NATIVE = "models/{}.{}".format(args.text, FORMAT)
 MAPPED = "mappings/{}/vectors-vy.txt".format(args.text)
+
+print "native", NATIVE
+print "mapped", MAPPED
 
 model = fasttext.load_model(NATIVE)
 words_la = list(model.words)
@@ -63,5 +67,8 @@ plt.scatter(*zip(*image_la), c="g")
 # plt.scatter(image_vy[:, 0], image_vy[:, 1], c="r")
 # plt.scatter(image_la[:, 0], image_la[:, 1], c="g")
 filename = "images/{}.png".format(args.text)
+
+plt.show()
+
 plt.savefig(filename)
 print "Saved TSNE image to", filename
