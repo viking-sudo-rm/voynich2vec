@@ -109,8 +109,8 @@ if __name__ == "__main__":
 	print "Embedding shape", X.shape
 
 	# X = model[model.wv.vocab]
-	tsne = TSNE(n_components=2)
-	Y = tsne.fit_transform(X)
+	# tsne = TSNE(n_components=2)
+	# Y = tsne.fit_transform(X)
 
 	# plt.scatter(Y[:, 0], Y[:, 1])
 	# plt.show()
