@@ -1,11 +1,10 @@
 import numpy as np
 from sklearn.manifold import TSNE
-import matplotlib
 import matplotlib.pyplot as plt
 import fasttext
 import argparse
 
-matplotlib.use('Agg')
+# matplotlib.use('Agg')
 
 def gen_aligned(file_path, n=float("inf")):
 	words = []
@@ -21,13 +20,13 @@ def gen_aligned(file_path, n=float("inf")):
 
 load_aligned = lambda file_path: list(gen_aligned(file_path))		
 
-TEXT = "quran"
-FORMAT = "bin" # "vec"
-NATIVE = "models/{}.{}".format(TEXT, FORMAT)
-MAPPED = "alignments/{}/vectors-vy.txt".format(TEXT)
+parser = argparse.ArgumentParser(description='Build vectors for documents.')
+parser.add_argument("--text", type=str, default=None)
+args = parser.parse_args()
 
-# SRC = "models/voynich.bin"
-# TRG = "alignments/secretaSecretorum/vectors-la.txt"
+FORMAT = "bin" # "vec"
+NATIVE = "models/{}.{}".format(args.text, FORMAT)
+MAPPED = "mappings/{}/vectors-vy.txt".format(args.text)
 
 model = fasttext.load_model(NATIVE)
 words_la = list(model.words)
@@ -40,9 +39,15 @@ print "Got mapped embeddings"
 sims = np.dot(embed_vy, embed_la.T)
 indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:5]
 
-for i, w_vy in enumerate(words_vy):
-	print w_vy, [words_la[j] for j in indices[i,:]]
-print indices.shape
+filename = "alignments/{}.txt".format(args.txt)
+with io.open(filename, "w", encoding="utf-8") as fh:
+	for i, w_vy in enumerate(words_vy):
+		fh.write(w_vy)
+		fh.write("\t")
+		fh.write("\t").join(words_la[j] for j in indices[i,:])
+		fh.write("\n")
+	print indices.shape
+print "Saved alignment to", filename
 
 embed = np.concatenate([embed_vy, embed_la], axis=0)
 
@@ -57,6 +62,6 @@ plt.scatter(*zip(*image_la), c="g")
 
 # plt.scatter(image_vy[:, 0], image_vy[:, 1], c="r")
 # plt.scatter(image_la[:, 0], image_la[:, 1], c="g")
-filename = "images/{}.png".format(TEXT)
+filename = "images/{}.png".format(args.text)
 plt.savefig(filename)
-print "Saved", filename
+print "Saved TSNE image to", filename
