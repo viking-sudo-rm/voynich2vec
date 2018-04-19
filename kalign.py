@@ -21,7 +21,7 @@ def gen_aligned(file_path, n=float("inf")):
 
 load_aligned = lambda file_path: list(gen_aligned(file_path))		
 
-TEXT = "secretaSecretorum"
+TEXT = "quran"
 FORMAT = "bin" # "vec"
 NATIVE = "models/{}.{}".format(TEXT, FORMAT)
 MAPPED = "alignments/{}/vectors-vy.txt".format(TEXT)
