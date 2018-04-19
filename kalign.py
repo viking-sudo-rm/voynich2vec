@@ -1,8 +1,11 @@
 import numpy as np
 from sklearn.manifold import TSNE
+import matplotlib
 import matplotlib.pyplot as plt
 import fasttext
 import argparse
+
+matplotlib.use('Agg')
 
 def gen_aligned(file_path, n=float("inf")):
 	words = []
@@ -43,13 +46,18 @@ for i, w_vy in enumerate(words_vy):
 print indices.shape
 
 embed = np.concatenate([embed_vy, embed_la], axis=0)
+
+print "Doing TSNE"
 tsne = TSNE(n_components=2)
 image = tsne.fit_transform(embed)
 image_vy = image[:len(embed_vy),:]
 image_la = image[len(embed_vy):,:]
 
-zip(*image_vy)
+plt.scatter(*zip(*image_vy), c="r")
+plt.scatter(*zip(*image_la), c="r")
 
-plt.scatter(image_vy[:, 0], image_vy[:, 1], c="r")
-plt.scatter(image_la[:, 0], image_la[:, 1], c="g")
-plt.savefig("images/{}.png".format(TEXT))
+# plt.scatter(image_vy[:, 0], image_vy[:, 1], c="r")
+# plt.scatter(image_la[:, 0], image_la[:, 1], c="g")
+filename = "images/{}.png".format(TEXT)
+plt.savefig(filename)
+print "Saved", filename
