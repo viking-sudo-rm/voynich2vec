@@ -18,17 +18,17 @@ def gen_aligned(file_path, n=float("inf")):
 
 load_aligned = lambda file_path: list(gen_aligned(file_path))		
 
-SRC = "models/secretaSecretorum.bin"
-TRG = "alignments/secretaSecretorum/vectors-vy.txt"
+NATIVE = "models/quran.bin"
+MAPPED = "alignments/quran/vectors-vy.txt"
 
 # SRC = "models/voynich.bin"
 # TRG = "alignments/secretaSecretorum/vectors-la.txt"
 
-model = fasttext.load_model(SRC)
+model = fasttext.load_model(NATIVE)
 words_la = list(model.words)
 embed_la = np.stack([model[word] for word in words_la], axis=0)
 
-words_vy, embed_vy = load_aligned(TRG)
+words_vy, embed_vy = load_aligned(MAPPED)
 
 sims = np.dot(embed_vy, embed_la.T)
 indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:5]
