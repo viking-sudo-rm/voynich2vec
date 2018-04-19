@@ -38,6 +38,8 @@ Preprocessing:
 Strip exclamation, percent
 Ignore words with *
 
+Quran text: http://tanzil.net/download/
+
 """
 
 TRANSCRIPT = "text16e6.evt"
