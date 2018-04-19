@@ -34,11 +34,11 @@ S'txt'
 p13
 sS'exp_path'
 p14
-S'/gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/smxtbyaknx'
+S'/gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/ceeygiwpo4'
 p15
 sS'tgt_emb'
 p16
-S'../models/secretaSecretorum.vec'
+S'../models/quran.vec'
 p17
 sS'dis_lambda'
 p18
@@ -118,7 +118,7 @@ p45
 I0
 sS'dico_build'
 p46
-S'S2T'
+S'S2T&T2S'
 p47
 sS'emb_dim'
 p48
@@ -139,7 +139,7 @@ S'vy'
 p54
 sS'tgt_lang'
 p55
-S'la'
+S'ar'
 p56
 sS'dis_dropout'
 p57
