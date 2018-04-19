@@ -18,17 +18,22 @@ def gen_aligned(file_path, n=float("inf")):
 
 load_aligned = lambda file_path: list(gen_aligned(file_path))		
 
-NATIVE = "models/quran.bin"
-MAPPED = "alignments/quran/vectors-vy.txt"
+TEXT = "secretaSecretorum"
+FORMAT = "bin" # "vec"
+NATIVE = "models/{}.{}".format(TEXT, FORMAT)
+MAPPED = "alignments/{}/vectors-vy.txt".format(TEXT)
 
 # SRC = "models/voynich.bin"
 # TRG = "alignments/secretaSecretorum/vectors-la.txt"
 
 model = fasttext.load_model(NATIVE)
+print "Got model"
 words_la = list(model.words)
 embed_la = np.stack([model[word] for word in words_la], axis=0)
+print "Got native embeddings"
 
 words_vy, embed_vy = load_aligned(MAPPED)
+print "Got mapped embeddings"
 
 sims = np.dot(embed_vy, embed_la.T)
 indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:5]
@@ -47,4 +52,4 @@ zip(*image_vy)
 
 plt.scatter(image_vy[:, 0], image_vy[:, 1], c="r")
 plt.scatter(image_la[:, 0], image_la[:, 1], c="g")
-plt.show()
+plt.savefig("images/{}.png".format(TEXT))
