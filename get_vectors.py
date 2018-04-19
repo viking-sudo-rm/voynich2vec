@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import requests, re, os, io
+import requests, re, os, io, argparse
 #from gensim.models.word2vec import Word2Vec
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
@@ -90,29 +90,13 @@ def getOtherModel(name):
 	print model.words
 	return model
 
+parser = argparse.ArgumentParser(description='Build vectors for documents.')
+parser.add_argument("--text", type=str, default=None)
+
 if __name__ == "__main__":
 
-	# model = Word2Vec(lines,
-	# 	size=100,
-	# 	window=5,
-	# 	min_count=5,
-	# 	workers=4,
-	# )
-
-	# print "Found {} vocab items".format(len(model.wv.vocab))
-
-	# # Check the cosine similarity between two words
-	# print model.wv.similarity("qokal", "chcthy")
-
-	model = getVoynichModel()
-	# model = getOtherModel("secretaSecretorum")
+	args = parser.parse_args()
+	model = getVoynichModel() if args.text is None else getOtherModel(args.text)
 
 	X = np.array([model[w] for w in model.words])
 	print "Embedding shape", X.shape
-
-	# X = model[model.wv.vocab]
-	# tsne = TSNE(n_components=2)
-	# Y = tsne.fit_transform(X)
-
-	# plt.scatter(Y[:, 0], Y[:, 1])
-	# plt.show()

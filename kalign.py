@@ -2,6 +2,7 @@ import numpy as np
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import fasttext
+import argparse
 
 def gen_aligned(file_path, n=float("inf")):
 	words = []
