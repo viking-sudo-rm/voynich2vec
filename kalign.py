@@ -30,7 +30,6 @@ MAPPED = "alignments/{}/vectors-vy.txt".format(TEXT)
 # TRG = "alignments/secretaSecretorum/vectors-la.txt"
 
 model = fasttext.load_model(NATIVE)
-print "Got model"
 words_la = list(model.words)
 embed_la = np.stack([model[word] for word in words_la], axis=0)
 print "Got native embeddings"
@@ -54,7 +53,7 @@ image_vy = image[:len(embed_vy),:]
 image_la = image[len(embed_vy):,:]
 
 plt.scatter(*zip(*image_vy), c="r")
-plt.scatter(*zip(*image_la), c="r")
+plt.scatter(*zip(*image_la), c="g")
 
 # plt.scatter(image_vy[:, 0], image_vy[:, 1], c="r")
 # plt.scatter(image_la[:, 0], image_la[:, 1], c="g")
