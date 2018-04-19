@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 import requests, re, os, io, argparse
+import numpy as np
 #from gensim.models.word2vec import Word2Vec
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
-import numpy as np
 from nltk import sent_tokenize, word_tokenize
 import fasttext
 
@@ -96,6 +96,8 @@ parser.add_argument("--text", type=str, default=None)
 if __name__ == "__main__":
 
 	args = parser.parse_args()
+	print "text:", args.text
+
 	model = getVoynichModel() if args.text is None else getOtherModel(args.text)
 
 	X = np.array([model[w] for w in model.words])
