@@ -1,4 +1,5 @@
 #!/usr/bin/python
+import io
 import numpy as np
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
@@ -23,34 +24,33 @@ load_aligned = lambda file_path: list(gen_aligned(file_path))
 
 parser = argparse.ArgumentParser(description='Build vectors for documents.')
 parser.add_argument("--text", type=str, default=None)
+parser.add_argument("--format", type=str, default="bin")
 args = parser.parse_args()
 
-FORMAT = "bin" # "vec"
-NATIVE = "models/{}.{}".format(args.text, FORMAT)
-MAPPED = "mappings/{}/vectors-vy.txt".format(args.text)
+native = "models/{}.{}".format(args.text, args.format)
+mapped = "mappings/{}/vectors-vy.txt".format(args.text)
 
-print "native", NATIVE
-print "mapped", MAPPED
+print "Native:", native
+print "Mapped:", mapped
 
-model = fasttext.load_model(NATIVE)
+model = fasttext.load_model(native)
 words_la = list(model.words)
 embed_la = np.stack([model[word] for word in words_la], axis=0)
 print "Got native embeddings"
 
-words_vy, embed_vy = load_aligned(MAPPED)
+words_vy, embed_vy = load_aligned(mapped)
 print "Got mapped embeddings"
 
 sims = np.dot(embed_vy, embed_la.T)
 indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:5]
 
-filename = "alignments/{}.txt".format(args.txt)
+filename = "alignments/{}.txt".format(args.text)
 with io.open(filename, "w", encoding="utf-8") as fh:
 	for i, w_vy in enumerate(words_vy):
-		fh.write(w_vy)
-		fh.write("\t")
-		fh.write("\t").join(words_la[j] for j in indices[i,:])
-		fh.write("\n")
-	print indices.shape
+		fh.write(unicode(w_vy))
+		fh.write(u"\t")
+		fh.write(u"\t".join(words_la[j] for j in indices[i,:]))
+		fh.write(u"\n")
 print "Saved alignment to", filename
 
 embed = np.concatenate([embed_vy, embed_la], axis=0)
@@ -63,12 +63,9 @@ image_la = image[len(embed_vy):,:]
 
 plt.scatter(*zip(*image_vy), c="r")
 plt.scatter(*zip(*image_la), c="g")
+plt.title(args.text)
 
-# plt.scatter(image_vy[:, 0], image_vy[:, 1], c="r")
-# plt.scatter(image_la[:, 0], image_la[:, 1], c="g")
 filename = "images/{}.png".format(args.text)
-
-plt.show()
-
 plt.savefig(filename)
 print "Saved TSNE image to", filename
+plt.show()
