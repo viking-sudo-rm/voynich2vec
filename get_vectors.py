@@ -3,7 +3,7 @@ import requests, re, os, io, argparse
 import numpy as np
 #from gensim.models.word2vec import Word2Vec
 from sklearn.manifold import TSNE
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 from nltk import sent_tokenize, word_tokenize
 import fasttext
 

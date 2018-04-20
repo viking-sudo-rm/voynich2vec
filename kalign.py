@@ -6,7 +6,6 @@ from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import fasttext
 import argparse
-import sys
 
 # matplotlib.use('Agg')
 
@@ -73,8 +72,6 @@ with io.open(filename, "w", encoding="utf-8") as fh:
 print "Saved alignment to", filename
 
 embed = np.concatenate([embed_vy, embed_la], axis=0)
-
-sys.exit()
 
 print "Doing TSNE.."
 tsne = TSNE(n_components=2, metric=args.metric)
