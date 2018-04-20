@@ -1,10 +1,12 @@
 #!/usr/bin/python
 import io
 import numpy as np
+import numpy.linalg as npla
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import fasttext
 import argparse
+import sys
 
 # matplotlib.use('Agg')
 
@@ -55,7 +57,10 @@ print "Got native embeddings"
 words_vy, embed_vy = load_aligned(mapped)
 print "Got mapped embeddings"
 
-sims = np.dot(embed_vy, embed_la.T)
+mag = npla.norm(embed_vy, axis=1)[:,None] * npla.norm(embed_la, axis=1).transpose()
+
+# sims = np.dot(embed_vy, embed_la.T)
+sims = np.divide(np.dot(embed_vy, embed_la.T), mag)
 indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:5]
 
 filename = "alignments/{}.txt".format(args.text)
@@ -68,6 +73,8 @@ with io.open(filename, "w", encoding="utf-8") as fh:
 print "Saved alignment to", filename
 
 embed = np.concatenate([embed_vy, embed_la], axis=0)
+
+sys.exit()
 
 print "Doing TSNE.."
 tsne = TSNE(n_components=2, metric=args.metric)
