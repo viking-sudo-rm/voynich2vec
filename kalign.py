@@ -34,7 +34,7 @@ def annotate(image, words, n=float("inf")):
 load_aligned = lambda file_path: list(gen_aligned(file_path))		
 
 parser = argparse.ArgumentParser(description='Build vectors for documents.')
-parser.add_argument("--text", type=str, default=None)
+parser.add_argument("--text", type=str, default="secretaSecretorum")
 parser.add_argument("--format", type=str, default="bin")
 parser.add_argument("--metric", type=str, default="cosine")
 parser.add_argument("--label", type=bool, default=True)
