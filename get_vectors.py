@@ -96,7 +96,7 @@ parser.add_argument("--text", type=str, default=None)
 if __name__ == "__main__":
 
 	args = parser.parse_args()
-	print "text:", args.text
+	print "Text:", args.text
 
 	model = getVoynichModel() if args.text is None else getOtherModel(args.text)
 
