@@ -37,8 +37,9 @@ parser = argparse.ArgumentParser(description='Build vectors for documents.')
 parser.add_argument("--text", type=str, default="secretaSecretorum")
 parser.add_argument("--format", type=str, default="bin")
 parser.add_argument("--metric", type=str, default="cosine")
-parser.add_argument("--label", type=bool, default=True)
+parser.add_argument("--labels", action="store_true")
 args = parser.parse_args()
+print(args)
 
 native = "models/{}.{}".format(args.text, args.format)
 mapped = "mappings/{}/vectors-vy.txt".format(args.text)
@@ -81,8 +82,8 @@ plt.title(args.text)
 filename = "images/{}.png".format(args.text)
 plt.savefig(filename)
 
-if args.label:
-	annotate(image_vy, words_vy, n=50)
+if args.labels:
+	annotate(image_vy, words_vy)
 	annotate(image_la, words_la)
 
 print "Saved TSNE image to", filename
