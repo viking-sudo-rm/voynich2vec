@@ -11,15 +11,24 @@
 from collections import Counter
 import re, io
 
-def get_words(file):
+def get_words(file, page_numbers=False):
 	with io.open(file, 'r', encoding="latin_1") as file:
 		for line in file.read().splitlines():
+			# pull out page numbers
+			# if page_numbers:
+			# 	m = re.match(r'^<(f\d+[rv].?)>', line)
+
+			# 	if m:
+			# 		pg = str(m.group(1))
+			# 		yield ['#', pg]
+
 			# pull out takahashi lines
-			m = re.match(r'^<f.*;H> +(\S.*)$', line)
+			m = re.match(r'^<(f.*?)\..*;H> +(\S.*)$', line)
 			if not m:
 				continue
 
-			transcription = m.group(1)
+			transcription = m.group(2)
+			pg = str(m.group(1))
 
 			# ignore entire line if it has a {&NNN} or {&.} code
 			if re.search(r'\{&(\d|\.)+\}', transcription):
@@ -58,11 +67,17 @@ def get_words(file):
 
 			# split on word boundaries
 			words = [str(w) for w in s.split(".")]
-			yield words
+
+			if page_numbers:
+				r = [pg]
+				r.extend(words)
+				yield r
+			else:
+				yield words
 
 if __name__ == "__main__":
 	for line in get_words("text16e6.evt"):
-		print(line)
+		print line
 
 
 
