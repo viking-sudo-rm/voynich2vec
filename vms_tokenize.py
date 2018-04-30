@@ -66,7 +66,8 @@ def get_words(file, page_numbers=False):
 			s = re.sub(r'\.\{\\\}', ".", s)
 
 			# split on word boundaries
-			words = [str(w) for w in s.split(".")]
+			# exclude null words ('')
+			words = [str(w) for w in s.split(".") if w]
 
 			if page_numbers:
 				r = [pg]
