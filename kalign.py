@@ -6,6 +6,8 @@ from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import fasttext
 import argparse
+import sys
+import math
 
 # matplotlib.use('Agg')
 
@@ -62,16 +64,28 @@ mag = npla.norm(embed_vy, axis=1)[:,None] * npla.norm(embed_la, axis=1).transpos
 sims = np.divide(np.dot(embed_vy, embed_la.T), mag)
 indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:5]
 
+word_dist = []
+
 filename = "alignments/{}.txt".format(args.text)
 with io.open(filename, "w", encoding="utf-8") as fh:
 	for i, w_vy in enumerate(words_vy):
-		fh.write(unicode(w_vy))
-		fh.write(u"\t")
-		fh.write(u"\t".join(words_la[j] for j in indices[i,:]))
-		fh.write(u"\n")
+		# fh.write(unicode(w_vy))
+		word_dist.extend([(w_vy, str(words_la[j]), math.acos(sims[i, j])) for j in indices[i, :]])
+		# fh.write(u"\t")
+		# fh.write(u"\t".join(words_la[j] for j in indices[i,:]))
+		# fh.write(u"\n")
+		# fh.write(u"\t" + u"\t".join(str(math.acos(sims[i, j])) for j in indices[i, :]))
+		# fh.write(u"\n")
 print "Saved alignment to", filename
 
+word_dist.sort(key = lambda x: x[2])
+
+for w in word_dist:
+	print w[0], "\t", w[1], "\t", w[2]
+
 embed = np.concatenate([embed_vy, embed_la], axis=0)
+
+sys.exit()
 
 print "Doing TSNE.."
 tsne = TSNE(n_components=2, metric=args.metric)
