@@ -2161,7 +2161,7 @@ tchor	gieino/n	0.0866096128269
 chekal	sune/bh	0.0866126031479
 otary	peidh\	0.0866185085474
 ety	/rhken	0.086619267377
-sshey	kodomei=n	0.0866339079998
+sshey	kodomei=n	0.0866339079997
 ytaly	/rhken	0.0866418254506
 qokedy	deu=ro	0.0866587029957
 oteed	kodomei=n	0.0866593524272
