@@ -1,0 +1,332 @@
+INFO - 05/01/18 13:36:46 - 0:00:00 - ============ Initialized logger ============
+INFO - 05/01/18 13:36:46 - 0:00:00 - adversarial: True
+                                     batch_size: 32
+                                     cuda: True
+                                     dico_build: S2T&T2S
+                                     dico_max_rank: 0
+                                     dico_max_size: 0
+                                     dico_method: csls_knn_10
+                                     dico_min_size: 0
+                                     dico_threshold: 0
+                                     dis_clip_weights: 0
+                                     dis_dropout: 0.0
+                                     dis_hid_dim: 2048
+                                     dis_input_dropout: 0.1
+                                     dis_lambda: 1
+                                     dis_layers: 2
+                                     dis_most_frequent: 352
+                                     dis_optimizer: sgd,lr=0.1
+                                     dis_smooth: 0.1
+                                     dis_steps: 5
+                                     emb_dim: 100
+                                     epoch_size: 100000
+                                     exp_id: 
+                                     exp_name: debug
+                                     exp_path: /gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/qjzjq5wlq4
+                                     export: txt
+                                     lr_decay: 0.98
+                                     lr_shrink: 0.5
+                                     map_beta: 0.001
+                                     map_id_init: True
+                                     map_optimizer: sgd,lr=0.1
+                                     max_vocab: 200000
+                                     min_lr: 1e-06
+                                     n_epochs: 5
+                                     n_refinement: 5
+                                     normalize_embeddings: 
+                                     seed: -1
+                                     src_emb: ../models/voynich.vec
+                                     src_lang: vy
+                                     tgt_emb: ../models/censorinus.vec
+                                     tgt_lang: la
+                                     verbose: 2
+INFO - 05/01/18 13:36:46 - 0:00:00 - The experiment will be stored in /gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/qjzjq5wlq4
+INFO - 05/01/18 13:36:46 - 0:00:00 - Loaded 980 pre-trained word embeddings.
+INFO - 05/01/18 13:36:48 - 0:00:02 - Loaded 352 pre-trained word embeddings.
+INFO - 05/01/18 13:36:48 - 0:00:02 - ----> ADVERSARIAL TRAINING <----
+                                     
+                                     
+INFO - 05/01/18 13:36:48 - 0:00:02 - Starting adversarial training epoch 0...
+INFO - 05/01/18 13:36:48 - 0:00:02 - 000000 - Discriminator loss: 0.6498 - 417 samples/s
+INFO - 05/01/18 13:36:50 - 0:00:05 - 004000 - Discriminator loss: 0.6689 - 3133 samples/s
+INFO - 05/01/18 13:36:53 - 0:00:07 - 008000 - Discriminator loss: 0.6847 - 3236 samples/s
+INFO - 05/01/18 13:36:55 - 0:00:10 - 012000 - Discriminator loss: 0.6151 - 3238 samples/s
+INFO - 05/01/18 13:36:58 - 0:00:12 - 016000 - Discriminator loss: 0.4400 - 3221 samples/s
+INFO - 05/01/18 13:37:00 - 0:00:15 - 020000 - Discriminator loss: 0.4057 - 3239 samples/s
+INFO - 05/01/18 13:37:03 - 0:00:17 - 024000 - Discriminator loss: 0.4252 - 3239 samples/s
+INFO - 05/01/18 13:37:05 - 0:00:20 - 028000 - Discriminator loss: 0.4028 - 3234 samples/s
+INFO - 05/01/18 13:37:08 - 0:00:22 - 032000 - Discriminator loss: 0.3913 - 3236 samples/s
+INFO - 05/01/18 13:37:10 - 0:00:24 - 036000 - Discriminator loss: 0.3647 - 3238 samples/s
+INFO - 05/01/18 13:37:13 - 0:00:27 - 040000 - Discriminator loss: 0.3463 - 3234 samples/s
+INFO - 05/01/18 13:37:15 - 0:00:29 - 044000 - Discriminator loss: 0.3528 - 3237 samples/s
+INFO - 05/01/18 13:37:18 - 0:00:32 - 048000 - Discriminator loss: 0.3390 - 3232 samples/s
+INFO - 05/01/18 13:37:20 - 0:00:34 - 052000 - Discriminator loss: 0.3294 - 3237 samples/s
+INFO - 05/01/18 13:37:23 - 0:00:37 - 056000 - Discriminator loss: 0.3406 - 3237 samples/s
+INFO - 05/01/18 13:37:25 - 0:00:39 - 060000 - Discriminator loss: 0.3344 - 3232 samples/s
+INFO - 05/01/18 13:37:27 - 0:00:42 - 064000 - Discriminator loss: 0.3401 - 3237 samples/s
+INFO - 05/01/18 13:37:30 - 0:00:44 - 068000 - Discriminator loss: 0.3310 - 3238 samples/s
+INFO - 05/01/18 13:37:32 - 0:00:47 - 072000 - Discriminator loss: 0.3386 - 3231 samples/s
+INFO - 05/01/18 13:37:35 - 0:00:49 - 076000 - Discriminator loss: 0.3316 - 3233 samples/s
+INFO - 05/01/18 13:37:37 - 0:00:52 - 080000 - Discriminator loss: 0.3444 - 3235 samples/s
+INFO - 05/01/18 13:37:40 - 0:00:54 - 084000 - Discriminator loss: 0.3364 - 3234 samples/s
+INFO - 05/01/18 13:37:42 - 0:00:57 - 088000 - Discriminator loss: 0.3461 - 3237 samples/s
+INFO - 05/01/18 13:37:45 - 0:00:59 - 092000 - Discriminator loss: 0.3320 - 3234 samples/s
+INFO - 05/01/18 13:37:47 - 0:01:02 - 096000 - Discriminator loss: 0.3338 - 3233 samples/s
+INFO - 05/01/18 13:37:50 - 0:01:04 - Building the train dictionary ...
+INFO - 05/01/18 13:37:50 - 0:01:04 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:37:50 - 0:01:04 - Mean cosine (nn method, S2T build, 10000 max size): 0.76396
+INFO - 05/01/18 13:37:52 - 0:01:06 - Building the train dictionary ...
+INFO - 05/01/18 13:37:52 - 0:01:06 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:37:52 - 0:01:06 - Mean cosine (csls_knn_10 method, S2T build, 10000 max size): 0.76396
+INFO - 05/01/18 13:37:52 - 0:01:06 - Discriminator source / target predictions: 0.98449 / 0.21260
+INFO - 05/01/18 13:37:52 - 0:01:06 - Discriminator source / target / global accuracy: 1.00000 / 1.00000 / 1.00000
+INFO - 05/01/18 13:37:52 - 0:01:06 - __log__:{"n_epoch": 0, "mean_cosine-nn-S2T-10000": 0.7639605402946472, "mean_cosine-csls_knn_10-S2T-10000": 0.763960599899292, "dis_accu": 1.0, "dis_src_pred": 0.9844888048512596, "dis_tgt_pred": 0.21260492126880723}
+INFO - 05/01/18 13:37:52 - 0:01:06 - * Best value for "mean_cosine-csls_knn_10-S2T-10000": 0.76396
+INFO - 05/01/18 13:37:52 - 0:01:06 - * Saving the mapping to /gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/qjzjq5wlq4/best_mapping.pth ...
+INFO - 05/01/18 13:37:52 - 0:01:06 - End of epoch 0.
+                                     
+                                     
+INFO - 05/01/18 13:37:52 - 0:01:06 - Decreasing learning rate: 0.10000000 -> 0.09800000
+INFO - 05/01/18 13:37:52 - 0:01:06 - Starting adversarial training epoch 1...
+INFO - 05/01/18 13:37:52 - 0:01:06 - 000000 - Discriminator loss: 0.3545 - 3308 samples/s
+INFO - 05/01/18 13:37:54 - 0:01:09 - 004000 - Discriminator loss: 0.3347 - 3235 samples/s
+INFO - 05/01/18 13:37:57 - 0:01:11 - 008000 - Discriminator loss: 0.3402 - 3237 samples/s
+INFO - 05/01/18 13:37:59 - 0:01:14 - 012000 - Discriminator loss: 0.3447 - 3231 samples/s
+INFO - 05/01/18 13:38:02 - 0:01:16 - 016000 - Discriminator loss: 0.3373 - 3243 samples/s
+INFO - 05/01/18 13:38:04 - 0:01:18 - 020000 - Discriminator loss: 0.3747 - 3233 samples/s
+INFO - 05/01/18 13:38:07 - 0:01:21 - 024000 - Discriminator loss: 0.3691 - 3229 samples/s
+INFO - 05/01/18 13:38:09 - 0:01:23 - 028000 - Discriminator loss: 0.3541 - 3241 samples/s
+INFO - 05/01/18 13:38:12 - 0:01:26 - 032000 - Discriminator loss: 0.3715 - 3236 samples/s
+INFO - 05/01/18 13:38:14 - 0:01:28 - 036000 - Discriminator loss: 0.3603 - 3233 samples/s
+INFO - 05/01/18 13:38:17 - 0:01:31 - 040000 - Discriminator loss: 0.3605 - 3239 samples/s
+INFO - 05/01/18 13:38:19 - 0:01:33 - 044000 - Discriminator loss: 0.3380 - 3231 samples/s
+INFO - 05/01/18 13:38:21 - 0:01:36 - 048000 - Discriminator loss: 0.3767 - 3234 samples/s
+INFO - 05/01/18 13:38:24 - 0:01:38 - 052000 - Discriminator loss: 0.3674 - 3230 samples/s
+INFO - 05/01/18 13:38:26 - 0:01:41 - 056000 - Discriminator loss: 0.3783 - 3234 samples/s
+INFO - 05/01/18 13:38:29 - 0:01:43 - 060000 - Discriminator loss: 0.3584 - 3230 samples/s
+INFO - 05/01/18 13:38:31 - 0:01:46 - 064000 - Discriminator loss: 0.3669 - 3235 samples/s
+INFO - 05/01/18 13:38:34 - 0:01:48 - 068000 - Discriminator loss: 0.3490 - 3233 samples/s
+INFO - 05/01/18 13:38:36 - 0:01:51 - 072000 - Discriminator loss: 0.3721 - 3235 samples/s
+INFO - 05/01/18 13:38:39 - 0:01:53 - 076000 - Discriminator loss: 0.3617 - 3224 samples/s
+INFO - 05/01/18 13:38:41 - 0:01:56 - 080000 - Discriminator loss: 0.7422 - 3231 samples/s
+INFO - 05/01/18 13:38:44 - 0:01:58 - 084000 - Discriminator loss: 1.5443 - 3232 samples/s
+INFO - 05/01/18 13:38:46 - 0:02:01 - 088000 - Discriminator loss: 1.5442 - 3239 samples/s
+INFO - 05/01/18 13:38:49 - 0:02:03 - 092000 - Discriminator loss: 1.5441 - 3230 samples/s
+INFO - 05/01/18 13:38:51 - 0:02:05 - 096000 - Discriminator loss: 1.5441 - 3233 samples/s
+INFO - 05/01/18 13:38:54 - 0:02:08 - Building the train dictionary ...
+INFO - 05/01/18 13:38:54 - 0:02:08 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:38:54 - 0:02:08 - Mean cosine (nn method, S2T build, 10000 max size): 0.71730
+INFO - 05/01/18 13:38:55 - 0:02:09 - Building the train dictionary ...
+INFO - 05/01/18 13:38:55 - 0:02:09 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:38:55 - 0:02:09 - Mean cosine (csls_knn_10 method, S2T build, 10000 max size): 0.71719
+INFO - 05/01/18 13:38:55 - 0:02:09 - Discriminator source / target predictions: 0.99917 / 0.10227
+INFO - 05/01/18 13:38:55 - 0:02:09 - Discriminator source / target / global accuracy: 0.99898 / 1.00000 / 0.99925
+INFO - 05/01/18 13:38:55 - 0:02:09 - __log__:{"n_epoch": 1, "mean_cosine-nn-S2T-10000": 0.7172950506210327, "mean_cosine-csls_knn_10-S2T-10000": 0.7171905040740967, "dis_accu": 0.9992492492492493, "dis_src_pred": 0.9991688166193816, "dis_tgt_pred": 0.10226916303773495}
+INFO - 05/01/18 13:38:55 - 0:02:09 - End of epoch 1.
+                                     
+                                     
+INFO - 05/01/18 13:38:55 - 0:02:09 - Decreasing learning rate: 0.09800000 -> 0.09604000
+INFO - 05/01/18 13:38:55 - 0:02:09 - Validation metric is smaller than the best: 0.71719 vs 0.76396
+INFO - 05/01/18 13:38:55 - 0:02:09 - Starting adversarial training epoch 2...
+INFO - 05/01/18 13:38:55 - 0:02:09 - 000000 - Discriminator loss: 1.5441 - 3297 samples/s
+INFO - 05/01/18 13:38:57 - 0:02:12 - 004000 - Discriminator loss: 1.5432 - 3234 samples/s
+INFO - 05/01/18 13:39:00 - 0:02:14 - 008000 - Discriminator loss: 1.5376 - 3230 samples/s
+INFO - 05/01/18 13:39:02 - 0:02:17 - 012000 - Discriminator loss: 1.5556 - 3237 samples/s
+INFO - 05/01/18 13:39:05 - 0:02:19 - 016000 - Discriminator loss: 1.5437 - 3242 samples/s
+INFO - 05/01/18 13:39:07 - 0:02:22 - 020000 - Discriminator loss: 1.1225 - 3234 samples/s
+INFO - 05/01/18 13:39:10 - 0:02:24 - 024000 - Discriminator loss: 0.3681 - 3229 samples/s
+INFO - 05/01/18 13:39:12 - 0:02:27 - 028000 - Discriminator loss: 1.2824 - 3234 samples/s
+INFO - 05/01/18 13:39:15 - 0:02:29 - 032000 - Discriminator loss: 0.6430 - 3224 samples/s
+INFO - 05/01/18 13:39:17 - 0:02:32 - 036000 - Discriminator loss: 0.3443 - 3237 samples/s
+INFO - 05/01/18 13:39:20 - 0:02:34 - 040000 - Discriminator loss: 0.3444 - 3227 samples/s
+INFO - 05/01/18 13:39:22 - 0:02:36 - 044000 - Discriminator loss: 0.3561 - 3226 samples/s
+INFO - 05/01/18 13:39:25 - 0:02:39 - 048000 - Discriminator loss: 0.3478 - 3232 samples/s
+INFO - 05/01/18 13:39:27 - 0:02:41 - 052000 - Discriminator loss: 0.3482 - 3232 samples/s
+INFO - 05/01/18 13:39:30 - 0:02:44 - 056000 - Discriminator loss: 0.3427 - 3232 samples/s
+INFO - 05/01/18 13:39:32 - 0:02:46 - 060000 - Discriminator loss: 0.3517 - 3237 samples/s
+INFO - 05/01/18 13:39:35 - 0:02:49 - 064000 - Discriminator loss: 0.3506 - 3233 samples/s
+INFO - 05/01/18 13:39:37 - 0:02:51 - 068000 - Discriminator loss: 0.3497 - 3231 samples/s
+INFO - 05/01/18 13:39:39 - 0:02:54 - 072000 - Discriminator loss: 0.3552 - 3238 samples/s
+INFO - 05/01/18 13:39:42 - 0:02:56 - 076000 - Discriminator loss: 0.3462 - 3231 samples/s
+INFO - 05/01/18 13:39:44 - 0:02:59 - 080000 - Discriminator loss: 0.3476 - 3234 samples/s
+INFO - 05/01/18 13:39:47 - 0:03:01 - 084000 - Discriminator loss: 0.3504 - 3232 samples/s
+INFO - 05/01/18 13:39:49 - 0:03:04 - 088000 - Discriminator loss: 0.3518 - 3232 samples/s
+INFO - 05/01/18 13:39:52 - 0:03:06 - 092000 - Discriminator loss: 0.3491 - 3238 samples/s
+INFO - 05/01/18 13:39:54 - 0:03:09 - 096000 - Discriminator loss: 0.3503 - 3235 samples/s
+INFO - 05/01/18 13:39:57 - 0:03:11 - Building the train dictionary ...
+INFO - 05/01/18 13:39:57 - 0:03:11 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:39:57 - 0:03:11 - Mean cosine (nn method, S2T build, 10000 max size): 0.95707
+INFO - 05/01/18 13:39:58 - 0:03:12 - Building the train dictionary ...
+INFO - 05/01/18 13:39:58 - 0:03:12 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:39:58 - 0:03:12 - Mean cosine (csls_knn_10 method, S2T build, 10000 max size): 0.95704
+INFO - 05/01/18 13:39:58 - 0:03:12 - Discriminator source / target predictions: 0.50557 / 0.07762
+INFO - 05/01/18 13:39:58 - 0:03:12 - Discriminator source / target / global accuracy: 0.51939 / 1.00000 / 0.64640
+INFO - 05/01/18 13:39:58 - 0:03:12 - __log__:{"n_epoch": 2, "mean_cosine-nn-S2T-10000": 0.9570704102516174, "mean_cosine-csls_knn_10-S2T-10000": 0.9570363759994507, "dis_accu": 0.6463963963963963, "dis_src_pred": 0.5055653512173769, "dis_tgt_pred": 0.07762216503562575}
+INFO - 05/01/18 13:39:58 - 0:03:12 - * Best value for "mean_cosine-csls_knn_10-S2T-10000": 0.95704
+INFO - 05/01/18 13:39:58 - 0:03:12 - * Saving the mapping to /gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/qjzjq5wlq4/best_mapping.pth ...
+INFO - 05/01/18 13:39:58 - 0:03:12 - End of epoch 2.
+                                     
+                                     
+INFO - 05/01/18 13:39:58 - 0:03:12 - Decreasing learning rate: 0.09604000 -> 0.09411920
+INFO - 05/01/18 13:39:58 - 0:03:12 - Starting adversarial training epoch 3...
+INFO - 05/01/18 13:39:58 - 0:03:12 - 000000 - Discriminator loss: 0.4579 - 3243 samples/s
+INFO - 05/01/18 13:40:01 - 0:03:15 - 004000 - Discriminator loss: 0.3440 - 3234 samples/s
+INFO - 05/01/18 13:40:03 - 0:03:17 - 008000 - Discriminator loss: 0.3446 - 3232 samples/s
+INFO - 05/01/18 13:40:06 - 0:03:20 - 012000 - Discriminator loss: 0.3402 - 3228 samples/s
+INFO - 05/01/18 13:40:08 - 0:03:22 - 016000 - Discriminator loss: 0.3414 - 3232 samples/s
+INFO - 05/01/18 13:40:10 - 0:03:25 - 020000 - Discriminator loss: 0.3412 - 3238 samples/s
+INFO - 05/01/18 13:40:13 - 0:03:27 - 024000 - Discriminator loss: 0.3445 - 3235 samples/s
+INFO - 05/01/18 13:40:15 - 0:03:30 - 028000 - Discriminator loss: 0.3379 - 3233 samples/s
+INFO - 05/01/18 13:40:18 - 0:03:32 - 032000 - Discriminator loss: 0.3410 - 3233 samples/s
+INFO - 05/01/18 13:40:20 - 0:03:35 - 036000 - Discriminator loss: 0.3387 - 3234 samples/s
+INFO - 05/01/18 13:40:23 - 0:03:37 - 040000 - Discriminator loss: 0.3433 - 3229 samples/s
+INFO - 05/01/18 13:40:25 - 0:03:40 - 044000 - Discriminator loss: 0.8256 - 3233 samples/s
+INFO - 05/01/18 13:40:28 - 0:03:42 - 048000 - Discriminator loss: 1.5035 - 3238 samples/s
+INFO - 05/01/18 13:40:30 - 0:03:45 - 052000 - Discriminator loss: 1.5443 - 3237 samples/s
+INFO - 05/01/18 13:40:33 - 0:03:47 - 056000 - Discriminator loss: 1.5438 - 3237 samples/s
+INFO - 05/01/18 13:40:35 - 0:03:49 - 060000 - Discriminator loss: 1.5437 - 3239 samples/s
+INFO - 05/01/18 13:40:38 - 0:03:52 - 064000 - Discriminator loss: 1.5409 - 3231 samples/s
+INFO - 05/01/18 13:40:40 - 0:03:54 - 068000 - Discriminator loss: 1.5342 - 3233 samples/s
+INFO - 05/01/18 13:40:43 - 0:03:57 - 072000 - Discriminator loss: 1.5442 - 3238 samples/s
+INFO - 05/01/18 13:40:45 - 0:03:59 - 076000 - Discriminator loss: 1.5442 - 3235 samples/s
+INFO - 05/01/18 13:40:48 - 0:04:02 - 080000 - Discriminator loss: 1.5442 - 3237 samples/s
+INFO - 05/01/18 13:40:50 - 0:04:04 - 084000 - Discriminator loss: 1.5441 - 3236 samples/s
+INFO - 05/01/18 13:40:52 - 0:04:07 - 088000 - Discriminator loss: 1.5441 - 3235 samples/s
+INFO - 05/01/18 13:40:55 - 0:04:09 - 092000 - Discriminator loss: 1.5440 - 3238 samples/s
+INFO - 05/01/18 13:40:57 - 0:04:12 - 096000 - Discriminator loss: 1.5441 - 3240 samples/s
+INFO - 05/01/18 13:41:00 - 0:04:14 - Building the train dictionary ...
+INFO - 05/01/18 13:41:00 - 0:04:14 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:41:00 - 0:04:14 - Mean cosine (nn method, S2T build, 10000 max size): 0.73703
+INFO - 05/01/18 13:41:01 - 0:04:15 - Building the train dictionary ...
+INFO - 05/01/18 13:41:01 - 0:04:15 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:41:01 - 0:04:15 - Mean cosine (csls_knn_10 method, S2T build, 10000 max size): 0.73697
+INFO - 05/01/18 13:41:01 - 0:04:15 - Discriminator source / target predictions: 0.99930 / 0.09891
+INFO - 05/01/18 13:41:01 - 0:04:15 - Discriminator source / target / global accuracy: 0.99898 / 1.00000 / 0.99925
+INFO - 05/01/18 13:41:01 - 0:04:15 - __log__:{"n_epoch": 3, "mean_cosine-nn-S2T-10000": 0.7370260953903198, "mean_cosine-csls_knn_10-S2T-10000": 0.7369687557220459, "dis_accu": 0.9992492492492493, "dis_src_pred": 0.9992955365351268, "dis_tgt_pred": 0.09891294946216724}
+INFO - 05/01/18 13:41:01 - 0:04:15 - End of epoch 3.
+                                     
+                                     
+INFO - 05/01/18 13:41:01 - 0:04:15 - Decreasing learning rate: 0.09411920 -> 0.09223682
+INFO - 05/01/18 13:41:01 - 0:04:15 - Validation metric is smaller than the best: 0.73697 vs 0.95704
+INFO - 05/01/18 13:41:01 - 0:04:15 - Shrinking the learning rate: 0.09224 -> 0.04612
+INFO - 05/01/18 13:41:01 - 0:04:15 - Starting adversarial training epoch 4...
+INFO - 05/01/18 13:41:01 - 0:04:15 - 000000 - Discriminator loss: 1.5441 - 3300 samples/s
+INFO - 05/01/18 13:41:04 - 0:04:18 - 004000 - Discriminator loss: 1.5439 - 3239 samples/s
+INFO - 05/01/18 13:41:06 - 0:04:20 - 008000 - Discriminator loss: 1.5433 - 3241 samples/s
+INFO - 05/01/18 13:41:09 - 0:04:23 - 012000 - Discriminator loss: 1.5427 - 3237 samples/s
+INFO - 05/01/18 13:41:11 - 0:04:25 - 016000 - Discriminator loss: 1.4316 - 3236 samples/s
+INFO - 05/01/18 13:41:14 - 0:04:28 - 020000 - Discriminator loss: 0.4161 - 3233 samples/s
+INFO - 05/01/18 13:41:16 - 0:04:30 - 024000 - Discriminator loss: 0.3529 - 3236 samples/s
+INFO - 05/01/18 13:41:18 - 0:04:33 - 028000 - Discriminator loss: 0.3276 - 3239 samples/s
+INFO - 05/01/18 13:41:21 - 0:04:35 - 032000 - Discriminator loss: 0.3322 - 3241 samples/s
+INFO - 05/01/18 13:41:23 - 0:04:38 - 036000 - Discriminator loss: 0.3312 - 3233 samples/s
+INFO - 05/01/18 13:41:26 - 0:04:40 - 040000 - Discriminator loss: 0.3304 - 3233 samples/s
+INFO - 05/01/18 13:41:28 - 0:04:43 - 044000 - Discriminator loss: 0.3300 - 3238 samples/s
+INFO - 05/01/18 13:41:31 - 0:04:45 - 048000 - Discriminator loss: 0.3295 - 3239 samples/s
+INFO - 05/01/18 13:41:33 - 0:04:48 - 052000 - Discriminator loss: 0.3349 - 3242 samples/s
+INFO - 05/01/18 13:41:36 - 0:04:50 - 056000 - Discriminator loss: 0.3315 - 3237 samples/s
+INFO - 05/01/18 13:41:38 - 0:04:53 - 060000 - Discriminator loss: 0.3335 - 3240 samples/s
+INFO - 05/01/18 13:41:41 - 0:04:55 - 064000 - Discriminator loss: 0.3532 - 3232 samples/s
+INFO - 05/01/18 13:41:43 - 0:04:57 - 068000 - Discriminator loss: 0.3255 - 3239 samples/s
+INFO - 05/01/18 13:41:46 - 0:05:00 - 072000 - Discriminator loss: 0.3253 - 3237 samples/s
+INFO - 05/01/18 13:41:48 - 0:05:02 - 076000 - Discriminator loss: 0.3252 - 3241 samples/s
+INFO - 05/01/18 13:41:51 - 0:05:05 - 080000 - Discriminator loss: 0.3252 - 3238 samples/s
+INFO - 05/01/18 13:41:53 - 0:05:07 - 084000 - Discriminator loss: 0.3252 - 3233 samples/s
+INFO - 05/01/18 13:41:56 - 0:05:10 - 088000 - Discriminator loss: 0.3252 - 3237 samples/s
+INFO - 05/01/18 13:41:58 - 0:05:12 - 092000 - Discriminator loss: 0.3260 - 3230 samples/s
+INFO - 05/01/18 13:42:01 - 0:05:15 - 096000 - Discriminator loss: 0.3447 - 3234 samples/s
+INFO - 05/01/18 13:42:03 - 0:05:17 - Building the train dictionary ...
+INFO - 05/01/18 13:42:03 - 0:05:17 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:03 - 0:05:17 - Mean cosine (nn method, S2T build, 10000 max size): 0.98822
+INFO - 05/01/18 13:42:04 - 0:05:19 - Building the train dictionary ...
+INFO - 05/01/18 13:42:04 - 0:05:19 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:04 - 0:05:19 - Mean cosine (csls_knn_10 method, S2T build, 10000 max size): 0.98821
+INFO - 05/01/18 13:42:04 - 0:05:19 - Discriminator source / target predictions: 0.39421 / 0.09587
+INFO - 05/01/18 13:42:04 - 0:05:19 - Discriminator source / target / global accuracy: 0.32653 / 1.00000 / 0.50450
+INFO - 05/01/18 13:42:04 - 0:05:19 - __log__:{"n_epoch": 4, "mean_cosine-nn-S2T-10000": 0.9882159233093262, "mean_cosine-csls_knn_10-S2T-10000": 0.9882079362869263, "dis_accu": 0.5045045045045045, "dis_src_pred": 0.39420560112565145, "dis_tgt_pred": 0.09586524548517032}
+INFO - 05/01/18 13:42:04 - 0:05:19 - * Best value for "mean_cosine-csls_knn_10-S2T-10000": 0.98821
+INFO - 05/01/18 13:42:04 - 0:05:19 - * Saving the mapping to /gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/qjzjq5wlq4/best_mapping.pth ...
+INFO - 05/01/18 13:42:04 - 0:05:19 - End of epoch 4.
+                                     
+                                     
+INFO - 05/01/18 13:42:04 - 0:05:19 - Decreasing learning rate: 0.04611841 -> 0.04519604
+INFO - 05/01/18 13:42:04 - 0:05:19 - ----> ITERATIVE PROCRUSTES REFINEMENT <----
+                                     
+                                     
+INFO - 05/01/18 13:42:04 - 0:05:19 - * Reloading the best model from /gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/qjzjq5wlq4/best_mapping.pth ...
+INFO - 05/01/18 13:42:04 - 0:05:19 - Starting refinement iteration 0...
+INFO - 05/01/18 13:42:04 - 0:05:19 - Building the train dictionary ...
+INFO - 05/01/18 13:42:05 - 0:05:20 - New train dictionary of 3 pairs.
+INFO - 05/01/18 13:42:06 - 0:05:20 - Building the train dictionary ...
+INFO - 05/01/18 13:42:06 - 0:05:20 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:06 - 0:05:20 - Mean cosine (nn method, S2T build, 10000 max size): 0.99418
+INFO - 05/01/18 13:42:07 - 0:05:21 - Building the train dictionary ...
+INFO - 05/01/18 13:42:07 - 0:05:21 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:07 - 0:05:21 - Mean cosine (csls_knn_10 method, S2T build, 10000 max size): 0.99416
+INFO - 05/01/18 13:42:07 - 0:05:21 - __log__:{"n_iter": 0, "mean_cosine-nn-S2T-10000": 0.994175910949707, "mean_cosine-csls_knn_10-S2T-10000": 0.9941644072532654}
+INFO - 05/01/18 13:42:07 - 0:05:21 - * Best value for "mean_cosine-csls_knn_10-S2T-10000": 0.99416
+INFO - 05/01/18 13:42:07 - 0:05:21 - * Saving the mapping to /gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/qjzjq5wlq4/best_mapping.pth ...
+INFO - 05/01/18 13:42:07 - 0:05:21 - End of refinement iteration 0.
+                                     
+                                     
+INFO - 05/01/18 13:42:07 - 0:05:21 - Starting refinement iteration 1...
+INFO - 05/01/18 13:42:07 - 0:05:21 - Building the train dictionary ...
+INFO - 05/01/18 13:42:08 - 0:05:22 - New train dictionary of 7 pairs.
+INFO - 05/01/18 13:42:08 - 0:05:22 - Building the train dictionary ...
+INFO - 05/01/18 13:42:08 - 0:05:22 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:08 - 0:05:22 - Mean cosine (nn method, S2T build, 10000 max size): 0.99419
+INFO - 05/01/18 13:42:09 - 0:05:24 - Building the train dictionary ...
+INFO - 05/01/18 13:42:09 - 0:05:24 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:09 - 0:05:24 - Mean cosine (csls_knn_10 method, S2T build, 10000 max size): 0.99418
+INFO - 05/01/18 13:42:09 - 0:05:24 - __log__:{"n_iter": 1, "mean_cosine-nn-S2T-10000": 0.9941883087158203, "mean_cosine-csls_knn_10-S2T-10000": 0.9941766262054443}
+INFO - 05/01/18 13:42:09 - 0:05:24 - * Best value for "mean_cosine-csls_knn_10-S2T-10000": 0.99418
+INFO - 05/01/18 13:42:09 - 0:05:24 - * Saving the mapping to /gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/qjzjq5wlq4/best_mapping.pth ...
+INFO - 05/01/18 13:42:09 - 0:05:24 - End of refinement iteration 1.
+                                     
+                                     
+INFO - 05/01/18 13:42:09 - 0:05:24 - Starting refinement iteration 2...
+INFO - 05/01/18 13:42:09 - 0:05:24 - Building the train dictionary ...
+INFO - 05/01/18 13:42:11 - 0:05:25 - New train dictionary of 16 pairs.
+INFO - 05/01/18 13:42:11 - 0:05:25 - Building the train dictionary ...
+INFO - 05/01/18 13:42:11 - 0:05:25 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:11 - 0:05:25 - Mean cosine (nn method, S2T build, 10000 max size): 0.99415
+INFO - 05/01/18 13:42:12 - 0:05:26 - Building the train dictionary ...
+INFO - 05/01/18 13:42:12 - 0:05:26 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:12 - 0:05:26 - Mean cosine (csls_knn_10 method, S2T build, 10000 max size): 0.99414
+INFO - 05/01/18 13:42:12 - 0:05:26 - __log__:{"n_iter": 2, "mean_cosine-nn-S2T-10000": 0.9941531419754028, "mean_cosine-csls_knn_10-S2T-10000": 0.9941394925117493}
+INFO - 05/01/18 13:42:12 - 0:05:26 - End of refinement iteration 2.
+                                     
+                                     
+INFO - 05/01/18 13:42:12 - 0:05:26 - Starting refinement iteration 3...
+INFO - 05/01/18 13:42:12 - 0:05:26 - Building the train dictionary ...
+INFO - 05/01/18 13:42:13 - 0:05:27 - New train dictionary of 21 pairs.
+INFO - 05/01/18 13:42:13 - 0:05:27 - Building the train dictionary ...
+INFO - 05/01/18 13:42:13 - 0:05:27 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:13 - 0:05:27 - Mean cosine (nn method, S2T build, 10000 max size): 0.99416
+INFO - 05/01/18 13:42:14 - 0:05:29 - Building the train dictionary ...
+INFO - 05/01/18 13:42:14 - 0:05:29 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:14 - 0:05:29 - Mean cosine (csls_knn_10 method, S2T build, 10000 max size): 0.99415
+INFO - 05/01/18 13:42:14 - 0:05:29 - __log__:{"n_iter": 3, "mean_cosine-nn-S2T-10000": 0.9941605925559998, "mean_cosine-csls_knn_10-S2T-10000": 0.9941473603248596}
+INFO - 05/01/18 13:42:14 - 0:05:29 - End of refinement iteration 3.
+                                     
+                                     
+INFO - 05/01/18 13:42:14 - 0:05:29 - Starting refinement iteration 4...
+INFO - 05/01/18 13:42:14 - 0:05:29 - Building the train dictionary ...
+INFO - 05/01/18 13:42:16 - 0:05:30 - New train dictionary of 25 pairs.
+INFO - 05/01/18 13:42:16 - 0:05:30 - Building the train dictionary ...
+INFO - 05/01/18 13:42:16 - 0:05:30 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:16 - 0:05:30 - Mean cosine (nn method, S2T build, 10000 max size): 0.99415
+INFO - 05/01/18 13:42:17 - 0:05:31 - Building the train dictionary ...
+INFO - 05/01/18 13:42:17 - 0:05:31 - New train dictionary of 980 pairs.
+INFO - 05/01/18 13:42:17 - 0:05:31 - Mean cosine (csls_knn_10 method, S2T build, 10000 max size): 0.99413
+INFO - 05/01/18 13:42:17 - 0:05:31 - __log__:{"n_iter": 4, "mean_cosine-nn-S2T-10000": 0.9941471219062805, "mean_cosine-csls_knn_10-S2T-10000": 0.9941270351409912}
+INFO - 05/01/18 13:42:17 - 0:05:31 - End of refinement iteration 4.
+                                     
+                                     
+INFO - 05/01/18 13:42:17 - 0:05:31 - * Reloading the best model from /gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/qjzjq5wlq4/best_mapping.pth ...
+INFO - 05/01/18 13:42:17 - 0:05:31 - Reloading all embeddings for mapping ...
+INFO - 05/01/18 13:42:17 - 0:05:31 - Loaded 980 pre-trained word embeddings.
+INFO - 05/01/18 13:42:17 - 0:05:31 - Loaded 365 pre-trained word embeddings.
+INFO - 05/01/18 13:42:17 - 0:05:31 - Map source embeddings to the target space ...
+INFO - 05/01/18 13:42:17 - 0:05:31 - Writing source embeddings to /gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/qjzjq5wlq4/vectors-vy.txt ...
+INFO - 05/01/18 13:42:17 - 0:05:31 - Writing target embeddings to /gpfs/loomis/home.grace/fas/frank/wcm24/voynich2vec/MUSE/dumped/debug/qjzjq5wlq4/vectors-la.txt ...

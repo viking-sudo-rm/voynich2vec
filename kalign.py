@@ -70,7 +70,7 @@ filename = "alignments/{}.txt".format(args.text)
 with io.open(filename, "w", encoding="utf-8") as fh:
 	for i, w_vy in enumerate(words_vy):
 		# fh.write(unicode(w_vy))
-		word_dist.extend([(w_vy, str(words_la[j]), math.acos(sims[i, j])) for j in indices[i, :]])
+		word_dist.extend([(w_vy, words_la[j], math.acos(sims[i, j])) for j in indices[i, :]])
 		# fh.write(u"\t")
 		# fh.write(u"\t".join(words_la[j] for j in indices[i,:]))
 		# fh.write(u"\n")
@@ -85,7 +85,7 @@ with io.open(filename, "w", encoding="utf-8") as fh:
 
 print "Saved alignment to", filename
 
-sys.exit()
+# sys.exit()
 
 print "Doing TSNE.."
 tsne = TSNE(n_components=2, metric=args.metric)
