@@ -76,19 +76,20 @@ with io.open(filename, "w", encoding="utf-8") as fh:
 		# fh.write(u"\n")
 		# fh.write(u"\t" + u"\t".join(str(math.acos(sims[i, j])) for j in indices[i, :]))
 		# fh.write(u"\n")
+
+	word_dist.sort(key = lambda x: x[2])
+
+	for w in word_dist:
+		fh.write(u"\t".join(unicode(wi) for wi in w) + u"\n")
+		print w[0], "\t", w[1], "\t", w[2]
+
 print "Saved alignment to", filename
-
-word_dist.sort(key = lambda x: x[2])
-
-for w in word_dist:
-	print w[0], "\t", w[1], "\t", w[2]
-
-embed = np.concatenate([embed_vy, embed_la], axis=0)
 
 sys.exit()
 
 print "Doing TSNE.."
 tsne = TSNE(n_components=2, metric=args.metric)
+embed = np.concatenate([embed_vy, embed_la], axis=0)
 image = tsne.fit_transform(embed)
 image_vy = image[:len(embed_vy),:]
 image_la = image[len(embed_vy):,:]
