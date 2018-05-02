@@ -1,7 +1,6 @@
-section_labels =
-{
-	'f1r':	'text'
-	'f1v':	'herbal'
+section_labels = {
+	'f1r':	'text',
+	'f1v':	'herbal',
 	'f2r':	'herbal',
 	'f2v':	'herbal',
 	'f3r':	'herbal',
