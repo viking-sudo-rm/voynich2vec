@@ -29,14 +29,11 @@ model = fasttext.load_model(path)
 words = list(model.words)
 embedded = embed(words, model)
 
-# edy, ody
-# aiin, ain
-
 words_edy, words_ody, words_other = [], [], []
 for word in words:
-	if word.endswith("or"):
+	if word.endswith("edy"):
 		words_edy.append(word)
-	elif word.endswith("iin"):
+	elif word.endswith("ody"):
 		words_ody.append(word)
 	else:
 		words_other.append(word)
@@ -55,6 +52,6 @@ image_other = image[len(words_edy) + len(words_ody):, :]
 plt.scatter(*zip(*image_edy), c="r")
 plt.scatter(*zip(*image_ody), c="g")
 plt.scatter(*zip(*image_other), c="b")
-#annotate(image, words_edy + words_ody + words_other)
+annotate(image, words_edy + words_ody + words_other)
 
 plt.show()

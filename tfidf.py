@@ -51,7 +51,7 @@ def embed(words, model):
 
 path = "models/voynich.bin"
 model = fasttext.load_model(path)
-vecwords = list(model.words)
+vecwords = set(model.words)
 
 term_counts = defaultdict(Counter)
 doc_counts = defaultdict(set)
@@ -89,7 +89,8 @@ for p in pages:
 	for w, v in words[:5]:
 		print "\t", w, "\t", v, "\t", term_counts[p][w]
 		if w in vecwords:
-			tsne_words[section_labels[p]].append(w)
+			if w not in tsne_words[section_labels[p]]:
+				tsne_words[section_labels[p]].append(w)
 
 # print "top overall"
 # overall.sort(key = lambda x: x[2], reverse=True)
@@ -109,13 +110,13 @@ embedded = np.concatenate([v for v in embedded.values()], axis=0)
 tsne = TSNE(n_components=2, metric="cosine")
 image = tsne.fit_transform(embedded)
 
-#annotate(image, tsne_words['text'] + tsne_words['herbal'] + tsne_words['astro'] + tsne_words['bath'] + tsne_words['multiherbal']) 
+annotate(image, tsne_words['text'] + tsne_words['herbal'] + tsne_words['astro'] + tsne_words['bath'] + tsne_words['multiherbal']) 
 
 plt.scatter(*zip(*image), c = ["grey"] * len(tsne_words['text']) +
 							  ["green"] * len(tsne_words['herbal']) +
 							  ["red"] * len(tsne_words['astro']) +
 							  ["yellow"] * len(tsne_words['bath']) + 
-							  ["blue"] * len(tsne_words['multiherbal']))
+							  ["darkgreen"] * len(tsne_words['multiherbal']))
 
 plt.show()
 
