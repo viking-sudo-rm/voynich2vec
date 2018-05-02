@@ -78,7 +78,8 @@ def get_words(file, page_numbers=False):
 
 if __name__ == "__main__":
 	for line in get_words("text16e6.evt"):
-		print line
+		for w in line:
+			print w
 
 
 

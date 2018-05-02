@@ -52,6 +52,6 @@ image_other = image[len(words_edy) + len(words_ody):, :]
 plt.scatter(*zip(*image_edy), c="r")
 plt.scatter(*zip(*image_ody), c="g")
 plt.scatter(*zip(*image_other), c="b")
-annotate(image, words_edy + words_ody + words_other)
+# annotate(image, words_edy + words_ody + words_other)
 
 plt.show()

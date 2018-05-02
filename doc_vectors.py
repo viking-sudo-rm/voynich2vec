@@ -1,6 +1,8 @@
 #!/usr/bin/env python
+# get document vectors & plot
 #
-# compute high-tfidf words in the voynich
+# variety of schemes to constuct document vectors: can use counts or tfidf,
+# and can use word vectors or one-hot vectors
 
 import vms_tokenize
 from collections import Counter, defaultdict, OrderedDict
@@ -20,7 +22,7 @@ def term_freq(term, page):
 	# return term_counts[page][term]
 
 	# normalize by page length
-	# return float(term_counts[page][term]) / sum(term_counts[page].values())
+	#return float(term_counts[page][term]) / sum(term_counts[page].values())
 
 	# normalize by most common word
 	return float(term_counts[page][term]) / max(term_counts[page].values())
@@ -45,13 +47,8 @@ def annotate(image, words, n=float("inf")):
 			# arrowprops=dict(arrowstyle = '->', connectionstyle='arc3,rad=0')
 		)
 
-def embed(words, model):
-	return np.stack([model[word] for word in words], axis=0)
-
-
 path = "models/voynich.bin"
 model = fasttext.load_model(path)
-vecwords = set(model.words)
 
 term_counts = defaultdict(Counter)
 doc_counts = defaultdict(set)
@@ -68,57 +65,39 @@ for line in vms_tokenize.get_words("text16e6.evt", page_numbers=True):
 	for word in line:
 		doc_counts[word].add(pg)
 
-
-overall = []
-
-tsne_words = OrderedDict([('text',[]), ('herbal',[]), ('astro',[]), ('bath',[]), ('multiherbal',[])])
 embedded = OrderedDict()
 
 # count terms on page
+doc_vectors = []
 for p in pages:
-	words = []
+	v = np.zeros(100)
+	total_tfidf = 0
 	for w in list(term_counts[p]):
-		# if term_counts[p][w] == 1:
-		# 	continue
-		ti = tfidf(w, p)
-		words.append((w, ti))
-		overall.append((p, w, ti))
+		if w in model:
+			ti = tfidf(w, p)
+			v = np.add(v, np.multiply(ti, model[w]))
 
-	words.sort(key=lambda x: x[1], reverse=True)
-	print p
-	for w, v in words[:5]:
-		print "\t", w, "\t", v, "\t", term_counts[p][w]
-		if w in vecwords:
-			if w not in tsne_words[section_labels[p]]:
-				tsne_words[section_labels[p]].append(w)
+			total_tfidf += ti
 
-# TODO: only show highest ranked if in many categories.
+	# normalize
+	doc_vectors.append(np.divide(v, total_tfidf))
 
-# print "top overall"
-# overall.sort(key = lambda x: x[2], reverse=True)
-# for p, w, v in overall[:40]:
-# 	print p, w, v, term_counts[p][w]
-# 	# if w in vecwords:
-# 	# 	tsne_words[section_labels[p]].append(w)
 
-#print(tsne_words)
-
-for k, v in tsne_words.items():
-	if not v: continue
-	embedded[k] = embed(v, model)
-
-embedded = np.concatenate([v for v in embedded.values()], axis=0)
 
 tsne = TSNE(n_components=2, metric="cosine")
-image = tsne.fit_transform(embedded)
+image = tsne.fit_transform(doc_vectors)
 
-annotate(image, tsne_words['text'] + tsne_words['herbal'] + tsne_words['astro'] + tsne_words['bath'] + tsne_words['multiherbal']) 
+annotate(image, pages)
 
-plt.scatter(*zip(*image), c = ["grey"] * len(tsne_words['text']) +
-							  ["green"] * len(tsne_words['herbal']) +
-							  ["red"] * len(tsne_words['astro']) +
-							  ["yellow"] * len(tsne_words['bath']) + 
-							  ["blue"] * len(tsne_words['multiherbal']))
+color = {
+	'astro': 'red',
+	'herbal': 'green',
+	'multiherbal': 'darkgreen',
+	'bath': 'yellow',
+	'text': 'grey'
+}
+
+plt.scatter(*zip(*image), c = [color[section_labels[i]] for i in pages])
 
 plt.show()
 
