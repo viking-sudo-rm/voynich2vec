@@ -109,7 +109,7 @@ embedded = np.concatenate([v for v in embedded.values()], axis=0)
 tsne = TSNE(n_components=2, metric="cosine")
 image = tsne.fit_transform(embedded)
 
-annotate(image, tsne_words['text'] + tsne_words['herbal'] + tsne_words['astro'] + tsne_words['bath'] + tsne_words['multiherbal']) 
+#annotate(image, tsne_words['text'] + tsne_words['herbal'] + tsne_words['astro'] + tsne_words['bath'] + tsne_words['multiherbal']) 
 
 plt.scatter(*zip(*image), c = ["grey"] * len(tsne_words['text']) +
 							  ["green"] * len(tsne_words['herbal']) +
