@@ -39,6 +39,7 @@ def annotate(image, words, n=float("inf")):
 		plt.annotate(
 			label,
 			xy=(x, y), # xytext=(-20, 20),
+			alpha = 0.4,
 			# textcoords='offset points', ha='right', va='bottom',
 			# bbox=dict(boxstyle='round,pad=0.5', fc='black', alpha=0.5),
 			# arrowprops=dict(arrowstyle = '->', connectionstyle='arc3,rad=0')
@@ -94,8 +95,13 @@ for p in pages:
 # overall.sort(key = lambda x: x[2], reverse=True)
 # for p, w, v in overall[:40]:
 # 	print p, w, v, term_counts[p][w]
+# 	# if w in vecwords:
+# 	# 	tsne_words[section_labels[p]].append(w)
+
+#print(tsne_words)
 
 for k, v in tsne_words.items():
+	if not v: continue
 	embedded[k] = embed(v, model)
 
 embedded = np.concatenate([v for v in embedded.values()], axis=0)
@@ -103,12 +109,12 @@ embedded = np.concatenate([v for v in embedded.values()], axis=0)
 tsne = TSNE(n_components=2, metric="cosine")
 image = tsne.fit_transform(embedded)
 
-annotate(image, tsne_words['text'] + tsne_words['herbal'] + tsne_words['astro'] + tsne_words['bath'] + tsne_words['multiherbal'])
+annotate(image, tsne_words['text'] + tsne_words['herbal'] + tsne_words['astro'] + tsne_words['bath'] + tsne_words['multiherbal']) 
 
 plt.scatter(*zip(*image), c = ["grey"] * len(tsne_words['text']) +
 							  ["green"] * len(tsne_words['herbal']) +
 							  ["red"] * len(tsne_words['astro']) +
-							  ["yellow"] * len(tsne_words['bath']) +
+							  ["yellow"] * len(tsne_words['bath']) + 
 							  ["blue"] * len(tsne_words['multiherbal']))
 
 plt.show()
