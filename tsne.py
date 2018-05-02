@@ -29,11 +29,14 @@ model = fasttext.load_model(path)
 words = list(model.words)
 embedded = embed(words, model)
 
+# edy, ody
+# aiin, ain
+
 words_edy, words_ody, words_other = [], [], []
 for word in words:
-	if word.endswith("edy"):
+	if word.endswith("or"):
 		words_edy.append(word)
-	elif word.endswith("ody"):
+	elif word.endswith("iin"):
 		words_ody.append(word)
 	else:
 		words_other.append(word)
