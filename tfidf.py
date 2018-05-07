@@ -81,8 +81,8 @@ for p in pages:
 
 	words = []
 	for w in list(term_counts[p]):
-		# if term_counts[p][w] <= 2:
-		# 	continue
+		if term_counts[p][w] == 1:
+			continue
 		ti = tfidf(w, p)
 		words.append((w, ti))
 		overall.append((p, w, ti))

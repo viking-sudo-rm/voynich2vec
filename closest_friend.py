@@ -33,7 +33,7 @@ for i, w in enumerate(words):
 word_dist.sort(key = lambda x: x[2])
 
 # for w in word_dist:
-# 	print w[0], "\t", w[1], "\t", w[2]
+# 	print w[0], "&", w[1], "\\\\" #\t", w[2]
 
 def annotate(image, words, n=float("inf")):
 	annotation_list = []
@@ -60,7 +60,7 @@ for w in word_dist:
 	b = coords[w[1]]
 	plt.plot((a[0], b[0]), (a[1], b[1]), alpha=0.3)
 
-plt.title('Voynich - Closest Word')
+plt.title('Voynich Word Embeddings')
 
 # annotate(image, words)
 
