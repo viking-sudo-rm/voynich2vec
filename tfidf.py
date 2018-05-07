@@ -20,10 +20,10 @@ def term_freq(term, page):
 	# return term_counts[page][term]
 
 	# normalize by page length
-	# return float(term_counts[page][term]) / sum(term_counts[page].values())
+	return float(term_counts[page][term]) / sum(term_counts[page].values())
 
 	# normalize by most common word
-	return float(term_counts[page][term]) / max(term_counts[page].values())
+	# return float(term_counts[page][term]) / max(term_counts[page].values())
 
 def inv_doc_freq(term):
 	return log(float(len(pages)) / len(doc_counts[term]))
@@ -76,9 +76,12 @@ embedded = OrderedDict()
 
 # count terms on page
 for p in pages:
+	if section_labels[p] != 'herbal':
+		continue
+
 	words = []
 	for w in list(term_counts[p]):
-		# if term_counts[p][w] == 1:
+		# if term_counts[p][w] <= 2:
 		# 	continue
 		ti = tfidf(w, p)
 		words.append((w, ti))
@@ -94,14 +97,16 @@ for p in pages:
 
 # TODO: only show highest ranked if in many categories.
 
-# print "top overall"
-# overall.sort(key = lambda x: x[2], reverse=True)
-# for p, w, v in overall[:40]:
-# 	print p, w, v, term_counts[p][w]
-# 	# if w in vecwords:
-# 	# 	tsne_words[section_labels[p]].append(w)
+print "top overall"
+overall.sort(key = lambda x: x[2], reverse=True)
+for p, w, v in overall[:40]:
+	print p, w, v, term_counts[p][w]
+	# if w in vecwords:
+	# 	tsne_words[section_labels[p]].append(w)
 
 #print(tsne_words)
+
+sys.exit()
 
 for k, v in tsne_words.items():
 	if not v: continue

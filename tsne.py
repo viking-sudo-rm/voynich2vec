@@ -31,9 +31,9 @@ embedded = embed(words, model)
 
 words_edy, words_ody, words_other = [], [], []
 for word in words:
-	if word.endswith("edy"):
+	if word.endswith("eedy"):
 		words_edy.append(word)
-	elif word.endswith("ody"):
+	elif word.endswith("edy"):
 		words_ody.append(word)
 	else:
 		words_other.append(word)
@@ -52,6 +52,6 @@ image_other = image[len(words_edy) + len(words_ody):, :]
 plt.scatter(*zip(*image_edy), c="r")
 plt.scatter(*zip(*image_ody), c="g")
 plt.scatter(*zip(*image_other), c="b")
-# annotate(image, words_edy + words_ody + words_other)
+annotate(image, words_edy + words_ody + words_other)
 
 plt.show()

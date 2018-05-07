@@ -11,7 +11,10 @@
 from collections import Counter
 import re, io
 
+wc = Counter()
+
 def get_words(file, page_numbers=False):
+	global wc
 	with io.open(file, 'r', encoding="latin_1") as file:
 		for line in file.read().splitlines():
 			# pull out page numbers
@@ -69,6 +72,8 @@ def get_words(file, page_numbers=False):
 			# exclude null words ('')
 			words = [str(w) for w in s.split(".") if w]
 
+			wc.update(w for w in words)
+
 			if page_numbers:
 				r = [pg]
 				r.extend(words)
@@ -77,10 +82,19 @@ def get_words(file, page_numbers=False):
 				yield words
 
 if __name__ == "__main__":
-	for line in get_words("text16e6.evt"):
-		for w in line:
-			print w
+	for line in get_words("text16e6.evt", page_numbers=True):
+		#print " ".join(line)
+		pass
+	for w, v in wc.most_common():
+		print w, v
+		# if w.endswith("aiin"):
+		# 	print w, v,
+		# 	k = w[:-4] + "ain"
+		# 	if k in wc:
+		# 		print "<=>", k, wc[k]
+		# 	else:
+		# 		print "NO MATCH"
 
+	print sum(wc.values())
 
-
-
+	print len(wc), len([v for v in wc.values() if v > 4])

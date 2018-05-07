@@ -69,23 +69,21 @@ word_dist = []
 filename = "alignments/{}.txt".format(args.text)
 with io.open(filename, "w", encoding="utf-8") as fh:
 	for i, w_vy in enumerate(words_vy):
-		# fh.write(unicode(w_vy))
-		word_dist.extend([(w_vy, words_la[j], math.acos(sims[i, j])) for j in indices[i, :]])
-		# fh.write(u"\t")
-		# fh.write(u"\t".join(words_la[j] for j in indices[i,:]))
-		# fh.write(u"\n")
-		# fh.write(u"\t" + u"\t".join(str(math.acos(sims[i, j])) for j in indices[i, :]))
-		# fh.write(u"\n")
-
-	word_dist.sort(key = lambda x: x[2])
-
-	for w in word_dist:
-		fh.write(u"\t".join(unicode(wi) for wi in w) + u"\n")
-		print w[0], "\t", w[1], "\t", w[2]
-
+		word_dist.extend([(w_vy, str(words_la[j]), math.acos(sims[i, j])) for j in indices[i, :]])
+		fh.write(unicode(w_vy))
+		fh.write(u"\t")
+		fh.write(u"\t".join(words_la[j] for j in indices[i,:]))
+		fh.write(u"\n")
+		fh.write(u"\t" + u"\t".join(str(math.acos(sims[i, j])) for j in indices[i, :]))
+		fh.write(u"\n")
 print "Saved alignment to", filename
 
-# sys.exit()
+word_dist.sort(key = lambda x: x[2])
+
+# for w in word_dist:
+# 	print w[0], "\t", w[1], "\t", w[2]
+
+embed = np.concatenate([embed_vy, embed_la], axis=0)
 
 print "Doing TSNE.."
 tsne = TSNE(n_components=2, metric=args.metric)
@@ -94,16 +92,27 @@ image = tsne.fit_transform(embed)
 image_vy = image[:len(embed_vy),:]
 image_la = image[len(embed_vy):,:]
 
-plt.scatter(*zip(*image_vy), c="r")
-plt.scatter(*zip(*image_la), c="g")
+plt.scatter(*zip(*image_vy), c="r", marker='.')
+plt.scatter(*zip(*image_la), c="g", marker='.')
+
+vycoords = dict(zip(words_vy, image_vy))
+lacoords = dict(zip(words_la, image_la))
+
+for w in word_dist:
+	# w[0] voynich
+	# w[1] latin
+	v = vycoords[w[0]]
+	l = lacoords[w[1]]
+	plt.plot((v[0], l[0]), (v[1], l[1]), alpha=0.1)
+
 plt.title(args.text)
 
-filename = "images/{}.png".format(args.text)
-plt.savefig(filename)
+# filename = "images/{}.png".format(args.text)
+# plt.savefig(filename)
 
 if args.labels:
 	annotate(image_vy, words_vy)
 	annotate(image_la, words_la)
 
-print "Saved TSNE image to", filename
+# print "Saved TSNE image to", filename
 plt.show()

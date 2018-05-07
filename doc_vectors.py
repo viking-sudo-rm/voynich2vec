@@ -6,9 +6,10 @@
 
 import vms_tokenize
 from collections import Counter, defaultdict, OrderedDict
-from math import log
+from math import log, acos
 
 import numpy as np
+import numpy.linalg as npla
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import fasttext
@@ -16,6 +17,7 @@ import argparse
 import sys
 
 from section_labels import *
+from lang_labels import *
 
 def term_freq(term, page):
 	# raw count
@@ -72,7 +74,7 @@ doc_vectors = []
 for p in pages:
 	v = np.zeros(100)
 	total_tfidf = 0
-	for w in list(term_counts[p]):
+	for w in set(term_counts[p]):
 		if w in model:
 			ti = tfidf(w, p)
 			v = np.add(v, np.multiply(ti, model[w]))
@@ -83,21 +85,49 @@ for p in pages:
 	doc_vectors.append(np.divide(v, total_tfidf))
 
 
+pagelist = list(pages)
+vectors = np.array(doc_vectors)
 
-tsne = TSNE(n_components=2, metric="cosine")
+mag = npla.norm(vectors, axis=1)[:,None] * npla.norm(vectors, axis=1)
+
+sims = np.divide(np.dot(vectors, vectors.T), mag)
+sims = np.tril(sims, -1) # don't align to self and remove dups
+indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:5]
+
+doc_dist = []
+for i, p in enumerate(pagelist):
+	L = [(p, pagelist[j], acos(sims[i, j])) for j in indices[i, :]]
+	doc_dist.extend(L)
+	# print w
+	# for _, match, dist in L:
+	# 	print "\t", match, "\t", dist
+
+doc_dist.sort(key = lambda x: x[2])
+
+# for p in doc_dist:
+# 	print p[0], "\t", p[1], "\t", p[2]
+
+tsne = TSNE(n_components=2, metric="cosine", random_state=2)
 image = tsne.fit_transform(doc_vectors)
 
-annotate(image, pages)
+#annotate(image, pages)
 
 color = {
 	'astro': 'red',
 	'herbal': 'green',
-	'multiherbal': 'darkgreen',
-	'bath': 'yellow',
+	'multiherbal': 'lime',
+	'bath': 'cyan',
 	'text': 'grey'
 }
 
-plt.scatter(*zip(*image), c = [color[section_labels[i]] for i in pages])
+
+# color = {
+# 	'A': 'red',
+# 	'B': 'blue',
+# 	'X': 'grey'
+# }
+
+plt.scatter(*zip(*image), c = [color[section_labels.get(i, 'X')] for i in pages])
 
 plt.show()
 
