@@ -19,7 +19,8 @@ mag = npla.norm(vectors, axis=1)[:,None] * npla.norm(vectors, axis=1)
 
 sims = np.divide(np.dot(vectors, vectors.T), mag)
 sims = np.tril(sims, -1) # don't align to self and remove dups
-indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:5]
+### changed this to :1 to only get top match for plotting
+indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:1]
 
 word_dist = []
 for i, w in enumerate(words):
@@ -57,10 +58,10 @@ coords = dict(zip(words, image))
 for w in word_dist:
 	a = coords[w[0]]
 	b = coords[w[1]]
-	plt.plot((a[0], b[0]), (a[1], b[1]), alpha=0.15)
+	plt.plot((a[0], b[0]), (a[1], b[1]), alpha=0.3)
 
-plt.title('voynich self-alignment')
+plt.title('Voynich - Closest Word')
 
-annotate(image, words)
+# annotate(image, words)
 
 plt.show()

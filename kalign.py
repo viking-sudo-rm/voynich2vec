@@ -62,7 +62,7 @@ mag = npla.norm(embed_vy, axis=1)[:,None] * npla.norm(embed_la, axis=1).transpos
 
 # sims = np.dot(embed_vy, embed_la.T)
 sims = np.divide(np.dot(embed_vy, embed_la.T), mag)
-indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:5]
+indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:1]
 
 word_dist = []
 
@@ -103,7 +103,7 @@ for w in word_dist:
 	# w[1] latin
 	v = vycoords[w[0]]
 	l = lacoords[w[1]]
-	plt.plot((v[0], l[0]), (v[1], l[1]), alpha=0.1)
+	plt.plot((v[0], l[0]), (v[1], l[1]), alpha=0.2)
 
 plt.title(args.text)
 
