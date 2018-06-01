@@ -39,18 +39,19 @@ load_aligned = lambda file_path: list(gen_aligned(file_path))
 
 parser = argparse.ArgumentParser(description='Build vectors for documents.')
 parser.add_argument("--text", type=str, default="secretaSecretorum")
-parser.add_argument("--format", type=str, default="bin")
 parser.add_argument("--metric", type=str, default="cosine")
+parser.add_argument("--format", type=str, default="bin")
+parser.add_argument("--mlang", type=str, default="vy")
+parser.add_argument("--model", type=str, default=None)
+parser.add_argument("--bible", action="store_true")
 parser.add_argument("--labels", action="store_true")
 args = parser.parse_args()
+args.model = args.text if args.model is None else args.model
+bible_string = "bibles/" if args.bible else ""
 print(args)
 
-# # FIXME reset this
-# native = "models/{}.{}".format(args.text, args.format)
-# mapped = "mappings/{}/vectors-vy.txt".format(args.text)
-
-native = "models/bibleGreek.vec"
-mapped = "mappings/bibles/la-gr/vectors-la.txt"
+native = "models/{}.{}".format(args.model, args.format)
+mapped = "mappings/{}{}/vectors-{}.txt".format(bible_string, args.text, args.mlang)
 
 print "Native:", native
 print "Mapped:", mapped
@@ -71,7 +72,7 @@ indices = np.flip(np.argsort(sims, axis=1), axis=1)[:,:1]
 
 word_dist = []
 
-filename = "alignments/{}.txt".format(args.text)
+filename = "alignments/{}{}.txt".format(bible_string, args.text)
 with io.open(filename, "w", encoding="utf-8") as fh:
 	for i, w_vy in enumerate(words_vy):
 		word_dist.extend([(w_vy, str(words_la[j]), math.acos(sims[i, j])) for j in indices[i, :]])
