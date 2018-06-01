@@ -39,10 +39,10 @@ load_aligned = lambda file_path: list(gen_aligned(file_path))
 
 parser = argparse.ArgumentParser(description='Build vectors for documents.')
 parser.add_argument("--text", type=str, default="secretaSecretorum")
+parser.add_argument("--model", type=str, default=None)
 parser.add_argument("--metric", type=str, default="cosine")
 parser.add_argument("--format", type=str, default="bin")
-parser.add_argument("--mlang", type=str, default="vy")
-parser.add_argument("--model", type=str, default=None)
+parser.add_argument("--src_lang", type=str, default="vy")
 parser.add_argument("--bible", action="store_true")
 parser.add_argument("--labels", action="store_true")
 args = parser.parse_args()
@@ -51,7 +51,7 @@ bible_string = "bibles/" if args.bible else ""
 print(args)
 
 native = "models/{}.{}".format(args.model, args.format)
-mapped = "mappings/{}{}/vectors-{}.txt".format(bible_string, args.text, args.mlang)
+mapped = "mappings/{}{}/vectors-{}.txt".format(bible_string, args.text, args.src_lang)
 
 print "Native:", native
 print "Mapped:", mapped
