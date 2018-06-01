@@ -1,15 +1,16 @@
+#!/home/fas/frank/wcm24/anaconda2/envs/pytorch/bin/python
 #!/usr/bin/python
 import io
 import numpy as np
 import numpy.linalg as npla
 from sklearn.manifold import TSNE
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import fasttext
 import argparse
 import sys
 import math
-
-# matplotlib.use('Agg')
 
 def gen_aligned(file_path, n=float("inf")):
 	words = []
@@ -44,8 +45,12 @@ parser.add_argument("--labels", action="store_true")
 args = parser.parse_args()
 print(args)
 
-native = "models/{}.{}".format(args.text, args.format)
-mapped = "mappings/{}/vectors-vy.txt".format(args.text)
+# # FIXME reset this
+# native = "models/{}.{}".format(args.text, args.format)
+# mapped = "mappings/{}/vectors-vy.txt".format(args.text)
+
+native = "models/bibleGreek.vec"
+mapped = "mappings/bibles/la-gr/vectors-la.txt"
 
 print "Native:", native
 print "Mapped:", mapped
