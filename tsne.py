@@ -32,9 +32,6 @@ model = fasttext.load_model(path)
 words = list(model.words)
 embedded = embed(words, model)
 
-# edy, ody
-# aiin, ain
-
 words_edy, words_ody, words_other = [], [], []
 for word in words:
 	if word.endswith("edy"):
