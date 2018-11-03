@@ -72,7 +72,7 @@ def getVoynichModel():
 			fh.write(" ".join(line) + "\n")
 
 	print "Training models/voynich"
-	model = fasttext.skipgram('temp.txt', 'models/voynich')
+	model = fasttext.skipgram('temp.txt', 'models/voynich-' + str(params["minn"]), **params)
 	print "Got {} words".format(len(model.words))
 	return model
 
@@ -86,17 +86,22 @@ def getOtherModel(name):
 			fh.write(" ".join(word_tokenize(sent)) + "\n")
 
 	print "Training models/" + name
-	model = fasttext.skipgram("temp.txt", "models/" + name)
+	model = fasttext.skipgram("temp.txt", "models/" + name + "-" + str(params["minn"]), **params)
 	print model.words
 	return model
 
 parser = argparse.ArgumentParser(description='Build vectors for documents.')
 parser.add_argument("--text", type=str, default=None)
+parser.add_argument("--minn", type=int, default=3)
 
 if __name__ == "__main__":
 
 	args = parser.parse_args()
+	params = {
+		"minn": args.minn,
+	}
 	print "Text:", args.text
+	print "Params:\n", params
 
 	model = getVoynichModel() if args.text is None else getOtherModel(args.text)
 

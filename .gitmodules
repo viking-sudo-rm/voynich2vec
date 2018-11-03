@@ -1,3 +1,6 @@
 [submodule "MUSE"]
 	path = MUSE
 	url = https://github.com/facebookresearch/MUSE
+[submodule "unsup-cross-lingual-embedding-transfer"]
+	path = unsup-cross-lingual-embedding-transfer
+	url = https://github.com/xrc10/unsup-cross-lingual-embedding-transfer

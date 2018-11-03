@@ -2,8 +2,8 @@ import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 import re, io
 
-FIN = "corpora/perseus/Classics/Aristotle/opensource/aristot.met_gk.xml"
-FOUT = "texts/meteorologica.txt"
+FIN = "corpora/perseus/Classics/Caesar/opensource/caes.bg_lat.xml"
+FOUT = "texts/belloGallico.txt"
 
 with open(FIN, "r") as fh:
 	doc = fh.read()
